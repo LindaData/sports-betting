@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-24T21:33:52.170973Z",
+  "refreshed_at_utc": "2026-07-24T22:53:13.962637Z",
   "dates_requested": [
     "20260723",
     "20260724",
@@ -143,14 +143,14 @@
       "name": "Colorado Rockies at Milwaukee Brewers",
       "short_name": "COL @ MIL",
       "status": "In Progress",
-      "status_short": "Bot 5th",
+      "status_short": "Bot 9th",
       "state": "in",
-      "period": 5,
+      "period": 9,
       "clock": "0:00",
       "home_team": "Milwaukee Brewers",
       "away_team": "Colorado Rockies",
-      "home_score": "1",
-      "away_score": "4",
+      "home_score": "2",
+      "away_score": "5",
       "home_record": "64-38",
       "away_record": "41-63",
       "venue": "American Family Field",
@@ -167,10 +167,10 @@
       "date_utc": "2026-07-24T22:40Z",
       "name": "Chicago Cubs at Pittsburgh Pirates",
       "short_name": "CHC @ PIT",
-      "status": "Scheduled",
-      "status_short": "7/24 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Chicago Cubs",
@@ -183,7 +183,7 @@
         "MLB.TV",
         "Marquee Sports Net"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816237/cubs-pirates"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816237"
     },
     {
       "sport": "mlb",
@@ -191,9 +191,9 @@
       "date_utc": "2026-07-24T22:40Z",
       "name": "Kansas City Royals at Detroit Tigers",
       "short_name": "KC @ DET",
-      "status": "Scheduled",
-      "status_short": "7/24 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
@@ -208,7 +208,7 @@
         "Royals.TV",
         "Tigers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816239/royals-tigers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816239"
     },
     {
       "sport": "mlb",
@@ -216,9 +216,9 @@
       "date_utc": "2026-07-24T22:45Z",
       "name": "Arizona Diamondbacks at Washington Nationals",
       "short_name": "ARI @ WSH",
-      "status": "Scheduled",
-      "status_short": "7/24 - 6:45 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Washington Nationals",
@@ -235,7 +235,7 @@
         "Fox 5 WTTG",
         "Gray Media"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816235/diamondbacks-nationals"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816235"
     },
     {
       "sport": "mlb",
@@ -243,9 +243,9 @@
       "date_utc": "2026-07-24T22:45Z",
       "name": "New York Yankees at Philadelphia Phillies",
       "short_name": "NYY @ PHI",
-      "status": "Scheduled",
-      "status_short": "7/24 - 6:45 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
@@ -258,7 +258,7 @@
       "broadcasts": [
         "Apple TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816241/yankees-phillies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816241"
     },
     {
       "sport": "mlb",
@@ -380,10 +380,8 @@
       "away_record": "47-56",
       "venue": "Fenway Park",
       "broadcasts": [
-        "MLB.TV",
-        "Apple TV",
         "TVA",
-        "NESN"
+        "Apple TV"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401816243/blue-jays-red-sox"
     },
