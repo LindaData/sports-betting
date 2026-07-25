@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-25T16:51:42.665554Z",
+  "refreshed_at_utc": "2026-07-25T17:51:18.747827Z",
   "dates_requested": [
     "20260724",
     "20260725",
@@ -391,15 +391,15 @@
       "date_utc": "2026-07-25T17:10Z",
       "name": "Kansas City Royals at Detroit Tigers",
       "short_name": "KC @ DET",
-      "status": "Scheduled",
-      "status_short": "7/25 - 1:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
       "away_team": "Kansas City Royals",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "1",
       "home_record": "50-54",
       "away_record": "43-62",
       "venue": "Comerica Park",
@@ -409,7 +409,7 @@
         "Royals.TV",
         "Tigers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816254/royals-tigers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816254"
     },
     {
       "sport": "mlb",
