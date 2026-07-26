@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-26T15:36:01.636418Z",
+  "refreshed_at_utc": "2026-07-26T16:48:21.224277Z",
   "dates_requested": [
     "20260725",
     "20260726",
@@ -389,10 +389,10 @@
       "date_utc": "2026-07-26T16:15Z",
       "name": "Cleveland Guardians at Tampa Bay Rays",
       "short_name": "CLE @ TB",
-      "status": "Scheduled",
-      "status_short": "7/26 - 12:15 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
       "away_team": "Cleveland Guardians",
@@ -404,7 +404,7 @@
       "broadcasts": [
         "Peacock"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816268/guardians-rays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816268"
     },
     {
       "sport": "mlb",
