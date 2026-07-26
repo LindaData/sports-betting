@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-26T22:27:08.956333Z",
+  "refreshed_at_utc": "2026-07-26T23:27:38.009186Z",
   "dates_requested": [
     "20260725",
     "20260726",
@@ -713,24 +713,24 @@
       "date_utc": "2026-07-26T20:05Z",
       "name": "Los Angeles Angels at San Francisco Giants",
       "short_name": "LAA @ SF",
-      "status": "In Progress",
-      "status_short": "Bot 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "San Francisco Giants",
       "away_team": "Los Angeles Angels",
-      "home_score": "1",
+      "home_score": "3",
       "away_score": "4",
-      "home_record": "44-60",
-      "away_record": "41-64",
+      "home_record": "44-61",
+      "away_record": "42-64",
       "venue": "Oracle Park",
       "broadcasts": [
         "MLB.TV",
         "NBC Sports BA",
         "Angels.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816279"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816279/angels-giants"
     },
     {
       "sport": "mlb",
@@ -738,9 +738,9 @@
       "date_utc": "2026-07-26T23:20Z",
       "name": "New York Yankees at Philadelphia Phillies",
       "short_name": "NYY @ PHI",
-      "status": "Scheduled",
-      "status_short": "7/26 - 7:20 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
@@ -754,7 +754,7 @@
         "NBC",
         "Peacock"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816271/yankees-phillies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816271"
     },
     {
       "sport": "mlb",
@@ -995,7 +995,7 @@
       "away_team": "Houston Astros",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "41-64",
+      "home_record": "42-64",
       "away_record": "52-55",
       "venue": "Angel Stadium",
       "broadcasts": [
@@ -1046,7 +1046,7 @@
       "away_team": "Milwaukee Brewers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "44-60",
+      "home_record": "44-61",
       "away_record": "66-39",
       "venue": "Oracle Park",
       "broadcasts": [
