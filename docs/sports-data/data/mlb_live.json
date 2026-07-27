@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-27T17:14:48.034265Z",
+  "refreshed_at_utc": "2026-07-27T18:52:40.587928Z",
   "dates_requested": [
     "20260726",
     "20260727",
@@ -387,14 +387,14 @@
       "date_utc": "2026-07-27T18:35Z",
       "name": "Seattle Mariners at Texas Rangers",
       "short_name": "SEA @ TEX",
-      "status": "Scheduled",
-      "status_short": "7/27 - 2:35 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "End 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Texas Rangers",
       "away_team": "Seattle Mariners",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "53-52",
       "away_record": "52-54",
@@ -405,7 +405,7 @@
         "Rangers Sports Network",
         "Mariners.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816288/mariners-rangers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816288"
     },
     {
       "sport": "mlb",
