@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-27T01:06:57.204248Z",
+  "refreshed_at_utc": "2026-07-27T05:03:02.131403Z",
   "dates_requested": [
     "20260726",
     "20260727",
@@ -363,23 +363,23 @@
       "date_utc": "2026-07-26T23:20Z",
       "name": "New York Yankees at Philadelphia Phillies",
       "short_name": "NYY @ PHI",
-      "status": "In Progress",
-      "status_short": "Bot 5th",
-      "state": "in",
-      "period": 5,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
       "away_team": "New York Yankees",
-      "home_score": "6",
-      "away_score": "3",
-      "home_record": "56-49",
-      "away_record": "59-45",
+      "home_score": "11",
+      "away_score": "4",
+      "home_record": "57-49",
+      "away_record": "59-46",
       "venue": "Citizens Bank Park",
       "broadcasts": [
         "NBC",
         "Peacock"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816271"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816271/yankees-phillies"
     },
     {
       "sport": "mlb",
@@ -472,7 +472,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "52-54",
-      "away_record": "56-49",
+      "away_record": "57-49",
       "venue": "loanDepot park",
       "broadcasts": [
         "MLB.TV",
@@ -571,7 +571,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "55-49",
-      "away_record": "59-45",
+      "away_record": "59-46",
       "venue": "Rate Field",
       "broadcasts": [
         "MLB.TV",
@@ -746,7 +746,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "52-54",
-      "away_record": "56-49",
+      "away_record": "57-49",
       "venue": "loanDepot park",
       "broadcasts": [
         "MLB.TV",
@@ -897,7 +897,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "55-49",
-      "away_record": "59-45",
+      "away_record": "59-46",
       "venue": "Rate Field",
       "broadcasts": [
         "MLB.TV",
