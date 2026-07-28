@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-28T01:47:34.772201Z",
+  "refreshed_at_utc": "2026-07-28T04:55:34.848790Z",
   "dates_requested": [
     "20260727",
     "20260728",
@@ -40,23 +40,23 @@
       "date_utc": "2026-07-27T22:40Z",
       "name": "Arizona Diamondbacks at Pittsburgh Pirates",
       "short_name": "ARI @ PIT",
-      "status": "In Progress",
-      "status_short": "Bot 10th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final/10",
+      "state": "post",
       "period": 10,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Arizona Diamondbacks",
       "home_score": "3",
       "away_score": "2",
-      "home_record": "54-52",
-      "away_record": "55-51",
+      "home_record": "55-52",
+      "away_record": "55-52",
       "venue": "PNC Park",
       "broadcasts": [
         "MLB.TV",
         "DBACKS.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816280"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816280/diamondbacks-pirates"
     },
     {
       "sport": "mlb",
@@ -153,7 +153,8 @@
       "away_record": "54-53",
       "venue": "Great American Ball Park",
       "broadcasts": [
-        "ESPN"
+        "ESPN",
+        "CLEGuardians.TV"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401816283/guardians-reds"
     },
@@ -188,24 +189,24 @@
       "date_utc": "2026-07-27T23:40Z",
       "name": "New York Yankees at Chicago White Sox",
       "short_name": "NYY @ CHW",
-      "status": "In Progress",
-      "status_short": "Bot 5th",
-      "state": "in",
-      "period": 5,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Chicago White Sox",
       "away_team": "New York Yankees",
-      "home_score": "4",
-      "away_score": "4",
-      "home_record": "55-49",
-      "away_record": "59-46",
+      "home_score": "5",
+      "away_score": "9",
+      "home_record": "55-50",
+      "away_record": "60-46",
       "venue": "Rate Field",
       "broadcasts": [
         "MLB.TV",
         "CHSN",
         "YES"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816287"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816287/yankees-white-sox"
     },
     {
       "sport": "mlb",
@@ -213,24 +214,24 @@
       "date_utc": "2026-07-27T23:45Z",
       "name": "Chicago Cubs at St. Louis Cardinals",
       "short_name": "CHC @ STL",
-      "status": "In Progress",
-      "status_short": "Bot 1st",
-      "state": "in",
-      "period": 1,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "St. Louis Cardinals",
       "away_team": "Chicago Cubs",
-      "home_score": "0",
-      "away_score": "1",
-      "home_record": "53-52",
-      "away_record": "59-46",
+      "home_score": "3",
+      "away_score": "7",
+      "home_record": "53-53",
+      "away_record": "60-46",
       "venue": "Busch Stadium",
       "broadcasts": [
         "MLB.TV",
         "Marquee Sports Net",
         "Cardinals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816286"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816286/cubs-cardinals"
     },
     {
       "sport": "mlb",
@@ -239,14 +240,14 @@
       "name": "Houston Astros at Los Angeles Angels",
       "short_name": "HOU @ LAA",
       "status": "In Progress",
-      "status_short": "Bot 1st",
+      "status_short": "Bot 9th",
       "state": "in",
-      "period": 1,
+      "period": 9,
       "clock": "0:00",
       "home_team": "Los Angeles Angels",
       "away_team": "Houston Astros",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "4",
+      "away_score": "6",
       "home_record": "42-64",
       "away_record": "52-55",
       "venue": "Angel Stadium",
@@ -264,24 +265,24 @@
       "date_utc": "2026-07-28T01:40Z",
       "name": "Boston Red Sox at Athletics Athletics",
       "short_name": "BOS @ ATH",
-      "status": "In Progress",
-      "status_short": "Top 1st",
-      "state": "in",
-      "period": 1,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Athletics",
       "away_team": "Boston Red Sox",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "44-61",
-      "away_record": "54-50",
+      "home_score": "2",
+      "away_score": "4",
+      "home_record": "44-62",
+      "away_record": "55-50",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
         "NBC Sports CA",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816289"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816289/red-sox-athletics"
     },
     {
       "sport": "mlb",
@@ -289,24 +290,24 @@
       "date_utc": "2026-07-28T01:45Z",
       "name": "Milwaukee Brewers at San Francisco Giants",
       "short_name": "MIL @ SF",
-      "status": "In Progress",
-      "status_short": "Top 1st",
-      "state": "in",
-      "period": 1,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "San Francisco Giants",
       "away_team": "Milwaukee Brewers",
-      "home_score": "0",
+      "home_score": "3",
       "away_score": "0",
-      "home_record": "44-61",
-      "away_record": "66-39",
+      "home_record": "45-61",
+      "away_record": "66-40",
       "venue": "Oracle Park",
       "broadcasts": [
         "MLB.TV",
         "NBC Sports BA",
         "Brewers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816291"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816291/brewers-giants"
     },
     {
       "sport": "mlb",
@@ -327,7 +328,9 @@
       "away_record": "54-53",
       "venue": "Great American Ball Park",
       "broadcasts": [
-        "MLB.TV"
+        "MLB.TV",
+        "Reds.TV",
+        "CLEGuardians.TV"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401901849/guardians-reds"
     },
@@ -346,8 +349,8 @@
       "away_team": "Arizona Diamondbacks",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "54-52",
-      "away_record": "55-51",
+      "home_record": "55-52",
+      "away_record": "55-52",
       "venue": "PNC Park",
       "broadcasts": [
         "MLB.TV",
@@ -546,8 +549,8 @@
       "away_team": "New York Yankees",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "55-49",
-      "away_record": "59-46",
+      "home_record": "55-50",
+      "away_record": "60-46",
       "venue": "Rate Field",
       "broadcasts": [
         "MLB.TV",
@@ -571,8 +574,8 @@
       "away_team": "Chicago Cubs",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "53-52",
-      "away_record": "59-46",
+      "home_record": "53-53",
+      "away_record": "60-46",
       "venue": "Busch Stadium",
       "broadcasts": [
         "MLB.TV",
@@ -623,8 +626,8 @@
       "away_team": "Boston Red Sox",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "44-61",
-      "away_record": "54-50",
+      "home_record": "44-62",
+      "away_record": "55-50",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
@@ -673,8 +676,8 @@
       "away_team": "Milwaukee Brewers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "44-61",
-      "away_record": "66-39",
+      "home_record": "45-61",
+      "away_record": "66-40",
       "venue": "Oracle Park",
       "broadcasts": [
         "MLB.TV",
@@ -748,8 +751,8 @@
       "away_team": "Arizona Diamondbacks",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "54-52",
-      "away_record": "55-51",
+      "home_record": "55-52",
+      "away_record": "55-52",
       "venue": "PNC Park",
       "broadcasts": [
         "MLB.TV",
@@ -847,8 +850,8 @@
       "away_team": "Milwaukee Brewers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "44-61",
-      "away_record": "66-39",
+      "home_record": "45-61",
+      "away_record": "66-40",
       "venue": "Oracle Park",
       "broadcasts": [
         "MLB.TV",
@@ -975,8 +978,8 @@
       "away_team": "New York Yankees",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "55-49",
-      "away_record": "59-46",
+      "home_record": "55-50",
+      "away_record": "60-46",
       "venue": "Rate Field",
       "broadcasts": [
         "MLB.TV",
@@ -1002,8 +1005,8 @@
       "away_team": "Chicago Cubs",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "53-52",
-      "away_record": "59-46",
+      "home_record": "53-53",
+      "away_record": "60-46",
       "venue": "Busch Stadium",
       "broadcasts": [
         "MLB.TV",
@@ -1052,8 +1055,8 @@
       "away_team": "Boston Red Sox",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "44-61",
-      "away_record": "54-50",
+      "home_record": "44-62",
+      "away_record": "55-50",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
