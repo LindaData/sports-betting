@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-28T21:55:39.260575Z",
+  "refreshed_at_utc": "2026-07-28T22:51:56.614294Z",
   "dates_requested": [
     "20260727",
     "20260728",
@@ -340,15 +340,15 @@
       "date_utc": "2026-07-28T22:40Z",
       "name": "Arizona Diamondbacks at Pittsburgh Pirates",
       "short_name": "ARI @ PIT",
-      "status": "Scheduled",
-      "status_short": "7/28 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Arizona Diamondbacks",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "55-52",
       "away_record": "55-52",
       "venue": "PNC Park",
@@ -356,7 +356,7 @@
         "MLB.TV",
         "DBACKS.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816292/diamondbacks-pirates"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816292"
     },
     {
       "sport": "mlb",
@@ -364,9 +364,9 @@
       "date_utc": "2026-07-28T22:40Z",
       "name": "Baltimore Orioles at Detroit Tigers",
       "short_name": "BAL @ DET",
-      "status": "Scheduled",
-      "status_short": "7/28 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
@@ -381,7 +381,7 @@
         "Tigers.TV",
         "MASN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816294/orioles-tigers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816294"
     },
     {
       "sport": "mlb",
@@ -389,14 +389,14 @@
       "date_utc": "2026-07-28T22:40Z",
       "name": "Philadelphia Phillies at Miami Marlins",
       "short_name": "PHI @ MIA",
-      "status": "Scheduled",
-      "status_short": "7/28 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "End 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Miami Marlins",
       "away_team": "Philadelphia Phillies",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "53-54",
       "away_record": "57-50",
@@ -406,7 +406,7 @@
         "Marlins.TV",
         "NBC Sports Phil"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816296/phillies-marlins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816296"
     },
     {
       "sport": "mlb",
@@ -414,9 +414,9 @@
       "date_utc": "2026-07-28T22:40Z",
       "name": "Texas Rangers at Tampa Bay Rays",
       "short_name": "TEX @ TB",
-      "status": "Scheduled",
-      "status_short": "7/28 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
@@ -431,7 +431,7 @@
         "Rangers Sports Network",
         "Rays.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816297/rangers-rays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816297"
     },
     {
       "sport": "mlb",
@@ -439,9 +439,9 @@
       "date_utc": "2026-07-28T22:45Z",
       "name": "Toronto Blue Jays at Washington Nationals",
       "short_name": "TOR @ WSH",
-      "status": "Scheduled",
-      "status_short": "7/28 - 6:45 PM EDT",
-      "state": "pre",
+      "status": "Delayed",
+      "status_short": "Delayed, Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Washington Nationals",
@@ -456,7 +456,7 @@
         "Nationals.TV",
         "Sportsnet"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816298/blue-jays-nationals"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816298"
     },
     {
       "sport": "mlb",
