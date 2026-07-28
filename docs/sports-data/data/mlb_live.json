@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-28T17:55:49.612827Z",
+  "refreshed_at_utc": "2026-07-28T19:12:03.419288Z",
   "dates_requested": [
     "20260727",
     "20260728",
@@ -316,14 +316,14 @@
       "name": "Cleveland Guardians at Cincinnati Reds",
       "short_name": "CLE @ CIN",
       "status": "In Progress",
-      "status_short": "Top 1st",
+      "status_short": "Bot 4th",
       "state": "in",
-      "period": 1,
+      "period": 4,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
       "away_team": "Cleveland Guardians",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "5",
+      "away_score": "4",
       "home_record": "49-55",
       "away_record": "54-53",
       "venue": "Great American Ball Park",
@@ -955,7 +955,10 @@
       "away_record": "62-44",
       "venue": "Citi Field",
       "broadcasts": [
-        "MLB.TV"
+        "MLB.TV",
+        "SNY",
+        "BravesVision",
+        "Gray Media"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401902545/braves-mets"
     },
