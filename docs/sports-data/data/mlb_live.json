@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-29T15:05:23.466196Z",
+  "refreshed_at_utc": "2026-07-29T16:45:38.979909Z",
   "dates_requested": [
     "20260728",
     "20260729",
@@ -416,10 +416,10 @@
       "date_utc": "2026-07-29T16:10Z",
       "name": "Philadelphia Phillies at Miami Marlins",
       "short_name": "PHI @ MIA",
-      "status": "Scheduled",
-      "status_short": "7/29 - 12:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Miami Marlins",
       "away_team": "Philadelphia Phillies",
@@ -433,7 +433,7 @@
         "Marlins.TV",
         "NBC Sports Phil"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816311/phillies-marlins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816311"
     },
     {
       "sport": "mlb",
@@ -441,9 +441,9 @@
       "date_utc": "2026-07-29T16:35Z",
       "name": "Arizona Diamondbacks at Pittsburgh Pirates",
       "short_name": "ARI @ PIT",
-      "status": "Scheduled",
-      "status_short": "7/29 - 12:35 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
@@ -457,7 +457,7 @@
         "MLB.TV",
         "DBACKS.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816307/diamondbacks-pirates"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816307"
     },
     {
       "sport": "mlb",
