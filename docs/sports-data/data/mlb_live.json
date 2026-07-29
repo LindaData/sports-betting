@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-29T05:00:03.164958Z",
+  "refreshed_at_utc": "2026-07-29T07:45:48.285972Z",
   "dates_requested": [
     "20260728",
     "20260729",
@@ -341,24 +341,24 @@
       "date_utc": "2026-07-29T01:40Z",
       "name": "Colorado Rockies at San Diego Padres",
       "short_name": "COL @ SD",
-      "status": "In Progress",
-      "status_short": "Bot 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "San Diego Padres",
       "away_team": "Colorado Rockies",
-      "home_score": "7",
+      "home_score": "8",
       "away_score": "7",
-      "home_record": "53-53",
-      "away_record": "42-65",
+      "home_record": "54-53",
+      "away_record": "42-66",
       "venue": "Petco Park",
       "broadcasts": [
         "MLB.TV",
         "Padres.TV",
         "Rockies.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816303"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816303/rockies-padres"
     },
     {
       "sport": "mlb",
@@ -574,8 +574,8 @@
       "away_team": "Colorado Rockies",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "53-53",
-      "away_record": "42-65",
+      "home_record": "54-53",
+      "away_record": "42-66",
       "venue": "Petco Park",
       "broadcasts": [
         "MLB.TV",
@@ -1028,7 +1028,7 @@
       "away_team": "San Francisco Giants",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "53-53",
+      "home_record": "54-53",
       "away_record": "45-62",
       "venue": "Petco Park",
       "broadcasts": [
