@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-30T21:38:38.966787Z",
+  "refreshed_at_utc": "2026-07-30T22:56:13.286659Z",
   "dates_requested": [
     "20260729",
     "20260730",
@@ -543,9 +543,9 @@
       "date_utc": "2026-07-30T23:10Z",
       "name": "Miami Marlins at New York Mets",
       "short_name": "MIA @ NYM",
-      "status": "Scheduled",
-      "status_short": "7/30 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "Rain Delay",
+      "status_short": "Rain Delay, Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Mets",
@@ -560,7 +560,7 @@
         "Marlins.TV",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816322/marlins-mets"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816322"
     },
     {
       "sport": "mlb",
