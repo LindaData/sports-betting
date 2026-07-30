@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-30T04:30:58.385737Z",
+  "refreshed_at_utc": "2026-07-30T07:27:47.787496Z",
   "dates_requested": [
     "20260729",
     "20260730",
@@ -344,24 +344,24 @@
       "date_utc": "2026-07-30T01:38Z",
       "name": "Houston Astros at Los Angeles Angels",
       "short_name": "HOU @ LAA",
-      "status": "In Progress",
-      "status_short": "Bot 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "Los Angeles Angels",
       "away_team": "Houston Astros",
       "home_score": "4",
       "away_score": "7",
-      "home_record": "42-66",
-      "away_record": "54-55",
+      "home_record": "42-67",
+      "away_record": "55-55",
       "venue": "Angel Stadium",
       "broadcasts": [
         "MLB.TV",
         "Space City Home Network",
         "Angels.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816319"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816319/astros-angels"
     },
     {
       "sport": "mlb",
@@ -369,24 +369,24 @@
       "date_utc": "2026-07-30T01:40Z",
       "name": "Boston Red Sox at Athletics Athletics",
       "short_name": "BOS @ ATH",
-      "status": "In Progress",
-      "status_short": "Top 9th",
-      "state": "in",
-      "period": 9,
+      "status": "Final",
+      "status_short": "Final/10",
+      "state": "post",
+      "period": 10,
       "clock": "0:00",
       "home_team": "Athletics",
       "away_team": "Boston Red Sox",
       "home_score": "2",
-      "away_score": "2",
-      "home_record": "45-62",
-      "away_record": "55-51",
+      "away_score": "4",
+      "home_record": "45-63",
+      "away_record": "56-51",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
         "NBC Sports CA",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816317"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816317/red-sox-athletics"
     },
     {
       "sport": "mlb",
@@ -394,24 +394,24 @@
       "date_utc": "2026-07-30T02:10Z",
       "name": "Seattle Mariners at Los Angeles Dodgers",
       "short_name": "SEA @ LAD",
-      "status": "In Progress",
-      "status_short": "Bot 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Seattle Mariners",
       "home_score": "4",
-      "away_score": "1",
-      "home_record": "67-40",
-      "away_record": "53-55",
+      "away_score": "2",
+      "home_record": "68-40",
+      "away_record": "53-56",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "MLB.TV",
         "Sportsnet LA",
         "Mariners.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816321"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816321/mariners-dodgers"
     },
     {
       "sport": "mlb",
@@ -601,8 +601,8 @@
       "away_team": "Boston Red Sox",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "45-62",
-      "away_record": "55-51",
+      "home_record": "45-63",
+      "away_record": "56-51",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
@@ -651,8 +651,8 @@
       "away_team": "Seattle Mariners",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "67-40",
-      "away_record": "53-55",
+      "home_record": "68-40",
+      "away_record": "53-56",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "MLB.TV",
@@ -879,7 +879,7 @@
       "away_team": "Texas Rangers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "54-55",
+      "home_record": "55-55",
       "away_record": "55-53",
       "venue": "Daikin Park",
       "broadcasts": [
@@ -927,7 +927,7 @@
       "away_team": "Milwaukee Brewers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "42-66",
+      "home_record": "42-67",
       "away_record": "67-41",
       "venue": "Angel Stadium",
       "broadcasts": [
@@ -952,7 +952,7 @@
       "away_team": "Detroit Tigers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "45-62",
+      "home_record": "45-63",
       "away_record": "51-58",
       "venue": "Sutter Health Park",
       "broadcasts": [
@@ -1000,8 +1000,8 @@
       "away_team": "Boston Red Sox",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "67-40",
-      "away_record": "55-51",
+      "home_record": "68-40",
+      "away_record": "56-51",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -1026,7 +1026,7 @@
       "away_team": "Minnesota Twins",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "53-55",
+      "home_record": "53-56",
       "away_record": "54-55",
       "venue": "T-Mobile Park",
       "broadcasts": [
