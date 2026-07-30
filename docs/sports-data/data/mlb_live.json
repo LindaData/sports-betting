@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-30T20:10:35.437030Z",
+  "refreshed_at_utc": "2026-07-30T21:38:38.966787Z",
   "dates_requested": [
     "20260729",
     "20260730",
@@ -469,24 +469,24 @@
       "date_utc": "2026-07-30T18:10Z",
       "name": "New York Yankees at Chicago White Sox",
       "short_name": "NYY @ CHW",
-      "status": "In Progress",
-      "status_short": "Bot 7th",
-      "state": "in",
-      "period": 7,
+      "status": "Final",
+      "status_short": "Final/11",
+      "state": "post",
+      "period": 11,
       "clock": "0:00",
       "home_team": "Chicago White Sox",
       "away_team": "New York Yankees",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "56-51",
-      "away_record": "61-47",
+      "home_score": "2",
+      "away_score": "1",
+      "home_record": "57-51",
+      "away_record": "61-48",
       "venue": "Rate Field",
       "broadcasts": [
         "MLB.TV",
         "CHSN",
         "YES"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816328"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816328/yankees-white-sox"
     },
     {
       "sport": "mlb",
@@ -494,17 +494,17 @@
       "date_utc": "2026-07-30T18:15Z",
       "name": "Chicago Cubs at St. Louis Cardinals",
       "short_name": "CHC @ STL",
-      "status": "In Progress",
-      "status_short": "Top 7th",
-      "state": "in",
-      "period": 7,
+      "status": "Final",
+      "status_short": "Final/10",
+      "state": "post",
+      "period": 10,
       "clock": "0:00",
       "home_team": "St. Louis Cardinals",
       "away_team": "Chicago Cubs",
-      "home_score": "1",
-      "away_score": "1",
-      "home_record": "54-54",
-      "away_record": "61-47",
+      "home_score": "2",
+      "away_score": "4",
+      "home_record": "54-55",
+      "away_record": "62-47",
       "venue": "Busch Stadium",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -512,7 +512,7 @@
         "Marquee Sports Net",
         "Cardinals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816326"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816326/cubs-cardinals"
     },
     {
       "sport": "mlb",
@@ -677,8 +677,8 @@
       "away_team": "New York Yankees",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "61-47",
-      "away_record": "61-47",
+      "home_record": "62-47",
+      "away_record": "61-48",
       "venue": "Wrigley Field",
       "broadcasts": [
         "MLB.TV",
@@ -752,7 +752,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "50-59",
-      "away_record": "54-54",
+      "away_record": "54-55",
       "venue": "Rogers Centre",
       "broadcasts": [
         "MLB.TV",
@@ -802,7 +802,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "64-44",
-      "away_record": "56-51",
+      "away_record": "57-51",
       "venue": "Tropicana Field",
       "broadcasts": [
         "MLB.TV",
