@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-31T21:34:41.820038Z",
+  "refreshed_at_utc": "2026-07-31T22:51:36.316350Z",
   "dates_requested": [
     "20260730",
     "20260731",
@@ -288,15 +288,15 @@
       "date_utc": "2026-07-31T22:10Z",
       "name": "Pittsburgh Pirates at Cincinnati Reds",
       "short_name": "PIT @ CIN",
-      "status": "Scheduled",
-      "status_short": "7/31 - 6:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
       "away_team": "Pittsburgh Pirates",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "2",
+      "away_score": "3",
       "home_record": "51-57",
       "away_record": "55-55",
       "venue": "Great American Ball Park",
@@ -304,7 +304,7 @@
         "MLB.TV",
         "Reds.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816336/pirates-reds"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816336"
     },
     {
       "sport": "mlb",
