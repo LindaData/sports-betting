@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-07-31T17:19:48.269884Z",
+  "refreshed_at_utc": "2026-07-31T18:49:51.895324Z",
   "dates_requested": [
     "20260730",
     "20260731",
@@ -263,10 +263,10 @@
       "date_utc": "2026-07-31T18:20Z",
       "name": "New York Yankees at Chicago Cubs",
       "short_name": "NYY @ CHC",
-      "status": "Scheduled",
-      "status_short": "7/31 - 2:20 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "End 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Chicago Cubs",
       "away_team": "New York Yankees",
@@ -280,7 +280,7 @@
         "Marquee Sports Net",
         "YES"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816339/yankees-cubs"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816339"
     },
     {
       "sport": "mlb",
