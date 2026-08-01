@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-01T20:05:19.371435Z",
+  "refreshed_at_utc": "2026-08-01T21:14:40.554252Z",
   "dates_requested": [
     "20260731",
     "20260801",
@@ -390,14 +390,14 @@
       "name": "St. Louis Cardinals at Toronto Blue Jays",
       "short_name": "STL @ TOR",
       "status": "In Progress",
-      "status_short": "Top 4th",
+      "status_short": "Bot 7th",
       "state": "in",
-      "period": 4,
+      "period": 7,
       "clock": "0:00",
       "home_team": "Toronto Blue Jays",
       "away_team": "St. Louis Cardinals",
-      "home_score": "1",
-      "away_score": "0",
+      "home_score": "2",
+      "away_score": "1",
       "home_record": "51-59",
       "away_record": "54-56",
       "venue": "Rogers Centre",
@@ -415,10 +415,10 @@
       "date_utc": "2026-08-01T20:10Z",
       "name": "Chicago White Sox at Tampa Bay Rays",
       "short_name": "CHW @ TB",
-      "status": "Scheduled",
-      "status_short": "8/1 - 4:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Mid 5th",
+      "state": "in",
+      "period": 5,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
       "away_team": "Chicago White Sox",
@@ -432,7 +432,7 @@
         "Rays.TV",
         "CHSN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816348/white-sox-rays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816348"
     },
     {
       "sport": "mlb",
@@ -440,15 +440,15 @@
       "date_utc": "2026-08-01T20:10Z",
       "name": "Miami Marlins at New York Mets",
       "short_name": "MIA @ NYM",
-      "status": "Scheduled",
-      "status_short": "8/1 - 4:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "New York Mets",
       "away_team": "Miami Marlins",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "3",
       "home_record": "47-64",
       "away_record": "56-55",
       "venue": "Citi Field",
@@ -457,7 +457,7 @@
         "Marlins.TV",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816349/marlins-mets"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816349"
     },
     {
       "sport": "mlb",
@@ -465,14 +465,14 @@
       "date_utc": "2026-08-01T20:10Z",
       "name": "Minnesota Twins at Seattle Mariners",
       "short_name": "MIN @ SEA",
-      "status": "Scheduled",
-      "status_short": "8/1 - 4:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Mid 4th",
+      "state": "in",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Seattle Mariners",
       "away_team": "Minnesota Twins",
-      "home_score": "0",
+      "home_score": "3",
       "away_score": "0",
       "home_record": "53-58",
       "away_record": "56-55",
@@ -483,7 +483,7 @@
         "Twins.TV",
         "Mariners.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816360/twins-mariners"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816360"
     },
     {
       "sport": "mlb",
