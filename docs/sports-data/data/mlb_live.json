@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-02T22:24:19.752591Z",
+  "refreshed_at_utc": "2026-08-02T23:26:07.565517Z",
   "dates_requested": [
     "20260801",
     "20260802",
@@ -665,24 +665,24 @@
       "date_utc": "2026-08-02T20:05Z",
       "name": "Detroit Tigers at Athletics Athletics",
       "short_name": "DET @ ATH",
-      "status": "In Progress",
-      "status_short": "Top 7th",
-      "state": "in",
-      "period": 7,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Athletics",
       "away_team": "Detroit Tigers",
       "home_score": "0",
-      "away_score": "6",
-      "home_record": "45-66",
-      "away_record": "53-58",
+      "away_score": "11",
+      "home_record": "45-67",
+      "away_record": "54-58",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
         "Tigers.TV",
         "NBC Sports CA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816373"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816373/tigers-athletics"
     },
     {
       "sport": "mlb",
@@ -690,24 +690,24 @@
       "date_utc": "2026-08-02T20:10Z",
       "name": "Minnesota Twins at Seattle Mariners",
       "short_name": "MIN @ SEA",
-      "status": "In Progress",
-      "status_short": "Top 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Seattle Mariners",
       "away_team": "Minnesota Twins",
-      "home_score": "6",
-      "away_score": "5",
-      "home_record": "54-58",
-      "away_record": "56-56",
+      "home_score": "7",
+      "away_score": "6",
+      "home_record": "55-58",
+      "away_record": "56-57",
       "venue": "T-Mobile Park",
       "broadcasts": [
         "MLB.TV",
         "Twins.TV",
         "Mariners.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816375"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816375/twins-mariners"
     },
     {
       "sport": "mlb",
@@ -715,24 +715,24 @@
       "date_utc": "2026-08-02T20:10Z",
       "name": "San Francisco Giants at San Diego Padres",
       "short_name": "SF @ SD",
-      "status": "In Progress",
-      "status_short": "Bot 7th",
-      "state": "in",
-      "period": 7,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "San Diego Padres",
       "away_team": "San Francisco Giants",
       "home_score": "5",
-      "away_score": "3",
-      "home_record": "57-54",
-      "away_record": "47-64",
+      "away_score": "4",
+      "home_record": "58-54",
+      "away_record": "47-65",
       "venue": "Petco Park",
       "broadcasts": [
         "MLB.TV",
         "NBC Sports BA",
         "Padres.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816376"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816376/giants-padres"
     },
     {
       "sport": "mlb",
@@ -740,9 +740,9 @@
       "date_utc": "2026-08-02T23:20Z",
       "name": "Boston Red Sox at Los Angeles Dodgers",
       "short_name": "BOS @ LAD",
-      "status": "Scheduled",
-      "status_short": "8/2 - 7:20 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Los Angeles Dodgers",
@@ -756,7 +756,7 @@
         "NBC",
         "Peacock"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816372/red-sox-dodgers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816372"
     },
     {
       "sport": "mlb",
@@ -848,7 +848,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "55-57",
-      "away_record": "47-64",
+      "away_record": "47-65",
       "venue": "Globe Life Field",
       "broadcasts": [
         "ESPN"
@@ -948,7 +948,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "59-53",
-      "away_record": "57-54",
+      "away_record": "58-54",
       "venue": "Chase Field",
       "broadcasts": [
         "MLB.TV",
