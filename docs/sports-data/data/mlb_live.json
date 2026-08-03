@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-03T21:36:10.138156Z",
+  "refreshed_at_utc": "2026-08-03T22:52:10.484904Z",
   "dates_requested": [
     "20260802",
     "20260803",
@@ -387,15 +387,15 @@
       "date_utc": "2026-08-03T22:40Z",
       "name": "Washington Nationals at Philadelphia Phillies",
       "short_name": "WSH @ PHI",
-      "status": "Scheduled",
-      "status_short": "8/3 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
       "away_team": "Washington Nationals",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "59-53",
       "away_record": "55-58",
       "venue": "Citizens Bank Park",
@@ -404,7 +404,7 @@
         "NBC Sports Phil",
         "Nationals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816378/nationals-phillies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816378"
     },
     {
       "sport": "mlb",
@@ -573,11 +573,7 @@
       "home_record": "59-53",
       "away_record": "58-54",
       "venue": "Chase Field",
-      "broadcasts": [
-        "MLB.TV",
-        "Padres.TV",
-        "DBACKS.TV"
-      ],
+      "broadcasts": [],
       "link": "https://www.espn.com/mlb/game/_/gameId/401815079/padres-diamondbacks"
     },
     {
@@ -598,11 +594,7 @@
       "home_record": "54-58",
       "away_record": "43-69",
       "venue": "Oriole Park at Camden Yards",
-      "broadcasts": [
-        "MLB.TV",
-        "MASN",
-        "Angels.TV"
-      ],
+      "broadcasts": [],
       "link": "https://www.espn.com/mlb/game/_/gameId/401816384/angels-orioles"
     },
     {
@@ -876,10 +868,10 @@
       "away_record": "52-60",
       "venue": "Daikin Park",
       "broadcasts": [
-        "MLB.TV",
-        "Space City Home Network",
+        "Sportsnet",
         "Space City Home (Alt.)",
-        "Sportsnet"
+        "Space City Home Network",
+        "MLB.TV"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401816395/blue-jays-astros"
     },
@@ -926,11 +918,7 @@
       "home_record": "55-58",
       "away_record": "54-58",
       "venue": "T-Mobile Park",
-      "broadcasts": [
-        "MLB.TV",
-        "Tigers.TV",
-        "Mariners.TV"
-      ],
+      "broadcasts": [],
       "link": "https://www.espn.com/mlb/game/_/gameId/401816397/tigers-mariners"
     },
     {
