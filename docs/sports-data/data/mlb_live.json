@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-03T22:52:10.484904Z",
+  "refreshed_at_utc": "2026-08-03T23:59:46.610631Z",
   "dates_requested": [
     "20260802",
     "20260803",
@@ -388,14 +388,14 @@
       "name": "Washington Nationals at Philadelphia Phillies",
       "short_name": "WSH @ PHI",
       "status": "In Progress",
-      "status_short": "Bot 1st",
+      "status_short": "Bot 5th",
       "state": "in",
-      "period": 1,
+      "period": 5,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
       "away_team": "Washington Nationals",
       "home_score": "0",
-      "away_score": "1",
+      "away_score": "3",
       "home_record": "59-53",
       "away_record": "55-58",
       "venue": "Citizens Bank Park",
@@ -412,15 +412,15 @@
       "date_utc": "2026-08-03T23:05Z",
       "name": "St. Louis Cardinals at New York Yankees",
       "short_name": "STL @ NYY",
-      "status": "Scheduled",
-      "status_short": "8/3 - 7:05 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "End 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "New York Yankees",
       "away_team": "St. Louis Cardinals",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "3",
       "home_record": "63-49",
       "away_record": "55-57",
       "venue": "Yankee Stadium",
@@ -429,7 +429,7 @@
         "Cardinals.TV",
         "YES"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816377/cardinals-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816377"
     },
     {
       "sport": "mlb",
@@ -437,10 +437,10 @@
       "date_utc": "2026-08-03T23:40Z",
       "name": "Pittsburgh Pirates at Milwaukee Brewers",
       "short_name": "PIT @ MIL",
-      "status": "Scheduled",
-      "status_short": "8/3 - 7:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Mid 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Milwaukee Brewers",
       "away_team": "Pittsburgh Pirates",
@@ -453,7 +453,7 @@
         "MLB.TV",
         "Brewers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816380/pirates-brewers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816380"
     },
     {
       "sport": "mlb",
@@ -573,7 +573,11 @@
       "home_record": "59-53",
       "away_record": "58-54",
       "venue": "Chase Field",
-      "broadcasts": [],
+      "broadcasts": [
+        "MLB.TV",
+        "Padres.TV",
+        "DBACKS.TV"
+      ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401815079/padres-diamondbacks"
     },
     {
@@ -594,7 +598,11 @@
       "home_record": "54-58",
       "away_record": "43-69",
       "venue": "Oriole Park at Camden Yards",
-      "broadcasts": [],
+      "broadcasts": [
+        "MLB.TV",
+        "MASN",
+        "Angels.TV"
+      ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401816384/angels-orioles"
     },
     {
@@ -868,10 +876,10 @@
       "away_record": "52-60",
       "venue": "Daikin Park",
       "broadcasts": [
-        "Sportsnet",
-        "Space City Home (Alt.)",
+        "MLB.TV",
         "Space City Home Network",
-        "MLB.TV"
+        "Space City Home (Alt.)",
+        "Sportsnet"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401816395/blue-jays-astros"
     },
