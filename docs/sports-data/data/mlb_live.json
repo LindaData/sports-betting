@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-04T22:04:02.213757Z",
+  "refreshed_at_utc": "2026-08-04T23:30:37.542841Z",
   "dates_requested": [
     "20260803",
     "20260804",
@@ -213,14 +213,14 @@
       "date_utc": "2026-08-04T22:35Z",
       "name": "Los Angeles Angels at Baltimore Orioles",
       "short_name": "LAA @ BAL",
-      "status": "Scheduled",
-      "status_short": "8/4 - 6:35 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 4th",
+      "state": "in",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Baltimore Orioles",
       "away_team": "Los Angeles Angels",
-      "home_score": "0",
+      "home_score": "2",
       "away_score": "0",
       "home_record": "54-58",
       "away_record": "43-69",
@@ -230,7 +230,7 @@
         "MASN",
         "Angels.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816384/angels-orioles"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816384"
     },
     {
       "sport": "mlb",
@@ -238,15 +238,15 @@
       "date_utc": "2026-08-04T22:40Z",
       "name": "Athletics Athletics at Cincinnati Reds",
       "short_name": "ATH @ CIN",
-      "status": "Scheduled",
-      "status_short": "8/4 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Mid 4th",
+      "state": "in",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
       "away_team": "Athletics",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "53-58",
       "away_record": "45-67",
       "venue": "Great American Ball Park",
@@ -255,7 +255,7 @@
         "Reds.TV",
         "NBC Sports CA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816385/athletics-reds"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816385"
     },
     {
       "sport": "mlb",
@@ -263,15 +263,15 @@
       "date_utc": "2026-08-04T22:40Z",
       "name": "New York Mets at Cleveland Guardians",
       "short_name": "NYM @ CLE",
-      "status": "Scheduled",
-      "status_short": "8/4 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
       "away_team": "New York Mets",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "4",
       "home_record": "57-56",
       "away_record": "47-66",
       "venue": "Progressive Field",
@@ -281,7 +281,7 @@
         "WKYC 3",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816388/mets-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816388"
     },
     {
       "sport": "mlb",
@@ -289,14 +289,14 @@
       "date_utc": "2026-08-04T22:40Z",
       "name": "Washington Nationals at Philadelphia Phillies",
       "short_name": "WSH @ PHI",
-      "status": "Scheduled",
-      "status_short": "8/4 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
       "away_team": "Washington Nationals",
-      "home_score": "0",
+      "home_score": "2",
       "away_score": "0",
       "home_record": "60-53",
       "away_record": "55-59",
@@ -306,7 +306,7 @@
         "NBC Sports Phil",
         "Nationals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816390/nationals-phillies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816390"
     },
     {
       "sport": "mlb",
@@ -314,10 +314,10 @@
       "date_utc": "2026-08-04T23:05Z",
       "name": "St. Louis Cardinals at New York Yankees",
       "short_name": "STL @ NYY",
-      "status": "Scheduled",
-      "status_short": "8/4 - 7:05 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "New York Yankees",
       "away_team": "St. Louis Cardinals",
@@ -331,7 +331,7 @@
         "Cardinals.TV",
         "YES"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816389/cardinals-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816389"
     },
     {
       "sport": "mlb",
@@ -339,14 +339,14 @@
       "date_utc": "2026-08-04T23:10Z",
       "name": "Chicago White Sox at Boston Red Sox",
       "short_name": "CHW @ BOS",
-      "status": "Scheduled",
-      "status_short": "8/4 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Boston Red Sox",
       "away_team": "Chicago White Sox",
-      "home_score": "0",
+      "home_score": "6",
       "away_score": "0",
       "home_record": "60-51",
       "away_record": "59-52",
@@ -356,7 +356,7 @@
         "CHSN",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816386/white-sox-red-sox"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816386"
     },
     {
       "sport": "mlb",
@@ -364,9 +364,9 @@
       "date_utc": "2026-08-04T23:15Z",
       "name": "Miami Marlins at Atlanta Braves",
       "short_name": "MIA @ ATL",
-      "status": "Scheduled",
-      "status_short": "8/4 - 7:15 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Atlanta Braves",
@@ -382,7 +382,7 @@
         "Gray Media",
         "Marlins.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816387/marlins-braves"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816387"
     },
     {
       "sport": "mlb",
