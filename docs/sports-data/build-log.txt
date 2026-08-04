@@ -1,5 +1,5 @@
 {
-  "refreshed_at_utc": "2026-08-03T12:40:55.995784Z",
+  "refreshed_at_utc": "2026-08-04T11:37:19.766119Z",
   "sports": {
     "basketball": {
       "league_id": 12,
@@ -25,10 +25,10 @@
     },
     "baseball": {
       "x-ratelimit-limit": "10",
-      "x-ratelimit-remaining": "8",
+      "x-ratelimit-remaining": "7",
       "x-ratelimit-requests-limit": "100",
-      "x-ratelimit-requests-remaining": "98"
+      "x-ratelimit-requests-remaining": "97"
     }
   },
-  "raw_artifact_directory": "data/raw/api_sports_publish/20260803T124055Z"
+  "raw_artifact_directory": "data/raw/api_sports_publish/20260804T113719Z"
 }
