@@ -1,12 +1,36 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-04T23:30:37.542841Z",
+  "refreshed_at_utc": "2026-08-05T01:43:17.269444Z",
   "dates_requested": [
-    "20260803",
     "20260804",
-    "20260805"
+    "20260805",
+    "20260806"
   ],
-  "event_count": 0,
-  "events": [],
+  "event_count": 1,
+  "events": [
+    {
+      "sport": "nfl",
+      "event_id": "401873271",
+      "date_utc": "2026-08-07T00:00Z",
+      "name": "Carolina Panthers at Arizona Cardinals",
+      "short_name": "CAR VS ARI",
+      "status": "Scheduled",
+      "status_short": "8/6 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Arizona Cardinals",
+      "away_team": "Carolina Panthers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Tom Benson Hall of Fame Stadium",
+      "broadcasts": [
+        "NBC"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873271/panthers-cardinals"
+    }
+  ],
   "errors": []
 }
