@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-07T03:23:58.387721Z",
+  "refreshed_at_utc": "2026-08-07T05:10:07.774709Z",
   "dates_requested": [
     "20260806",
     "20260807",
@@ -190,24 +190,24 @@
       "date_utc": "2026-08-06T23:10Z",
       "name": "Chicago White Sox at Boston Red Sox",
       "short_name": "CHW @ BOS",
-      "status": "In Progress",
-      "status_short": "Bot 12th",
-      "state": "in",
-      "period": 12,
+      "status": "Final",
+      "status_short": "Final/13",
+      "state": "post",
+      "period": 13,
       "clock": "0:00",
       "home_team": "Boston Red Sox",
       "away_team": "Chicago White Sox",
-      "home_score": "10",
+      "home_score": "12",
       "away_score": "11",
-      "home_record": "62-51",
-      "away_record": "59-54",
+      "home_record": "63-51",
+      "away_record": "59-55",
       "venue": "Fenway Park",
       "broadcasts": [
         "MLB.TV",
         "CHSN",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816416"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816416/white-sox-red-sox"
     },
     {
       "sport": "mlb",
@@ -263,24 +263,24 @@
       "date_utc": "2026-08-07T01:40Z",
       "name": "San Diego Padres at Arizona Diamondbacks",
       "short_name": "SD @ ARI",
-      "status": "In Progress",
-      "status_short": "Top 6th",
-      "state": "in",
-      "period": 6,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Diego Padres",
       "home_score": "1",
-      "away_score": "3",
-      "home_record": "61-54",
-      "away_record": "59-56",
+      "away_score": "5",
+      "home_record": "61-55",
+      "away_record": "60-56",
       "venue": "Chase Field",
       "broadcasts": [
         "MLB.TV",
         "Padres.TV",
         "DBACKS.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816423"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816423/padres-diamondbacks"
     },
     {
       "sport": "mlb",
@@ -424,7 +424,7 @@
       "away_team": "Athletics",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "62-51",
+      "home_record": "63-51",
       "away_record": "45-70",
       "venue": "Fenway Park",
       "broadcasts": [
@@ -449,7 +449,7 @@
       "away_team": "Cleveland Guardians",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "59-54",
+      "home_record": "59-55",
       "away_record": "57-59",
       "venue": "Rate Field",
       "broadcasts": [
@@ -574,7 +574,7 @@
       "away_team": "Houston Astros",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "59-56",
+      "home_record": "60-56",
       "away_record": "59-57",
       "venue": "Petco Park",
       "broadcasts": [
@@ -599,7 +599,7 @@
       "away_team": "Los Angeles Dodgers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "61-54",
+      "home_record": "61-55",
       "away_record": "69-46",
       "venue": "Chase Field",
       "broadcasts": [
@@ -723,7 +723,7 @@
       "away_team": "Athletics",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "62-51",
+      "home_record": "63-51",
       "away_record": "45-70",
       "venue": "Fenway Park",
       "broadcasts": [
@@ -897,7 +897,7 @@
       "away_team": "Cleveland Guardians",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "59-54",
+      "home_record": "59-55",
       "away_record": "57-59",
       "venue": "Rate Field",
       "broadcasts": [
@@ -970,7 +970,7 @@
       "away_team": "Houston Astros",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "59-56",
+      "home_record": "60-56",
       "away_record": "59-57",
       "venue": "Petco Park",
       "broadcasts": [
@@ -996,7 +996,7 @@
       "away_team": "Los Angeles Dodgers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "61-54",
+      "home_record": "61-55",
       "away_record": "69-46",
       "venue": "Chase Field",
       "broadcasts": [
