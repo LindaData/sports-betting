@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-07T22:03:05.696167Z",
+  "refreshed_at_utc": "2026-08-07T23:02:08.721195Z",
   "dates_requested": [
     "20260806",
     "20260807",
@@ -288,15 +288,15 @@
       "date_utc": "2026-08-07T22:40Z",
       "name": "New York Mets at Pittsburgh Pirates",
       "short_name": "NYM @ PIT",
-      "status": "Scheduled",
-      "status_short": "8/7 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
       "away_team": "New York Mets",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "57-60",
       "away_record": "50-66",
       "venue": "PNC Park",
@@ -304,7 +304,7 @@
         "MLB.TV",
         "WPIX"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816428/mets-pirates"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816428"
     },
     {
       "sport": "mlb",
@@ -312,9 +312,9 @@
       "date_utc": "2026-08-07T22:40Z",
       "name": "Toronto Blue Jays at Philadelphia Phillies",
       "short_name": "TOR @ PHI",
-      "status": "Scheduled",
-      "status_short": "8/7 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "Delayed",
+      "status_short": "Delayed, Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
@@ -329,7 +329,7 @@
         "NBC Sports Phil",
         "Sportsnet"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816429/blue-jays-phillies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816429"
     },
     {
       "sport": "mlb",
@@ -364,9 +364,9 @@
       "date_utc": "2026-08-07T23:05Z",
       "name": "Atlanta Braves at New York Yankees",
       "short_name": "ATL @ NYY",
-      "status": "Scheduled",
-      "status_short": "8/7 - 7:05 PM EDT",
-      "state": "pre",
+      "status": "Rain Delay",
+      "status_short": "Rain Delay, Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Yankees",
@@ -382,7 +382,7 @@
         "BravesVision",
         "YES"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816426/braves-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816426"
     },
     {
       "sport": "mlb",
