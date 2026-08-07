@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-07T23:02:08.721195Z",
+  "refreshed_at_utc": "2026-08-07T23:55:09.154948Z",
   "dates_requested": [
     "20260806",
     "20260807",
@@ -289,9 +289,9 @@
       "name": "New York Mets at Pittsburgh Pirates",
       "short_name": "NYM @ PIT",
       "status": "In Progress",
-      "status_short": "Top 2nd",
+      "status_short": "Top 3rd",
       "state": "in",
-      "period": 2,
+      "period": 3,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
       "away_team": "New York Mets",
@@ -337,8 +337,8 @@
       "date_utc": "2026-08-07T22:45Z",
       "name": "Cincinnati Reds at Washington Nationals",
       "short_name": "CIN @ WSH",
-      "status": "Delayed",
-      "status_short": "Delayed, Top 1st",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
       "state": "in",
       "period": 1,
       "clock": "0:00",
@@ -390,15 +390,15 @@
       "date_utc": "2026-08-07T23:10Z",
       "name": "Los Angeles Angels at Miami Marlins",
       "short_name": "LAA @ MIA",
-      "status": "Scheduled",
-      "status_short": "8/7 - 7:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Mid 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Miami Marlins",
       "away_team": "Los Angeles Angels",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "58-58",
       "away_record": "44-71",
       "venue": "loanDepot park",
@@ -407,7 +407,7 @@
         "Marlins.TV",
         "Angels.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816424/angels-marlins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816424"
     },
     {
       "sport": "mlb",
@@ -415,14 +415,14 @@
       "date_utc": "2026-08-07T23:10Z",
       "name": "Athletics Athletics at Boston Red Sox",
       "short_name": "ATH @ BOS",
-      "status": "Scheduled",
-      "status_short": "8/7 - 7:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Boston Red Sox",
       "away_team": "Athletics",
-      "home_score": "0",
+      "home_score": "5",
       "away_score": "0",
       "home_record": "63-51",
       "away_record": "45-70",
@@ -432,7 +432,7 @@
         "NBC Sports CA",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816425/athletics-red-sox"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816425"
     },
     {
       "sport": "mlb",
@@ -440,15 +440,15 @@
       "date_utc": "2026-08-07T23:40Z",
       "name": "Cleveland Guardians at Chicago White Sox",
       "short_name": "CLE @ CHW",
-      "status": "Scheduled",
-      "status_short": "8/7 - 7:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Chicago White Sox",
       "away_team": "Cleveland Guardians",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "2",
       "home_record": "59-55",
       "away_record": "57-59",
       "venue": "Rate Field",
@@ -457,7 +457,7 @@
         "CLEGuardians.TV",
         "CHSN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816432/guardians-white-sox"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816432"
     },
     {
       "sport": "mlb",
@@ -465,14 +465,14 @@
       "date_utc": "2026-08-07T23:40Z",
       "name": "Minnesota Twins at Milwaukee Brewers",
       "short_name": "MIN @ MIL",
-      "status": "Scheduled",
-      "status_short": "8/7 - 7:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Milwaukee Brewers",
       "away_team": "Minnesota Twins",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "72-43",
       "away_record": "57-59",
@@ -482,7 +482,7 @@
         "Twins.TV",
         "Brewers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816434/twins-brewers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816434"
     },
     {
       "sport": "mlb",
