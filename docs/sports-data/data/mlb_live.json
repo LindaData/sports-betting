@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-08T22:54:02.107960Z",
+  "refreshed_at_utc": "2026-08-08T23:18:30.402113Z",
   "dates_requested": [
     "20260807",
     "20260808",
@@ -440,17 +440,17 @@
       "date_utc": "2026-08-08T20:10Z",
       "name": "Athletics Athletics at Boston Red Sox",
       "short_name": "ATH @ BOS",
-      "status": "In Progress",
-      "status_short": "Bot 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "Boston Red Sox",
       "away_team": "Athletics",
-      "home_score": "2",
+      "home_score": "3",
       "away_score": "7",
-      "home_record": "64-51",
-      "away_record": "45-71",
+      "home_record": "64-52",
+      "away_record": "46-71",
       "venue": "Fenway Park",
       "broadcasts": [
         "MLB.TV",
@@ -458,7 +458,7 @@
         "NBC Sports CA",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816440"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816440/athletics-red-sox"
     },
     {
       "sport": "mlb",
@@ -467,14 +467,14 @@
       "name": "Toronto Blue Jays at Philadelphia Phillies",
       "short_name": "TOR @ PHI",
       "status": "In Progress",
-      "status_short": "Top 3rd",
+      "status_short": "Top 4th",
       "state": "in",
-      "period": 3,
+      "period": 4,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
       "away_team": "Toronto Blue Jays",
       "home_score": "0",
-      "away_score": "1",
+      "away_score": "2",
       "home_record": "62-55",
       "away_record": "55-62",
       "venue": "Citizens Bank Park",
@@ -492,13 +492,13 @@
       "name": "New York Mets at Pittsburgh Pirates",
       "short_name": "NYM @ PIT",
       "status": "In Progress",
-      "status_short": "Bot 1st",
+      "status_short": "End 2nd",
       "state": "in",
-      "period": 1,
+      "period": 2,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
       "away_team": "New York Mets",
-      "home_score": "1",
+      "home_score": "3",
       "away_score": "0",
       "home_record": "57-61",
       "away_record": "51-66",
@@ -516,9 +516,9 @@
       "name": "Cincinnati Reds at Washington Nationals",
       "short_name": "CIN @ WSH",
       "status": "In Progress",
-      "status_short": "Mid 1st",
+      "status_short": "Bot 2nd",
       "state": "in",
-      "period": 1,
+      "period": 2,
       "clock": "0:00",
       "home_team": "Washington Nationals",
       "away_team": "Cincinnati Reds",
@@ -540,9 +540,9 @@
       "date_utc": "2026-08-08T23:10Z",
       "name": "Chicago Cubs at Kansas City Royals",
       "short_name": "CHC @ KC",
-      "status": "Scheduled",
-      "status_short": "8/8 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Kansas City Royals",
@@ -557,7 +557,7 @@
         "Royals.TV",
         "Marquee Sports Net"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816446/cubs-royals"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816446"
     },
     {
       "sport": "mlb",
@@ -565,9 +565,9 @@
       "date_utc": "2026-08-08T23:10Z",
       "name": "Minnesota Twins at Milwaukee Brewers",
       "short_name": "MIN @ MIL",
-      "status": "Scheduled",
-      "status_short": "8/8 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Mid 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Milwaukee Brewers",
@@ -582,7 +582,7 @@
         "Twins.TV",
         "Brewers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816449/twins-brewers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816449"
     },
     {
       "sport": "mlb",
@@ -590,9 +590,9 @@
       "date_utc": "2026-08-08T23:15Z",
       "name": "Baltimore Orioles at Texas Rangers",
       "short_name": "BAL @ TEX",
-      "status": "Scheduled",
-      "status_short": "8/8 - 7:15 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Texas Rangers",
@@ -606,7 +606,7 @@
         "MLB.TV",
         "FOX"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816445/orioles-rangers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816445"
     },
     {
       "sport": "mlb",
@@ -638,15 +638,15 @@
       "date_utc": "2026-08-08T23:15Z",
       "name": "Colorado Rockies at St. Louis Cardinals",
       "short_name": "COL @ STL",
-      "status": "Scheduled",
-      "status_short": "8/8 - 7:15 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "St. Louis Cardinals",
       "away_team": "Colorado Rockies",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "58-58",
       "away_record": "45-71",
       "venue": "Busch Stadium",
@@ -655,7 +655,7 @@
         "Rockies.TV",
         "Cardinals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816448/rockies-cardinals"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816448"
     },
     {
       "sport": "mlb",
@@ -663,9 +663,9 @@
       "date_utc": "2026-08-08T23:15Z",
       "name": "Detroit Tigers at San Francisco Giants",
       "short_name": "DET @ SF",
-      "status": "Scheduled",
-      "status_short": "8/8 - 7:15 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "San Francisco Giants",
@@ -679,7 +679,7 @@
         "MLB.TV",
         "FOX"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816450/tigers-giants"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816450"
     },
     {
       "sport": "mlb",
@@ -687,9 +687,9 @@
       "date_utc": "2026-08-08T23:15Z",
       "name": "Houston Astros at San Diego Padres",
       "short_name": "HOU @ SD",
-      "status": "Scheduled",
-      "status_short": "8/8 - 7:15 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "San Diego Padres",
@@ -705,7 +705,7 @@
         "KFMB 8.1 (CBS)",
         "Space City Home Network"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816451/astros-padres"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816451"
     },
     {
       "sport": "mlb",
@@ -796,8 +796,8 @@
       "away_team": "Athletics",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "64-51",
-      "away_record": "45-71",
+      "home_record": "64-52",
+      "away_record": "46-71",
       "venue": "Fenway Park",
       "broadcasts": [
         "MLB.TV",
