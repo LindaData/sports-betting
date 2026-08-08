@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-08T04:05:01.810740Z",
+  "refreshed_at_utc": "2026-08-08T05:13:22.676223Z",
   "dates_requested": [
     "20260807",
     "20260808",
@@ -90,17 +90,17 @@
       "date_utc": "2026-08-07T23:05Z",
       "name": "Atlanta Braves at New York Yankees",
       "short_name": "ATL @ NYY",
-      "status": "In Progress",
-      "status_short": "Mid 10th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final/10",
+      "state": "post",
       "period": 10,
       "clock": "0:00",
       "home_team": "New York Yankees",
       "away_team": "Atlanta Braves",
-      "home_score": "2",
+      "home_score": "3",
       "away_score": "2",
-      "home_record": "64-51",
-      "away_record": "70-45",
+      "home_record": "65-51",
+      "away_record": "70-46",
       "venue": "Yankee Stadium",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -108,7 +108,7 @@
         "BravesVision",
         "YES"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816426"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816426/braves-yankees"
     },
     {
       "sport": "mlb",
@@ -291,24 +291,24 @@
       "date_utc": "2026-08-08T01:40Z",
       "name": "Houston Astros at San Diego Padres",
       "short_name": "HOU @ SD",
-      "status": "In Progress",
-      "status_short": "Top 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "San Diego Padres",
       "away_team": "Houston Astros",
       "home_score": "3",
-      "away_score": "5",
-      "home_record": "60-56",
-      "away_record": "59-57",
+      "away_score": "6",
+      "home_record": "60-57",
+      "away_record": "60-57",
       "venue": "Petco Park",
       "broadcasts": [
         "MLB.TV",
         "Padres.TV",
         "Space City Home Network"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816436"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816436/astros-padres"
     },
     {
       "sport": "mlb",
@@ -316,24 +316,24 @@
       "date_utc": "2026-08-08T01:40Z",
       "name": "Los Angeles Dodgers at Arizona Diamondbacks",
       "short_name": "LAD @ ARI",
-      "status": "In Progress",
-      "status_short": "Bot 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Los Angeles Dodgers",
-      "home_score": "2",
+      "home_score": "4",
       "away_score": "3",
-      "home_record": "61-55",
-      "away_record": "69-46",
+      "home_record": "62-55",
+      "away_record": "69-47",
       "venue": "Chase Field",
       "broadcasts": [
         "MLB.TV",
         "SportsNet LA",
         "DBACKS.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816437"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816437/dodgers-diamondbacks"
     },
     {
       "sport": "mlb",
@@ -341,22 +341,22 @@
       "date_utc": "2026-08-08T01:45Z",
       "name": "Tampa Bay Rays at Seattle Mariners",
       "short_name": "TB @ SEA",
-      "status": "In Progress",
-      "status_short": "Top 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "Seattle Mariners",
       "away_team": "Tampa Bay Rays",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "2",
-      "home_record": "56-60",
-      "away_record": "68-46",
+      "home_record": "56-61",
+      "away_record": "69-46",
       "venue": "T-Mobile Park",
       "broadcasts": [
         "Apple TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816438"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816438/rays-mariners"
     },
     {
       "sport": "mlb",
@@ -364,17 +364,17 @@
       "date_utc": "2026-08-08T02:15Z",
       "name": "Detroit Tigers at San Francisco Giants",
       "short_name": "DET @ SF",
-      "status": "In Progress",
-      "status_short": "Top 7th",
-      "state": "in",
-      "period": 7,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "San Francisco Giants",
       "away_team": "Detroit Tigers",
       "home_score": "5",
       "away_score": "2",
-      "home_record": "48-67",
-      "away_record": "56-59",
+      "home_record": "49-67",
+      "away_record": "56-60",
       "venue": "Oracle Park",
       "broadcasts": [
         "MLB.TV",
@@ -382,7 +382,7 @@
         "KNTV",
         "Tigers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816435"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816435/tigers-giants"
     },
     {
       "sport": "mlb",
@@ -399,8 +399,8 @@
       "away_team": "Atlanta Braves",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "64-51",
-      "away_record": "70-45",
+      "home_record": "65-51",
+      "away_record": "70-46",
       "venue": "Yankee Stadium",
       "broadcasts": [
         "MLB.TV",
@@ -475,7 +475,7 @@
       "away_team": "Toronto Blue Jays",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "62-54",
+      "home_record": "62-55",
       "away_record": "55-62",
       "venue": "Citizens Bank Park",
       "broadcasts": [
@@ -672,8 +672,8 @@
       "away_team": "Detroit Tigers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "48-67",
-      "away_record": "56-59",
+      "home_record": "49-67",
+      "away_record": "56-60",
       "venue": "Oracle Park",
       "broadcasts": [
         "MLB.TV",
@@ -696,8 +696,8 @@
       "away_team": "Houston Astros",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "60-56",
-      "away_record": "59-57",
+      "home_record": "60-57",
+      "away_record": "60-57",
       "venue": "Petco Park",
       "broadcasts": [
         "MLB.TV",
@@ -722,8 +722,8 @@
       "away_team": "Los Angeles Dodgers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "61-55",
-      "away_record": "69-46",
+      "home_record": "62-55",
+      "away_record": "69-47",
       "venue": "Chase Field",
       "broadcasts": [
         "MLB.TV",
@@ -747,8 +747,8 @@
       "away_team": "Tampa Bay Rays",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "56-60",
-      "away_record": "68-46",
+      "home_record": "56-61",
+      "away_record": "69-46",
       "venue": "T-Mobile Park",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -821,8 +821,8 @@
       "away_team": "Atlanta Braves",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "64-51",
-      "away_record": "70-45",
+      "home_record": "65-51",
+      "away_record": "70-46",
       "venue": "Yankee Stadium",
       "broadcasts": [
         "MLB.TV",
@@ -870,7 +870,7 @@
       "away_team": "Toronto Blue Jays",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "62-54",
+      "home_record": "62-55",
       "away_record": "55-62",
       "venue": "Citizens Bank Park",
       "broadcasts": [
@@ -1046,8 +1046,8 @@
       "away_team": "Detroit Tigers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "48-67",
-      "away_record": "56-59",
+      "home_record": "49-67",
+      "away_record": "56-60",
       "venue": "Oracle Park",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -1072,8 +1072,8 @@
       "away_team": "Los Angeles Dodgers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "61-55",
-      "away_record": "69-46",
+      "home_record": "62-55",
+      "away_record": "69-47",
       "venue": "Chase Field",
       "broadcasts": [
         "MLB.TV",
@@ -1097,8 +1097,8 @@
       "away_team": "Tampa Bay Rays",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "56-60",
-      "away_record": "68-46",
+      "home_record": "56-61",
+      "away_record": "69-46",
       "venue": "T-Mobile Park",
       "broadcasts": [
         "MLB.TV",
@@ -1123,8 +1123,8 @@
       "away_team": "Houston Astros",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "60-56",
-      "away_record": "59-57",
+      "home_record": "60-57",
+      "away_record": "60-57",
       "venue": "Petco Park",
       "broadcasts": [
         "NBC"
