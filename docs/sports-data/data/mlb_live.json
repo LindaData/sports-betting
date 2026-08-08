@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-08T19:05:56.010091Z",
+  "refreshed_at_utc": "2026-08-08T19:50:05.662455Z",
   "dates_requested": [
     "20260807",
     "20260808",
@@ -390,14 +390,14 @@
       "date_utc": "2026-08-08T19:05Z",
       "name": "Atlanta Braves at New York Yankees",
       "short_name": "ATL @ NYY",
-      "status": "Scheduled",
-      "status_short": "8/8 - 3:05 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "New York Yankees",
       "away_team": "Atlanta Braves",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "65-51",
       "away_record": "70-46",
@@ -407,7 +407,7 @@
         "BravesVision",
         "YES"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816441/braves-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816441"
     },
     {
       "sport": "mlb",
