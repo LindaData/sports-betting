@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-08T19:50:05.662455Z",
+  "refreshed_at_utc": "2026-08-08T20:17:55.202310Z",
   "dates_requested": [
     "20260807",
     "20260808",
@@ -391,14 +391,14 @@
       "name": "Atlanta Braves at New York Yankees",
       "short_name": "ATL @ NYY",
       "status": "In Progress",
-      "status_short": "Bot 3rd",
+      "status_short": "Mid 5th",
       "state": "in",
-      "period": 3,
+      "period": 5,
       "clock": "0:00",
       "home_team": "New York Yankees",
       "away_team": "Atlanta Braves",
       "home_score": "1",
-      "away_score": "0",
+      "away_score": "2",
       "home_record": "65-51",
       "away_record": "70-46",
       "venue": "Yankee Stadium",
@@ -415,9 +415,9 @@
       "date_utc": "2026-08-08T20:10Z",
       "name": "Los Angeles Angels at Miami Marlins",
       "short_name": "LAA @ MIA",
-      "status": "Scheduled",
-      "status_short": "8/8 - 4:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Miami Marlins",
@@ -432,7 +432,7 @@
         "Marlins.TV",
         "Angels.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816439/angels-marlins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816439"
     },
     {
       "sport": "mlb",
@@ -440,9 +440,9 @@
       "date_utc": "2026-08-08T20:10Z",
       "name": "Athletics Athletics at Boston Red Sox",
       "short_name": "ATH @ BOS",
-      "status": "Scheduled",
-      "status_short": "8/8 - 4:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Boston Red Sox",
@@ -458,7 +458,7 @@
         "NBC Sports CA",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816440/athletics-red-sox"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816440"
     },
     {
       "sport": "mlb",
