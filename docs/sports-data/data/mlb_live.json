@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-09T04:42:25.677893Z",
+  "refreshed_at_utc": "2026-08-09T05:40:46.009689Z",
   "dates_requested": [
     "20260808",
     "20260809",
@@ -362,17 +362,17 @@
       "date_utc": "2026-08-09T01:50Z",
       "name": "Tampa Bay Rays at Seattle Mariners",
       "short_name": "TB @ SEA",
-      "status": "In Progress",
-      "status_short": "Bot 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "Seattle Mariners",
       "away_team": "Tampa Bay Rays",
       "home_score": "2",
       "away_score": "3",
-      "home_record": "56-61",
-      "away_record": "69-46",
+      "home_record": "56-62",
+      "away_record": "70-46",
       "venue": "T-Mobile Park",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -380,7 +380,7 @@
         "Rays.TV",
         "Mariners.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816453"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816453/rays-mariners"
     },
     {
       "sport": "mlb",
@@ -721,8 +721,8 @@
       "away_team": "Tampa Bay Rays",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "56-61",
-      "away_record": "69-46",
+      "home_record": "56-62",
+      "away_record": "70-46",
       "venue": "T-Mobile Park",
       "broadcasts": [
         "MLB.TV",
@@ -948,7 +948,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "46-71",
-      "away_record": "69-46",
+      "away_record": "70-46",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
