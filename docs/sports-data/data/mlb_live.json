@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-09T15:31:34.503658Z",
+  "refreshed_at_utc": "2026-08-09T16:22:12.511937Z",
   "dates_requested": [
     "20260808",
     "20260809",
@@ -388,9 +388,9 @@
       "date_utc": "2026-08-09T16:15Z",
       "name": "Cincinnati Reds at Washington Nationals",
       "short_name": "CIN @ WSH",
-      "status": "Scheduled",
-      "status_short": "8/9 - 12:15 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Washington Nationals",
@@ -403,7 +403,7 @@
       "broadcasts": [
         "Peacock"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816457/reds-nationals"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816457"
     },
     {
       "sport": "mlb",
