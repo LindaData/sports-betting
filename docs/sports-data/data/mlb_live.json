@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-09T22:56:40.044229Z",
+  "refreshed_at_utc": "2026-08-09T23:25:04.341101Z",
   "dates_requested": [
     "20260808",
     "20260809",
@@ -562,9 +562,9 @@
       "name": "Cleveland Guardians at Chicago White Sox",
       "short_name": "CLE @ CHW",
       "status": "In Progress",
-      "status_short": "Bot 7th",
+      "status_short": "Top 9th",
       "state": "in",
-      "period": 7,
+      "period": 9,
       "clock": "0:00",
       "home_team": "Chicago White Sox",
       "away_team": "Cleveland Guardians",
@@ -712,17 +712,17 @@
       "date_utc": "2026-08-09T20:10Z",
       "name": "Tampa Bay Rays at Seattle Mariners",
       "short_name": "TB @ SEA",
-      "status": "In Progress",
-      "status_short": "Bot 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "Seattle Mariners",
       "away_team": "Tampa Bay Rays",
       "home_score": "1",
       "away_score": "4",
-      "home_record": "56-62",
-      "away_record": "70-46",
+      "home_record": "56-63",
+      "away_record": "71-46",
       "venue": "T-Mobile Park",
       "broadcasts": [
         "MLB.TV",
@@ -730,7 +730,7 @@
         "WMOR",
         "Mariners.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816468"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816468/rays-mariners"
     },
     {
       "sport": "mlb",
@@ -948,7 +948,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "47-71",
-      "away_record": "70-46",
+      "away_record": "71-46",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
