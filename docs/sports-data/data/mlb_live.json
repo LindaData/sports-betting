@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-11T04:46:48.485311Z",
+  "refreshed_at_utc": "2026-08-11T05:47:29.251231Z",
   "dates_requested": [
     "20260810",
     "20260811",
@@ -115,24 +115,24 @@
       "date_utc": "2026-08-11T01:38Z",
       "name": "Texas Rangers at Los Angeles Angels",
       "short_name": "TEX @ LAA",
-      "status": "In Progress",
-      "status_short": "Top 10th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final/10",
+      "state": "post",
       "period": 10,
       "clock": "0:00",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
       "home_score": "1",
       "away_score": "4",
-      "home_record": "45-73",
-      "away_record": "59-59",
+      "home_record": "45-74",
+      "away_record": "60-59",
       "venue": "Angel Stadium",
       "broadcasts": [
         "MLB.TV",
         "Rangers Sports Network",
         "Angels.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816478"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816478/rangers-angels"
     },
     {
       "sport": "mlb",
@@ -241,24 +241,24 @@
       "date_utc": "2026-08-11T02:10Z",
       "name": "Kansas City Royals at Los Angeles Dodgers",
       "short_name": "KC @ LAD",
-      "status": "In Progress",
-      "status_short": "Top 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Kansas City Royals",
       "home_score": "6",
       "away_score": "5",
-      "home_record": "70-48",
-      "away_record": "49-70",
+      "home_record": "71-48",
+      "away_record": "49-71",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "MLB.TV",
         "Royals.TV",
         "SportsNet LA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816475"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816475/royals-dodgers"
     },
     {
       "sport": "mlb",
@@ -503,8 +503,8 @@
       "away_team": "Texas Rangers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "45-73",
-      "away_record": "59-59",
+      "home_record": "45-74",
+      "away_record": "60-59",
       "venue": "Angel Stadium",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -629,8 +629,8 @@
       "away_team": "Kansas City Royals",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "70-48",
-      "away_record": "49-70",
+      "home_record": "71-48",
+      "away_record": "49-71",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "MLB.TV",
@@ -980,8 +980,8 @@
       "away_team": "Texas Rangers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "45-73",
-      "away_record": "59-59",
+      "home_record": "45-74",
+      "away_record": "60-59",
       "venue": "Angel Stadium",
       "broadcasts": [
         "ESPN"
@@ -1003,8 +1003,8 @@
       "away_team": "Kansas City Royals",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "70-48",
-      "away_record": "49-70",
+      "home_record": "71-48",
+      "away_record": "49-71",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "MLB.TV",
