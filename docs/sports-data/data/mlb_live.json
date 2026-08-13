@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-13T21:34:55.306690Z",
+  "refreshed_at_utc": "2026-08-13T22:31:14.974882Z",
   "dates_requested": [
     "20260812",
     "20260813",
@@ -514,24 +514,24 @@
       "date_utc": "2026-08-13T20:05Z",
       "name": "Chicago Cubs at Washington Nationals",
       "short_name": "CHC @ WSH",
-      "status": "In Progress",
-      "status_short": "Top 6th",
-      "state": "in",
-      "period": 6,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Washington Nationals",
       "away_team": "Chicago Cubs",
-      "home_score": "6",
+      "home_score": "7",
       "away_score": "0",
-      "home_record": "59-63",
-      "away_record": "71-50",
+      "home_record": "60-63",
+      "away_record": "71-51",
       "venue": "Nationals Park",
       "broadcasts": [
         "MLB.TV",
         "Marquee Sports Net",
         "Nationals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816510"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816510/cubs-nationals"
     },
     {
       "sport": "mlb",
@@ -621,7 +621,7 @@
       "away_team": "St. Louis Cardinals",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "71-50",
+      "home_record": "71-51",
       "away_record": "61-60",
       "venue": "Wrigley Field",
       "broadcasts": [
@@ -670,7 +670,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "59-64",
-      "away_record": "64-56",
+      "away_record": "65-56",
       "venue": "PNC Park",
       "broadcasts": [
         "MLB.TV",
@@ -770,7 +770,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "53-69",
-      "away_record": "59-63",
+      "away_record": "60-63",
       "venue": "Citi Field",
       "broadcasts": [
         "MLB.TV",
