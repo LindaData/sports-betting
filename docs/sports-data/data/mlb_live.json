@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-13T20:30:58.940754Z",
+  "refreshed_at_utc": "2026-08-13T21:34:55.306690Z",
   "dates_requested": [
     "20260812",
     "20260813",
@@ -488,17 +488,17 @@
       "date_utc": "2026-08-13T19:07Z",
       "name": "Boston Red Sox at Toronto Blue Jays",
       "short_name": "BOS @ TOR",
-      "status": "In Progress",
-      "status_short": "Top 6th",
-      "state": "in",
-      "period": 6,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Toronto Blue Jays",
       "away_team": "Boston Red Sox",
       "home_score": "0",
-      "away_score": "1",
-      "home_record": "59-63",
-      "away_record": "64-56",
+      "away_score": "7",
+      "home_record": "59-64",
+      "away_record": "65-56",
       "venue": "Rogers Centre",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -506,7 +506,7 @@
         "Sportsnet",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816509"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816509/red-sox-blue-jays"
     },
     {
       "sport": "mlb",
@@ -515,13 +515,13 @@
       "name": "Chicago Cubs at Washington Nationals",
       "short_name": "CHC @ WSH",
       "status": "In Progress",
-      "status_short": "Top 3rd",
+      "status_short": "Top 6th",
       "state": "in",
-      "period": 3,
+      "period": 6,
       "clock": "0:00",
       "home_team": "Washington Nationals",
       "away_team": "Chicago Cubs",
-      "home_score": "0",
+      "home_score": "6",
       "away_score": "0",
       "home_record": "59-63",
       "away_record": "71-50",
@@ -819,7 +819,7 @@
       "away_team": "New York Yankees",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "59-63",
+      "home_record": "59-64",
       "away_record": "68-53",
       "venue": "Rogers Centre",
       "broadcasts": [
