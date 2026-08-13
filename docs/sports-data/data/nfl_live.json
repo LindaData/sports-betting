@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-13T22:31:14.974882Z",
+  "refreshed_at_utc": "2026-08-13T23:31:10.041654Z",
   "dates_requested": [
     "20260812",
     "20260813",
@@ -14,11 +14,11 @@
       "date_utc": "2026-08-13T23:00Z",
       "name": "Detroit Lions at Cincinnati Bengals",
       "short_name": "DET @ CIN",
-      "status": "Scheduled",
-      "status_short": "8/13 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "3:52 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "3:52",
       "home_team": "Cincinnati Bengals",
       "away_team": "Detroit Lions",
       "home_score": "0",
@@ -27,7 +27,7 @@
       "away_record": "0-0",
       "venue": "Paycor Stadium",
       "broadcasts": [],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873272/lions-bengals"
+      "link": "https://www.espn.com/nfl/game?gameId=401873272"
     },
     {
       "sport": "nfl",
@@ -35,22 +35,22 @@
       "date_utc": "2026-08-13T23:00Z",
       "name": "Green Bay Packers at Pittsburgh Steelers",
       "short_name": "GB @ PIT",
-      "status": "Scheduled",
-      "status_short": "8/13 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "5:01 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "5:01",
       "home_team": "Pittsburgh Steelers",
       "away_team": "Green Bay Packers",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "3",
       "home_record": "0-0",
       "away_record": "0-0",
       "venue": "Acrisure Stadium",
       "broadcasts": [
         "NFL Net"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873275/packers-steelers"
+      "link": "https://www.espn.com/nfl/game?gameId=401873275"
     },
     {
       "sport": "nfl",
