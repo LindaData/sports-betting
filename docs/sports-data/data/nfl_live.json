@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-14T03:33:34.701245Z",
+  "refreshed_at_utc": "2026-08-14T05:24:27.108157Z",
   "dates_requested": [
     "20260813",
     "20260814",
@@ -132,22 +132,22 @@
       "date_utc": "2026-08-14T01:00Z",
       "name": "Tennessee Titans at San Francisco 49ers",
       "short_name": "TEN @ SF",
-      "status": "In Progress",
-      "status_short": "10:20 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "10:20",
+      "clock": "0:00",
       "home_team": "San Francisco 49ers",
       "away_team": "Tennessee Titans",
-      "home_score": "10",
-      "away_score": "16",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "home_score": "13",
+      "away_score": "19",
+      "home_record": "0-1",
+      "away_record": "1-0",
       "venue": "Levi's Stadium",
       "broadcasts": [
         "NFL Net"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401874392"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401874392/titans-49ers"
     },
     {
       "sport": "nfl",

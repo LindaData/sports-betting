@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-14T03:33:34.701245Z",
+  "refreshed_at_utc": "2026-08-14T05:24:27.108157Z",
   "dates_requested": [
     "20260813",
     "20260814",
@@ -188,24 +188,24 @@
       "date_utc": "2026-08-14T02:07Z",
       "name": "Texas Rangers at Los Angeles Angels",
       "short_name": "TEX @ LAA",
-      "status": "In Progress",
-      "status_short": "Top 5th",
-      "state": "in",
-      "period": 5,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
-      "home_score": "2",
+      "home_score": "7",
       "away_score": "0",
-      "home_record": "47-74",
-      "away_record": "60-61",
+      "home_record": "48-74",
+      "away_record": "60-62",
       "venue": "Angel Stadium",
       "broadcasts": [
         "MLB.TV",
         "Rangers Sports Network",
         "Angels.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816516"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816516/rangers-angels"
     },
     {
       "sport": "mlb",
@@ -213,24 +213,24 @@
       "date_utc": "2026-08-14T02:10Z",
       "name": "Milwaukee Brewers at Los Angeles Dodgers",
       "short_name": "MIL @ LAD",
-      "status": "In Progress",
-      "status_short": "Top 6th",
-      "state": "in",
-      "period": 6,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Milwaukee Brewers",
-      "home_score": "1",
-      "away_score": "2",
-      "home_record": "73-48",
-      "away_record": "74-47",
+      "home_score": "4",
+      "away_score": "5",
+      "home_record": "73-49",
+      "away_record": "75-47",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "MLB.TV",
         "SportsNet LA",
         "Brewers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816515"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816515/brewers-dodgers"
     },
     {
       "sport": "mlb",
@@ -494,7 +494,7 @@
       "away_team": "Kansas City Royals",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "47-74",
+      "home_record": "48-74",
       "away_record": "49-73",
       "venue": "Angel Stadium",
       "broadcasts": [
@@ -520,7 +520,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "47-74",
-      "away_record": "60-61",
+      "away_record": "60-62",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
@@ -544,8 +544,8 @@
       "away_team": "Milwaukee Brewers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "73-48",
-      "away_record": "74-47",
+      "home_record": "73-49",
+      "away_record": "75-47",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -899,8 +899,8 @@
       "away_team": "Milwaukee Brewers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "73-48",
-      "away_record": "74-47",
+      "home_record": "73-49",
+      "away_record": "75-47",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "MLB.TV",
@@ -923,7 +923,7 @@
       "away_team": "Kansas City Royals",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "47-74",
+      "home_record": "48-74",
       "away_record": "49-73",
       "venue": "Angel Stadium",
       "broadcasts": [
@@ -949,7 +949,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "47-74",
-      "away_record": "60-61",
+      "away_record": "60-62",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "ESPN Unlmtd",
