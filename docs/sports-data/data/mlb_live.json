@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-14T20:01:37.516494Z",
+  "refreshed_at_utc": "2026-08-14T20:52:33.219798Z",
   "dates_requested": [
     "20260813",
     "20260814",
@@ -239,9 +239,9 @@
       "name": "St. Louis Cardinals at Chicago Cubs",
       "short_name": "STL @ CHC",
       "status": "In Progress",
-      "status_short": "Bot 6th",
+      "status_short": "Top 9th",
       "state": "in",
-      "period": 6,
+      "period": 9,
       "clock": "0:00",
       "home_team": "Chicago Cubs",
       "away_team": "St. Louis Cardinals",
