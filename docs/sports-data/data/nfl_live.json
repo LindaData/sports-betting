@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-14T15:12:33.994877Z",
+  "refreshed_at_utc": "2026-08-14T16:11:41.461006Z",
   "dates_requested": [
     "20260813",
     "20260814",
@@ -168,7 +168,8 @@
       "away_record": "0-0",
       "venue": "Mercedes-Benz Stadium",
       "broadcasts": [
-        "ESPN Unlmtd"
+        "ESPN Unlmtd",
+        "KUSA-TV (9NEWS)"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401873278/broncos-falcons"
     },
@@ -262,7 +263,8 @@
       "away_record": "0-0",
       "venue": "Soldier Field",
       "broadcasts": [
-        "NFL Net"
+        "NFL Net",
+        "FOX32"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401874393/browns-bears"
     },
@@ -308,7 +310,9 @@
       "away_record": "0-0",
       "venue": "GEHA Field at Arrowhead Stadium",
       "broadcasts": [
-        "NFL Net"
+        "NFL Net",
+        "KSHB",
+        "KCBS-TV"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401873283/rams-chiefs"
     },
@@ -331,7 +335,8 @@
       "away_record": "0-0",
       "venue": "Caesars Superdome",
       "broadcasts": [
-        "ESPN Unlmtd"
+        "ESPN Unlmtd",
+        "FOX30"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401873281/jaguars-saints"
     },
