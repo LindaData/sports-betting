@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-14T22:46:20.669879Z",
+  "refreshed_at_utc": "2026-08-14T23:12:36.130484Z",
   "dates_requested": [
     "20260813",
     "20260814",
@@ -155,15 +155,15 @@
       "date_utc": "2026-08-14T23:00Z",
       "name": "Denver Broncos at Atlanta Falcons",
       "short_name": "DEN @ ATL",
-      "status": "Scheduled",
-      "status_short": "8/14 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "11:39 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "11:39",
       "home_team": "Atlanta Falcons",
       "away_team": "Denver Broncos",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "7",
       "home_record": "0-0",
       "away_record": "0-0",
       "venue": "Mercedes-Benz Stadium",
@@ -171,7 +171,7 @@
         "ESPN Unlmtd",
         "KUSA-TV (9NEWS)"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873278/broncos-falcons"
+      "link": "https://www.espn.com/nfl/game?gameId=401873278"
     },
     {
       "sport": "nfl",
@@ -179,11 +179,11 @@
       "date_utc": "2026-08-14T23:00Z",
       "name": "Tampa Bay Buccaneers at New York Jets",
       "short_name": "TB @ NYJ",
-      "status": "Scheduled",
-      "status_short": "8/14 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:13 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "13:13",
       "home_team": "New York Jets",
       "away_team": "Tampa Bay Buccaneers",
       "home_score": "0",
@@ -195,7 +195,7 @@
         "NFL Net",
         "WCBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873276/buccaneers-jets"
+      "link": "https://www.espn.com/nfl/game?gameId=401873276"
     },
     {
       "sport": "nfl",
@@ -203,11 +203,11 @@
       "date_utc": "2026-08-14T23:00Z",
       "name": "Miami Dolphins at Washington Commanders",
       "short_name": "MIA @ WSH",
-      "status": "Scheduled",
-      "status_short": "8/14 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:25 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "13:25",
       "home_team": "Washington Commanders",
       "away_team": "Miami Dolphins",
       "home_score": "0",
@@ -219,7 +219,7 @@
         "WUSA9",
         "CBS Miami"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873277/dolphins-commanders"
+      "link": "https://www.espn.com/nfl/game?gameId=401873277"
     },
     {
       "sport": "nfl",

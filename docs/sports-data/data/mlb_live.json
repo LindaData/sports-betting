@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-14T22:46:20.669879Z",
+  "refreshed_at_utc": "2026-08-14T23:12:36.130484Z",
   "dates_requested": [
     "20260813",
     "20260814",
@@ -262,9 +262,9 @@
       "name": "Miami Marlins at Cincinnati Reds",
       "short_name": "MIA @ CIN",
       "status": "In Progress",
-      "status_short": "Top 3rd",
+      "status_short": "Top 5th",
       "state": "in",
-      "period": 3,
+      "period": 5,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
       "away_team": "Miami Marlins",
@@ -287,13 +287,13 @@
       "name": "Boston Red Sox at Pittsburgh Pirates",
       "short_name": "BOS @ PIT",
       "status": "In Progress",
-      "status_short": "Top 1st",
+      "status_short": "Top 3rd",
       "state": "in",
-      "period": 1,
+      "period": 3,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Boston Red Sox",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "59-64",
       "away_record": "65-56",
@@ -311,14 +311,14 @@
       "name": "Chicago White Sox at Detroit Tigers",
       "short_name": "CHW @ DET",
       "status": "In Progress",
-      "status_short": "Top 1st",
+      "status_short": "Bot 2nd",
       "state": "in",
-      "period": 1,
+      "period": 2,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
       "away_team": "Chicago White Sox",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "60-61",
       "away_record": "62-58",
       "venue": "Comerica Park",
@@ -335,9 +335,9 @@
       "date_utc": "2026-08-14T23:10Z",
       "name": "Baltimore Orioles at Tampa Bay Rays",
       "short_name": "BAL @ TB",
-      "status": "Scheduled",
-      "status_short": "8/14 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
@@ -352,7 +352,7 @@
         "Rays.TV",
         "MASN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816518/orioles-rays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816518"
     },
     {
       "sport": "mlb",
@@ -360,9 +360,9 @@
       "date_utc": "2026-08-14T23:10Z",
       "name": "San Diego Padres at Cleveland Guardians",
       "short_name": "SD @ CLE",
-      "status": "Scheduled",
-      "status_short": "8/14 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
@@ -378,7 +378,7 @@
         "WKYC 3",
         "Padres.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816523/padres-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816523"
     },
     {
       "sport": "mlb",
@@ -386,9 +386,9 @@
       "date_utc": "2026-08-14T23:10Z",
       "name": "Washington Nationals at New York Mets",
       "short_name": "WSH @ NYM",
-      "status": "Scheduled",
-      "status_short": "8/14 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Mets",
@@ -403,7 +403,7 @@
         "Nationals.TV",
         "WPIX"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816524/nationals-mets"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816524"
     },
     {
       "sport": "mlb",
