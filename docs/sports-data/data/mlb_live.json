@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-14T21:46:10.294072Z",
+  "refreshed_at_utc": "2026-08-14T22:12:32.625022Z",
   "dates_requested": [
     "20260813",
     "20260814",
@@ -261,9 +261,9 @@
       "date_utc": "2026-08-14T22:10Z",
       "name": "Miami Marlins at Cincinnati Reds",
       "short_name": "MIA @ CIN",
-      "status": "Scheduled",
-      "status_short": "8/14 - 6:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
@@ -278,7 +278,7 @@
         "Reds.TV",
         "Marlins.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816521/marlins-reds"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816521"
     },
     {
       "sport": "mlb",
