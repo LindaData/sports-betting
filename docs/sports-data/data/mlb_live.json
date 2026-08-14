@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-14T18:12:38.562397Z",
+  "refreshed_at_utc": "2026-08-14T19:25:17.084079Z",
   "dates_requested": [
     "20260813",
     "20260814",
@@ -238,10 +238,10 @@
       "date_utc": "2026-08-14T18:20Z",
       "name": "St. Louis Cardinals at Chicago Cubs",
       "short_name": "STL @ CHC",
-      "status": "Scheduled",
-      "status_short": "8/14 - 2:20 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 5th",
+      "state": "in",
+      "period": 5,
       "clock": "0:00",
       "home_team": "Chicago Cubs",
       "away_team": "St. Louis Cardinals",
@@ -253,7 +253,7 @@
       "broadcasts": [
         "Apple TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816527/cardinals-cubs"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816527"
     },
     {
       "sport": "mlb",
