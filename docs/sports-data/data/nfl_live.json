@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-14T16:11:41.461006Z",
+  "refreshed_at_utc": "2026-08-14T17:23:45.616637Z",
   "dates_requested": [
     "20260813",
     "20260814",
@@ -192,7 +192,8 @@
       "away_record": "0-0",
       "venue": "MetLife Stadium",
       "broadcasts": [
-        "NFL Net"
+        "NFL Net",
+        "WCBS"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401873276/buccaneers-jets"
     },
@@ -336,7 +337,8 @@
       "venue": "Caesars Superdome",
       "broadcasts": [
         "ESPN Unlmtd",
-        "FOX30"
+        "FOX30",
+        "Fox 8"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401873281/jaguars-saints"
     },
@@ -359,7 +361,8 @@
       "away_record": "0-0",
       "venue": "M&T Bank Stadium",
       "broadcasts": [
-        "ESPN Unlmtd"
+        "ESPN Unlmtd",
+        "NBC 10"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401873284/eagles-ravens"
     },
@@ -382,7 +385,8 @@
       "away_record": "0-0",
       "venue": "Lumen Field",
       "broadcasts": [
-        "NFL Net"
+        "NFL Net",
+        "KING 5"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401873279/cowboys-seahawks"
     }
