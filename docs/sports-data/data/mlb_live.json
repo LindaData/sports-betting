@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-14T22:12:32.625022Z",
+  "refreshed_at_utc": "2026-08-14T22:46:20.669879Z",
   "dates_requested": [
     "20260813",
     "20260814",
@@ -262,9 +262,9 @@
       "name": "Miami Marlins at Cincinnati Reds",
       "short_name": "MIA @ CIN",
       "status": "In Progress",
-      "status_short": "Top 1st",
+      "status_short": "Top 3rd",
       "state": "in",
-      "period": 1,
+      "period": 3,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
       "away_team": "Miami Marlins",
@@ -286,9 +286,9 @@
       "date_utc": "2026-08-14T22:40Z",
       "name": "Boston Red Sox at Pittsburgh Pirates",
       "short_name": "BOS @ PIT",
-      "status": "Scheduled",
-      "status_short": "8/14 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
@@ -302,7 +302,7 @@
         "MLB.TV",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816519/red-sox-pirates"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816519"
     },
     {
       "sport": "mlb",
@@ -310,9 +310,9 @@
       "date_utc": "2026-08-14T22:40Z",
       "name": "Chicago White Sox at Detroit Tigers",
       "short_name": "CHW @ DET",
-      "status": "Scheduled",
-      "status_short": "8/14 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
@@ -327,7 +327,7 @@
         "Tigers.TV",
         "CHSN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816520/white-sox-tigers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816520"
     },
     {
       "sport": "mlb",
