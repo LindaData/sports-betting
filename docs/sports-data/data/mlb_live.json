@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-15T22:44:10.502985Z",
+  "refreshed_at_utc": "2026-08-15T23:11:41.321169Z",
   "dates_requested": [
     "20260814",
     "20260815",
@@ -463,17 +463,17 @@
       "date_utc": "2026-08-15T20:10Z",
       "name": "Washington Nationals at New York Mets",
       "short_name": "WSH @ NYM",
-      "status": "In Progress",
-      "status_short": "End 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "New York Mets",
       "away_team": "Washington Nationals",
-      "home_score": "3",
+      "home_score": "5",
       "away_score": "4",
-      "home_record": "54-69",
-      "away_record": "60-64",
+      "home_record": "55-69",
+      "away_record": "60-65",
       "venue": "Citi Field",
       "broadcasts": [
         "MLB.TV",
@@ -481,7 +481,7 @@
         "Nationals.TV",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816539"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816539/nationals-mets"
     },
     {
       "sport": "mlb",
@@ -490,13 +490,13 @@
       "name": "Baltimore Orioles at Tampa Bay Rays",
       "short_name": "BAL @ TB",
       "status": "In Progress",
-      "status_short": "Top 3rd",
+      "status_short": "Bot 4th",
       "state": "in",
-      "period": 3,
+      "period": 4,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
       "away_team": "Baltimore Orioles",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "1",
       "home_record": "74-47",
       "away_record": "59-63",
@@ -515,9 +515,9 @@
       "name": "Miami Marlins at Cincinnati Reds",
       "short_name": "MIA @ CIN",
       "status": "In Progress",
-      "status_short": "Top 1st",
+      "status_short": "End 2nd",
       "state": "in",
-      "period": 1,
+      "period": 2,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
       "away_team": "Miami Marlins",
@@ -539,9 +539,9 @@
       "date_utc": "2026-08-15T23:10Z",
       "name": "San Diego Padres at Cleveland Guardians",
       "short_name": "SD @ CLE",
-      "status": "Scheduled",
-      "status_short": "8/15 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
@@ -558,7 +558,7 @@
         "KFMB 8.1 (CBS)",
         "TV Azteca"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816538/padres-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816538"
     },
     {
       "sport": "mlb",
@@ -566,9 +566,9 @@
       "date_utc": "2026-08-15T23:10Z",
       "name": "Philadelphia Phillies at Minnesota Twins",
       "short_name": "PHI @ MIN",
-      "status": "Scheduled",
-      "status_short": "8/15 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Minnesota Twins",
@@ -583,7 +583,7 @@
         "Twins.TV",
         "NBC Sports Phil"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816540/phillies-twins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816540"
     },
     {
       "sport": "mlb",
@@ -591,9 +591,9 @@
       "date_utc": "2026-08-15T23:10Z",
       "name": "Seattle Mariners at Houston Astros",
       "short_name": "SEA @ HOU",
-      "status": "Scheduled",
-      "status_short": "8/15 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Houston Astros",
@@ -609,7 +609,7 @@
         "Space City Home (Alt.)",
         "Mariners.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816541/mariners-astros"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816541"
     },
     {
       "sport": "mlb",
@@ -923,8 +923,8 @@
       "away_team": "Washington Nationals",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "54-69",
-      "away_record": "60-64",
+      "home_record": "55-69",
+      "away_record": "60-65",
       "venue": "Citi Field",
       "broadcasts": [
         "ESPN Unlmtd",
