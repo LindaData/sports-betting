@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-15T19:41:48.451637Z",
+  "refreshed_at_utc": "2026-08-15T20:11:20.318035Z",
   "dates_requested": [
     "20260814",
     "20260815",
@@ -86,23 +86,23 @@
       "date_utc": "2026-08-15T17:00Z",
       "name": "Carolina Panthers at Buffalo Bills",
       "short_name": "CAR @ BUF",
-      "status": "In Progress",
-      "status_short": "4:33 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "4:33",
+      "clock": "0:00",
       "home_team": "Buffalo Bills",
       "away_team": "Carolina Panthers",
       "home_score": "29",
-      "away_score": "7",
-      "home_record": "0-0",
-      "away_record": "1-0",
+      "away_score": "14",
+      "home_record": "1-0",
+      "away_record": "1-1",
       "venue": "Highmark Stadium",
       "broadcasts": [
         "WIVB",
         "WSOC-TV Channel 9"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873282"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873282/panthers-bills"
     },
     {
       "sport": "nfl",
@@ -110,23 +110,23 @@
       "date_utc": "2026-08-15T17:00Z",
       "name": "Cleveland Browns at Chicago Bears",
       "short_name": "CLE @ CHI",
-      "status": "In Progress",
-      "status_short": "8:41 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "8:41",
+      "clock": "0:00",
       "home_team": "Chicago Bears",
       "away_team": "Cleveland Browns",
-      "home_score": "27",
+      "home_score": "34",
       "away_score": "10",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "home_record": "1-0",
+      "away_record": "0-1",
       "venue": "Soldier Field",
       "broadcasts": [
         "NFL Net",
         "FOX32"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401874393"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401874393/browns-bears"
     },
     {
       "sport": "nfl",
@@ -134,22 +134,22 @@
       "date_utc": "2026-08-15T17:00Z",
       "name": "Minnesota Vikings at New York Giants",
       "short_name": "MIN @ NYG",
-      "status": "In Progress",
-      "status_short": "9:07 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "9:07",
+      "clock": "0:00",
       "home_team": "New York Giants",
       "away_team": "Minnesota Vikings",
       "home_score": "10",
       "away_score": "13",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "home_record": "0-1",
+      "away_record": "1-0",
       "venue": "MetLife Stadium",
       "broadcasts": [
         "ESPN Unlmtd"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873280"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873280/vikings-giants"
     },
     {
       "sport": "nfl",
@@ -157,11 +157,11 @@
       "date_utc": "2026-08-15T20:00Z",
       "name": "Los Angeles Rams at Kansas City Chiefs",
       "short_name": "LAR @ KC",
-      "status": "Scheduled",
-      "status_short": "8/15 - 4:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "11:50 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "11:50",
       "home_team": "Kansas City Chiefs",
       "away_team": "Los Angeles Rams",
       "home_score": "0",
@@ -174,7 +174,7 @@
         "KSHB",
         "KCBS-TV"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873283/rams-chiefs"
+      "link": "https://www.espn.com/nfl/game?gameId=401873283"
     },
     {
       "sport": "nfl",
@@ -182,14 +182,14 @@
       "date_utc": "2026-08-15T20:00Z",
       "name": "Jacksonville Jaguars at New Orleans Saints",
       "short_name": "JAX @ NO",
-      "status": "Scheduled",
-      "status_short": "8/15 - 4:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:34 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "14:34",
       "home_team": "New Orleans Saints",
       "away_team": "Jacksonville Jaguars",
-      "home_score": "0",
+      "home_score": "7",
       "away_score": "0",
       "home_record": "0-0",
       "away_record": "0-0",
@@ -199,7 +199,7 @@
         "FOX30",
         "Fox 8"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873281/jaguars-saints"
+      "link": "https://www.espn.com/nfl/game?gameId=401873281"
     },
     {
       "sport": "nfl",

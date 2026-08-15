@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-15T19:41:48.451637Z",
+  "refreshed_at_utc": "2026-08-15T20:11:20.318035Z",
   "dates_requested": [
     "20260814",
     "20260815",
@@ -362,24 +362,24 @@
       "date_utc": "2026-08-15T17:10Z",
       "name": "Chicago White Sox at Detroit Tigers",
       "short_name": "CHW @ DET",
-      "status": "In Progress",
-      "status_short": "Bot 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
       "away_team": "Chicago White Sox",
       "home_score": "3",
       "away_score": "4",
-      "home_record": "60-62",
-      "away_record": "63-58",
+      "home_record": "60-63",
+      "away_record": "64-58",
       "venue": "Comerica Park",
       "broadcasts": [
         "MLB.TV",
         "Tigers.TV",
         "CHSN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816535"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816535/white-sox-tigers"
     },
     {
       "sport": "mlb",
@@ -388,14 +388,14 @@
       "name": "St. Louis Cardinals at Chicago Cubs",
       "short_name": "STL @ CHC",
       "status": "In Progress",
-      "status_short": "Top 5th",
+      "status_short": "Bot 6th",
       "state": "in",
-      "period": 5,
+      "period": 6,
       "clock": "0:00",
       "home_team": "Chicago Cubs",
       "away_team": "St. Louis Cardinals",
       "home_score": "3",
-      "away_score": "4",
+      "away_score": "7",
       "home_record": "72-51",
       "away_record": "61-61",
       "venue": "Wrigley Field",
@@ -413,13 +413,13 @@
       "name": "New York Yankees at Toronto Blue Jays",
       "short_name": "NYY @ TOR",
       "status": "In Progress",
-      "status_short": "Bot 2nd",
+      "status_short": "Top 4th",
       "state": "in",
-      "period": 2,
+      "period": 4,
       "clock": "0:00",
       "home_team": "Toronto Blue Jays",
       "away_team": "New York Yankees",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "1",
       "home_record": "60-64",
       "away_record": "68-54",
@@ -438,9 +438,9 @@
       "date_utc": "2026-08-15T20:05Z",
       "name": "Colorado Rockies at San Francisco Giants",
       "short_name": "COL @ SF",
-      "status": "Scheduled",
-      "status_short": "8/15 - 4:05 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "San Francisco Giants",
@@ -455,7 +455,7 @@
         "NBC Sports BA",
         "Rockies.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816543/rockies-giants"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816543"
     },
     {
       "sport": "mlb",
@@ -463,9 +463,9 @@
       "date_utc": "2026-08-15T20:10Z",
       "name": "Washington Nationals at New York Mets",
       "short_name": "WSH @ NYM",
-      "status": "Scheduled",
-      "status_short": "8/15 - 4:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Mets",
@@ -481,7 +481,7 @@
         "Nationals.TV",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816539/nationals-mets"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816539"
     },
     {
       "sport": "mlb",
@@ -848,8 +848,8 @@
       "away_team": "Chicago White Sox",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "60-62",
-      "away_record": "63-58",
+      "home_record": "60-63",
+      "away_record": "64-58",
       "venue": "Comerica Park",
       "broadcasts": [
         "MLB.TV",
