@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-15T02:08:04.099220Z",
+  "refreshed_at_utc": "2026-08-15T03:09:53.815519Z",
   "dates_requested": [
     "20260814",
     "20260815",
@@ -14,23 +14,23 @@
       "date_utc": "2026-08-14T23:00Z",
       "name": "Denver Broncos at Atlanta Falcons",
       "short_name": "DEN @ ATL",
-      "status": "In Progress",
-      "status_short": "End of 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
       "clock": "0:00",
       "home_team": "Atlanta Falcons",
       "away_team": "Denver Broncos",
       "home_score": "7",
       "away_score": "27",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "home_record": "0-1",
+      "away_record": "1-0",
       "venue": "Mercedes-Benz Stadium",
       "broadcasts": [
         "ESPN Unlmtd",
         "KUSA-TV (9NEWS)"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873278"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873278/broncos-falcons"
     },
     {
       "sport": "nfl",
