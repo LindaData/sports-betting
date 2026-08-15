@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-15T16:46:50.119577Z",
+  "refreshed_at_utc": "2026-08-15T17:12:06.943300Z",
   "dates_requested": [
     "20260814",
     "20260815",
@@ -362,9 +362,9 @@
       "date_utc": "2026-08-15T17:10Z",
       "name": "Chicago White Sox at Detroit Tigers",
       "short_name": "CHW @ DET",
-      "status": "Scheduled",
-      "status_short": "8/15 - 1:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
@@ -379,7 +379,7 @@
         "Tigers.TV",
         "CHSN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816535/white-sox-tigers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816535"
     },
     {
       "sport": "mlb",
