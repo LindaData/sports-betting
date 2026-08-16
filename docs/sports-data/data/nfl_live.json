@@ -1,85 +1,13 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-15T23:40:56.528899Z",
+  "refreshed_at_utc": "2026-08-16T00:42:36.355386Z",
   "dates_requested": [
-    "20260814",
     "20260815",
-    "20260816"
+    "20260816",
+    "20260817"
   ],
-  "event_count": 10,
+  "event_count": 7,
   "events": [
-    {
-      "sport": "nfl",
-      "event_id": "401873278",
-      "date_utc": "2026-08-14T23:00Z",
-      "name": "Denver Broncos at Atlanta Falcons",
-      "short_name": "DEN @ ATL",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Atlanta Falcons",
-      "away_team": "Denver Broncos",
-      "home_score": "7",
-      "away_score": "27",
-      "home_record": "0-1",
-      "away_record": "1-0",
-      "venue": "Mercedes-Benz Stadium",
-      "broadcasts": [
-        "ESPN Unlmtd",
-        "KUSA-TV (9NEWS)"
-      ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873278/broncos-falcons"
-    },
-    {
-      "sport": "nfl",
-      "event_id": "401873276",
-      "date_utc": "2026-08-14T23:00Z",
-      "name": "Tampa Bay Buccaneers at New York Jets",
-      "short_name": "TB @ NYJ",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "New York Jets",
-      "away_team": "Tampa Bay Buccaneers",
-      "home_score": "16",
-      "away_score": "24",
-      "home_record": "0-1",
-      "away_record": "1-0",
-      "venue": "MetLife Stadium",
-      "broadcasts": [
-        "NFL Net",
-        "WCBS"
-      ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873276/buccaneers-jets"
-    },
-    {
-      "sport": "nfl",
-      "event_id": "401873277",
-      "date_utc": "2026-08-14T23:00Z",
-      "name": "Miami Dolphins at Washington Commanders",
-      "short_name": "MIA @ WSH",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Washington Commanders",
-      "away_team": "Miami Dolphins",
-      "home_score": "20",
-      "away_score": "7",
-      "home_record": "1-0",
-      "away_record": "0-1",
-      "venue": "Northwest Stadium",
-      "broadcasts": [
-        "WUSA9",
-        "CBS Miami"
-      ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873277/dolphins-commanders"
-    },
     {
       "sport": "nfl",
       "event_id": "401873282",
@@ -208,13 +136,13 @@
       "name": "Philadelphia Eagles at Baltimore Ravens",
       "short_name": "PHI @ BAL",
       "status": "In Progress",
-      "status_short": "0:56 - 1st",
+      "status_short": "11:16 - 3rd",
       "state": "in",
-      "period": 1,
-      "clock": "0:56",
+      "period": 3,
+      "clock": "11:16",
       "home_team": "Baltimore Ravens",
       "away_team": "Philadelphia Eagles",
-      "home_score": "0",
+      "home_score": "7",
       "away_score": "0",
       "home_record": "0-0",
       "away_record": "0-0",
@@ -231,14 +159,14 @@
       "date_utc": "2026-08-16T00:00Z",
       "name": "Dallas Cowboys at Seattle Seahawks",
       "short_name": "DAL @ SEA",
-      "status": "Scheduled",
-      "status_short": "8/15 - 8:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:39 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "13:39",
       "home_team": "Seattle Seahawks",
       "away_team": "Dallas Cowboys",
-      "home_score": "0",
+      "home_score": "7",
       "away_score": "0",
       "home_record": "0-0",
       "away_record": "0-0",
@@ -247,7 +175,7 @@
         "NFL Net",
         "KING 5"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873279/cowboys-seahawks"
+      "link": "https://www.espn.com/nfl/game?gameId=401873279"
     }
   ],
   "errors": []
