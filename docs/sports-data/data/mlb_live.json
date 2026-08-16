@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-16T17:11:42.575439Z",
+  "refreshed_at_utc": "2026-08-16T17:41:18.127812Z",
   "dates_requested": [
     "20260815",
     "20260816",
@@ -394,14 +394,14 @@
       "name": "Baltimore Orioles at Tampa Bay Rays",
       "short_name": "BAL @ TB",
       "status": "In Progress",
-      "status_short": "Bot 4th",
+      "status_short": "Top 6th",
       "state": "in",
-      "period": 4,
+      "period": 6,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
       "away_team": "Baltimore Orioles",
       "home_score": "1",
-      "away_score": "0",
+      "away_score": "3",
       "home_record": "74-48",
       "away_record": "60-63",
       "venue": "Tropicana Field",
@@ -416,9 +416,9 @@
       "date_utc": "2026-08-16T17:35Z",
       "name": "Arizona Diamondbacks at Atlanta Braves",
       "short_name": "ARI @ ATL",
-      "status": "Scheduled",
-      "status_short": "8/16 - 1:35 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Atlanta Braves",
@@ -433,7 +433,7 @@
         "BravesVision",
         "DBACKS.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816547/diamondbacks-braves"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816547"
     },
     {
       "sport": "mlb",
@@ -441,9 +441,9 @@
       "date_utc": "2026-08-16T17:35Z",
       "name": "Boston Red Sox at Pittsburgh Pirates",
       "short_name": "BOS @ PIT",
-      "status": "Scheduled",
-      "status_short": "8/16 - 1:35 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
@@ -457,7 +457,7 @@
         "MLB.TV",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816549/red-sox-pirates"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816549"
     },
     {
       "sport": "mlb",
@@ -465,9 +465,9 @@
       "date_utc": "2026-08-16T17:37Z",
       "name": "New York Yankees at Toronto Blue Jays",
       "short_name": "NYY @ TOR",
-      "status": "Scheduled",
-      "status_short": "8/16 - 1:37 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Toronto Blue Jays",
@@ -483,7 +483,7 @@
         "Sportsnet",
         "TVA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816552/yankees-blue-jays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816552"
     },
     {
       "sport": "mlb",
@@ -491,9 +491,9 @@
       "date_utc": "2026-08-16T17:40Z",
       "name": "Chicago White Sox at Detroit Tigers",
       "short_name": "CHW @ DET",
-      "status": "Scheduled",
-      "status_short": "8/16 - 1:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
@@ -508,7 +508,7 @@
         "Tigers.TV",
         "CHSN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816550/white-sox-tigers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816550"
     },
     {
       "sport": "mlb",
@@ -516,9 +516,9 @@
       "date_utc": "2026-08-16T17:40Z",
       "name": "Miami Marlins at Cincinnati Reds",
       "short_name": "MIA @ CIN",
-      "status": "Scheduled",
-      "status_short": "8/16 - 1:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
@@ -533,7 +533,7 @@
         "Reds.TV",
         "Marlins.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816551/marlins-reds"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816551"
     },
     {
       "sport": "mlb",
@@ -541,9 +541,9 @@
       "date_utc": "2026-08-16T17:40Z",
       "name": "San Diego Padres at Cleveland Guardians",
       "short_name": "SD @ CLE",
-      "status": "Scheduled",
-      "status_short": "8/16 - 1:40 PM EDT",
-      "state": "pre",
+      "status": "Rain Delay",
+      "status_short": "Rain Delay, Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
@@ -558,7 +558,7 @@
         "CLEGuardians.TV",
         "Padres.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816553/padres-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816553"
     },
     {
       "sport": "mlb",
@@ -566,9 +566,9 @@
       "date_utc": "2026-08-16T17:40Z",
       "name": "Washington Nationals at New York Mets",
       "short_name": "WSH @ NYM",
-      "status": "Scheduled",
-      "status_short": "8/16 - 1:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Mets",
@@ -584,7 +584,7 @@
         "Nationals.TV",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816554/nationals-mets"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816554"
     },
     {
       "sport": "mlb",
