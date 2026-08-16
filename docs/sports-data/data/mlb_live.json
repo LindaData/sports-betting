@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-16T16:13:05.215956Z",
+  "refreshed_at_utc": "2026-08-16T16:47:12.109179Z",
   "dates_requested": [
     "20260815",
     "20260816",
@@ -393,10 +393,10 @@
       "date_utc": "2026-08-16T16:15Z",
       "name": "Baltimore Orioles at Tampa Bay Rays",
       "short_name": "BAL @ TB",
-      "status": "Scheduled",
-      "status_short": "8/16 - 12:15 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
       "away_team": "Baltimore Orioles",
@@ -408,7 +408,7 @@
       "broadcasts": [
         "Peacock"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816548/orioles-rays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816548"
     },
     {
       "sport": "mlb",
