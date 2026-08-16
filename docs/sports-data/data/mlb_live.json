@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-16T23:10:55.857793Z",
+  "refreshed_at_utc": "2026-08-16T23:40:44.996114Z",
   "dates_requested": [
     "20260815",
     "20260816",
@@ -541,24 +541,24 @@
       "date_utc": "2026-08-16T17:40Z",
       "name": "San Diego Padres at Cleveland Guardians",
       "short_name": "SD @ CLE",
-      "status": "In Progress",
-      "status_short": "Mid 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
       "away_team": "San Diego Padres",
       "home_score": "0",
-      "away_score": "4",
-      "home_record": "60-64",
-      "away_record": "66-58",
+      "away_score": "5",
+      "home_record": "60-65",
+      "away_record": "67-58",
       "venue": "Progressive Field",
       "broadcasts": [
         "MLB.TV",
         "CLEGuardians.TV",
         "Padres.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816553"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816553/padres-guardians"
     },
     {
       "sport": "mlb",
@@ -640,24 +640,24 @@
       "date_utc": "2026-08-16T20:05Z",
       "name": "Colorado Rockies at San Francisco Giants",
       "short_name": "COL @ SF",
-      "status": "In Progress",
-      "status_short": "Bot 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "San Francisco Giants",
       "away_team": "Colorado Rockies",
       "home_score": "7",
       "away_score": "13",
-      "home_record": "51-72",
-      "away_record": "49-74",
+      "home_record": "51-73",
+      "away_record": "50-74",
       "venue": "Oracle Park",
       "broadcasts": [
         "MLB.TV",
         "NBC Sports BA",
         "Rockies.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816558"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816558/rockies-giants"
     },
     {
       "sport": "mlb",
@@ -740,22 +740,22 @@
       "date_utc": "2026-08-16T23:20Z",
       "name": "Seattle Mariners at Houston Astros",
       "short_name": "SEA @ HOU",
-      "status": "Scheduled",
-      "status_short": "8/16 - 7:20 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Houston Astros",
       "away_team": "Seattle Mariners",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "63-61",
       "away_record": "58-66",
       "venue": "Daikin Park",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816556/mariners-astros"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816556"
     },
     {
       "sport": "mlb",
@@ -922,7 +922,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "56-69",
-      "away_record": "66-58",
+      "away_record": "67-58",
       "venue": "Citi Field",
       "broadcasts": [
         "MLB.TV",
@@ -1022,7 +1022,7 @@
       "away_team": "Los Angeles Dodgers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "49-74",
+      "home_record": "50-74",
       "away_record": "74-51",
       "venue": "Coors Field",
       "broadcasts": [
