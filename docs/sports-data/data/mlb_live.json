@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-16T03:24:56.812466Z",
+  "refreshed_at_utc": "2026-08-16T04:05:44.716045Z",
   "dates_requested": [
     "20260815",
     "20260816",
@@ -342,24 +342,24 @@
       "date_utc": "2026-08-16T01:38Z",
       "name": "Kansas City Royals at Los Angeles Angels",
       "short_name": "KC @ LAA",
-      "status": "In Progress",
-      "status_short": "Top 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Los Angeles Angels",
       "away_team": "Kansas City Royals",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
-      "home_record": "48-75",
-      "away_record": "50-73",
+      "home_record": "49-75",
+      "away_record": "50-74",
       "venue": "Angel Stadium",
       "broadcasts": [
         "MLB.TV",
         "Royals.TV",
         "Angels.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816544"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816544/royals-angels"
     },
     {
       "sport": "mlb",
@@ -368,9 +368,9 @@
       "name": "Texas Rangers at Athletics Athletics",
       "short_name": "TEX @ ATH",
       "status": "In Progress",
-      "status_short": "Bot 6th",
+      "status_short": "Top 9th",
       "state": "in",
-      "period": 6,
+      "period": 9,
       "clock": "0:00",
       "home_team": "Athletics",
       "away_team": "Texas Rangers",
@@ -699,8 +699,8 @@
       "away_team": "Kansas City Royals",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "48-75",
-      "away_record": "50-73",
+      "home_record": "49-75",
+      "away_record": "50-74",
       "venue": "Angel Stadium",
       "broadcasts": [
         "MLB.TV",
@@ -946,7 +946,7 @@
       "away_team": "Athletics",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "50-73",
+      "home_record": "50-74",
       "away_record": "48-74",
       "venue": "Kauffman Stadium",
       "broadcasts": [
