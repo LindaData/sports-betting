@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-16T02:15:17.034887Z",
+  "refreshed_at_utc": "2026-08-16T03:24:56.812466Z",
   "dates_requested": [
     "20260815",
     "20260816",
@@ -159,23 +159,23 @@
       "date_utc": "2026-08-16T00:00Z",
       "name": "Dallas Cowboys at Seattle Seahawks",
       "short_name": "DAL @ SEA",
-      "status": "In Progress",
-      "status_short": "15:00 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "15:00",
+      "clock": "0:00",
       "home_team": "Seattle Seahawks",
       "away_team": "Dallas Cowboys",
       "home_score": "7",
       "away_score": "17",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "home_record": "0-1",
+      "away_record": "1-0",
       "venue": "Lumen Field",
       "broadcasts": [
         "NFL Net",
         "KING 5"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873279"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873279/cowboys-seahawks"
     }
   ],
   "errors": []
