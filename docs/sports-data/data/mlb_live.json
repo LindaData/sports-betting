@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-17T02:13:49.759816Z",
+  "refreshed_at_utc": "2026-08-17T03:24:52.994894Z",
   "dates_requested": [
     "20260816",
     "20260817",
@@ -361,22 +361,22 @@
       "date_utc": "2026-08-16T23:20Z",
       "name": "Seattle Mariners at Houston Astros",
       "short_name": "SEA @ HOU",
-      "status": "In Progress",
-      "status_short": "Bot 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "Houston Astros",
       "away_team": "Seattle Mariners",
       "home_score": "2",
       "away_score": "3",
-      "home_record": "63-61",
-      "away_record": "58-66",
+      "home_record": "63-62",
+      "away_record": "59-66",
       "venue": "Daikin Park",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816556"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816556/mariners-astros"
     },
     {
       "sport": "mlb",
@@ -894,7 +894,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "77-48",
-      "away_record": "58-66",
+      "away_record": "59-66",
       "venue": "American Family Field",
       "broadcasts": [
         "MLB.TV",
@@ -996,7 +996,7 @@
       "away_team": "Los Angeles Angels",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "63-61",
+      "home_record": "63-62",
       "away_record": "49-76",
       "venue": "Daikin Park",
       "broadcasts": [
