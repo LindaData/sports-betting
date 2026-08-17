@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-17T19:48:16.558791Z",
+  "refreshed_at_utc": "2026-08-17T20:15:11.582011Z",
   "dates_requested": [
     "20260816",
     "20260817",
@@ -385,9 +385,9 @@
       "name": "St. Louis Cardinals at Cincinnati Reds",
       "short_name": "STL @ CIN",
       "status": "In Progress",
-      "status_short": "Bot 7th",
+      "status_short": "Top 9th",
       "state": "in",
-      "period": 7,
+      "period": 9,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
       "away_team": "St. Louis Cardinals",
