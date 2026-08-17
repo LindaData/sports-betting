@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-17T22:13:51.296574Z",
+  "refreshed_at_utc": "2026-08-17T22:47:08.646234Z",
   "dates_requested": [
     "20260816",
     "20260817",
@@ -411,14 +411,14 @@
       "name": "Baltimore Orioles at Tampa Bay Rays",
       "short_name": "BAL @ TB",
       "status": "In Progress",
-      "status_short": "Bot 1st",
+      "status_short": "Bot 3rd",
       "state": "in",
-      "period": 1,
+      "period": 3,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
       "away_team": "Baltimore Orioles",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "1",
       "home_record": "74-49",
       "away_record": "61-63",
       "venue": "Tropicana Field",
@@ -435,9 +435,9 @@
       "date_utc": "2026-08-17T22:40Z",
       "name": "Miami Marlins at Philadelphia Phillies",
       "short_name": "MIA @ PHI",
-      "status": "Scheduled",
-      "status_short": "8/17 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
@@ -452,7 +452,7 @@
         "Marlins.TV",
         "NBC Sports Phil"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816565/marlins-phillies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816565"
     },
     {
       "sport": "mlb",
@@ -460,9 +460,9 @@
       "date_utc": "2026-08-17T22:40Z",
       "name": "St. Louis Cardinals at Cincinnati Reds",
       "short_name": "STL @ CIN",
-      "status": "Scheduled",
-      "status_short": "8/17 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Mid 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
@@ -477,7 +477,7 @@
         "Reds.TV",
         "Cardinals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816567/cardinals-reds"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816567"
     },
     {
       "sport": "mlb",
