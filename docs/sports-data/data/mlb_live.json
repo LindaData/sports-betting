@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-17T22:47:08.646234Z",
+  "refreshed_at_utc": "2026-08-17T23:13:25.213029Z",
   "dates_requested": [
     "20260816",
     "20260817",
@@ -411,14 +411,14 @@
       "name": "Baltimore Orioles at Tampa Bay Rays",
       "short_name": "BAL @ TB",
       "status": "In Progress",
-      "status_short": "Bot 3rd",
+      "status_short": "Bot 4th",
       "state": "in",
-      "period": 3,
+      "period": 4,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
       "away_team": "Baltimore Orioles",
       "home_score": "1",
-      "away_score": "1",
+      "away_score": "3",
       "home_record": "74-49",
       "away_record": "61-63",
       "venue": "Tropicana Field",
@@ -436,9 +436,9 @@
       "name": "Miami Marlins at Philadelphia Phillies",
       "short_name": "MIA @ PHI",
       "status": "In Progress",
-      "status_short": "Top 1st",
+      "status_short": "End 2nd",
       "state": "in",
-      "period": 1,
+      "period": 2,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
       "away_team": "Miami Marlins",
@@ -461,13 +461,13 @@
       "name": "St. Louis Cardinals at Cincinnati Reds",
       "short_name": "STL @ CIN",
       "status": "In Progress",
-      "status_short": "Mid 1st",
+      "status_short": "Top 3rd",
       "state": "in",
-      "period": 1,
+      "period": 3,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
       "away_team": "St. Louis Cardinals",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "59-65",
       "away_record": "64-61",
@@ -485,9 +485,9 @@
       "date_utc": "2026-08-17T23:00Z",
       "name": "Detroit Tigers at Pittsburgh Pirates",
       "short_name": "DET @ PIT",
-      "status": "Scheduled",
-      "status_short": "8/17 - 7:00 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
@@ -500,7 +500,7 @@
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816564/tigers-pirates"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816564"
     },
     {
       "sport": "mlb",
@@ -508,9 +508,9 @@
       "date_utc": "2026-08-17T23:10Z",
       "name": "Arizona Diamondbacks at Boston Red Sox",
       "short_name": "ARI @ BOS",
-      "status": "Scheduled",
-      "status_short": "8/17 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Boston Red Sox",
@@ -525,7 +525,7 @@
         "DBACKS.TV",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816562/diamondbacks-red-sox"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816562"
     },
     {
       "sport": "mlb",
@@ -533,9 +533,9 @@
       "date_utc": "2026-08-17T23:10Z",
       "name": "San Diego Padres at New York Mets",
       "short_name": "SD @ NYM",
-      "status": "Scheduled",
-      "status_short": "8/17 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Mets",
@@ -550,7 +550,7 @@
         "Padres.TV",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816566/padres-mets"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816566"
     },
     {
       "sport": "mlb",
