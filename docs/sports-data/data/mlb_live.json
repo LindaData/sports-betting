@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-18T03:13:44.288376Z",
+  "refreshed_at_utc": "2026-08-18T04:04:13.529867Z",
   "dates_requested": [
     "20260817",
     "20260818",
@@ -213,24 +213,24 @@
       "date_utc": "2026-08-17T23:40Z",
       "name": "Atlanta Braves at Minnesota Twins",
       "short_name": "ATL @ MIN",
-      "status": "In Progress",
-      "status_short": "Top 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "Minnesota Twins",
       "away_team": "Atlanta Braves",
       "home_score": "4",
       "away_score": "2",
-      "home_record": "60-65",
-      "away_record": "74-50",
+      "home_record": "61-65",
+      "away_record": "74-51",
       "venue": "Target Field",
       "broadcasts": [
         "MLB.TV",
         "Twins.TV",
         "BravesVision"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816581"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816581/braves-twins"
     },
     {
       "sport": "mlb",
@@ -238,17 +238,17 @@
       "date_utc": "2026-08-18T00:05Z",
       "name": "Chicago White Sox at Chicago Cubs",
       "short_name": "CHW @ CHC",
-      "status": "In Progress",
-      "status_short": "Top 10th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final/10",
+      "state": "post",
       "period": 10,
       "clock": "0:00",
       "home_team": "Chicago Cubs",
       "away_team": "Chicago White Sox",
-      "home_score": "5",
+      "home_score": "7",
       "away_score": "5",
-      "home_record": "72-53",
-      "away_record": "65-58",
+      "home_record": "73-53",
+      "away_record": "65-59",
       "venue": "Wrigley Field",
       "broadcasts": [
         "MLB.TV",
@@ -256,7 +256,7 @@
         "CHSN",
         "WCIU-TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816569"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816569/white-sox-cubs"
     },
     {
       "sport": "mlb",
@@ -264,24 +264,24 @@
       "date_utc": "2026-08-18T00:40Z",
       "name": "Los Angeles Dodgers at Colorado Rockies",
       "short_name": "LAD @ COL",
-      "status": "In Progress",
-      "status_short": "Top 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "Colorado Rockies",
       "away_team": "Los Angeles Dodgers",
-      "home_score": "2",
+      "home_score": "5",
       "away_score": "11",
-      "home_record": "50-74",
-      "away_record": "74-51",
+      "home_record": "50-75",
+      "away_record": "75-51",
       "venue": "Coors Field",
       "broadcasts": [
         "MLB.TV",
         "SportsNet LA",
         "Rockies.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816570"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816570/dodgers-rockies"
     },
     {
       "sport": "mlb",
@@ -548,8 +548,8 @@
       "away_team": "Atlanta Braves",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "60-65",
-      "away_record": "74-50",
+      "home_record": "61-65",
+      "away_record": "74-51",
       "venue": "Target Field",
       "broadcasts": [
         "MLB.TV",
@@ -575,8 +575,8 @@
       "away_team": "Chicago White Sox",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "72-53",
-      "away_record": "65-58",
+      "home_record": "73-53",
+      "away_record": "65-59",
       "venue": "Wrigley Field",
       "broadcasts": [
         "MLB.TV",
@@ -651,8 +651,8 @@
       "away_team": "Los Angeles Dodgers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "50-74",
-      "away_record": "74-51",
+      "home_record": "50-75",
+      "away_record": "75-51",
       "venue": "Coors Field",
       "broadcasts": [
         "MLB.TV",
@@ -725,8 +725,8 @@
       "away_team": "Atlanta Braves",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "60-65",
-      "away_record": "74-50",
+      "home_record": "61-65",
+      "away_record": "74-51",
       "venue": "Target Field",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -751,8 +751,8 @@
       "away_team": "Chicago White Sox",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "72-53",
-      "away_record": "65-58",
+      "home_record": "73-53",
+      "away_record": "65-59",
       "venue": "Wrigley Field",
       "broadcasts": [
         "MLB.TV",
@@ -1028,8 +1028,8 @@
       "away_team": "Los Angeles Dodgers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "50-74",
-      "away_record": "74-51",
+      "home_record": "50-75",
+      "away_record": "75-51",
       "venue": "Coors Field",
       "broadcasts": [
         "MLB.TV",
