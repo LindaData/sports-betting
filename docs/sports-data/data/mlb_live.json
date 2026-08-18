@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-18T22:12:33.638917Z",
+  "refreshed_at_utc": "2026-08-18T22:46:54.239160Z",
   "dates_requested": [
     "20260817",
     "20260818",
@@ -289,9 +289,9 @@
       "date_utc": "2026-08-18T22:35Z",
       "name": "New York Yankees at Baltimore Orioles",
       "short_name": "NYY @ BAL",
-      "status": "Scheduled",
-      "status_short": "8/18 - 6:35 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Baltimore Orioles",
@@ -306,7 +306,7 @@
         "MASN",
         "YES"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816574/yankees-orioles"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816574"
     },
     {
       "sport": "mlb",
@@ -314,9 +314,9 @@
       "date_utc": "2026-08-18T22:40Z",
       "name": "Detroit Tigers at Pittsburgh Pirates",
       "short_name": "DET @ PIT",
-      "status": "Scheduled",
-      "status_short": "8/18 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
@@ -330,7 +330,7 @@
         "MLB.TV",
         "Tigers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816572/tigers-pirates"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816572"
     },
     {
       "sport": "mlb",
@@ -338,9 +338,9 @@
       "date_utc": "2026-08-18T22:40Z",
       "name": "Miami Marlins at Philadelphia Phillies",
       "short_name": "MIA @ PHI",
-      "status": "Scheduled",
-      "status_short": "8/18 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Mid 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
@@ -356,7 +356,7 @@
         "Marlins.TV",
         "NBC Sports Phil"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816573/marlins-phillies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816573"
     },
     {
       "sport": "mlb",
@@ -364,9 +364,9 @@
       "date_utc": "2026-08-18T22:40Z",
       "name": "San Francisco Giants at Cleveland Guardians",
       "short_name": "SF @ CLE",
-      "status": "Scheduled",
-      "status_short": "8/18 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
@@ -381,7 +381,7 @@
         "CLEGuardians.TV",
         "NBC Sports BA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816576/giants-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816576"
     },
     {
       "sport": "mlb",
@@ -389,9 +389,9 @@
       "date_utc": "2026-08-18T22:40Z",
       "name": "St. Louis Cardinals at Cincinnati Reds",
       "short_name": "STL @ CIN",
-      "status": "Scheduled",
-      "status_short": "8/18 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
@@ -406,7 +406,7 @@
         "Reds.TV",
         "Cardinals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816577/cardinals-reds"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816577"
     },
     {
       "sport": "mlb",
@@ -414,15 +414,15 @@
       "date_utc": "2026-08-18T22:40Z",
       "name": "Toronto Blue Jays at Tampa Bay Rays",
       "short_name": "TOR @ TB",
-      "status": "Scheduled",
-      "status_short": "8/18 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
       "away_team": "Toronto Blue Jays",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "75-49",
       "away_record": "61-65",
       "venue": "Tropicana Field",
@@ -431,7 +431,7 @@
         "Rays.TV",
         "Sportsnet"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816578/blue-jays-rays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816578"
     },
     {
       "sport": "mlb",
