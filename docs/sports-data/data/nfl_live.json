@@ -1,12 +1,63 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-18T23:42:50.192939Z",
+  "refreshed_at_utc": "2026-08-19T00:40:04.409769Z",
   "dates_requested": [
-    "20260817",
     "20260818",
-    "20260819"
+    "20260819",
+    "20260820"
   ],
-  "event_count": 0,
-  "events": [],
+  "event_count": 2,
+  "events": [
+    {
+      "sport": "nfl",
+      "event_id": "401873286",
+      "date_utc": "2026-08-21T00:00Z",
+      "name": "Las Vegas Raiders at Houston Texans",
+      "short_name": "LV @ HOU",
+      "status": "Scheduled",
+      "status_short": "8/20 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Houston Texans",
+      "away_team": "Las Vegas Raiders",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-1",
+      "away_record": "0-1",
+      "venue": "NRG Stadium",
+      "broadcasts": [
+        "ESPN",
+        "KTRK (ABC)",
+        "Fox 5 Vegas"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873286/raiders-texans"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873285",
+      "date_utc": "2026-08-21T02:00Z",
+      "name": "San Francisco 49ers at Los Angeles Chargers",
+      "short_name": "SF @ LAC",
+      "status": "Scheduled",
+      "status_short": "8/20 - 10:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Los Angeles Chargers",
+      "away_team": "San Francisco 49ers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-0",
+      "away_record": "0-1",
+      "venue": "SoFi Stadium",
+      "broadcasts": [
+        "NFL Net",
+        "CBS LA",
+        "KPIX"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873285/49ers-chargers"
+    }
+  ],
   "errors": []
 }
