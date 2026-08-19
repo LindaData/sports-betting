@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-19T22:14:23.180986Z",
+  "refreshed_at_utc": "2026-08-19T22:47:49.403214Z",
   "dates_requested": [
     "20260818",
     "20260819",
@@ -493,9 +493,9 @@
       "name": "Arizona Diamondbacks at Boston Red Sox",
       "short_name": "ARI @ BOS",
       "status": "In Progress",
-      "status_short": "Top 7th",
+      "status_short": "Mid 8th",
       "state": "in",
-      "period": 7,
+      "period": 8,
       "clock": "0:00",
       "home_team": "Boston Red Sox",
       "away_team": "Arizona Diamondbacks",
@@ -518,13 +518,13 @@
       "name": "Miami Marlins at Philadelphia Phillies",
       "short_name": "MIA @ PHI",
       "status": "In Progress",
-      "status_short": "Bot 1st",
+      "status_short": "Mid 3rd",
       "state": "in",
-      "period": 1,
+      "period": 3,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
       "away_team": "Miami Marlins",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "69-58",
       "away_record": "64-63",
@@ -542,9 +542,9 @@
       "date_utc": "2026-08-19T22:35Z",
       "name": "New York Yankees at Baltimore Orioles",
       "short_name": "NYY @ BAL",
-      "status": "Scheduled",
-      "status_short": "8/19 - 6:35 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Baltimore Orioles",
@@ -560,7 +560,7 @@
         "MLB Net",
         "MASN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816589/yankees-orioles"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816589"
     },
     {
       "sport": "mlb",
@@ -568,9 +568,9 @@
       "date_utc": "2026-08-19T22:40Z",
       "name": "San Francisco Giants at Cleveland Guardians",
       "short_name": "SF @ CLE",
-      "status": "Scheduled",
-      "status_short": "8/19 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Mid 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
@@ -585,7 +585,7 @@
         "CLEGuardians.TV",
         "NBC Sports BA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816591/giants-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816591"
     },
     {
       "sport": "mlb",
@@ -593,9 +593,9 @@
       "date_utc": "2026-08-19T22:40Z",
       "name": "St. Louis Cardinals at Cincinnati Reds",
       "short_name": "STL @ CIN",
-      "status": "Scheduled",
-      "status_short": "8/19 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Mid 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
@@ -610,7 +610,7 @@
         "Reds.TV",
         "Cardinals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816592/cardinals-reds"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816592"
     },
     {
       "sport": "mlb",
@@ -618,9 +618,9 @@
       "date_utc": "2026-08-19T22:40Z",
       "name": "Toronto Blue Jays at Tampa Bay Rays",
       "short_name": "TOR @ TB",
-      "status": "Scheduled",
-      "status_short": "8/19 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
@@ -636,7 +636,7 @@
         "Sportsnet",
         "TVA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816593/blue-jays-rays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816593"
     },
     {
       "sport": "mlb",
