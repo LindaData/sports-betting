@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-19T03:22:48.177219Z",
+  "refreshed_at_utc": "2026-08-19T04:04:50.406781Z",
   "dates_requested": [
     "20260818",
     "20260819",
@@ -367,24 +367,24 @@
       "date_utc": "2026-08-19T00:40Z",
       "name": "Los Angeles Dodgers at Colorado Rockies",
       "short_name": "LAD @ COL",
-      "status": "In Progress",
-      "status_short": "Top 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "Colorado Rockies",
       "away_team": "Los Angeles Dodgers",
-      "home_score": "5",
+      "home_score": "6",
       "away_score": "7",
-      "home_record": "50-75",
-      "away_record": "75-51",
+      "home_record": "50-76",
+      "away_record": "76-51",
       "venue": "Coors Field",
       "broadcasts": [
         "MLB.TV",
         "SportsNet LA",
         "Rockies.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816585"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816585/dodgers-rockies"
     },
     {
       "sport": "mlb",
@@ -753,8 +753,8 @@
       "away_team": "Los Angeles Dodgers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "50-75",
-      "away_record": "75-51",
+      "home_record": "50-76",
+      "away_record": "76-51",
       "venue": "Coors Field",
       "broadcasts": [
         "MLB.TV",
