@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-19T16:53:25.300108Z",
+  "refreshed_at_utc": "2026-08-19T17:18:22.063225Z",
   "dates_requested": [
     "20260818",
     "20260819",
@@ -393,13 +393,13 @@
       "name": "Detroit Tigers at Pittsburgh Pirates",
       "short_name": "DET @ PIT",
       "status": "In Progress",
-      "status_short": "Bot 1st",
+      "status_short": "Top 3rd",
       "state": "in",
-      "period": 1,
+      "period": 3,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Detroit Tigers",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "62-66",
       "away_record": "61-65",
@@ -416,9 +416,9 @@
       "date_utc": "2026-08-19T17:10Z",
       "name": "San Diego Padres at New York Mets",
       "short_name": "SD @ NYM",
-      "status": "Scheduled",
-      "status_short": "8/19 - 1:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Mets",
@@ -433,7 +433,7 @@
         "Padres.TV",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816590/padres-mets"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816590"
     },
     {
       "sport": "mlb",
