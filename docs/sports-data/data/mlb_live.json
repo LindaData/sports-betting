@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-19T04:04:50.406781Z",
+  "refreshed_at_utc": "2026-08-19T04:59:13.023728Z",
   "dates_requested": [
     "20260818",
     "20260819",
@@ -291,17 +291,17 @@
       "date_utc": "2026-08-19T00:05Z",
       "name": "Chicago White Sox at Chicago Cubs",
       "short_name": "CHW @ CHC",
-      "status": "Delayed",
-      "status_short": "Delayed, Bottom 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Chicago Cubs",
       "away_team": "Chicago White Sox",
-      "home_score": "3",
+      "home_score": "4",
       "away_score": "3",
-      "home_record": "73-53",
-      "away_record": "65-59",
+      "home_record": "74-53",
+      "away_record": "65-60",
       "venue": "Wrigley Field",
       "broadcasts": [
         "MLB.TV",
@@ -309,7 +309,7 @@
         "Marquee Sports Net",
         "CHSN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816582"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816582/white-sox-cubs"
     },
     {
       "sport": "mlb",
@@ -476,8 +476,8 @@
       "away_team": "Chicago White Sox",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "73-53",
-      "away_record": "65-59",
+      "home_record": "74-53",
+      "away_record": "65-60",
       "venue": "Wrigley Field",
       "broadcasts": [
         "MLB.TV",
@@ -903,7 +903,7 @@
       "away_team": "Atlanta Braves",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "65-59",
+      "home_record": "65-60",
       "away_record": "74-52",
       "venue": "Rate Field",
       "broadcasts": [
