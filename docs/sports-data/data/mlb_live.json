@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-19T21:47:06.008619Z",
+  "refreshed_at_utc": "2026-08-19T22:14:23.180986Z",
   "dates_requested": [
     "20260818",
     "20260819",
@@ -493,14 +493,14 @@
       "name": "Arizona Diamondbacks at Boston Red Sox",
       "short_name": "ARI @ BOS",
       "status": "In Progress",
-      "status_short": "Top 6th",
+      "status_short": "Top 7th",
       "state": "in",
-      "period": 6,
+      "period": 7,
       "clock": "0:00",
       "home_team": "Boston Red Sox",
       "away_team": "Arizona Diamondbacks",
-      "home_score": "2",
-      "away_score": "3",
+      "home_score": "5",
+      "away_score": "5",
       "home_record": "68-58",
       "away_record": "66-61",
       "venue": "Fenway Park",
@@ -517,9 +517,9 @@
       "date_utc": "2026-08-19T22:05Z",
       "name": "Miami Marlins at Philadelphia Phillies",
       "short_name": "MIA @ PHI",
-      "status": "Scheduled",
-      "status_short": "8/19 - 6:05 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
@@ -534,7 +534,7 @@
         "Marlins.TV",
         "NBC Sports Phil"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816588/marlins-phillies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816588"
     },
     {
       "sport": "mlb",
