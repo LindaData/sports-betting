@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-20T21:50:42.121265Z",
+  "refreshed_at_utc": "2026-08-20T22:16:40.028077Z",
   "dates_requested": [
     "20260819",
     "20260820",
@@ -542,9 +542,9 @@
       "date_utc": "2026-08-20T22:35Z",
       "name": "New York Yankees at Baltimore Orioles",
       "short_name": "NYY @ BAL",
-      "status": "Scheduled",
-      "status_short": "8/20 - 6:35 PM EDT",
-      "state": "pre",
+      "status": "Delayed",
+      "status_short": "Delayed, Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Baltimore Orioles",
@@ -559,7 +559,7 @@
         "MASN",
         "YES"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816601/yankees-orioles"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816601"
     },
     {
       "sport": "mlb",
