@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-20T03:21:56.601235Z",
+  "refreshed_at_utc": "2026-08-20T04:04:24.098746Z",
   "dates_requested": [
     "20260819",
     "20260820",
@@ -366,24 +366,24 @@
       "date_utc": "2026-08-20T00:40Z",
       "name": "Los Angeles Dodgers at Colorado Rockies",
       "short_name": "LAD @ COL",
-      "status": "In Progress",
-      "status_short": "Bot 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final/10",
+      "state": "post",
+      "period": 10,
       "clock": "0:00",
       "home_team": "Colorado Rockies",
       "away_team": "Los Angeles Dodgers",
       "home_score": "4",
-      "away_score": "4",
-      "home_record": "50-76",
-      "away_record": "76-51",
+      "away_score": "6",
+      "home_record": "50-77",
+      "away_record": "77-51",
       "venue": "Coors Field",
       "broadcasts": [
         "MLB.TV",
         "SportsNet LA",
         "Rockies.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816600"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816600/dodgers-rockies"
     },
     {
       "sport": "mlb",
@@ -876,7 +876,7 @@
       "away_team": "Cleveland Guardians",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "50-76",
+      "home_record": "50-77",
       "away_record": "61-66",
       "venue": "Coors Field",
       "broadcasts": [
@@ -977,7 +977,7 @@
       "away_team": "Pittsburgh Pirates",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "76-51",
+      "home_record": "77-51",
       "away_record": "63-66",
       "venue": "Dodger Stadium",
       "broadcasts": [
