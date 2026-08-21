@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-21T05:01:24.791771Z",
+  "refreshed_at_utc": "2026-08-21T05:54:36.143873Z",
   "dates_requested": [
     "20260820",
     "20260821",
@@ -39,24 +39,24 @@
       "date_utc": "2026-08-21T02:00Z",
       "name": "San Francisco 49ers at Los Angeles Chargers",
       "short_name": "SF @ LAC",
-      "status": "In Progress",
-      "status_short": "4:51 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "4:51",
+      "clock": "0:00",
       "home_team": "Los Angeles Chargers",
       "away_team": "San Francisco 49ers",
-      "home_score": "9",
+      "home_score": "17",
       "away_score": "41",
-      "home_record": "1-0",
-      "away_record": "0-1",
+      "home_record": "1-1",
+      "away_record": "1-1",
       "venue": "SoFi Stadium",
       "broadcasts": [
         "NFL Net",
         "CBS LA",
         "KPIX"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873285"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873285/49ers-chargers"
     },
     {
       "sport": "nfl",
