@@ -1,12 +1,12 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-20T23:47:02.812743Z",
+  "refreshed_at_utc": "2026-08-21T00:43:14.232134Z",
   "dates_requested": [
-    "20260819",
     "20260820",
-    "20260821"
+    "20260821",
+    "20260822"
   ],
-  "event_count": 5,
+  "event_count": 15,
   "events": [
     {
       "sport": "nfl",
@@ -14,14 +14,14 @@
       "date_utc": "2026-08-21T00:00Z",
       "name": "Las Vegas Raiders at Houston Texans",
       "short_name": "LV @ HOU",
-      "status": "Scheduled",
-      "status_short": "8/20 - 8:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "3:04 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "3:04",
       "home_team": "Houston Texans",
       "away_team": "Las Vegas Raiders",
-      "home_score": "0",
+      "home_score": "17",
       "away_score": "0",
       "home_record": "0-1",
       "away_record": "0-1",
@@ -31,7 +31,7 @@
         "KTRK (ABC)",
         "Fox 5 Vegas"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873286/raiders-texans"
+      "link": "https://www.espn.com/nfl/game?gameId=401873286"
     },
     {
       "sport": "nfl",
@@ -131,6 +131,245 @@
         "KUSA-TV (9NEWS)"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401873613/packers-broncos"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873601",
+      "date_utc": "2026-08-22T16:00Z",
+      "name": "Washington Commanders at Detroit Lions",
+      "short_name": "WSH @ DET",
+      "status": "Scheduled",
+      "status_short": "8/22 - 12:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Detroit Lions",
+      "away_team": "Washington Commanders",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-1",
+      "away_record": "1-0",
+      "venue": "Ford Field",
+      "broadcasts": [
+        "Lions TV Network",
+        "WUSA9"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873601/commanders-lions"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873294",
+      "date_utc": "2026-08-22T17:00Z",
+      "name": "Buffalo Bills at Cleveland Browns",
+      "short_name": "BUF @ CLE",
+      "status": "Scheduled",
+      "status_short": "8/22 - 1:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Cleveland Browns",
+      "away_team": "Buffalo Bills",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-1",
+      "away_record": "1-0",
+      "venue": "Huntington Bank Field",
+      "broadcasts": [
+        "NFL Net"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873294/bills-browns"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873295",
+      "date_utc": "2026-08-22T17:00Z",
+      "name": "Atlanta Falcons at Indianapolis Colts",
+      "short_name": "ATL @ IND",
+      "status": "Scheduled",
+      "status_short": "8/22 - 1:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Indianapolis Colts",
+      "away_team": "Atlanta Falcons",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0-1",
+      "away_record": "0-1",
+      "venue": "Lucas Oil Stadium",
+      "broadcasts": [
+        "CBS4"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873295/falcons-colts"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873291",
+      "date_utc": "2026-08-22T17:00Z",
+      "name": "Baltimore Ravens at Minnesota Vikings",
+      "short_name": "BAL @ MIN",
+      "status": "Scheduled",
+      "status_short": "8/22 - 1:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Minnesota Vikings",
+      "away_team": "Baltimore Ravens",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-0",
+      "away_record": "1-0",
+      "venue": "U.S. Bank Stadium",
+      "broadcasts": [
+        "ESPN Unlmtd",
+        "WBAL-TV"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873291/ravens-vikings"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873290",
+      "date_utc": "2026-08-22T20:00Z",
+      "name": "New Orleans Saints at Los Angeles Rams",
+      "short_name": "NO @ LAR",
+      "status": "Scheduled",
+      "status_short": "8/22 - 4:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Los Angeles Rams",
+      "away_team": "New Orleans Saints",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-0",
+      "away_record": "0-1",
+      "venue": "SoFi Stadium",
+      "broadcasts": [
+        "ESPN Unlmtd",
+        "KCBS-TV",
+        "Fox 8"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873290/saints-rams"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873292",
+      "date_utc": "2026-08-22T20:00Z",
+      "name": "New York Giants at Miami Dolphins",
+      "short_name": "NYG @ MIA",
+      "status": "Scheduled",
+      "status_short": "8/22 - 4:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Miami Dolphins",
+      "away_team": "New York Giants",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-1",
+      "away_record": "0-1",
+      "venue": "Hard Rock Stadium",
+      "broadcasts": [
+        "NFL Net",
+        "CBS Miami"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873292/giants-dolphins"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873289",
+      "date_utc": "2026-08-22T23:00Z",
+      "name": "Chicago Bears at Cincinnati Bengals",
+      "short_name": "CHI @ CIN",
+      "status": "Scheduled",
+      "status_short": "8/22 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Cincinnati Bengals",
+      "away_team": "Chicago Bears",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-0",
+      "away_record": "1-0",
+      "venue": "Paycor Stadium",
+      "broadcasts": [
+        "Bengals Preseason TV Network",
+        "FOX32"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873289/bears-bengals"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873293",
+      "date_utc": "2026-08-22T23:00Z",
+      "name": "Philadelphia Eagles at New England Patriots",
+      "short_name": "PHI @ NE",
+      "status": "Scheduled",
+      "status_short": "8/22 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "New England Patriots",
+      "away_team": "Philadelphia Eagles",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0-1",
+      "away_record": "0-1",
+      "venue": "Gillette Stadium",
+      "broadcasts": [
+        "NFL Net",
+        "WBZ",
+        "NBC 10"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873293/eagles-patriots"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873296",
+      "date_utc": "2026-08-22T23:30Z",
+      "name": "Kansas City Chiefs at Tampa Bay Buccaneers",
+      "short_name": "KC @ TB",
+      "status": "Scheduled",
+      "status_short": "8/22 - 7:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Tampa Bay Buccaneers",
+      "away_team": "Kansas City Chiefs",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-0",
+      "away_record": "0-1",
+      "venue": "Raymond James Stadium",
+      "broadcasts": [
+        "ESPN Unlmtd",
+        "KSHB"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873296/chiefs-buccaneers"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401874101",
+      "date_utc": "2026-08-23T02:00Z",
+      "name": "Dallas Cowboys at Arizona Cardinals",
+      "short_name": "DAL @ ARI",
+      "status": "Scheduled",
+      "status_short": "8/22 - 10:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Arizona Cardinals",
+      "away_team": "Dallas Cowboys",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-1",
+      "away_record": "1-0",
+      "venue": "State Farm Stadium",
+      "broadcasts": [
+        "NFL Net"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401874101/cowboys-cardinals"
     }
   ],
   "errors": []
