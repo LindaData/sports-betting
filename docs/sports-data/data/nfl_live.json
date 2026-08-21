@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-21T22:47:25.927185Z",
+  "refreshed_at_utc": "2026-08-21T23:14:09.041399Z",
   "dates_requested": [
     "20260820",
     "20260821",
@@ -64,15 +64,15 @@
       "date_utc": "2026-08-21T23:00Z",
       "name": "New York Jets at Pittsburgh Steelers",
       "short_name": "NYJ @ PIT",
-      "status": "Scheduled",
-      "status_short": "8/21 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "9:04 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "9:04",
       "home_team": "Pittsburgh Steelers",
       "away_team": "New York Jets",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "7",
       "home_record": "1-0",
       "away_record": "0-1",
       "venue": "Acrisure Stadium",
@@ -81,7 +81,7 @@
         "WCBS",
         "KDKA-TV"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873288/jets-steelers"
+      "link": "https://www.espn.com/nfl/game?gameId=401873288"
     },
     {
       "sport": "nfl",
