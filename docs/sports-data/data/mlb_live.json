@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-21T20:14:51.528389Z",
+  "refreshed_at_utc": "2026-08-21T20:45:49.071184Z",
   "dates_requested": [
     "20260820",
     "20260821",
@@ -242,9 +242,9 @@
       "name": "Atlanta Braves at Milwaukee Brewers",
       "short_name": "ATL @ MIL",
       "status": "In Progress",
-      "status_short": "Top 1st",
+      "status_short": "Top 3rd",
       "state": "in",
-      "period": 1,
+      "period": 3,
       "clock": "0:00",
       "home_team": "Milwaukee Brewers",
       "away_team": "Atlanta Braves",
