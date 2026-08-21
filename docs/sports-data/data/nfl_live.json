@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-21T23:14:09.041399Z",
+  "refreshed_at_utc": "2026-08-21T23:44:40.962210Z",
   "dates_requested": [
     "20260820",
     "20260821",
@@ -65,10 +65,10 @@
       "name": "New York Jets at Pittsburgh Steelers",
       "short_name": "NYJ @ PIT",
       "status": "In Progress",
-      "status_short": "9:04 - 1st",
+      "status_short": "13:44 - 2nd",
       "state": "in",
-      "period": 1,
-      "clock": "9:04",
+      "period": 2,
+      "clock": "13:44",
       "home_team": "Pittsburgh Steelers",
       "away_team": "New York Jets",
       "home_score": "0",
@@ -89,11 +89,11 @@
       "date_utc": "2026-08-21T23:30Z",
       "name": "Carolina Panthers at Jacksonville Jaguars",
       "short_name": "CAR @ JAX",
-      "status": "Scheduled",
-      "status_short": "8/21 - 7:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:00 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "13:00",
       "home_team": "Jacksonville Jaguars",
       "away_team": "Carolina Panthers",
       "home_score": "0",
@@ -105,7 +105,7 @@
         "ESPN Unlmtd",
         "CBS47"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873287/panthers-jaguars"
+      "link": "https://www.espn.com/nfl/game?gameId=401873287"
     },
     {
       "sport": "nfl",
