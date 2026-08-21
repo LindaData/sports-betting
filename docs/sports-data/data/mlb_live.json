@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-21T02:17:36.096816Z",
+  "refreshed_at_utc": "2026-08-21T03:27:22.002199Z",
   "dates_requested": [
     "20260820",
     "20260821",
@@ -190,17 +190,17 @@
       "date_utc": "2026-08-21T00:05Z",
       "name": "Washington Nationals at Texas Rangers",
       "short_name": "WSH @ TEX",
-      "status": "In Progress",
-      "status_short": "Bot 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Texas Rangers",
       "away_team": "Washington Nationals",
-      "home_score": "1",
+      "home_score": "2",
       "away_score": "0",
-      "home_record": "62-65",
-      "away_record": "61-67",
+      "home_record": "63-65",
+      "away_record": "61-68",
       "venue": "Globe Life Field",
       "broadcasts": [
         "MLB.TV",
@@ -208,7 +208,7 @@
         "Rangers Sports Network",
         "Nationals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816609"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816609/nationals-rangers"
     },
     {
       "sport": "mlb",
@@ -216,24 +216,24 @@
       "date_utc": "2026-08-21T00:10Z",
       "name": "Los Angeles Angels at Houston Astros",
       "short_name": "LAA @ HOU",
-      "status": "In Progress",
-      "status_short": "Top 7th",
-      "state": "in",
-      "period": 7,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Houston Astros",
       "away_team": "Los Angeles Angels",
-      "home_score": "2",
-      "away_score": "14",
-      "home_record": "64-63",
-      "away_record": "50-77",
+      "home_score": "3",
+      "away_score": "18",
+      "home_record": "64-64",
+      "away_record": "51-77",
       "venue": "Daikin Park",
       "broadcasts": [
         "MLB.TV",
         "Space City Home Network",
         "Angels.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816605"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816605/angels-astros"
     },
     {
       "sport": "mlb",
@@ -353,7 +353,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "64-64",
-      "away_record": "61-67",
+      "away_record": "61-68",
       "venue": "loanDepot park",
       "broadcasts": [
         "MLB.TV",
@@ -425,7 +425,7 @@
       "away_team": "Athletics",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "64-63",
+      "home_record": "64-64",
       "away_record": "49-79",
       "venue": "Daikin Park",
       "broadcasts": [
@@ -476,8 +476,8 @@
       "away_team": "Los Angeles Angels",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "62-65",
-      "away_record": "50-77",
+      "home_record": "63-65",
+      "away_record": "51-77",
       "venue": "Globe Life Field",
       "broadcasts": [
         "Apple TV"
@@ -677,7 +677,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "64-64",
-      "away_record": "61-67",
+      "away_record": "61-68",
       "venue": "loanDepot park",
       "broadcasts": [
         "MLB.TV",
@@ -752,8 +752,8 @@
       "away_team": "Los Angeles Angels",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "62-65",
-      "away_record": "50-77",
+      "home_record": "63-65",
+      "away_record": "51-77",
       "venue": "Globe Life Field",
       "broadcasts": [
         "MLB.TV",
@@ -777,7 +777,7 @@
       "away_team": "Athletics",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "64-63",
+      "home_record": "64-64",
       "away_record": "49-79",
       "venue": "Daikin Park",
       "broadcasts": [
