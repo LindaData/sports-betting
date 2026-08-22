@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-22T17:11:51.033099Z",
+  "refreshed_at_utc": "2026-08-22T17:42:41.378909Z",
   "dates_requested": [
     "20260821",
     "20260822",
@@ -388,9 +388,9 @@
       "date_utc": "2026-08-22T17:35Z",
       "name": "Toronto Blue Jays at New York Yankees",
       "short_name": "TOR @ NYY",
-      "status": "Scheduled",
-      "status_short": "8/22 - 1:35 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Yankees",
@@ -407,7 +407,7 @@
         "Sportsnet",
         "TVA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816628/blue-jays-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816628"
     },
     {
       "sport": "mlb",
