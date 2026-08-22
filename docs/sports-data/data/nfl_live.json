@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-22T16:46:42.842734Z",
+  "refreshed_at_utc": "2026-08-22T17:11:51.033099Z",
   "dates_requested": [
     "20260821",
     "20260822",
@@ -89,10 +89,10 @@
       "name": "Washington Commanders at Detroit Lions",
       "short_name": "WSH @ DET",
       "status": "In Progress",
-      "status_short": "14:17 - 2nd",
+      "status_short": "1:52 - 2nd",
       "state": "in",
       "period": 2,
-      "clock": "14:17",
+      "clock": "1:52",
       "home_team": "Detroit Lions",
       "away_team": "Washington Commanders",
       "home_score": "7",
@@ -112,11 +112,11 @@
       "date_utc": "2026-08-22T17:00Z",
       "name": "Buffalo Bills at Cleveland Browns",
       "short_name": "BUF @ CLE",
-      "status": "Scheduled",
-      "status_short": "8/22 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:35 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "13:35",
       "home_team": "Cleveland Browns",
       "away_team": "Buffalo Bills",
       "home_score": "0",
@@ -127,7 +127,7 @@
       "broadcasts": [
         "NFL Net"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873294/bills-browns"
+      "link": "https://www.espn.com/nfl/game?gameId=401873294"
     },
     {
       "sport": "nfl",
@@ -135,11 +135,11 @@
       "date_utc": "2026-08-22T17:00Z",
       "name": "Atlanta Falcons at Indianapolis Colts",
       "short_name": "ATL @ IND",
-      "status": "Scheduled",
-      "status_short": "8/22 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:12 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "14:12",
       "home_team": "Indianapolis Colts",
       "away_team": "Atlanta Falcons",
       "home_score": "0",
@@ -150,7 +150,7 @@
       "broadcasts": [
         "CBS4"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873295/falcons-colts"
+      "link": "https://www.espn.com/nfl/game?gameId=401873295"
     },
     {
       "sport": "nfl",
@@ -158,11 +158,11 @@
       "date_utc": "2026-08-22T17:00Z",
       "name": "Baltimore Ravens at Minnesota Vikings",
       "short_name": "BAL @ MIN",
-      "status": "Scheduled",
-      "status_short": "8/22 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "12:15 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "12:15",
       "home_team": "Minnesota Vikings",
       "away_team": "Baltimore Ravens",
       "home_score": "0",
@@ -174,7 +174,7 @@
         "ESPN Unlmtd",
         "WBAL-TV"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873291/ravens-vikings"
+      "link": "https://www.espn.com/nfl/game?gameId=401873291"
     },
     {
       "sport": "nfl",
