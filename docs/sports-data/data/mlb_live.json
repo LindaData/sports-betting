@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-22T20:45:20.174505Z",
+  "refreshed_at_utc": "2026-08-22T21:11:59.334028Z",
   "dates_requested": [
     "20260821",
     "20260822",
@@ -388,17 +388,17 @@
       "date_utc": "2026-08-22T17:35Z",
       "name": "Toronto Blue Jays at New York Yankees",
       "short_name": "TOR @ NYY",
-      "status": "In Progress",
-      "status_short": "Bot 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "New York Yankees",
       "away_team": "Toronto Blue Jays",
       "home_score": "3",
       "away_score": "4",
-      "home_record": "73-55",
-      "away_record": "63-67",
+      "home_record": "73-56",
+      "away_record": "64-67",
       "venue": "Yankee Stadium",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -407,7 +407,7 @@
         "Sportsnet",
         "TVA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816628"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816628/blue-jays-yankees"
     },
     {
       "sport": "mlb",
@@ -415,24 +415,24 @@
       "date_utc": "2026-08-22T18:10Z",
       "name": "Atlanta Braves at Milwaukee Brewers",
       "short_name": "ATL @ MIL",
-      "status": "In Progress",
-      "status_short": "Top 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "Milwaukee Brewers",
       "away_team": "Atlanta Braves",
       "home_score": "4",
       "away_score": "1",
-      "home_record": "80-49",
-      "away_record": "75-54",
+      "home_record": "81-49",
+      "away_record": "75-55",
       "venue": "American Family Field",
       "broadcasts": [
         "MLB.TV",
         "BravesVision",
         "Brewers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816632"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816632/braves-brewers"
     },
     {
       "sport": "mlb",
@@ -441,13 +441,13 @@
       "name": "Washington Nationals at Miami Marlins",
       "short_name": "WSH @ MIA",
       "status": "In Progress",
-      "status_short": "Bot 2nd",
+      "status_short": "Top 4th",
       "state": "in",
-      "period": 2,
+      "period": 4,
       "clock": "0:00",
       "home_team": "Miami Marlins",
       "away_team": "Washington Nationals",
-      "home_score": "2",
+      "home_score": "3",
       "away_score": "0",
       "home_record": "65-64",
       "away_record": "61-69",
@@ -825,8 +825,8 @@
       "away_team": "Toronto Blue Jays",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "73-55",
-      "away_record": "63-67",
+      "home_record": "73-56",
+      "away_record": "64-67",
       "venue": "Yankee Stadium",
       "broadcasts": [
         "MLB.TV",
@@ -1121,8 +1121,8 @@
       "away_team": "Atlanta Braves",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "80-49",
-      "away_record": "75-54",
+      "home_record": "81-49",
+      "away_record": "75-55",
       "venue": "Journey Bank Ballpark at Historic Bowman Field",
       "broadcasts": [
         "ESPN"
