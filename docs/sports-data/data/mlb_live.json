@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-22T04:56:40.048614Z",
+  "refreshed_at_utc": "2026-08-22T05:21:13.023040Z",
   "dates_requested": [
     "20260821",
     "20260822",
@@ -338,17 +338,17 @@
       "date_utc": "2026-08-22T02:10Z",
       "name": "Chicago Cubs at Seattle Mariners",
       "short_name": "CHC @ SEA",
-      "status": "In Progress",
-      "status_short": "Mid 10th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final/10",
+      "state": "post",
       "period": 10,
       "clock": "0:00",
       "home_team": "Seattle Mariners",
       "away_team": "Chicago Cubs",
-      "home_score": "5",
+      "home_score": "6",
       "away_score": "5",
-      "home_record": "60-68",
-      "away_record": "74-54",
+      "home_record": "61-68",
+      "away_record": "74-55",
       "venue": "T-Mobile Park",
       "broadcasts": [
         "MLB.TV",
@@ -356,7 +356,7 @@
         "Mariners.TV",
         "KING 5"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816621"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816621/cubs-mariners"
     },
     {
       "sport": "mlb",
@@ -365,9 +365,9 @@
       "name": "Pittsburgh Pirates at Los Angeles Dodgers",
       "short_name": "PIT @ LAD",
       "status": "In Progress",
-      "status_short": "End 8th",
+      "status_short": "Mid 10th",
       "state": "in",
-      "period": 8,
+      "period": 10,
       "clock": "0:00",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Pittsburgh Pirates",
@@ -649,8 +649,8 @@
       "away_team": "Chicago Cubs",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "60-68",
-      "away_record": "74-54",
+      "home_record": "61-68",
+      "away_record": "74-55",
       "venue": "T-Mobile Park",
       "broadcasts": [
         "MLB.TV",
@@ -1024,8 +1024,8 @@
       "away_team": "Chicago Cubs",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "60-68",
-      "away_record": "74-54",
+      "home_record": "61-68",
+      "away_record": "74-55",
       "venue": "T-Mobile Park",
       "broadcasts": [
         "MLB.TV",
