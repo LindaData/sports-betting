@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-22T05:21:13.023040Z",
+  "refreshed_at_utc": "2026-08-22T05:50:14.191992Z",
   "dates_requested": [
     "20260821",
     "20260822",
@@ -364,23 +364,23 @@
       "date_utc": "2026-08-22T02:10Z",
       "name": "Pittsburgh Pirates at Los Angeles Dodgers",
       "short_name": "PIT @ LAD",
-      "status": "In Progress",
-      "status_short": "Mid 10th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final/10",
+      "state": "post",
       "period": 10,
       "clock": "0:00",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Pittsburgh Pirates",
-      "home_score": "4",
+      "home_score": "5",
       "away_score": "4",
-      "home_record": "77-51",
-      "away_record": "63-66",
+      "home_record": "78-51",
+      "away_record": "63-67",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "MLB.TV",
         "SportsNet LA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816624"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816624/pirates-dodgers"
     },
     {
       "sport": "mlb",
@@ -673,8 +673,8 @@
       "away_team": "Pittsburgh Pirates",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "77-51",
-      "away_record": "63-66",
+      "home_record": "78-51",
+      "away_record": "63-67",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "MLB.TV",
@@ -1074,8 +1074,8 @@
       "away_team": "Pittsburgh Pirates",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "77-51",
-      "away_record": "63-66",
+      "home_record": "78-51",
+      "away_record": "63-67",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "MLB.TV",
