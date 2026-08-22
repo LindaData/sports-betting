@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-22T04:02:18.417585Z",
+  "refreshed_at_utc": "2026-08-22T04:56:40.048614Z",
   "dates_requested": [
     "20260821",
     "20260822",
@@ -63,24 +63,24 @@
       "date_utc": "2026-08-22T01:00Z",
       "name": "Green Bay Packers at Denver Broncos",
       "short_name": "GB @ DEN",
-      "status": "In Progress",
-      "status_short": "1:05 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "1:05",
+      "clock": "0:00",
       "home_team": "Denver Broncos",
       "away_team": "Green Bay Packers",
       "home_score": "13",
       "away_score": "33",
-      "home_record": "1-0",
-      "away_record": "0-1",
+      "home_record": "1-1",
+      "away_record": "1-1",
       "venue": "Empower Field at Mile High",
       "broadcasts": [
         "NFL Net",
         "Packers TV Network",
         "KUSA-TV (9NEWS)"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873613"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873613/packers-broncos"
     },
     {
       "sport": "nfl",
