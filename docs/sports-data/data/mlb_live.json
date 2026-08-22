@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-22T19:42:54.277715Z",
+  "refreshed_at_utc": "2026-08-22T20:11:45.864103Z",
   "dates_requested": [
     "20260821",
     "20260822",
@@ -389,13 +389,13 @@
       "name": "Toronto Blue Jays at New York Yankees",
       "short_name": "TOR @ NYY",
       "status": "In Progress",
-      "status_short": "Top 7th",
+      "status_short": "Top 8th",
       "state": "in",
-      "period": 7,
+      "period": 8,
       "clock": "0:00",
       "home_team": "New York Yankees",
       "away_team": "Toronto Blue Jays",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "3",
       "home_record": "73-55",
       "away_record": "63-67",
@@ -416,9 +416,9 @@
       "name": "Atlanta Braves at Milwaukee Brewers",
       "short_name": "ATL @ MIL",
       "status": "In Progress",
-      "status_short": "Bot 5th",
+      "status_short": "Top 7th",
       "state": "in",
-      "period": 5,
+      "period": 7,
       "clock": "0:00",
       "home_team": "Milwaukee Brewers",
       "away_team": "Atlanta Braves",
@@ -440,9 +440,9 @@
       "date_utc": "2026-08-22T20:10Z",
       "name": "Washington Nationals at Miami Marlins",
       "short_name": "WSH @ MIA",
-      "status": "Scheduled",
-      "status_short": "8/22 - 4:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Miami Marlins",
@@ -458,7 +458,7 @@
         "Marlins.TV",
         "Nationals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816629/nationals-marlins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816629"
     },
     {
       "sport": "mlb",

@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-22T19:42:54.277715Z",
+  "refreshed_at_utc": "2026-08-22T20:11:45.864103Z",
   "dates_requested": [
     "20260821",
     "20260822",
@@ -113,14 +113,14 @@
       "name": "Buffalo Bills at Cleveland Browns",
       "short_name": "BUF @ CLE",
       "status": "In Progress",
-      "status_short": "12:32 - 3rd",
+      "status_short": "1:26 - 3rd",
       "state": "in",
       "period": 3,
-      "clock": "12:32",
+      "clock": "1:26",
       "home_team": "Cleveland Browns",
       "away_team": "Buffalo Bills",
       "home_score": "7",
-      "away_score": "14",
+      "away_score": "24",
       "home_record": "0-1",
       "away_record": "1-0",
       "venue": "Huntington Bank Field",
@@ -135,22 +135,22 @@
       "date_utc": "2026-08-22T17:00Z",
       "name": "Atlanta Falcons at Indianapolis Colts",
       "short_name": "ATL @ IND",
-      "status": "In Progress",
-      "status_short": "8:54 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "8:54",
+      "clock": "0:00",
       "home_team": "Indianapolis Colts",
       "away_team": "Atlanta Falcons",
       "home_score": "6",
       "away_score": "34",
-      "home_record": "0-0-1",
-      "away_record": "0-1",
+      "home_record": "0-1-1",
+      "away_record": "1-1",
       "venue": "Lucas Oil Stadium",
       "broadcasts": [
         "CBS4"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873295"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873295/falcons-colts"
     },
     {
       "sport": "nfl",
@@ -158,23 +158,23 @@
       "date_utc": "2026-08-22T17:00Z",
       "name": "Baltimore Ravens at Minnesota Vikings",
       "short_name": "BAL @ MIN",
-      "status": "In Progress",
-      "status_short": "7:02 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "7:02",
+      "clock": "0:00",
       "home_team": "Minnesota Vikings",
       "away_team": "Baltimore Ravens",
       "home_score": "3",
       "away_score": "13",
-      "home_record": "1-0",
-      "away_record": "1-0",
+      "home_record": "1-1",
+      "away_record": "2-0",
       "venue": "U.S. Bank Stadium",
       "broadcasts": [
         "ESPN Unlmtd",
         "WBAL-TV"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873291"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873291/ravens-vikings"
     },
     {
       "sport": "nfl",
@@ -182,11 +182,11 @@
       "date_utc": "2026-08-22T20:00Z",
       "name": "New Orleans Saints at Los Angeles Rams",
       "short_name": "NO @ LAR",
-      "status": "Scheduled",
-      "status_short": "8/22 - 4:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:57 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "13:57",
       "home_team": "Los Angeles Rams",
       "away_team": "New Orleans Saints",
       "home_score": "0",
@@ -199,7 +199,7 @@
         "KCBS-TV",
         "Fox 8"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873290/saints-rams"
+      "link": "https://www.espn.com/nfl/game?gameId=401873290"
     },
     {
       "sport": "nfl",
@@ -207,11 +207,11 @@
       "date_utc": "2026-08-22T20:00Z",
       "name": "New York Giants at Miami Dolphins",
       "short_name": "NYG @ MIA",
-      "status": "Scheduled",
-      "status_short": "8/22 - 4:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:08 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "14:08",
       "home_team": "Miami Dolphins",
       "away_team": "New York Giants",
       "home_score": "0",
@@ -223,7 +223,7 @@
         "NFL Net",
         "CBS Miami"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873292/giants-dolphins"
+      "link": "https://www.espn.com/nfl/game?gameId=401873292"
     },
     {
       "sport": "nfl",
