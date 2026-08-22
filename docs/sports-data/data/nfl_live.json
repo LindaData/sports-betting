@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-22T22:44:27.225499Z",
+  "refreshed_at_utc": "2026-08-22T23:11:10.959800Z",
   "dates_requested": [
     "20260821",
     "20260822",
@@ -182,24 +182,24 @@
       "date_utc": "2026-08-22T20:00Z",
       "name": "New Orleans Saints at Los Angeles Rams",
       "short_name": "NO @ LAR",
-      "status": "In Progress",
-      "status_short": "6:15 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "6:15",
+      "clock": "0:00",
       "home_team": "Los Angeles Rams",
       "away_team": "New Orleans Saints",
-      "home_score": "27",
+      "home_score": "34",
       "away_score": "0",
-      "home_record": "1-0",
-      "away_record": "0-1",
+      "home_record": "2-0",
+      "away_record": "0-2",
       "venue": "SoFi Stadium",
       "broadcasts": [
         "ESPN Unlmtd",
         "KCBS-TV",
         "Fox 8"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873290"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873290/saints-rams"
     },
     {
       "sport": "nfl",
@@ -207,23 +207,23 @@
       "date_utc": "2026-08-22T20:00Z",
       "name": "New York Giants at Miami Dolphins",
       "short_name": "NYG @ MIA",
-      "status": "In Progress",
-      "status_short": "7:53 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "7:53",
+      "clock": "0:00",
       "home_team": "Miami Dolphins",
       "away_team": "New York Giants",
       "home_score": "3",
       "away_score": "26",
-      "home_record": "0-1",
-      "away_record": "0-1",
+      "home_record": "0-2",
+      "away_record": "1-1",
       "venue": "Hard Rock Stadium",
       "broadcasts": [
         "NFL Net",
         "CBS Miami"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873292"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873292/giants-dolphins"
     },
     {
       "sport": "nfl",
@@ -231,11 +231,11 @@
       "date_utc": "2026-08-22T23:00Z",
       "name": "Chicago Bears at Cincinnati Bengals",
       "short_name": "CHI @ CIN",
-      "status": "Scheduled",
-      "status_short": "8/22 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:03 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "13:03",
       "home_team": "Cincinnati Bengals",
       "away_team": "Chicago Bears",
       "home_score": "0",
@@ -247,7 +247,7 @@
         "Bengals Preseason TV Network",
         "FOX32"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873289/bears-bengals"
+      "link": "https://www.espn.com/nfl/game?gameId=401873289"
     },
     {
       "sport": "nfl",
@@ -255,11 +255,11 @@
       "date_utc": "2026-08-22T23:00Z",
       "name": "Philadelphia Eagles at New England Patriots",
       "short_name": "PHI @ NE",
-      "status": "Scheduled",
-      "status_short": "8/22 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:55 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "14:55",
       "home_team": "New England Patriots",
       "away_team": "Philadelphia Eagles",
       "home_score": "0",
@@ -272,7 +272,7 @@
         "WBZ",
         "NBC 10"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873293/eagles-patriots"
+      "link": "https://www.espn.com/nfl/game?gameId=401873293"
     },
     {
       "sport": "nfl",
