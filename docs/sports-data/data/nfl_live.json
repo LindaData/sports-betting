@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-22T15:42:34.361752Z",
+  "refreshed_at_utc": "2026-08-22T16:12:25.886526Z",
   "dates_requested": [
     "20260821",
     "20260822",
@@ -88,15 +88,15 @@
       "date_utc": "2026-08-22T16:00Z",
       "name": "Washington Commanders at Detroit Lions",
       "short_name": "WSH @ DET",
-      "status": "Scheduled",
-      "status_short": "8/22 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:09 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "14:09",
       "home_team": "Detroit Lions",
       "away_team": "Washington Commanders",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "7",
       "home_record": "0-1",
       "away_record": "1-0",
       "venue": "Ford Field",
@@ -104,7 +104,7 @@
         "Lions TV Network",
         "WUSA9"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873601/commanders-lions"
+      "link": "https://www.espn.com/nfl/game?gameId=401873601"
     },
     {
       "sport": "nfl",
