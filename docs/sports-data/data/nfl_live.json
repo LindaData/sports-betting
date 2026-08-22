@@ -1,63 +1,13 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-21T23:44:40.962210Z",
+  "refreshed_at_utc": "2026-08-22T00:40:17.350489Z",
   "dates_requested": [
-    "20260820",
     "20260821",
-    "20260822"
+    "20260822",
+    "20260823"
   ],
-  "event_count": 15,
+  "event_count": 14,
   "events": [
-    {
-      "sport": "nfl",
-      "event_id": "401873286",
-      "date_utc": "2026-08-21T00:00Z",
-      "name": "Las Vegas Raiders at Houston Texans",
-      "short_name": "LV @ HOU",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Houston Texans",
-      "away_team": "Las Vegas Raiders",
-      "home_score": "20",
-      "away_score": "22",
-      "home_record": "0-2",
-      "away_record": "1-1",
-      "venue": "Reliant Stadium",
-      "broadcasts": [
-        "ESPN",
-        "KTRK (ABC)",
-        "Fox 5 Vegas"
-      ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873286/raiders-texans"
-    },
-    {
-      "sport": "nfl",
-      "event_id": "401873285",
-      "date_utc": "2026-08-21T02:00Z",
-      "name": "San Francisco 49ers at Los Angeles Chargers",
-      "short_name": "SF @ LAC",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Los Angeles Chargers",
-      "away_team": "San Francisco 49ers",
-      "home_score": "17",
-      "away_score": "41",
-      "home_record": "1-1",
-      "away_record": "1-1",
-      "venue": "SoFi Stadium",
-      "broadcasts": [
-        "NFL Net",
-        "CBS LA",
-        "KPIX"
-      ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873285/49ers-chargers"
-    },
     {
       "sport": "nfl",
       "event_id": "401873288",
@@ -65,10 +15,10 @@
       "name": "New York Jets at Pittsburgh Steelers",
       "short_name": "NYJ @ PIT",
       "status": "In Progress",
-      "status_short": "13:44 - 2nd",
+      "status_short": "11:13 - 3rd",
       "state": "in",
-      "period": 2,
-      "clock": "13:44",
+      "period": 3,
+      "clock": "11:13",
       "home_team": "Pittsburgh Steelers",
       "away_team": "New York Jets",
       "home_score": "0",
@@ -90,14 +40,14 @@
       "name": "Carolina Panthers at Jacksonville Jaguars",
       "short_name": "CAR @ JAX",
       "status": "In Progress",
-      "status_short": "13:00 - 1st",
+      "status_short": "5:26 - 2nd",
       "state": "in",
-      "period": 1,
-      "clock": "13:00",
+      "period": 2,
+      "clock": "5:26",
       "home_team": "Jacksonville Jaguars",
       "away_team": "Carolina Panthers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "3",
+      "away_score": "10",
       "home_record": "1-0",
       "away_record": "1-1",
       "venue": "EverBank Stadium",
@@ -370,6 +320,29 @@
         "NFL Net"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401874101/cowboys-cardinals"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873297",
+      "date_utc": "2026-08-24T00:00Z",
+      "name": "Seattle Seahawks at Tennessee Titans",
+      "short_name": "SEA @ TEN",
+      "status": "Scheduled",
+      "status_short": "8/23 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Tennessee Titans",
+      "away_team": "Seattle Seahawks",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-0",
+      "away_record": "0-1",
+      "venue": "Nissan Stadium",
+      "broadcasts": [
+        "FOX"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873297/seahawks-titans"
     }
   ],
   "errors": []
