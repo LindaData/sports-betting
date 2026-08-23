@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-23T22:44:18.620686Z",
+  "refreshed_at_utc": "2026-08-23T23:11:38.886238Z",
   "dates_requested": [
     "20260822",
     "20260823",
@@ -642,14 +642,14 @@
       "name": "Chicago Cubs at Seattle Mariners",
       "short_name": "CHC @ SEA",
       "status": "In Progress",
-      "status_short": "Top 8th",
+      "status_short": "End 8th",
       "state": "in",
       "period": 8,
       "clock": "0:00",
       "home_team": "Seattle Mariners",
       "away_team": "Chicago Cubs",
       "home_score": "2",
-      "away_score": "7",
+      "away_score": "16",
       "home_record": "62-68",
       "away_record": "74-56",
       "venue": "T-Mobile Park",
@@ -666,24 +666,24 @@
       "date_utc": "2026-08-23T20:10Z",
       "name": "Minnesota Twins at San Diego Padres",
       "short_name": "MIN @ SD",
-      "status": "In Progress",
-      "status_short": "End 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "San Diego Padres",
       "away_team": "Minnesota Twins",
       "home_score": "8",
       "away_score": "1",
-      "home_record": "70-60",
-      "away_record": "63-67",
+      "home_record": "71-60",
+      "away_record": "63-68",
       "venue": "Petco Park",
       "broadcasts": [
         "MLB.TV",
         "Twins.TV",
         "Padres.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816653"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816653/twins-padres"
     },
     {
       "sport": "mlb",
@@ -691,23 +691,23 @@
       "date_utc": "2026-08-23T20:10Z",
       "name": "Pittsburgh Pirates at Los Angeles Dodgers",
       "short_name": "PIT @ LAD",
-      "status": "In Progress",
-      "status_short": "Top 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Pittsburgh Pirates",
       "home_score": "4",
       "away_score": "0",
-      "home_record": "79-51",
-      "away_record": "63-68",
+      "home_record": "80-51",
+      "away_record": "63-69",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "MLB.TV",
         "SportsNet LA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816654"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816654/pirates-dodgers"
     },
     {
       "sport": "mlb",
@@ -715,22 +715,22 @@
       "date_utc": "2026-08-23T20:15Z",
       "name": "Cincinnati Reds at Arizona Diamondbacks",
       "short_name": "CIN @ ARI",
-      "status": "In Progress",
-      "status_short": "Mid 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Cincinnati Reds",
       "home_score": "5",
       "away_score": "3",
-      "home_record": "68-62",
-      "away_record": "62-68",
+      "home_record": "69-62",
+      "away_record": "62-69",
       "venue": "Chase Field",
       "broadcasts": [
         "Peacock"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816652"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816652/reds-diamondbacks"
     },
     {
       "sport": "mlb",
@@ -738,9 +738,9 @@
       "date_utc": "2026-08-23T23:00Z",
       "name": "Atlanta Braves at Milwaukee Brewers",
       "short_name": "ATL VS MIL",
-      "status": "Scheduled",
-      "status_short": "8/23 - 7:00 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Milwaukee Brewers",
@@ -753,7 +753,7 @@
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816647/braves-brewers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816647"
     },
     {
       "sport": "mlb",
@@ -897,7 +897,7 @@
       "away_team": "Chicago Cubs",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "68-62",
+      "home_record": "69-62",
       "away_record": "74-56",
       "venue": "Chase Field",
       "broadcasts": [
@@ -923,7 +923,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "51-80",
-      "away_record": "63-67",
+      "away_record": "63-68",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
@@ -972,8 +972,8 @@
       "away_team": "Pittsburgh Pirates",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "70-60",
-      "away_record": "63-68",
+      "home_record": "71-60",
+      "away_record": "63-69",
       "venue": "Petco Park",
       "broadcasts": [
         "MLB.TV",
@@ -997,7 +997,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "52-78",
-      "away_record": "62-68",
+      "away_record": "62-69",
       "venue": "Oracle Park",
       "broadcasts": [
         "MLB.TV",
