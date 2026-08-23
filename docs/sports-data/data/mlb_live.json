@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-23T17:12:24.033841Z",
+  "refreshed_at_utc": "2026-08-23T17:41:50.867974Z",
   "dates_requested": [
     "20260822",
     "20260823",
@@ -391,9 +391,9 @@
       "date_utc": "2026-08-23T17:35Z",
       "name": "St. Louis Cardinals at Philadelphia Phillies",
       "short_name": "STL @ PHI",
-      "status": "Scheduled",
-      "status_short": "8/23 - 1:35 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
@@ -408,7 +408,7 @@
         "Cardinals.TV",
         "NBC Sports Phil"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816641/cardinals-phillies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816641"
     },
     {
       "sport": "mlb",
@@ -416,9 +416,9 @@
       "date_utc": "2026-08-23T17:35Z",
       "name": "Tampa Bay Rays at Baltimore Orioles",
       "short_name": "TB @ BAL",
-      "status": "Scheduled",
-      "status_short": "8/23 - 1:35 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Baltimore Orioles",
@@ -434,7 +434,7 @@
         "Rays.TV",
         "MASN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816642/rays-orioles"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816642"
     },
     {
       "sport": "mlb",
@@ -442,9 +442,9 @@
       "date_utc": "2026-08-23T17:35Z",
       "name": "Toronto Blue Jays at New York Yankees",
       "short_name": "TOR @ NYY",
-      "status": "Scheduled",
-      "status_short": "8/23 - 1:35 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Yankees",
@@ -460,7 +460,7 @@
         "Sportsnet",
         "TVA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816643/blue-jays-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816643"
     },
     {
       "sport": "mlb",
@@ -468,9 +468,9 @@
       "date_utc": "2026-08-23T17:40Z",
       "name": "Washington Nationals at Miami Marlins",
       "short_name": "WSH @ MIA",
-      "status": "Scheduled",
-      "status_short": "8/23 - 1:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Miami Marlins",
@@ -485,7 +485,7 @@
         "Marlins.TV",
         "Nationals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816644/nationals-marlins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816644"
     },
     {
       "sport": "mlb",
