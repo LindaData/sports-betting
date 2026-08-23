@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-23T03:27:25.099011Z",
+  "refreshed_at_utc": "2026-08-23T04:08:08.724737Z",
   "dates_requested": [
     "20260822",
     "20260823",
@@ -364,17 +364,17 @@
       "date_utc": "2026-08-23T00:40Z",
       "name": "Minnesota Twins at San Diego Padres",
       "short_name": "MIN @ SD",
-      "status": "In Progress",
-      "status_short": "Top 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "San Diego Padres",
       "away_team": "Minnesota Twins",
       "home_score": "7",
       "away_score": "5",
-      "home_record": "69-60",
-      "away_record": "63-66",
+      "home_record": "70-60",
+      "away_record": "63-67",
       "venue": "Petco Park",
       "broadcasts": [
         "MLB.TV",
@@ -383,7 +383,7 @@
         "KFMB 8.1 (CBS)",
         "TV Azteca"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816638"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816638/twins-padres"
     },
     {
       "sport": "mlb",
@@ -675,8 +675,8 @@
       "away_team": "Minnesota Twins",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "69-60",
-      "away_record": "63-66",
+      "home_record": "70-60",
+      "away_record": "63-67",
       "venue": "Petco Park",
       "broadcasts": [
         "MLB.TV",
@@ -923,7 +923,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "50-80",
-      "away_record": "63-66",
+      "away_record": "63-67",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
@@ -972,7 +972,7 @@
       "away_team": "Pittsburgh Pirates",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "69-60",
+      "home_record": "70-60",
       "away_record": "63-68",
       "venue": "Petco Park",
       "broadcasts": [
