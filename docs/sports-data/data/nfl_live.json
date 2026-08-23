@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-23T04:08:08.724737Z",
+  "refreshed_at_utc": "2026-08-23T04:58:40.502791Z",
   "dates_requested": [
     "20260822",
     "20260823",
@@ -230,22 +230,22 @@
       "date_utc": "2026-08-23T02:00Z",
       "name": "Dallas Cowboys at Arizona Cardinals",
       "short_name": "DAL @ ARI",
-      "status": "In Progress",
-      "status_short": "1:55 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "1:55",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Arizona Cardinals",
       "away_team": "Dallas Cowboys",
       "home_score": "13",
-      "away_score": "27",
-      "home_record": "1-1",
-      "away_record": "1-0",
+      "away_score": "34",
+      "home_record": "1-2",
+      "away_record": "2-0",
       "venue": "State Farm Stadium",
       "broadcasts": [
         "NFL Net"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401874101"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401874101/cowboys-cardinals"
     },
     {
       "sport": "nfl",
