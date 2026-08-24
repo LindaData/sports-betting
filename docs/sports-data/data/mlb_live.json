@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-24T22:15:46.821233Z",
+  "refreshed_at_utc": "2026-08-24T22:49:52.215599Z",
   "dates_requested": [
     "20260823",
     "20260824",
@@ -384,9 +384,9 @@
       "date_utc": "2026-08-24T22:40Z",
       "name": "Boston Red Sox at Miami Marlins",
       "short_name": "BOS @ MIA",
-      "status": "Scheduled",
-      "status_short": "8/24 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Miami Marlins",
@@ -401,7 +401,7 @@
         "Marlins.TV",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816655/red-sox-marlins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816655"
     },
     {
       "sport": "mlb",
@@ -409,15 +409,15 @@
       "date_utc": "2026-08-24T22:40Z",
       "name": "Tampa Bay Rays at Detroit Tigers",
       "short_name": "TB @ DET",
-      "status": "Scheduled",
-      "status_short": "8/24 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
       "away_team": "Tampa Bay Rays",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "2",
       "home_record": "61-69",
       "away_record": "77-53",
       "venue": "Comerica Park",
@@ -427,7 +427,7 @@
         "Rays.TV",
         "Tigers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816657/rays-tigers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816657"
     },
     {
       "sport": "mlb",
@@ -435,9 +435,9 @@
       "date_utc": "2026-08-24T22:45Z",
       "name": "Colorado Rockies at Washington Nationals",
       "short_name": "COL @ WSH",
-      "status": "Scheduled",
-      "status_short": "8/24 - 6:45 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Washington Nationals",
@@ -452,7 +452,7 @@
         "Rockies.TV",
         "Nationals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816656/rockies-nationals"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816656"
     },
     {
       "sport": "mlb",
