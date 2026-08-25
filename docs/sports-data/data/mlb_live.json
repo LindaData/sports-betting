@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-25T05:01:14.988237Z",
+  "refreshed_at_utc": "2026-08-25T05:54:53.227114Z",
   "dates_requested": [
     "20260824",
     "20260825",
@@ -216,23 +216,23 @@
       "date_utc": "2026-08-25T01:40Z",
       "name": "Pittsburgh Pirates at San Diego Padres",
       "short_name": "PIT @ SD",
-      "status": "In Progress",
-      "status_short": "Top 10th",
-      "state": "in",
-      "period": 10,
+      "status": "Final",
+      "status_short": "Final/12",
+      "state": "post",
+      "period": 12,
       "clock": "0:00",
       "home_team": "San Diego Padres",
       "away_team": "Pittsburgh Pirates",
       "home_score": "2",
-      "away_score": "2",
-      "home_record": "71-60",
-      "away_record": "63-69",
+      "away_score": "3",
+      "home_record": "71-61",
+      "away_record": "64-69",
       "venue": "Petco Park",
       "broadcasts": [
         "MLB.TV",
         "Padres.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816664"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816664/pirates-padres"
     },
     {
       "sport": "mlb",
@@ -602,8 +602,8 @@
       "away_team": "Pittsburgh Pirates",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "71-60",
-      "away_record": "63-69",
+      "home_record": "71-61",
+      "away_record": "64-69",
       "venue": "Petco Park",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -778,8 +778,8 @@
       "away_team": "Pittsburgh Pirates",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "71-60",
-      "away_record": "63-69",
+      "home_record": "71-61",
+      "away_record": "64-69",
       "venue": "Petco Park",
       "broadcasts": [
         "MLB.TV",
