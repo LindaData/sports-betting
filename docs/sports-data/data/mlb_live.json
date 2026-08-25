@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-25T22:16:30.129649Z",
+  "refreshed_at_utc": "2026-08-25T22:51:29.586573Z",
   "dates_requested": [
     "20260824",
     "20260825",
@@ -266,9 +266,9 @@
       "date_utc": "2026-08-25T22:40Z",
       "name": "Boston Red Sox at Miami Marlins",
       "short_name": "BOS @ MIA",
-      "status": "Scheduled",
-      "status_short": "8/25 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "End 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Miami Marlins",
@@ -283,7 +283,7 @@
         "Marlins.TV",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816665/red-sox-marlins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816665"
     },
     {
       "sport": "mlb",
@@ -291,9 +291,9 @@
       "date_utc": "2026-08-25T22:40Z",
       "name": "Tampa Bay Rays at Detroit Tigers",
       "short_name": "TB @ DET",
-      "status": "Scheduled",
-      "status_short": "8/25 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
@@ -308,7 +308,7 @@
         "Rays.TV",
         "Tigers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816671/rays-tigers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816671"
     },
     {
       "sport": "mlb",
@@ -316,9 +316,9 @@
       "date_utc": "2026-08-25T22:45Z",
       "name": "Colorado Rockies at Washington Nationals",
       "short_name": "COL @ WSH",
-      "status": "Scheduled",
-      "status_short": "8/25 - 6:45 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Washington Nationals",
@@ -333,7 +333,7 @@
         "Rockies.TV",
         "Nationals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816666/rockies-nationals"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816666"
     },
     {
       "sport": "mlb",
