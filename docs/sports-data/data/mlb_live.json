@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-25T22:51:29.586573Z",
+  "refreshed_at_utc": "2026-08-25T23:16:42.780736Z",
   "dates_requested": [
     "20260824",
     "20260825",
@@ -267,14 +267,14 @@
       "name": "Boston Red Sox at Miami Marlins",
       "short_name": "BOS @ MIA",
       "status": "In Progress",
-      "status_short": "End 1st",
+      "status_short": "Bot 3rd",
       "state": "in",
-      "period": 1,
+      "period": 3,
       "clock": "0:00",
       "home_team": "Miami Marlins",
       "away_team": "Boston Red Sox",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "67-65",
       "away_record": "72-59",
       "venue": "loanDepot park",
@@ -292,9 +292,9 @@
       "name": "Tampa Bay Rays at Detroit Tigers",
       "short_name": "TB @ DET",
       "status": "In Progress",
-      "status_short": "Bot 1st",
+      "status_short": "Bot 3rd",
       "state": "in",
-      "period": 1,
+      "period": 3,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
       "away_team": "Tampa Bay Rays",
@@ -317,9 +317,9 @@
       "name": "Colorado Rockies at Washington Nationals",
       "short_name": "COL @ WSH",
       "status": "In Progress",
-      "status_short": "Top 1st",
+      "status_short": "Bot 2nd",
       "state": "in",
-      "period": 1,
+      "period": 2,
       "clock": "0:00",
       "home_team": "Washington Nationals",
       "away_team": "Colorado Rockies",
@@ -341,9 +341,9 @@
       "date_utc": "2026-08-25T23:05Z",
       "name": "Houston Astros at New York Yankees",
       "short_name": "HOU @ NYY",
-      "status": "Scheduled",
-      "status_short": "8/25 - 7:05 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Yankees",
@@ -358,7 +358,7 @@
         "Space City Home Network",
         "YES"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816667/astros-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816667"
     },
     {
       "sport": "mlb",
@@ -366,15 +366,15 @@
       "date_utc": "2026-08-25T23:07Z",
       "name": "Kansas City Royals at Toronto Blue Jays",
       "short_name": "KC @ TOR",
-      "status": "Scheduled",
-      "status_short": "8/25 - 7:07 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Toronto Blue Jays",
       "away_team": "Kansas City Royals",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "64-68",
       "away_record": "58-74",
       "venue": "Rogers Centre",
@@ -383,7 +383,7 @@
         "Royals.TV",
         "Sportsnet"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816668/royals-blue-jays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816668"
     },
     {
       "sport": "mlb",
@@ -391,9 +391,9 @@
       "date_utc": "2026-08-25T23:10Z",
       "name": "Milwaukee Brewers at New York Mets",
       "short_name": "MIL @ NYM",
-      "status": "Scheduled",
-      "status_short": "8/25 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Mid 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Mets",
@@ -408,7 +408,7 @@
         "Brewers.TV",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816670/brewers-mets"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816670"
     },
     {
       "sport": "mlb",
@@ -416,9 +416,9 @@
       "date_utc": "2026-08-25T23:15Z",
       "name": "Los Angeles Dodgers at Atlanta Braves",
       "short_name": "LAD @ ATL",
-      "status": "Scheduled",
-      "status_short": "8/25 - 7:15 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Atlanta Braves",
@@ -435,7 +435,7 @@
         "BravesVision",
         "Gray Media"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816669/dodgers-braves"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816669"
     },
     {
       "sport": "mlb",
