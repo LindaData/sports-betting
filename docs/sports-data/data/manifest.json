@@ -1,5 +1,5 @@
 {
-  "refreshed_at_utc": "2026-08-24T10:08:49.309511Z",
+  "refreshed_at_utc": "2026-08-25T09:58:31.843283Z",
   "sports": {
     "basketball": {
       "league_id": 12,
@@ -30,5 +30,5 @@
       "x-ratelimit-requests-remaining": "97"
     }
   },
-  "raw_artifact_directory": "data/raw/api_sports_publish/20260824T100849Z"
+  "raw_artifact_directory": "data/raw/api_sports_publish/20260825T095831Z"
 }
