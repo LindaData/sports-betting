@@ -1,12 +1,110 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-25T23:45:34.338331Z",
+  "refreshed_at_utc": "2026-08-26T00:42:19.125564Z",
   "dates_requested": [
-    "20260824",
     "20260825",
-    "20260826"
+    "20260826",
+    "20260827"
   ],
-  "event_count": 0,
-  "events": [],
+  "event_count": 4,
+  "events": [
+    {
+      "sport": "nfl",
+      "event_id": "401873298",
+      "date_utc": "2026-08-27T23:00Z",
+      "name": "Pittsburgh Steelers at Buffalo Bills",
+      "short_name": "PIT @ BUF",
+      "status": "Scheduled",
+      "status_short": "8/27 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Buffalo Bills",
+      "away_team": "Pittsburgh Steelers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-0",
+      "away_record": "1-1",
+      "venue": "Highmark Stadium",
+      "broadcasts": [
+        "NFL Net",
+        "KDKA-TV"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873298/steelers-bills"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873299",
+      "date_utc": "2026-08-28T00:00Z",
+      "name": "New England Patriots at Cleveland Browns",
+      "short_name": "NE @ CLE",
+      "status": "Scheduled",
+      "status_short": "8/27 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Cleveland Browns",
+      "away_team": "New England Patriots",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-2",
+      "away_record": "1-0-1",
+      "venue": "Huntington Bank Field",
+      "broadcasts": [
+        "Prime Video"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873299/patriots-browns"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873641",
+      "date_utc": "2026-08-28T00:00Z",
+      "name": "San Francisco 49ers at Las Vegas Raiders",
+      "short_name": "SF @ LV",
+      "status": "Scheduled",
+      "status_short": "8/27 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Las Vegas Raiders",
+      "away_team": "San Francisco 49ers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-1",
+      "away_record": "1-1",
+      "venue": "Allegiant Stadium",
+      "broadcasts": [
+        "ESPN Unlmtd",
+        "Fox 5 Vegas",
+        "KPIX"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873641/49ers-raiders"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873300",
+      "date_utc": "2026-08-28T02:00Z",
+      "name": "Los Angeles Rams at Los Angeles Chargers",
+      "short_name": "LAR @ LAC",
+      "status": "Scheduled",
+      "status_short": "8/27 - 10:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Los Angeles Chargers",
+      "away_team": "Los Angeles Rams",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-1",
+      "away_record": "2-0",
+      "venue": "SoFi Stadium",
+      "broadcasts": [
+        "NFL Net",
+        "CBS LA",
+        "KCAL"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873300/rams-chargers"
+    }
+  ],
   "errors": []
 }
