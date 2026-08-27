@@ -1,12 +1,12 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-26T23:51:34.361649Z",
+  "refreshed_at_utc": "2026-08-27T05:48:35.215964Z",
   "dates_requested": [
-    "20260825",
     "20260826",
-    "20260827"
+    "20260827",
+    "20260828"
   ],
-  "event_count": 4,
+  "event_count": 14,
   "events": [
     {
       "sport": "nfl",
@@ -104,6 +104,242 @@
         "KCAL"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401873300/rams-chargers"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873302",
+      "date_utc": "2026-08-28T22:00Z",
+      "name": "Washington Commanders at Baltimore Ravens",
+      "short_name": "WSH @ BAL",
+      "status": "Scheduled",
+      "status_short": "8/28 - 6:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Baltimore Ravens",
+      "away_team": "Washington Commanders",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-0",
+      "away_record": "1-1",
+      "venue": "M&T Bank Stadium",
+      "broadcasts": [
+        "NFL Net",
+        "WBAL-TV",
+        "WUSA9"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873302/commanders-ravens"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873304",
+      "date_utc": "2026-08-28T23:00Z",
+      "name": "Atlanta Falcons at Miami Dolphins",
+      "short_name": "ATL @ MIA",
+      "status": "Scheduled",
+      "status_short": "8/28 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Miami Dolphins",
+      "away_team": "Atlanta Falcons",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-2",
+      "away_record": "1-1",
+      "venue": "Hard Rock Stadium",
+      "broadcasts": [
+        "CBS Miami"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873304/falcons-dolphins"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873307",
+      "date_utc": "2026-08-28T23:00Z",
+      "name": "Houston Texans at Carolina Panthers",
+      "short_name": "HOU @ CAR",
+      "status": "Scheduled",
+      "status_short": "8/28 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Carolina Panthers",
+      "away_team": "Houston Texans",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-1",
+      "away_record": "0-2",
+      "venue": "Bank of America Stadium",
+      "broadcasts": [
+        "KTRK (ABC)"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873307/texans-panthers"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873303",
+      "date_utc": "2026-08-28T23:30Z",
+      "name": "New York Giants at New York Jets",
+      "short_name": "NYG @ NYJ",
+      "status": "Scheduled",
+      "status_short": "8/28 - 7:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "New York Jets",
+      "away_team": "New York Giants",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-1",
+      "away_record": "1-1",
+      "venue": "MetLife Stadium",
+      "broadcasts": [
+        "WCBS"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873303/giants-jets"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873306",
+      "date_utc": "2026-08-28T23:30Z",
+      "name": "Tampa Bay Buccaneers at Jacksonville Jaguars",
+      "short_name": "TB @ JAX",
+      "status": "Scheduled",
+      "status_short": "8/28 - 7:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Jacksonville Jaguars",
+      "away_team": "Tampa Bay Buccaneers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-1",
+      "away_record": "2-0",
+      "venue": "EverBank Stadium",
+      "broadcasts": [
+        "FOX30"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873306/buccaneers-jaguars"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401874048",
+      "date_utc": "2026-08-29T00:00Z",
+      "name": "New Orleans Saints at Dallas Cowboys",
+      "short_name": "NO @ DAL",
+      "status": "Scheduled",
+      "status_short": "8/28 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Dallas Cowboys",
+      "away_team": "New Orleans Saints",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-0",
+      "away_record": "0-2",
+      "venue": "AT&T Stadium",
+      "broadcasts": [
+        "ESPN Unlmtd",
+        "Fox 8"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401874048/saints-cowboys"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401874102",
+      "date_utc": "2026-08-29T00:00Z",
+      "name": "Arizona Cardinals at Green Bay Packers",
+      "short_name": "ARI @ GB",
+      "status": "Scheduled",
+      "status_short": "8/28 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Green Bay Packers",
+      "away_team": "Arizona Cardinals",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-1",
+      "away_record": "1-2",
+      "venue": "Lambeau Field",
+      "broadcasts": [
+        "Packers TV Network"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401874102/cardinals-packers"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873305",
+      "date_utc": "2026-08-29T00:00Z",
+      "name": "Seattle Seahawks at Kansas City Chiefs",
+      "short_name": "SEA @ KC",
+      "status": "Scheduled",
+      "status_short": "8/28 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Kansas City Chiefs",
+      "away_team": "Seattle Seahawks",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-2",
+      "away_record": "0-2",
+      "venue": "Arrowhead Stadium",
+      "broadcasts": [
+        "ESPN Unlmtd",
+        "KSHB",
+        "KING 5"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873305/seahawks-chiefs"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873301",
+      "date_utc": "2026-08-29T00:00Z",
+      "name": "Cincinnati Bengals at Philadelphia Eagles",
+      "short_name": "CIN @ PHI",
+      "status": "Scheduled",
+      "status_short": "8/28 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Philadelphia Eagles",
+      "away_team": "Cincinnati Bengals",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-2",
+      "away_record": "2-0",
+      "venue": "Lincoln Financial Field",
+      "broadcasts": [
+        "CBS"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873301/bengals-eagles"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873614",
+      "date_utc": "2026-08-29T01:00Z",
+      "name": "Minnesota Vikings at Denver Broncos",
+      "short_name": "MIN @ DEN",
+      "status": "Scheduled",
+      "status_short": "8/28 - 9:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Denver Broncos",
+      "away_team": "Minnesota Vikings",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-1",
+      "away_record": "1-1",
+      "venue": "Empower Field at Mile High",
+      "broadcasts": [
+        "NFL Net",
+        "KUSA-TV (9NEWS)"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873614/vikings-broncos"
     }
   ],
   "errors": []
