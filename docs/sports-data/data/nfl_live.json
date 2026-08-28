@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-28T13:33:26.144315Z",
+  "refreshed_at_utc": "2026-08-28T23:17:37.325668Z",
   "dates_requested": [
     "20260827",
     "20260828",
@@ -111,14 +111,14 @@
       "date_utc": "2026-08-28T22:00Z",
       "name": "Washington Commanders at Baltimore Ravens",
       "short_name": "WSH @ BAL",
-      "status": "Scheduled",
-      "status_short": "8/28 - 6:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "3:46 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "3:46",
       "home_team": "Baltimore Ravens",
       "away_team": "Washington Commanders",
-      "home_score": "0",
+      "home_score": "24",
       "away_score": "0",
       "home_record": "2-0",
       "away_record": "1-1",
@@ -128,7 +128,7 @@
         "WBAL-TV",
         "WUSA9"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873302/commanders-ravens"
+      "link": "https://www.espn.com/nfl/game?gameId=401873302"
     },
     {
       "sport": "nfl",
@@ -136,11 +136,11 @@
       "date_utc": "2026-08-28T23:00Z",
       "name": "Atlanta Falcons at Miami Dolphins",
       "short_name": "ATL @ MIA",
-      "status": "Scheduled",
-      "status_short": "8/28 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "9:18 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "9:18",
       "home_team": "Miami Dolphins",
       "away_team": "Atlanta Falcons",
       "home_score": "0",
@@ -151,7 +151,7 @@
       "broadcasts": [
         "CBS Miami"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873304/falcons-dolphins"
+      "link": "https://www.espn.com/nfl/game?gameId=401873304"
     },
     {
       "sport": "nfl",
@@ -159,11 +159,11 @@
       "date_utc": "2026-08-28T23:00Z",
       "name": "Houston Texans at Carolina Panthers",
       "short_name": "HOU @ CAR",
-      "status": "Scheduled",
-      "status_short": "8/28 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "9:52 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "9:52",
       "home_team": "Carolina Panthers",
       "away_team": "Houston Texans",
       "home_score": "0",
@@ -174,7 +174,7 @@
       "broadcasts": [
         "KTRK (ABC)"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873307/texans-panthers"
+      "link": "https://www.espn.com/nfl/game?gameId=401873307"
     },
     {
       "sport": "nfl",

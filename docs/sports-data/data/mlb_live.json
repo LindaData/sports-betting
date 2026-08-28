@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-28T13:33:26.144315Z",
+  "refreshed_at_utc": "2026-08-28T23:17:37.325668Z",
   "dates_requested": [
     "20260827",
     "20260828",
@@ -191,17 +191,17 @@
       "date_utc": "2026-08-28T18:20Z",
       "name": "Cincinnati Reds at Chicago Cubs",
       "short_name": "CIN @ CHC",
-      "status": "Scheduled",
-      "status_short": "8/28 - 2:20 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Chicago Cubs",
       "away_team": "Cincinnati Reds",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "76-58",
-      "away_record": "63-71",
+      "home_score": "8",
+      "away_score": "10",
+      "home_record": "76-59",
+      "away_record": "64-71",
       "venue": "Wrigley Field",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -217,10 +217,10 @@
       "date_utc": "2026-08-28T22:40Z",
       "name": "Los Angeles Dodgers at Detroit Tigers",
       "short_name": "LAD @ DET",
-      "status": "Scheduled",
-      "status_short": "8/28 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
       "away_team": "Los Angeles Dodgers",
@@ -234,7 +234,7 @@
         "SportsNet LA",
         "Tigers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816706/dodgers-tigers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816706"
     },
     {
       "sport": "mlb",
@@ -242,15 +242,15 @@
       "date_utc": "2026-08-28T22:45Z",
       "name": "Miami Marlins at Washington Nationals",
       "short_name": "MIA @ WSH",
-      "status": "Scheduled",
-      "status_short": "8/28 - 6:45 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Washington Nationals",
       "away_team": "Miami Marlins",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "63-73",
       "away_record": "68-66",
       "venue": "Nationals Park",
@@ -261,7 +261,7 @@
         "Fox 5 WTTG",
         "Gray Media"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816707/marlins-nationals"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816707"
     },
     {
       "sport": "mlb",
@@ -269,9 +269,9 @@
       "date_utc": "2026-08-28T23:10Z",
       "name": "Houston Astros at New York Mets",
       "short_name": "HOU @ NYM",
-      "status": "Scheduled",
-      "status_short": "8/28 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Mets",
@@ -286,7 +286,7 @@
         "Space City Home Network",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816704/astros-mets"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816704"
     },
     {
       "sport": "mlb",
@@ -294,9 +294,9 @@
       "date_utc": "2026-08-28T23:10Z",
       "name": "Kansas City Royals at Cleveland Guardians",
       "short_name": "KC @ CLE",
-      "status": "Scheduled",
-      "status_short": "8/28 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
@@ -311,7 +311,7 @@
         "CLEGuardians.TV",
         "Royals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816705/royals-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816705"
     },
     {
       "sport": "mlb",
@@ -319,9 +319,9 @@
       "date_utc": "2026-08-28T23:10Z",
       "name": "San Diego Padres at Tampa Bay Rays",
       "short_name": "SD @ TB",
-      "status": "Scheduled",
-      "status_short": "8/28 - 7:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
@@ -336,7 +336,7 @@
         "Padres.TV",
         "Rays.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816708/padres-rays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816708"
     },
     {
       "sport": "mlb",
@@ -344,9 +344,9 @@
       "date_utc": "2026-08-28T23:15Z",
       "name": "Boston Red Sox at New York Yankees",
       "short_name": "BOS @ NYY",
-      "status": "Scheduled",
-      "status_short": "8/28 - 7:15 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Yankees",
@@ -360,7 +360,7 @@
         "NESN",
         "Apple TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816702/red-sox-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816702"
     },
     {
       "sport": "mlb",
@@ -368,9 +368,9 @@
       "date_utc": "2026-08-28T23:15Z",
       "name": "Colorado Rockies at Atlanta Braves",
       "short_name": "COL @ ATL",
-      "status": "Scheduled",
-      "status_short": "8/28 - 7:15 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Atlanta Braves",
@@ -385,7 +385,7 @@
         "BravesVision",
         "Rockies.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816703/rockies-braves"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816703"
     },
     {
       "sport": "mlb",
@@ -393,9 +393,9 @@
       "date_utc": "2026-08-28T23:15Z",
       "name": "Seattle Mariners at Toronto Blue Jays",
       "short_name": "SEA @ TOR",
-      "status": "Scheduled",
-      "status_short": "8/28 - 7:15 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Toronto Blue Jays",
@@ -408,7 +408,7 @@
       "broadcasts": [
         "Apple TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816709/mariners-blue-jays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816709"
     },
     {
       "sport": "mlb",
@@ -675,8 +675,8 @@
       "away_team": "Cincinnati Reds",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "76-58",
-      "away_record": "63-71",
+      "home_record": "76-59",
+      "away_record": "64-71",
       "venue": "Wrigley Field",
       "broadcasts": [
         "MLB.TV",
