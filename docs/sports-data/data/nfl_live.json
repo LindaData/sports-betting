@@ -1,12 +1,12 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-27T17:06:08.351797Z",
+  "refreshed_at_utc": "2026-08-28T01:34:00.450378Z",
   "dates_requested": [
-    "20260826",
     "20260827",
-    "20260828"
+    "20260828",
+    "20260829"
   ],
-  "event_count": 14,
+  "event_count": 16,
   "events": [
     {
       "sport": "nfl",
@@ -14,15 +14,15 @@
       "date_utc": "2026-08-27T23:00Z",
       "name": "Pittsburgh Steelers at Buffalo Bills",
       "short_name": "PIT @ BUF",
-      "status": "Scheduled",
-      "status_short": "8/27 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "9:17 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "9:17",
       "home_team": "Buffalo Bills",
       "away_team": "Pittsburgh Steelers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "17",
+      "away_score": "27",
       "home_record": "2-0",
       "away_record": "1-1",
       "venue": "Highmark Stadium",
@@ -30,7 +30,7 @@
         "NFL Net",
         "KDKA-TV"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873298/steelers-bills"
+      "link": "https://www.espn.com/nfl/game?gameId=401873298"
     },
     {
       "sport": "nfl",
@@ -38,22 +38,22 @@
       "date_utc": "2026-08-28T00:00Z",
       "name": "New England Patriots at Cleveland Browns",
       "short_name": "NE @ CLE",
-      "status": "Scheduled",
-      "status_short": "8/27 - 8:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Cleveland Browns",
       "away_team": "New England Patriots",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "27",
+      "away_score": "13",
       "home_record": "0-2",
       "away_record": "1-0-1",
       "venue": "Huntington Bank Field",
       "broadcasts": [
         "Prime Video"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873299/patriots-browns"
+      "link": "https://www.espn.com/nfl/game?gameId=401873299"
     },
     {
       "sport": "nfl",
@@ -61,15 +61,15 @@
       "date_utc": "2026-08-28T00:00Z",
       "name": "San Francisco 49ers at Las Vegas Raiders",
       "short_name": "SF @ LV",
-      "status": "Scheduled",
-      "status_short": "8/27 - 8:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Las Vegas Raiders",
       "away_team": "San Francisco 49ers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "9",
+      "away_score": "6",
       "home_record": "1-1",
       "away_record": "1-1",
       "venue": "Allegiant Stadium",
@@ -78,7 +78,7 @@
         "Fox 5 Vegas",
         "KPIX"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873641/49ers-raiders"
+      "link": "https://www.espn.com/nfl/game?gameId=401873641"
     },
     {
       "sport": "nfl",
@@ -340,6 +340,55 @@
         "KUSA-TV (9NEWS)"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401873614/vikings-broncos"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873308",
+      "date_utc": "2026-08-29T17:00Z",
+      "name": "Detroit Lions at Indianapolis Colts",
+      "short_name": "DET @ IND",
+      "status": "Scheduled",
+      "status_short": "8/29 - 1:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Indianapolis Colts",
+      "away_team": "Detroit Lions",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-1-1",
+      "away_record": "1-1",
+      "venue": "Lucas Oil Stadium",
+      "broadcasts": [
+        "NFL Net",
+        "CBS4",
+        "Lions TV Network"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873308/lions-colts"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401874394",
+      "date_utc": "2026-08-29T22:00Z",
+      "name": "Chicago Bears at Tennessee Titans",
+      "short_name": "CHI @ TEN",
+      "status": "Scheduled",
+      "status_short": "8/29 - 6:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Tennessee Titans",
+      "away_team": "Chicago Bears",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-0",
+      "away_record": "1-1",
+      "venue": "Nissan Stadium",
+      "broadcasts": [
+        "NFL Net",
+        "FOX32"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401874394/bears-titans"
     }
   ],
   "errors": []
