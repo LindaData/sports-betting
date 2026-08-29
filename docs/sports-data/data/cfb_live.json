@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-08-29T15:41:31.938454Z",
+  "refreshed_at_utc": "2026-08-29T19:00:18.210435Z",
   "dates_requested": [
     "20260828",
     "20260829",
@@ -14,15 +14,15 @@
       "date_utc": "2026-08-29T16:00Z",
       "name": "North Carolina Tar Heels at TCU Horned Frogs",
       "short_name": "UNC VS TCU",
-      "status": "Scheduled",
-      "status_short": "8/29 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "7:57 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "7:57",
       "home_team": "TCU Horned Frogs",
       "away_team": "North Carolina Tar Heels",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "10",
+      "away_score": "15",
       "home_record": "0-0",
       "away_record": "0-0",
       "venue": "Aviva Stadium",
@@ -30,7 +30,7 @@
         "ESPN",
         "Disney+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856766/north-carolina-tcu"
+      "link": "https://www.espn.com/college-football/game?gameId=401856766"
     },
     {
       "sport": "cfb",

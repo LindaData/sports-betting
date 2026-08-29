@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-29T15:41:31.938454Z",
+  "refreshed_at_utc": "2026-08-29T19:00:18.210435Z",
   "dates_requested": [
     "20260828",
     "20260829",
@@ -250,15 +250,15 @@
       "date_utc": "2026-08-29T17:00Z",
       "name": "Detroit Lions at Indianapolis Colts",
       "short_name": "DET @ IND",
-      "status": "Scheduled",
-      "status_short": "8/29 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "8:21 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "8:21",
       "home_team": "Indianapolis Colts",
       "away_team": "Detroit Lions",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "13",
+      "away_score": "19",
       "home_record": "0-1-1",
       "away_record": "1-1",
       "venue": "Lucas Oil Stadium",
@@ -267,7 +267,7 @@
         "CBS4",
         "Lions TV Network"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873308/lions-colts"
+      "link": "https://www.espn.com/nfl/game?gameId=401873308"
     },
     {
       "sport": "nfl",
