@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-29T21:49:49.035281Z",
+  "refreshed_at_utc": "2026-08-29T23:43:01.607459Z",
   "dates_requested": [
     "20260828",
     "20260829",
@@ -275,15 +275,15 @@
       "date_utc": "2026-08-29T22:00Z",
       "name": "Chicago Bears at Tennessee Titans",
       "short_name": "CHI @ TEN",
-      "status": "Scheduled",
-      "status_short": "8/29 - 6:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Tennessee Titans",
       "away_team": "Chicago Bears",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "9",
+      "away_score": "14",
       "home_record": "2-0",
       "away_record": "1-1",
       "venue": "Nissan Stadium",
@@ -291,7 +291,7 @@
         "NFL Net",
         "FOX32"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401874394/bears-titans"
+      "link": "https://www.espn.com/nfl/game?gameId=401874394"
     }
   ],
   "errors": []
