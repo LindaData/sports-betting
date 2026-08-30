@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-30T02:29:23.713330Z",
+  "refreshed_at_utc": "2026-08-30T08:28:43.994592Z",
   "dates_requested": [
     "20260829",
     "20260830",
@@ -363,24 +363,24 @@
       "date_utc": "2026-08-30T02:05Z",
       "name": "Arizona Diamondbacks at San Francisco Giants",
       "short_name": "ARI @ SF",
-      "status": "In Progress",
-      "status_short": "Bot 2nd",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
-      "home_score": "1",
-      "away_score": "0",
-      "home_record": "55-81",
-      "away_record": "73-64",
+      "home_score": "7",
+      "away_score": "2",
+      "home_record": "56-81",
+      "away_record": "73-65",
       "venue": "Oracle Park",
       "broadcasts": [
         "MLB.TV",
         "NBC Sports BA",
         "DBACKS.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816729"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816729/diamondbacks-giants"
     },
     {
       "sport": "mlb",
@@ -388,24 +388,24 @@
       "date_utc": "2026-08-30T02:05Z",
       "name": "Baltimore Orioles at Athletics Athletics",
       "short_name": "BAL @ ATH",
-      "status": "In Progress",
-      "status_short": "Bot 2nd",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Athletics",
       "away_team": "Baltimore Orioles",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "53-82",
-      "away_record": "66-69",
+      "home_score": "3",
+      "away_score": "5",
+      "home_record": "53-83",
+      "away_record": "67-69",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
         "MASN",
         "NBC Sports CA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816730"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816730/orioles-athletics"
     },
     {
       "sport": "mlb",
@@ -413,24 +413,24 @@
       "date_utc": "2026-08-30T02:07Z",
       "name": "Philadelphia Phillies at Los Angeles Angels",
       "short_name": "PHI @ LAA",
-      "status": "In Progress",
-      "status_short": "Top 2nd",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final/10",
+      "state": "post",
+      "period": 10,
       "clock": "0:00",
       "home_team": "Los Angeles Angels",
       "away_team": "Philadelphia Phillies",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "52-83",
-      "away_record": "75-60",
+      "home_score": "2",
+      "away_score": "4",
+      "home_record": "52-84",
+      "away_record": "76-60",
       "venue": "Angel Stadium",
       "broadcasts": [
         "MLB.TV",
         "NBC Sports Phil",
         "Angels.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816731"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816731/phillies-angels"
     },
     {
       "sport": "mlb",
@@ -720,8 +720,8 @@
       "away_team": "Baltimore Orioles",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "53-82",
-      "away_record": "66-69",
+      "home_record": "53-83",
+      "away_record": "67-69",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
@@ -745,8 +745,8 @@
       "away_team": "Philadelphia Phillies",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "52-83",
-      "away_record": "75-60",
+      "home_record": "52-84",
+      "away_record": "76-60",
       "venue": "Angel Stadium",
       "broadcasts": [
         "MLB.TV",
@@ -794,7 +794,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "81-55",
-      "away_record": "55-81",
+      "away_record": "56-81",
       "venue": "Truist Park",
       "broadcasts": [
         "MLB.TV",
@@ -972,7 +972,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "66-70",
-      "away_record": "53-82",
+      "away_record": "53-83",
       "venue": "Globe Life Field",
       "broadcasts": [
         "MLB.TV",
@@ -1022,7 +1022,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "52-84",
-      "away_record": "66-69",
+      "away_record": "67-69",
       "venue": "Coors Field",
       "broadcasts": [
         "MLB.TV",
@@ -1046,7 +1046,7 @@
       "away_team": "New York Yankees",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "52-83",
+      "home_record": "52-84",
       "away_record": "77-59",
       "venue": "Angel Stadium",
       "broadcasts": [
@@ -1072,8 +1072,8 @@
       "away_team": "Philadelphia Phillies",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "73-64",
-      "away_record": "75-60",
+      "home_record": "73-65",
+      "away_record": "76-60",
       "venue": "Chase Field",
       "broadcasts": [
         "ESPN Unlmtd",

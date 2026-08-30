@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-08-30T02:29:23.713330Z",
+  "refreshed_at_utc": "2026-08-30T08:28:43.994592Z",
   "dates_requested": [
     "20260829",
     "20260830",
@@ -130,22 +130,22 @@
       "date_utc": "2026-08-29T23:00Z",
       "name": "Hawai'i Rainbow Warriors at Stanford Cardinal",
       "short_name": "HAW @ STAN",
-      "status": "In Progress",
-      "status_short": "2:00 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "2:00",
+      "clock": "0:00",
       "home_team": "Stanford Cardinal",
       "away_team": "Hawai'i Rainbow Warriors",
-      "home_score": "23",
+      "home_score": "37",
       "away_score": "27",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "home_record": "1-0",
+      "away_record": "0-1",
       "venue": "Stanford Stadium",
       "broadcasts": [
         "ACC Network"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401858201"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858201/hawaii-stanford"
     },
     {
       "sport": "cfb",
@@ -176,22 +176,22 @@
       "date_utc": "2026-08-30T02:00Z",
       "name": "Memphis Tigers at UNLV Rebels",
       "short_name": "MEM @ UNLV",
-      "status": "In Progress",
-      "status_short": "9:01 - 1st",
-      "state": "in",
-      "period": 1,
-      "clock": "9:01",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "UNLV Rebels",
       "away_team": "Memphis Tigers",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "home_score": "21",
+      "away_score": "27",
+      "home_record": "0-1",
+      "away_record": "1-0",
       "venue": "Allegiant Stadium",
       "broadcasts": [
         "FOX"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401862693"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862693/memphis-unlv"
     }
   ],
   "errors": []
