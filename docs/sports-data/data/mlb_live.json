@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-30T13:54:22.406035Z",
+  "refreshed_at_utc": "2026-08-30T17:50:30.684365Z",
   "dates_requested": [
     "20260829",
     "20260830",
@@ -438,14 +438,14 @@
       "date_utc": "2026-08-30T16:15Z",
       "name": "Miami Marlins at Washington Nationals",
       "short_name": "MIA @ WSH",
-      "status": "Scheduled",
-      "status_short": "8/30 - 12:15 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 6th",
+      "state": "in",
+      "period": 6,
       "clock": "0:00",
       "home_team": "Washington Nationals",
       "away_team": "Miami Marlins",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "65-73",
       "away_record": "68-68",
@@ -453,7 +453,7 @@
       "broadcasts": [
         "Peacock"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816737/marlins-nationals"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816737"
     },
     {
       "sport": "mlb",
@@ -461,9 +461,9 @@
       "date_utc": "2026-08-30T17:35Z",
       "name": "Boston Red Sox at New York Yankees",
       "short_name": "BOS @ NYY",
-      "status": "Scheduled",
-      "status_short": "8/30 - 1:35 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Mid 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Yankees",
@@ -479,7 +479,7 @@
         "YES",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816732/red-sox-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816732"
     },
     {
       "sport": "mlb",
@@ -487,9 +487,9 @@
       "date_utc": "2026-08-30T17:35Z",
       "name": "Colorado Rockies at Atlanta Braves",
       "short_name": "COL @ ATL",
-      "status": "Scheduled",
-      "status_short": "8/30 - 1:35 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Atlanta Braves",
@@ -504,7 +504,7 @@
         "BravesVision",
         "Rockies.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816733/rockies-braves"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816733"
     },
     {
       "sport": "mlb",
@@ -512,9 +512,9 @@
       "date_utc": "2026-08-30T17:37Z",
       "name": "Seattle Mariners at Toronto Blue Jays",
       "short_name": "SEA @ TOR",
-      "status": "Scheduled",
-      "status_short": "8/30 - 1:37 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Toronto Blue Jays",
@@ -530,7 +530,7 @@
         "Sportsnet",
         "TVA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816739/mariners-blue-jays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816739"
     },
     {
       "sport": "mlb",
@@ -538,9 +538,9 @@
       "date_utc": "2026-08-30T17:40Z",
       "name": "Kansas City Royals at Cleveland Guardians",
       "short_name": "KC @ CLE",
-      "status": "Scheduled",
-      "status_short": "8/30 - 1:40 PM EDT",
-      "state": "pre",
+      "status": "Rain Delay",
+      "status_short": "Rain Delay, Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
@@ -555,7 +555,7 @@
         "CLEGuardians.TV",
         "Royals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816735/royals-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816735"
     },
     {
       "sport": "mlb",
@@ -563,9 +563,9 @@
       "date_utc": "2026-08-30T17:40Z",
       "name": "Los Angeles Dodgers at Detroit Tigers",
       "short_name": "LAD @ DET",
-      "status": "Scheduled",
-      "status_short": "8/30 - 1:40 PM EDT",
-      "state": "pre",
+      "status": "Delayed",
+      "status_short": "Delayed, Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
@@ -580,7 +580,7 @@
         "SportsNet LA",
         "Tigers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816736/dodgers-tigers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816736"
     },
     {
       "sport": "mlb",
@@ -588,9 +588,9 @@
       "date_utc": "2026-08-30T17:40Z",
       "name": "San Diego Padres at Tampa Bay Rays",
       "short_name": "SD @ TB",
-      "status": "Scheduled",
-      "status_short": "8/30 - 1:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
@@ -605,7 +605,7 @@
         "Padres.TV",
         "Rays.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816738/padres-rays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816738"
     },
     {
       "sport": "mlb",
