@@ -1,10 +1,10 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-08-29T23:43:01.607459Z",
+  "refreshed_at_utc": "2026-08-30T02:29:23.713330Z",
   "dates_requested": [
-    "20260828",
     "20260829",
-    "20260830"
+    "20260830",
+    "20260831"
   ],
   "event_count": 8,
   "events": [
@@ -84,22 +84,22 @@
       "date_utc": "2026-08-29T21:30Z",
       "name": "Jacksonville State Gamecocks at North Dakota State Bison",
       "short_name": "JVST @ NDSU",
-      "status": "In Progress",
-      "status_short": "6:50 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "6:50",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "North Dakota State Bison",
       "away_team": "Jacksonville State Gamecocks",
-      "home_score": "20",
+      "home_score": "33",
       "away_score": "7",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "home_record": "1-0",
+      "away_record": "0-1",
       "venue": "Fargodome",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401864577"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401864577/jax-state-n-dakota-st"
     },
     {
       "sport": "cfb",
@@ -107,22 +107,22 @@
       "date_utc": "2026-08-29T22:30Z",
       "name": "Sacramento State Hornets at Eastern Michigan Eagles",
       "short_name": "SAC @ EMU",
-      "status": "In Progress",
-      "status_short": "7:40 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "7:40",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Eastern Michigan Eagles",
       "away_team": "Sacramento State Hornets",
-      "home_score": "14",
-      "away_score": "3",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "home_score": "28",
+      "away_score": "17",
+      "home_record": "1-0",
+      "away_record": "0-1",
       "venue": "Rynearson Stadium",
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401866408"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866408/sacramento-st-e-michigan"
     },
     {
       "sport": "cfb",
@@ -131,14 +131,14 @@
       "name": "Hawai'i Rainbow Warriors at Stanford Cardinal",
       "short_name": "HAW @ STAN",
       "status": "In Progress",
-      "status_short": "0:33 - 1st",
+      "status_short": "2:00 - 4th",
       "state": "in",
-      "period": 1,
-      "clock": "0:33",
+      "period": 4,
+      "clock": "2:00",
       "home_team": "Stanford Cardinal",
       "away_team": "Hawai'i Rainbow Warriors",
-      "home_score": "7",
-      "away_score": "0",
+      "home_score": "23",
+      "away_score": "27",
       "home_record": "0-0",
       "away_record": "0-0",
       "venue": "Stanford Stadium",
@@ -153,22 +153,22 @@
       "date_utc": "2026-08-29T23:00Z",
       "name": "New Mexico State Aggies at Florida State Seminoles",
       "short_name": "NMSU @ FSU",
-      "status": "In Progress",
-      "status_short": "End of 1st",
-      "state": "in",
-      "period": 1,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Florida State Seminoles",
       "away_team": "New Mexico State Aggies",
-      "home_score": "3",
-      "away_score": "0",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "home_score": "34",
+      "away_score": "17",
+      "home_record": "1-0",
+      "away_record": "0-1",
       "venue": "Doak Campbell Stadium",
       "broadcasts": [
         "CW"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401864570"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401864570/new-mexico-st-florida-st"
     },
     {
       "sport": "cfb",
@@ -176,11 +176,11 @@
       "date_utc": "2026-08-30T02:00Z",
       "name": "Memphis Tigers at UNLV Rebels",
       "short_name": "MEM @ UNLV",
-      "status": "Scheduled",
-      "status_short": "8/29 - 10:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "9:01 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "9:01",
       "home_team": "UNLV Rebels",
       "away_team": "Memphis Tigers",
       "home_score": "0",
@@ -191,7 +191,7 @@
       "broadcasts": [
         "FOX"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862693/memphis-unlv"
+      "link": "https://www.espn.com/college-football/game?gameId=401862693"
     }
   ],
   "errors": []
