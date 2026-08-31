@@ -1,62 +1,12 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-08-30T22:51:28.549163Z",
+  "refreshed_at_utc": "2026-08-31T00:59:48.394064Z",
   "dates_requested": [
-    "20260829",
     "20260830",
-    "20260831"
+    "20260831",
+    "20260901"
   ],
-  "event_count": 2,
-  "events": [
-    {
-      "sport": "nfl",
-      "event_id": "401873308",
-      "date_utc": "2026-08-29T17:00Z",
-      "name": "Detroit Lions at Indianapolis Colts",
-      "short_name": "DET @ IND",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Indianapolis Colts",
-      "away_team": "Detroit Lions",
-      "home_score": "16",
-      "away_score": "25",
-      "home_record": "0-2-1",
-      "away_record": "2-1",
-      "venue": "Lucas Oil Stadium",
-      "broadcasts": [
-        "NFL Net",
-        "CBS4",
-        "Lions TV Network"
-      ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873308/lions-colts"
-    },
-    {
-      "sport": "nfl",
-      "event_id": "401874394",
-      "date_utc": "2026-08-29T22:00Z",
-      "name": "Chicago Bears at Tennessee Titans",
-      "short_name": "CHI @ TEN",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Tennessee Titans",
-      "away_team": "Chicago Bears",
-      "home_score": "15",
-      "away_score": "24",
-      "home_record": "2-1",
-      "away_record": "2-1",
-      "venue": "Nissan Stadium",
-      "broadcasts": [
-        "NFL Net",
-        "FOX32"
-      ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401874394/bears-titans"
-    }
-  ],
+  "event_count": 0,
+  "events": [],
   "errors": []
 }
