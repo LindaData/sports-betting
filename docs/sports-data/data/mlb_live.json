@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-08-31T00:59:48.394064Z",
+  "refreshed_at_utc": "2026-08-31T06:47:50.375422Z",
   "dates_requested": [
     "20260830",
     "20260831",
@@ -337,22 +337,22 @@
       "date_utc": "2026-08-30T23:20Z",
       "name": "Cincinnati Reds at Chicago Cubs",
       "short_name": "CIN @ CHC",
-      "status": "In Progress",
-      "status_short": "Bot 4th",
-      "state": "in",
-      "period": 4,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Chicago Cubs",
       "away_team": "Cincinnati Reds",
-      "home_score": "3",
-      "away_score": "3",
-      "home_record": "77-59",
-      "away_record": "64-72",
+      "home_score": "5",
+      "away_score": "7",
+      "home_record": "77-60",
+      "away_record": "65-72",
       "venue": "Wrigley Field",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816741"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816741/reds-cubs"
     },
     {
       "sport": "mlb",
@@ -419,7 +419,7 @@
       "away_team": "San Diego Padres",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "64-72",
+      "home_record": "65-72",
       "away_record": "72-65",
       "venue": "Great American Ball Park",
       "broadcasts": [
@@ -522,7 +522,7 @@
       "away_team": "Milwaukee Brewers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "77-59",
+      "home_record": "77-60",
       "away_record": "85-52",
       "venue": "Wrigley Field",
       "broadcasts": [
@@ -699,7 +699,7 @@
       "away_team": "San Diego Padres",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "64-72",
+      "home_record": "65-72",
       "away_record": "72-65",
       "venue": "Great American Ball Park",
       "broadcasts": [
@@ -875,7 +875,7 @@
       "away_team": "Milwaukee Brewers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "77-59",
+      "home_record": "77-60",
       "away_record": "85-52",
       "venue": "Wrigley Field",
       "broadcasts": [
