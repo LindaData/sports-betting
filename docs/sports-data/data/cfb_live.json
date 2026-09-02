@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-02T19:05:53.289451Z",
+  "refreshed_at_utc": "2026-09-02T21:54:04.005979Z",
   "dates_requested": [
     "20260901",
     "20260902",
@@ -73,7 +73,8 @@
       "away_record": "0-0",
       "venue": "Allegacy Federal Credit Union Stadium",
       "broadcasts": [
-        "ACC Network"
+        "ACC Network",
+        "ACCNX"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401858204/akron-wake-forest"
     },
