@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-02T21:54:04.005979Z",
+  "refreshed_at_utc": "2026-09-02T23:41:03.463926Z",
   "dates_requested": [
     "20260901",
     "20260902",
@@ -467,24 +467,24 @@
       "date_utc": "2026-09-02T19:10Z",
       "name": "Baltimore Orioles at Colorado Rockies",
       "short_name": "BAL @ COL",
-      "status": "In Progress",
-      "status_short": "End 9th",
-      "state": "in",
-      "period": 9,
+      "status": "Final",
+      "status_short": "Final/11",
+      "state": "post",
+      "period": 11,
       "clock": "0:00",
       "home_team": "Colorado Rockies",
       "away_team": "Baltimore Orioles",
-      "home_score": "3",
-      "away_score": "3",
-      "home_record": "53-86",
-      "away_record": "69-70",
+      "home_score": "6",
+      "away_score": "5",
+      "home_record": "54-86",
+      "away_record": "69-71",
       "venue": "Coors Field",
       "broadcasts": [
         "MLB.TV",
         "Rockies.TV",
         "MASN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816784"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816784/orioles-rockies"
     },
     {
       "sport": "mlb",
@@ -518,24 +518,24 @@
       "date_utc": "2026-09-02T20:10Z",
       "name": "Seattle Mariners at Boston Red Sox",
       "short_name": "SEA @ BOS",
-      "status": "In Progress",
-      "status_short": "Top 6th",
-      "state": "in",
-      "period": 6,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Boston Red Sox",
       "away_team": "Seattle Mariners",
-      "home_score": "1",
-      "away_score": "4",
-      "home_record": "75-64",
-      "away_record": "65-74",
+      "home_score": "3",
+      "away_score": "8",
+      "home_record": "75-65",
+      "away_record": "66-74",
       "venue": "Fenway Park",
       "broadcasts": [
         "MLB.TV",
         "Mariners.TV",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816776"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816776/mariners-red-sox"
     },
     {
       "sport": "mlb",
@@ -543,15 +543,15 @@
       "date_utc": "2026-09-02T22:40Z",
       "name": "New York Mets at Tampa Bay Rays",
       "short_name": "NYM @ TB",
-      "status": "Scheduled",
-      "status_short": "9/2 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 4th",
+      "state": "in",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
       "away_team": "New York Mets",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "6",
       "home_record": "83-55",
       "away_record": "62-77",
       "venue": "Tropicana Field",
@@ -560,7 +560,7 @@
         "Rays.TV",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816774/mets-rays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816774"
     },
     {
       "sport": "mlb",
@@ -568,15 +568,15 @@
       "date_utc": "2026-09-02T22:40Z",
       "name": "San Francisco Giants at Pittsburgh Pirates",
       "short_name": "SF @ PIT",
-      "status": "Scheduled",
-      "status_short": "9/2 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 4th",
+      "state": "in",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
       "away_team": "San Francisco Giants",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "68-71",
       "away_record": "57-82",
       "venue": "PNC Park",
@@ -584,7 +584,7 @@
         "MLB.TV",
         "NBC Sports BA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816777/giants-pirates"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816777"
     },
     {
       "sport": "mlb",
@@ -592,15 +592,15 @@
       "date_utc": "2026-09-02T22:40Z",
       "name": "Toronto Blue Jays at Cleveland Guardians",
       "short_name": "TOR @ CLE",
-      "status": "Scheduled",
-      "status_short": "9/2 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
       "away_team": "Toronto Blue Jays",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "7",
       "home_record": "70-68",
       "away_record": "68-71",
       "venue": "Progressive Field",
@@ -610,7 +610,7 @@
         "Sportsnet",
         "TVA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816778/blue-jays-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816778"
     },
     {
       "sport": "mlb",
@@ -643,9 +643,9 @@
       "date_utc": "2026-09-02T23:40Z",
       "name": "Miami Marlins at Kansas City Royals",
       "short_name": "MIA @ KC",
-      "status": "Scheduled",
-      "status_short": "9/2 - 7:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Kansas City Royals",
@@ -660,7 +660,7 @@
         "Royals.TV",
         "Marlins.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816782/marlins-royals"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816782"
     },
     {
       "sport": "mlb",
@@ -668,9 +668,9 @@
       "date_utc": "2026-09-02T23:40Z",
       "name": "Milwaukee Brewers at Chicago Cubs",
       "short_name": "MIL @ CHC",
-      "status": "Scheduled",
-      "status_short": "9/2 - 7:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Chicago Cubs",
@@ -686,7 +686,7 @@
         "Marquee Sports Net",
         "Brewers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816783/brewers-cubs"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816783"
     },
     {
       "sport": "mlb",
@@ -853,8 +853,8 @@
       "away_team": "Boston Red Sox",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "69-70",
-      "away_record": "75-64",
+      "home_record": "69-71",
+      "away_record": "75-65",
       "venue": "Oriole Park at Camden Yards",
       "broadcasts": [
         "MLB.TV",
@@ -951,7 +951,7 @@
       "away_team": "Athletics",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "65-74",
+      "home_record": "66-74",
       "away_record": "54-86",
       "venue": "T-Mobile Park",
       "broadcasts": [
