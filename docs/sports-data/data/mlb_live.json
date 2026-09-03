@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-03T19:29:50.498774Z",
+  "refreshed_at_utc": "2026-09-03T21:50:10.663627Z",
   "dates_requested": [
     "20260902",
     "20260903",
@@ -415,24 +415,24 @@
       "date_utc": "2026-09-03T17:10Z",
       "name": "Toronto Blue Jays at Cleveland Guardians",
       "short_name": "TOR @ CLE",
-      "status": "In Progress",
-      "status_short": "Bot 6th",
-      "state": "in",
-      "period": 6,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
       "away_team": "Toronto Blue Jays",
       "home_score": "3",
-      "away_score": "5",
-      "home_record": "70-69",
-      "away_record": "69-71",
+      "away_score": "6",
+      "home_record": "70-70",
+      "away_record": "70-71",
       "venue": "Progressive Field",
       "broadcasts": [
         "MLB.TV",
         "CLEGuardians.TV",
         "Sportsnet"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816790"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816790/blue-jays-guardians"
     },
     {
       "sport": "mlb",
@@ -440,17 +440,17 @@
       "date_utc": "2026-09-03T18:10Z",
       "name": "Chicago White Sox at Houston Astros",
       "short_name": "CHW @ HOU",
-      "status": "In Progress",
-      "status_short": "Bot 4th",
-      "state": "in",
-      "period": 4,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Houston Astros",
       "away_team": "Chicago White Sox",
       "home_score": "6",
       "away_score": "2",
-      "home_record": "71-69",
-      "away_record": "73-66",
+      "home_record": "72-69",
+      "away_record": "73-67",
       "venue": "Daikin Park",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -458,7 +458,7 @@
         "Space City Home Network",
         "CHSN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816791"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816791/white-sox-astros"
     },
     {
       "sport": "mlb",
@@ -623,7 +623,7 @@
       "away_team": "Detroit Tigers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "70-69",
+      "home_record": "70-70",
       "away_record": "64-75",
       "venue": "Progressive Field",
       "broadcasts": [
@@ -774,7 +774,7 @@
       "away_team": "Detroit Tigers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "70-69",
+      "home_record": "70-70",
       "away_record": "64-75",
       "venue": "Progressive Field",
       "broadcasts": [
@@ -823,7 +823,7 @@
       "away_team": "Minnesota Twins",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "73-66",
+      "home_record": "73-67",
       "away_record": "67-73",
       "venue": "Rate Field",
       "broadcasts": [
@@ -874,7 +874,7 @@
       "away_team": "Arizona Diamondbacks",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "71-69",
+      "home_record": "72-69",
       "away_record": "74-67",
       "venue": "Daikin Park",
       "broadcasts": [
@@ -900,7 +900,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "62-78",
-      "away_record": "69-71",
+      "away_record": "70-71",
       "venue": "Kauffman Stadium",
       "broadcasts": [
         "MLB.TV",
