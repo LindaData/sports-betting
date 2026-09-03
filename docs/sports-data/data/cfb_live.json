@@ -1,12 +1,12 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-02T23:41:03.463926Z",
+  "refreshed_at_utc": "2026-09-03T02:05:52.100522Z",
   "dates_requested": [
-    "20260901",
     "20260902",
-    "20260903"
+    "20260903",
+    "20260904"
   ],
-  "event_count": 11,
+  "event_count": 19,
   "events": [
     {
       "sport": "cfb",
@@ -261,6 +261,190 @@
         "BTN"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401858424/uab-illinois"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401864495",
+      "date_utc": "2026-09-04T22:30Z",
+      "name": "San Jos\u00e9 State Spartans at Eastern Michigan Eagles",
+      "short_name": "SJSU @ EMU",
+      "status": "Scheduled",
+      "status_short": "9/4 - 6:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Eastern Michigan Eagles",
+      "away_team": "San Jos\u00e9 State Spartans",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-0",
+      "away_record": "0-1",
+      "venue": "Rynearson Stadium",
+      "broadcasts": [
+        "ESPN+"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401864495/san-jose-st-e-michigan"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858435",
+      "date_utc": "2026-09-04T23:00Z",
+      "name": "Indiana State Sycamores at Purdue Boilermakers",
+      "short_name": "INST @ PUR",
+      "status": "Scheduled",
+      "status_short": "9/4 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Purdue Boilermakers",
+      "away_team": "Indiana State Sycamores",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-1",
+      "venue": "Ross-Ade Stadium",
+      "broadcasts": [
+        "BTN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858435/indiana-st-purdue"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401866623",
+      "date_utc": "2026-09-04T23:00Z",
+      "name": "North Carolina A&T Aggies at Georgia State Panthers",
+      "short_name": "NCAT @ GAST",
+      "status": "Scheduled",
+      "status_short": "9/4 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Georgia State Panthers",
+      "away_team": "North Carolina A&T Aggies",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-1",
+      "venue": "Center Parc Stadium",
+      "broadcasts": [
+        "ESPN+"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866623/nc-at-georgia-st"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401856664",
+      "date_utc": "2026-09-05T00:00Z",
+      "name": "UTEP Miners at Oklahoma Sooners",
+      "short_name": "UTEP @ OU",
+      "status": "Scheduled",
+      "status_short": "9/4 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Oklahoma Sooners",
+      "away_team": "UTEP Miners",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Memorial Stadium (Norman, OK)",
+      "broadcasts": [
+        "SECN+"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856664/utep-oklahoma"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401856769",
+      "date_utc": "2026-09-05T00:00Z",
+      "name": "Long Island University Sharks at Kansas Jayhawks",
+      "short_name": "LIU @ KU",
+      "status": "Scheduled",
+      "status_short": "9/4 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Kansas Jayhawks",
+      "away_team": "Long Island University Sharks",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-1",
+      "venue": "David Booth Kansas Memorial Stadium",
+      "broadcasts": [
+        "ESPNU"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856769/long-island-kansas"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858429",
+      "date_utc": "2026-09-05T00:00Z",
+      "name": "Toledo Rockets at Michigan State Spartans",
+      "short_name": "TOL @ MSU",
+      "status": "Scheduled",
+      "status_short": "9/4 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Michigan State Spartans",
+      "away_team": "Toledo Rockets",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Spartan Stadium",
+      "broadcasts": [
+        "FS1"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858429/toledo-michigan-st"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858206",
+      "date_utc": "2026-09-05T01:00Z",
+      "name": "Miami Hurricanes at Stanford Cardinal",
+      "short_name": "MIA @ STAN",
+      "status": "Scheduled",
+      "status_short": "9/4 - 9:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Stanford Cardinal",
+      "away_team": "Miami Hurricanes",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-0",
+      "away_record": "0-0",
+      "venue": "Stanford Stadium",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858206/miami-stanford"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858436",
+      "date_utc": "2026-09-05T01:00Z",
+      "name": "Fresno State Bulldogs at USC Trojans",
+      "short_name": "FRES @ USC",
+      "status": "Scheduled",
+      "status_short": "9/4 - 9:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "USC Trojans",
+      "away_team": "Fresno State Bulldogs",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-0",
+      "away_record": "0-0",
+      "venue": "Los Angeles Memorial Coliseum",
+      "broadcasts": [
+        "FOX"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858436/fresno-st-usc"
     }
   ],
   "errors": []
