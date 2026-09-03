@@ -1,0 +1,147 @@
+name: iOS TestFlight
+
+# Builds PitchFlap on the owner's self-hosted macOS runner and uploads the
+# archive to TestFlight through the App Store Connect API.
+#
+# Required repository secrets (Settings -> Secrets and variables -> Actions):
+#   ASC_KEY_ID        App Store Connect API key ID
+#   ASC_ISSUER_ID     App Store Connect issuer ID
+#   ASC_PRIVATE_KEY   the .p8 contents, base64-encoded
+#   APPLE_TEAM_ID     the 10-character Apple Developer team ID
+#
+# The runner's macOS user must have Xcode 26+ selected (xcode-select) and
+# have signed into Xcode once so automatic signing can find the team.
+
+on:
+  workflow_dispatch:
+    inputs:
+      build_number:
+        description: Build number (defaults to the workflow run number)
+        required: false
+      ref_note:
+        description: Free-text note recorded in the run summary
+        required: false
+  push:
+    branches: [main]
+    paths:
+      - "apps/ios-flappy/PitchFlap/**"
+      - "apps/ios-flappy/PitchFlap.xcodeproj/**"
+      - ".github/workflows/ios-testflight.yml"
+
+concurrency:
+  group: ios-testflight
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  testflight:
+    name: Archive and upload
+    runs-on: [self-hosted, macOS]
+    timeout-minutes: 45
+    defaults:
+      run:
+        working-directory: apps/ios-flappy
+    env:
+      PROJECT: PitchFlap.xcodeproj
+      SCHEME: PitchFlap
+      ARCHIVE: build/PitchFlap.xcarchive
+      ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
+      ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
+      APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Toolchain
+        run: |
+          xcodebuild -version
+          xcrun --sdk iphoneos --show-sdk-version
+          echo "BUILD_NUMBER=${{ inputs.build_number || github.run_number }}" >> "$GITHUB_ENV"
+
+      - name: Fail fast on missing secrets
+        run: |
+          for v in ASC_KEY_ID ASC_ISSUER_ID APPLE_TEAM_ID; do
+            [ -n "${!v}" ] || { echo "::error::secret $v is not set"; exit 1; }
+          done
+          [ -n "${{ secrets.ASC_PRIVATE_KEY }}" ] || { echo "::error::secret ASC_PRIVATE_KEY is not set"; exit 1; }
+
+      - name: Install App Store Connect API key
+        env:
+          ASC_PRIVATE_KEY: ${{ secrets.ASC_PRIVATE_KEY }}
+        run: |
+          mkdir -p "$HOME/private_keys"
+          printf '%s' "$ASC_PRIVATE_KEY" | base64 --decode > "$HOME/private_keys/AuthKey_${ASC_KEY_ID}.p8"
+          chmod 600 "$HOME/private_keys/AuthKey_${ASC_KEY_ID}.p8"
+          echo "KEY_PATH=$HOME/private_keys/AuthKey_${ASC_KEY_ID}.p8" >> "$GITHUB_ENV"
+
+      - name: Archive
+        run: |
+          set -o pipefail
+          mkdir -p build
+          xcodebuild \
+            -project "$PROJECT" -scheme "$SCHEME" -configuration Release \
+            -destination "generic/platform=iOS" \
+            -archivePath "$ARCHIVE" \
+            -allowProvisioningUpdates \
+            -authenticationKeyPath "$KEY_PATH" \
+            -authenticationKeyID "$ASC_KEY_ID" \
+            -authenticationKeyIssuerID "$ASC_ISSUER_ID" \
+            DEVELOPMENT_TEAM="$APPLE_TEAM_ID" \
+            CURRENT_PROJECT_VERSION="$BUILD_NUMBER" \
+            archive 2>&1 | tee build/archive.log | grep -E "error:|warning: .*Privacy|\*\* ARCHIVE" || true
+          grep -q "ARCHIVE SUCCEEDED" build/archive.log
+
+      - name: Export and upload to TestFlight
+        run: |
+          set -o pipefail
+          cat > build/ExportOptions.plist <<PLIST
+          <?xml version="1.0" encoding="UTF-8"?>
+          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+          <plist version="1.0"><dict>
+            <key>method</key><string>app-store-connect</string>
+            <key>destination</key><string>upload</string>
+            <key>signingStyle</key><string>automatic</string>
+            <key>teamID</key><string>${APPLE_TEAM_ID}</string>
+            <key>uploadSymbols</key><true/>
+            <key>manageAppVersionAndBuildNumber</key><false/>
+          </dict></plist>
+          PLIST
+          xcodebuild -exportArchive \
+            -archivePath "$ARCHIVE" \
+            -exportOptionsPlist build/ExportOptions.plist \
+            -exportPath build/export \
+            -allowProvisioningUpdates \
+            -authenticationKeyPath "$KEY_PATH" \
+            -authenticationKeyID "$ASC_KEY_ID" \
+            -authenticationKeyIssuerID "$ASC_ISSUER_ID" \
+            2>&1 | tee build/export.log | grep -E "error:|Upload|EXPORT" || true
+          grep -q "EXPORT SUCCEEDED" build/export.log
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "## PitchFlap -> TestFlight"
+            echo "- Build number: **$BUILD_NUMBER**"
+            echo "- Commit: \`${GITHUB_SHA::7}\` on \`${GITHUB_REF_NAME}\`"
+            [ -n "${{ inputs.ref_note }}" ] && echo "- Note: ${{ inputs.ref_note }}"
+            echo "- Archive: $(grep -c 'error:' build/archive.log 2>/dev/null || echo 0) errors"
+            echo "- Export: $(grep -q 'EXPORT SUCCEEDED' build/export.log 2>/dev/null && echo uploaded || echo failed)"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload build logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: xcodebuild-logs-${{ github.run_number }}
+          path: |
+            apps/ios-flappy/build/archive.log
+            apps/ios-flappy/build/export.log
+          if-no-files-found: ignore
+          retention-days: 14
+
+      - name: Remove API key from runner
+        if: always()
+        run: rm -f "$HOME/private_keys/AuthKey_${ASC_KEY_ID}.p8"
