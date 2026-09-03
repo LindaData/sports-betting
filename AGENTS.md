@@ -18,6 +18,15 @@ This repo follows the LindaData organization. Treat all work as part of the Lind
 | CMO / PRO | External story | Clear public copy, responsible-use framing, social preview, project positioning. |
 | CFO | Cost | Keep infrastructure free/static unless the owner approves paid services. |
 
+## Business Units
+
+| Unit | Location | Charter | Agents |
+|---|---|---|---|
+| World Cup 2026 Forecasting Hub | repo root, `docs/`, `R/`, `apps/web/` | this file, `PROJECT_OS.md` | the executive lanes above |
+| PitchFlap Studio (iOS games) | `apps/ios-flappy/` | `apps/ios-flappy/STUDIO.md` | `studio-*` in `.claude/agents/`; run with `/studio` |
+
+The studio reports into the same executive lanes (producer → Chief of Staff/COO; engineer and release → CTO; analyst and designer → CDO; art → CMO/PRO; compliance → CSO/CIO; spend → CFO). Anything under `apps/ios-flappy/` routes through `studio-producer` first.
+
 ## Non-Negotiables
 
 - Keep the site public-safe.
