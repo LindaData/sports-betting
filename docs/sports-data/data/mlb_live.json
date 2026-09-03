@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-03T21:50:10.663627Z",
+  "refreshed_at_utc": "2026-09-03T23:41:27.446507Z",
   "dates_requested": [
     "20260902",
     "20260903",
@@ -466,15 +466,15 @@
       "date_utc": "2026-09-03T23:15Z",
       "name": "Boston Red Sox at Baltimore Orioles",
       "short_name": "BOS @ BAL",
-      "status": "Scheduled",
-      "status_short": "9/3 - 7:15 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Baltimore Orioles",
       "away_team": "Boston Red Sox",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "1",
       "home_record": "69-71",
       "away_record": "75-65",
       "venue": "Oriole Park at Camden Yards",
@@ -482,7 +482,7 @@
         "MLB.TV",
         "FOX"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816788/red-sox-orioles"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816788"
     },
     {
       "sport": "mlb",
@@ -490,10 +490,10 @@
       "date_utc": "2026-09-03T23:15Z",
       "name": "Milwaukee Brewers at Chicago Cubs",
       "short_name": "MIL @ CHC",
-      "status": "Scheduled",
-      "status_short": "9/3 - 7:15 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Chicago Cubs",
       "away_team": "Milwaukee Brewers",
@@ -506,7 +506,7 @@
         "MLB.TV",
         "FOX"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816793/brewers-cubs"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816793"
     },
     {
       "sport": "mlb",
@@ -514,15 +514,15 @@
       "date_utc": "2026-09-03T23:40Z",
       "name": "Miami Marlins at Kansas City Royals",
       "short_name": "MIA @ KC",
-      "status": "Scheduled",
-      "status_short": "9/3 - 7:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Kansas City Royals",
       "away_team": "Miami Marlins",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "62-78",
       "away_record": "71-69",
       "venue": "Kauffman Stadium",
@@ -531,7 +531,7 @@
         "Royals.TV",
         "Marlins.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816792/marlins-royals"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816792"
     },
     {
       "sport": "mlb",

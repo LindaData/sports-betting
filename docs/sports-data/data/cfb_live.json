@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-03T21:50:10.663627Z",
+  "refreshed_at_utc": "2026-09-03T23:41:27.446507Z",
   "dates_requested": [
     "20260902",
     "20260903",
@@ -14,22 +14,22 @@
       "date_utc": "2026-09-03T22:00Z",
       "name": "Massachusetts Minutemen at Rutgers Scarlet Knights",
       "short_name": "MASS @ RUTG",
-      "status": "Scheduled",
-      "status_short": "9/3 - 6:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Rutgers Scarlet Knights",
       "away_team": "Massachusetts Minutemen",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "24",
       "home_record": "0-0",
       "away_record": "0-0",
       "venue": "SHI Stadium",
       "broadcasts": [
         "BTN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858423/umass-rutgers"
+      "link": "https://www.espn.com/college-football/game?gameId=401858423"
     },
     {
       "sport": "cfb",
@@ -37,14 +37,14 @@
       "date_utc": "2026-09-03T23:00Z",
       "name": "Bethune-Cookman Wildcats at UCF Knights",
       "short_name": "BCU @ UCF",
-      "status": "Scheduled",
-      "status_short": "9/3 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "1:50 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "1:50",
       "home_team": "UCF Knights",
       "away_team": "Bethune-Cookman Wildcats",
-      "home_score": "0",
+      "home_score": "21",
       "away_score": "0",
       "home_record": "0-0",
       "away_record": "0-0",
@@ -52,7 +52,7 @@
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856767/bethune-ucf"
+      "link": "https://www.espn.com/college-football/game?gameId=401856767"
     },
     {
       "sport": "cfb",
@@ -60,23 +60,22 @@
       "date_utc": "2026-09-03T23:00Z",
       "name": "Akron Zips at Wake Forest Demon Deacons",
       "short_name": "AKR @ WAKE",
-      "status": "Scheduled",
-      "status_short": "9/3 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "1:38 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "1:38",
       "home_team": "Wake Forest Demon Deacons",
       "away_team": "Akron Zips",
-      "home_score": "0",
+      "home_score": "10",
       "away_score": "0",
       "home_record": "0-0",
       "away_record": "0-0",
       "venue": "Allegacy Federal Credit Union Stadium",
       "broadcasts": [
-        "ACC Network",
-        "ACCNX"
+        "ACC Network"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858204/akron-wake-forest"
+      "link": "https://www.espn.com/college-football/game?gameId=401858204"
     },
     {
       "sport": "cfb",
@@ -84,14 +83,14 @@
       "date_utc": "2026-09-03T23:00Z",
       "name": "Merrimack Warriors at Delaware Blue Hens",
       "short_name": "MRMK @ DEL",
-      "status": "Scheduled",
-      "status_short": "9/3 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:05 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "13:05",
       "home_team": "Delaware Blue Hens",
       "away_team": "Merrimack Warriors",
-      "home_score": "0",
+      "home_score": "7",
       "away_score": "0",
       "home_record": "0-0",
       "away_record": "0-1",
@@ -99,7 +98,7 @@
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401864424/merrimack-delaware"
+      "link": "https://www.espn.com/college-football/game?gameId=401864424"
     },
     {
       "sport": "cfb",
@@ -107,9 +106,9 @@
       "date_utc": "2026-09-03T23:00Z",
       "name": "West Georgia Wolves at Kennesaw State Owls",
       "short_name": "WES @ KENN",
-      "status": "Scheduled",
-      "status_short": "9/3 - 7:00 PM EDT",
-      "state": "pre",
+      "status": "Delayed",
+      "status_short": "Delayed",
+      "state": "in",
       "period": 0,
       "clock": "0:00",
       "home_team": "Kennesaw State Owls",
@@ -122,7 +121,7 @@
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401864425/west-georgia-kennesaw-st"
+      "link": "https://www.espn.com/college-football/game?gameId=401864425"
     },
     {
       "sport": "cfb",
@@ -130,9 +129,9 @@
       "date_utc": "2026-09-03T23:00Z",
       "name": "UAlbany Great Danes at Buffalo Bulls",
       "short_name": "ALB @ BUFF",
-      "status": "Scheduled",
-      "status_short": "9/3 - 7:00 PM EDT",
-      "state": "pre",
+      "status": "Delayed",
+      "status_short": "Delayed",
+      "state": "in",
       "period": 0,
       "clock": "0:00",
       "home_team": "Buffalo Bulls",
@@ -145,7 +144,7 @@
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866409/ualbany-buffalo"
+      "link": "https://www.espn.com/college-football/game?gameId=401866409"
     },
     {
       "sport": "cfb",
