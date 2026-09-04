@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-04T21:36:18.143770Z",
+  "refreshed_at_utc": "2026-09-04T23:34:05.403625Z",
   "dates_requested": [
     "20260903",
     "20260904",
@@ -267,14 +267,14 @@
       "date_utc": "2026-09-04T22:30Z",
       "name": "San Jos\u00e9 State Spartans at Eastern Michigan Eagles",
       "short_name": "SJSU @ EMU",
-      "status": "Scheduled",
-      "status_short": "9/4 - 6:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "7:09 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "7:09",
       "home_team": "Eastern Michigan Eagles",
       "away_team": "San Jos\u00e9 State Spartans",
-      "home_score": "0",
+      "home_score": "7",
       "away_score": "0",
       "home_record": "1-0",
       "away_record": "0-1",
@@ -282,7 +282,7 @@
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401864495/san-jose-st-e-michigan"
+      "link": "https://www.espn.com/college-football/game?gameId=401864495"
     },
     {
       "sport": "cfb",
@@ -290,22 +290,22 @@
       "date_utc": "2026-09-04T23:00Z",
       "name": "Indiana State Sycamores at Purdue Boilermakers",
       "short_name": "INST @ PUR",
-      "status": "Scheduled",
-      "status_short": "9/4 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:04 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "0:04",
       "home_team": "Purdue Boilermakers",
       "away_team": "Indiana State Sycamores",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "10",
+      "away_score": "3",
       "home_record": "0-0",
       "away_record": "0-1",
       "venue": "Ross-Ade Stadium",
       "broadcasts": [
         "BTN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858435/indiana-st-purdue"
+      "link": "https://www.espn.com/college-football/game?gameId=401858435"
     },
     {
       "sport": "cfb",
@@ -313,14 +313,14 @@
       "date_utc": "2026-09-04T23:00Z",
       "name": "North Carolina A&T Aggies at Georgia State Panthers",
       "short_name": "NCAT @ GAST",
-      "status": "Scheduled",
-      "status_short": "9/4 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "3:19 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "3:19",
       "home_team": "Georgia State Panthers",
       "away_team": "North Carolina A&T Aggies",
-      "home_score": "0",
+      "home_score": "7",
       "away_score": "0",
       "home_record": "0-0",
       "away_record": "0-1",
@@ -328,7 +328,7 @@
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866623/nc-at-georgia-st"
+      "link": "https://www.espn.com/college-football/game?gameId=401866623"
     },
     {
       "sport": "cfb",

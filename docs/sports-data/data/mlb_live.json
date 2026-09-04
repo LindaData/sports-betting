@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-04T21:36:18.143770Z",
+  "refreshed_at_utc": "2026-09-04T23:34:05.403625Z",
   "dates_requested": [
     "20260903",
     "20260904",
@@ -237,24 +237,24 @@
       "date_utc": "2026-09-04T18:10Z",
       "name": "Detroit Tigers at Cleveland Guardians",
       "short_name": "DET @ CLE",
-      "status": "In Progress",
-      "status_short": "End 7th",
-      "state": "in",
-      "period": 7,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
       "away_team": "Detroit Tigers",
-      "home_score": "6",
+      "home_score": "7",
       "away_score": "6",
-      "home_record": "70-70",
-      "away_record": "64-75",
+      "home_record": "71-70",
+      "away_record": "64-76",
       "venue": "Progressive Field",
       "broadcasts": [
         "MLB.TV",
         "Tigers.TV",
         "CLEGuardians.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401877193"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401877193/tigers-guardians"
     },
     {
       "sport": "mlb",
@@ -262,15 +262,15 @@
       "date_utc": "2026-09-04T22:10Z",
       "name": "Milwaukee Brewers at Cincinnati Reds",
       "short_name": "MIL @ CIN",
-      "status": "Scheduled",
-      "status_short": "9/4 - 6:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
       "away_team": "Milwaukee Brewers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "3",
+      "away_score": "2",
       "home_record": "67-73",
       "away_record": "87-54",
       "venue": "Great American Ball Park",
@@ -279,7 +279,7 @@
         "Reds.TV",
         "Brewers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816802/brewers-reds"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816802"
     },
     {
       "sport": "mlb",
@@ -287,10 +287,10 @@
       "date_utc": "2026-09-04T22:40Z",
       "name": "Los Angeles Angels at Pittsburgh Pirates",
       "short_name": "LAA @ PIT",
-      "status": "Scheduled",
-      "status_short": "9/4 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Los Angeles Angels",
@@ -303,7 +303,7 @@
         "MLB.TV",
         "Apple TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816797/angels-pirates"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816797"
     },
     {
       "sport": "mlb",
@@ -311,15 +311,15 @@
       "date_utc": "2026-09-04T22:40Z",
       "name": "Atlanta Braves at Philadelphia Phillies",
       "short_name": "ATL @ PHI",
-      "status": "Scheduled",
-      "status_short": "9/4 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
       "away_team": "Atlanta Braves",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "3",
       "home_record": "79-61",
       "away_record": "83-57",
       "venue": "Citizens Bank Park",
@@ -329,7 +329,7 @@
         "BravesVision",
         "NBC Sports Phil"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816798/braves-phillies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816798"
     },
     {
       "sport": "mlb",
@@ -337,15 +337,15 @@
       "date_utc": "2026-09-04T23:05Z",
       "name": "Boston Red Sox at Baltimore Orioles",
       "short_name": "BOS @ BAL",
-      "status": "Scheduled",
-      "status_short": "9/4 - 7:05 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "End 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Baltimore Orioles",
       "away_team": "Boston Red Sox",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "69-72",
       "away_record": "76-65",
       "venue": "Oriole Park at Camden Yards",
@@ -354,7 +354,7 @@
         "MASN",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816799/red-sox-orioles"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816799"
     },
     {
       "sport": "mlb",
@@ -362,15 +362,15 @@
       "date_utc": "2026-09-04T23:10Z",
       "name": "Chicago Cubs at Miami Marlins",
       "short_name": "CHC @ MIA",
-      "status": "Scheduled",
-      "status_short": "9/4 - 7:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Miami Marlins",
       "away_team": "Chicago Cubs",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "71-70",
       "away_record": "79-62",
       "venue": "loanDepot park",
@@ -380,31 +380,7 @@
         "Marlins.TV",
         "WBFS"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816800/cubs-marlins"
-    },
-    {
-      "sport": "mlb",
-      "event_id": "401816801",
-      "date_utc": "2026-09-04T23:10Z",
-      "name": "Detroit Tigers at Cleveland Guardians",
-      "short_name": "DET @ CLE",
-      "status": "Scheduled",
-      "status_short": "9/4 - 7:10 PM EDT",
-      "state": "pre",
-      "period": 1,
-      "clock": "0:00",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Detroit Tigers",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "70-70",
-      "away_record": "64-75",
-      "venue": "Progressive Field",
-      "broadcasts": [
-        "MLB.TV",
-        "Apple TV"
-      ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816801/tigers-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816800"
     },
     {
       "sport": "mlb",
@@ -412,14 +388,14 @@
       "date_utc": "2026-09-04T23:10Z",
       "name": "San Francisco Giants at New York Mets",
       "short_name": "SF @ NYM",
-      "status": "Scheduled",
-      "status_short": "9/4 - 7:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "New York Mets",
       "away_team": "San Francisco Giants",
-      "home_score": "0",
+      "home_score": "3",
       "away_score": "0",
       "home_record": "63-77",
       "away_record": "58-83",
@@ -429,7 +405,7 @@
         "NBC Sports BA",
         "WPIX"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816803/giants-mets"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816803"
     },
     {
       "sport": "mlb",
@@ -456,6 +432,30 @@
         "WCIU-TV"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401816805/twins-white-sox"
+    },
+    {
+      "sport": "mlb",
+      "event_id": "401816801",
+      "date_utc": "2026-09-04T23:45Z",
+      "name": "Detroit Tigers at Cleveland Guardians",
+      "short_name": "DET @ CLE",
+      "status": "Delayed",
+      "status_short": "Delayed, Top 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "0:00",
+      "home_team": "Cleveland Guardians",
+      "away_team": "Detroit Tigers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "71-70",
+      "away_record": "64-76",
+      "venue": "Progressive Field",
+      "broadcasts": [
+        "MLB.TV",
+        "Apple TV"
+      ],
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816801"
     },
     {
       "sport": "mlb",
@@ -724,8 +724,8 @@
       "away_team": "Detroit Tigers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "70-70",
-      "away_record": "64-75",
+      "home_record": "71-70",
+      "away_record": "64-76",
       "venue": "Progressive Field",
       "broadcasts": [
         "MLB.TV",
