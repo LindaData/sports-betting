@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-04T16:29:53.438061Z",
+  "refreshed_at_utc": "2026-09-04T19:03:04.757031Z",
   "dates_requested": [
     "20260903",
     "20260904",
@@ -237,9 +237,9 @@
       "date_utc": "2026-09-04T18:10Z",
       "name": "Detroit Tigers at Cleveland Guardians",
       "short_name": "DET @ CLE",
-      "status": "Scheduled",
-      "status_short": "9/4 - 2:10 PM EDT",
-      "state": "pre",
+      "status": "Rain Delay",
+      "status_short": "Rain Delay, Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
@@ -254,7 +254,7 @@
         "Tigers.TV",
         "CLEGuardians.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401877193/tigers-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401877193"
     },
     {
       "sport": "mlb",
