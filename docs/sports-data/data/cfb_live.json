@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-05T13:55:24.620083Z",
+  "refreshed_at_utc": "2026-09-05T16:24:04.029585Z",
   "dates_requested": [
     "20260904",
     "20260905",
@@ -198,14 +198,14 @@
       "date_utc": "2026-09-05T16:00Z",
       "name": "North Texas Mean Green at Indiana Hoosiers",
       "short_name": "UNT @ IU",
-      "status": "Scheduled",
-      "status_short": "9/5 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "10:14 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "10:14",
       "home_team": "Indiana Hoosiers",
       "away_team": "North Texas Mean Green",
-      "home_score": "0",
+      "home_score": "7",
       "away_score": "0",
       "home_record": "0-0",
       "away_record": "0-0",
@@ -213,7 +213,7 @@
       "broadcasts": [
         "FOX"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858425/north-texas-indiana"
+      "link": "https://www.espn.com/college-football/game?gameId=401858425"
     },
     {
       "sport": "cfb",
@@ -221,14 +221,14 @@
       "date_utc": "2026-09-05T16:00Z",
       "name": "East Carolina Pirates at Alabama Crimson Tide",
       "short_name": "ECU @ ALA",
-      "status": "Scheduled",
-      "status_short": "9/5 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "8:14 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "8:14",
       "home_team": "Alabama Crimson Tide",
       "away_team": "East Carolina Pirates",
-      "home_score": "0",
+      "home_score": "3",
       "away_score": "0",
       "home_record": "0-0",
       "away_record": "0-0",
@@ -236,7 +236,7 @@
       "broadcasts": [
         "ABC"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856634/east-carolina-alabama"
+      "link": "https://www.espn.com/college-football/game?gameId=401856634"
     },
     {
       "sport": "cfb",
@@ -244,14 +244,14 @@
       "date_utc": "2026-09-05T16:00Z",
       "name": "Oregon State Beavers at Houston Cougars",
       "short_name": "ORST @ HOU",
-      "status": "Scheduled",
-      "status_short": "9/5 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "8:13 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "8:13",
       "home_team": "Houston Cougars",
       "away_team": "Oregon State Beavers",
-      "home_score": "0",
+      "home_score": "6",
       "away_score": "0",
       "home_record": "0-0",
       "away_record": "0-0",
@@ -260,7 +260,7 @@
         "ESPN",
         "Disney+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856778/oregon-st-houston"
+      "link": "https://www.espn.com/college-football/game?gameId=401856778"
     },
     {
       "sport": "cfb",
@@ -268,14 +268,14 @@
       "date_utc": "2026-09-05T16:00Z",
       "name": "Coastal Carolina Chanticleers at West Virginia Mountaineers",
       "short_name": "CCU @ WVU",
-      "status": "Scheduled",
-      "status_short": "9/5 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "6:37 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "6:37",
       "home_team": "West Virginia Mountaineers",
       "away_team": "Coastal Carolina Chanticleers",
-      "home_score": "0",
+      "home_score": "7",
       "away_score": "0",
       "home_record": "0-0",
       "away_record": "0-0",
@@ -283,7 +283,7 @@
       "broadcasts": [
         "TNT"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856780/coastal-west-virginia"
+      "link": "https://www.espn.com/college-football/game?gameId=401856780"
     },
     {
       "sport": "cfb",
@@ -291,11 +291,11 @@
       "date_utc": "2026-09-05T16:00Z",
       "name": "New Hampshire Wildcats at Syracuse Orange",
       "short_name": "UNH @ SYR",
-      "status": "Scheduled",
-      "status_short": "9/5 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "6:15 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "6:15",
       "home_team": "Syracuse Orange",
       "away_team": "New Hampshire Wildcats",
       "home_score": "0",
@@ -307,7 +307,7 @@
         "ACC Network",
         "ACCNX"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858208/new-hampshire-syracuse"
+      "link": "https://www.espn.com/college-football/game?gameId=401858208"
     },
     {
       "sport": "cfb",
@@ -315,22 +315,22 @@
       "date_utc": "2026-09-05T16:00Z",
       "name": "Ohio Bobcats at Nebraska Cornhuskers",
       "short_name": "OHIO @ NEB",
-      "status": "Scheduled",
-      "status_short": "9/5 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "6:29 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "6:29",
       "home_team": "Nebraska Cornhuskers",
       "away_team": "Ohio Bobcats",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "7",
       "home_record": "0-0",
       "away_record": "0-0",
       "venue": "Memorial Stadium (Lincoln, NE)",
       "broadcasts": [
         "FS1"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858430/ohio-nebraska"
+      "link": "https://www.espn.com/college-football/game?gameId=401858430"
     },
     {
       "sport": "cfb",
@@ -338,14 +338,14 @@
       "date_utc": "2026-09-05T16:00Z",
       "name": "Lafayette Leopards at UConn Huskies",
       "short_name": "LAF @ CONN",
-      "status": "Scheduled",
-      "status_short": "9/5 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "7:15 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "7:15",
       "home_team": "UConn Huskies",
       "away_team": "Lafayette Leopards",
-      "home_score": "0",
+      "home_score": "14",
       "away_score": "0",
       "home_record": "0-0",
       "away_record": "0-0",
@@ -353,7 +353,7 @@
       "broadcasts": [
         "UConn+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401861962/lafayette-uconn"
+      "link": "https://www.espn.com/college-football/game?gameId=401861962"
     },
     {
       "sport": "cfb",
@@ -361,14 +361,14 @@
       "date_utc": "2026-09-05T16:00Z",
       "name": "Bryant Bulldogs at Army Black Knights",
       "short_name": "BRY @ ARMY",
-      "status": "Scheduled",
-      "status_short": "9/5 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "8:22 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "8:22",
       "home_team": "Army Black Knights",
       "away_team": "Bryant Bulldogs",
-      "home_score": "0",
+      "home_score": "7",
       "away_score": "0",
       "home_record": "0-0",
       "away_record": "1-0",
@@ -376,7 +376,7 @@
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862701/bryant-army"
+      "link": "https://www.espn.com/college-football/game?gameId=401862701"
     },
     {
       "sport": "cfb",
@@ -384,22 +384,22 @@
       "date_utc": "2026-09-05T16:00Z",
       "name": "Tarleton State Texans at Bowling Green Falcons",
       "short_name": "TAR @ BGSU",
-      "status": "Scheduled",
-      "status_short": "9/5 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "6:27 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "6:27",
       "home_team": "Bowling Green Falcons",
       "away_team": "Tarleton State Texans",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "7",
       "home_record": "0-0",
       "away_record": "1-0",
       "venue": "Doyt L. Perry Stadium",
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866410/tarleton-st-bowling-green"
+      "link": "https://www.espn.com/college-football/game?gameId=401866410"
     },
     {
       "sport": "cfb",
@@ -407,11 +407,11 @@
       "date_utc": "2026-09-05T16:00Z",
       "name": "Liberty Flames at James Madison Dukes",
       "short_name": "LIB @ JMU",
-      "status": "Scheduled",
-      "status_short": "9/5 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:55 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "14:55",
       "home_team": "James Madison Dukes",
       "away_team": "Liberty Flames",
       "home_score": "0",
@@ -422,7 +422,7 @@
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401869960/liberty-james-madison"
+      "link": "https://www.espn.com/college-football/game?gameId=401869960"
     },
     {
       "sport": "cfb",
