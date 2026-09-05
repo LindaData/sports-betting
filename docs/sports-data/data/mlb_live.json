@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-05T18:27:37.159064Z",
+  "refreshed_at_utc": "2026-09-05T20:34:17.680596Z",
   "dates_requested": [
     "20260904",
     "20260905",
@@ -416,10 +416,10 @@
       "date_utc": "2026-09-05T20:10Z",
       "name": "Chicago Cubs at Miami Marlins",
       "short_name": "CHC @ MIA",
-      "status": "Scheduled",
-      "status_short": "9/5 - 4:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Miami Marlins",
       "away_team": "Chicago Cubs",
@@ -433,7 +433,7 @@
         "Marquee Sports Net",
         "Marlins.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816815/cubs-marlins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816815"
     },
     {
       "sport": "mlb",
@@ -441,15 +441,15 @@
       "date_utc": "2026-09-05T20:10Z",
       "name": "San Francisco Giants at New York Mets",
       "short_name": "SF @ NYM",
-      "status": "Scheduled",
-      "status_short": "9/5 - 4:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "New York Mets",
       "away_team": "San Francisco Giants",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "64-77",
       "away_record": "58-84",
       "venue": "Citi Field",
@@ -459,7 +459,7 @@
         "NBC Sports BA",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816818/giants-mets"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816818"
     },
     {
       "sport": "mlb",
