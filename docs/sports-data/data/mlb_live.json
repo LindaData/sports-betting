@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-06T16:00:07.229920Z",
+  "refreshed_at_utc": "2026-09-06T18:26:11.365837Z",
   "dates_requested": [
     "20260905",
     "20260906",
@@ -388,15 +388,15 @@
       "date_utc": "2026-09-06T16:10Z",
       "name": "Milwaukee Brewers at Cincinnati Reds",
       "short_name": "MIL @ CIN",
-      "status": "Scheduled",
-      "status_short": "9/6 - 12:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Mid 7th",
+      "state": "in",
+      "period": 7,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
       "away_team": "Milwaukee Brewers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "9",
+      "away_score": "6",
       "home_record": "68-74",
       "away_record": "88-55",
       "venue": "Great American Ball Park",
@@ -405,7 +405,7 @@
         "Reds.TV",
         "Brewers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816832/brewers-reds"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816832"
     },
     {
       "sport": "mlb",
@@ -413,14 +413,14 @@
       "date_utc": "2026-09-06T17:10Z",
       "name": "Atlanta Braves at Philadelphia Phillies",
       "short_name": "ATL @ PHI",
-      "status": "Scheduled",
-      "status_short": "9/6 - 1:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 5th",
+      "state": "in",
+      "period": 5,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
       "away_team": "Atlanta Braves",
-      "home_score": "0",
+      "home_score": "2",
       "away_score": "0",
       "home_record": "80-62",
       "away_record": "84-58",
@@ -428,7 +428,7 @@
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816828/braves-phillies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816828"
     },
     {
       "sport": "mlb",
@@ -436,14 +436,14 @@
       "date_utc": "2026-09-06T17:35Z",
       "name": "Los Angeles Angels at Pittsburgh Pirates",
       "short_name": "LAA @ PIT",
-      "status": "Scheduled",
-      "status_short": "9/6 - 1:35 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 4th",
+      "state": "in",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Los Angeles Angels",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "70-73",
       "away_record": "54-88",
@@ -452,7 +452,7 @@
         "MLB.TV",
         "Angels.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816827/angels-pirates"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816827"
     },
     {
       "sport": "mlb",
@@ -460,15 +460,15 @@
       "date_utc": "2026-09-06T17:35Z",
       "name": "Boston Red Sox at Baltimore Orioles",
       "short_name": "BOS @ BAL",
-      "status": "Scheduled",
-      "status_short": "9/6 - 1:35 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Baltimore Orioles",
       "away_team": "Boston Red Sox",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "3",
       "home_record": "69-74",
       "away_record": "78-65",
       "venue": "Oriole Park at Camden Yards",
@@ -477,7 +477,7 @@
         "MASN",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816829/red-sox-orioles"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816829"
     },
     {
       "sport": "mlb",
@@ -485,15 +485,15 @@
       "date_utc": "2026-09-06T17:40Z",
       "name": "Chicago Cubs at Miami Marlins",
       "short_name": "CHC @ MIA",
-      "status": "Scheduled",
-      "status_short": "9/6 - 1:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Miami Marlins",
       "away_team": "Chicago Cubs",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "2",
+      "away_score": "1",
       "home_record": "71-72",
       "away_record": "81-62",
       "venue": "loanDepot park",
@@ -502,7 +502,7 @@
         "Marquee Sports Net",
         "Marlins.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816830/cubs-marlins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816830"
     },
     {
       "sport": "mlb",
@@ -510,15 +510,15 @@
       "date_utc": "2026-09-06T17:40Z",
       "name": "Detroit Tigers at Cleveland Guardians",
       "short_name": "DET @ CLE",
-      "status": "Scheduled",
-      "status_short": "9/6 - 1:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
       "away_team": "Detroit Tigers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "2",
       "home_record": "72-71",
       "away_record": "65-77",
       "venue": "Progressive Field",
@@ -527,7 +527,7 @@
         "CLEGuardians.TV",
         "Tigers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816831/tigers-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816831"
     },
     {
       "sport": "mlb",
@@ -535,10 +535,10 @@
       "date_utc": "2026-09-06T17:40Z",
       "name": "San Francisco Giants at New York Mets",
       "short_name": "SF @ NYM",
-      "status": "Scheduled",
-      "status_short": "9/6 - 1:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "End 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "New York Mets",
       "away_team": "San Francisco Giants",
@@ -552,7 +552,7 @@
         "NBC Sports BA",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816833/giants-mets"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816833"
     },
     {
       "sport": "mlb",
@@ -560,14 +560,14 @@
       "date_utc": "2026-09-06T18:10Z",
       "name": "Arizona Diamondbacks at Houston Astros",
       "short_name": "ARI @ HOU",
-      "status": "Scheduled",
-      "status_short": "9/6 - 2:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Houston Astros",
       "away_team": "Arizona Diamondbacks",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "73-70",
       "away_record": "75-68",
@@ -577,7 +577,7 @@
         "DBACKS.TV",
         "Space City Home Network"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816834/diamondbacks-astros"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816834"
     },
     {
       "sport": "mlb",
@@ -585,14 +585,14 @@
       "date_utc": "2026-09-06T18:10Z",
       "name": "Toronto Blue Jays at Kansas City Royals",
       "short_name": "TOR @ KC",
-      "status": "Scheduled",
-      "status_short": "9/6 - 2:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Kansas City Royals",
       "away_team": "Toronto Blue Jays",
-      "home_score": "0",
+      "home_score": "3",
       "away_score": "0",
       "home_record": "63-80",
       "away_record": "72-71",
@@ -603,7 +603,7 @@
         "Sportsnet",
         "TVA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816837/blue-jays-royals"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816837"
     },
     {
       "sport": "mlb",
