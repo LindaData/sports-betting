@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-06T09:03:12.977370Z",
+  "refreshed_at_utc": "2026-09-06T12:58:50.232193Z",
   "dates_requested": [
     "20260905",
     "20260906",
@@ -1211,29 +1211,6 @@
     },
     {
       "sport": "cfb",
-      "event_id": "401867866",
-      "date_utc": "2026-09-05T23:45Z",
-      "name": "Murray State Racers at Middle Tennessee Blue Raiders",
-      "short_name": "MUR @ MTSU",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Middle Tennessee Blue Raiders",
-      "away_team": "Murray State Racers",
-      "home_score": "38",
-      "away_score": "14",
-      "home_record": "1-0",
-      "away_record": "0-1",
-      "venue": "Johnny \"Red\" Floyd Stadium",
-      "broadcasts": [
-        "ESPN+"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401867866/murray-st-mtsu"
-    },
-    {
-      "sport": "cfb",
       "event_id": "401856637",
       "date_utc": "2026-09-05T23:45Z",
       "name": "Florida Atlantic Owls at Florida Gators",
@@ -1254,6 +1231,29 @@
         "SEC Network"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401856637/fau-florida"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401867866",
+      "date_utc": "2026-09-05T23:45Z",
+      "name": "Murray State Racers at Middle Tennessee Blue Raiders",
+      "short_name": "MUR @ MTSU",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
+      "home_team": "Middle Tennessee Blue Raiders",
+      "away_team": "Murray State Racers",
+      "home_score": "38",
+      "away_score": "14",
+      "home_record": "1-0",
+      "away_record": "0-1",
+      "venue": "Johnny \"Red\" Floyd Stadium",
+      "broadcasts": [
+        "ESPN+"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401867866/murray-st-mtsu"
     },
     {
       "sport": "cfb",
