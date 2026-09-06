@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-06T18:26:11.365837Z",
+  "refreshed_at_utc": "2026-09-06T20:35:38.788732Z",
   "dates_requested": [
     "20260905",
     "20260906",
@@ -1248,7 +1248,7 @@
       "home_score": "38",
       "away_score": "14",
       "home_record": "1-0",
-      "away_record": "0-1",
+      "away_record": "0-2",
       "venue": "Johnny \"Red\" Floyd Stadium",
       "broadcasts": [
         "ESPN+"
@@ -1583,11 +1583,11 @@
       "date_utc": "2026-09-06T20:00Z",
       "name": "Washington State Cougars at Washington Huskies",
       "short_name": "WSU @ WASH",
-      "status": "Scheduled",
-      "status_short": "9/6 - 4:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "4:32 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "4:32",
       "home_team": "Washington Huskies",
       "away_team": "Washington State Cougars",
       "home_score": "0",
@@ -1598,7 +1598,7 @@
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858437/washington-st-washington"
+      "link": "https://www.espn.com/college-football/game?gameId=401858437"
     },
     {
       "sport": "cfb",
