@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-07T00:29:42.359044Z",
+  "refreshed_at_utc": "2026-09-07T05:05:07.374011Z",
   "dates_requested": [
     "20260906",
     "20260907",
@@ -338,23 +338,23 @@
       "date_utc": "2026-09-06T22:20Z",
       "name": "Minnesota Twins at Chicago White Sox",
       "short_name": "MIN @ CHW",
-      "status": "In Progress",
-      "status_short": "Bot 7th",
-      "state": "in",
-      "period": 7,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Chicago White Sox",
       "away_team": "Minnesota Twins",
-      "home_score": "4",
+      "home_score": "10",
       "away_score": "1",
-      "home_record": "74-68",
-      "away_record": "68-74",
+      "home_record": "75-68",
+      "away_record": "68-75",
       "venue": "Rate Field",
       "broadcasts": [
         "NBC",
         "Peacock"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816835"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816835/twins-white-sox"
     },
     {
       "sport": "mlb",
@@ -362,15 +362,15 @@
       "date_utc": "2026-09-07T02:10Z",
       "name": "Washington Nationals at Los Angeles Dodgers",
       "short_name": "WSH @ LAD",
-      "status": "Scheduled",
-      "status_short": "9/6 - 10:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 9th",
+      "state": "in",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Washington Nationals",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "5",
       "home_record": "85-57",
       "away_record": "67-77",
       "venue": "Dodger Stadium",
@@ -379,7 +379,7 @@
         "SportsNet LA",
         "Nationals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816841/nationals-dodgers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816841"
     },
     {
       "sport": "mlb",
@@ -549,7 +549,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "65-78",
-      "away_record": "68-74",
+      "away_record": "68-75",
       "venue": "Comerica Park",
       "broadcasts": [
         "MLB.TV",
@@ -725,7 +725,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "65-78",
-      "away_record": "68-74",
+      "away_record": "68-75",
       "venue": "Comerica Park",
       "broadcasts": [
         "MLB.TV",
@@ -900,7 +900,7 @@
       "away_team": "Pittsburgh Pirates",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "74-68",
+      "home_record": "75-68",
       "away_record": "71-73",
       "venue": "Rate Field",
       "broadcasts": [

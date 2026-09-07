@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-07T00:29:42.359044Z",
+  "refreshed_at_utc": "2026-09-07T05:05:07.374011Z",
   "dates_requested": [
     "20260906",
     "20260907",
@@ -37,22 +37,22 @@
       "date_utc": "2026-09-06T23:30Z",
       "name": "Wisconsin Badgers at Notre Dame Fighting Irish",
       "short_name": "WIS VS ND",
-      "status": "In Progress",
-      "status_short": "1:28 - 1st",
-      "state": "in",
-      "period": 1,
-      "clock": "1:28",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Notre Dame Fighting Irish",
       "away_team": "Wisconsin Badgers",
-      "home_score": "3",
-      "away_score": "3",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "home_score": "41",
+      "away_score": "13",
+      "home_record": "1-0",
+      "away_record": "0-1",
       "venue": "Lambeau Field",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401858438"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858438/wisconsin-notre-dame"
     },
     {
       "sport": "cfb",
@@ -60,22 +60,22 @@
       "date_utc": "2026-09-06T23:30Z",
       "name": "Louisville Cardinals at Ole Miss Rebels",
       "short_name": "LOU VS MISS",
-      "status": "In Progress",
-      "status_short": "14:51 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "14:51",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Ole Miss Rebels",
       "away_team": "Louisville Cardinals",
-      "home_score": "3",
-      "away_score": "3",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "home_score": "41",
+      "away_score": "38",
+      "home_record": "1-0",
+      "away_record": "0-1",
       "venue": "Nissan Stadium",
       "broadcasts": [
         "ABC"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401856661"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856661/louisville-ole-miss"
     },
     {
       "sport": "cfb",
