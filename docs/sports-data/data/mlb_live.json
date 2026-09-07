@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-07T05:05:07.374011Z",
+  "refreshed_at_utc": "2026-09-07T10:33:00.274377Z",
   "dates_requested": [
     "20260906",
     "20260907",
@@ -362,24 +362,24 @@
       "date_utc": "2026-09-07T02:10Z",
       "name": "Washington Nationals at Los Angeles Dodgers",
       "short_name": "WSH @ LAD",
-      "status": "In Progress",
-      "status_short": "Top 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Washington Nationals",
       "home_score": "7",
       "away_score": "5",
-      "home_record": "85-57",
-      "away_record": "67-77",
+      "home_record": "86-57",
+      "away_record": "67-78",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "MLB.TV",
         "SportsNet LA",
         "Nationals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816841"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816841/nationals-dodgers"
     },
     {
       "sport": "mlb",
@@ -574,7 +574,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "75-68",
-      "away_record": "67-77",
+      "away_record": "67-78",
       "venue": "Petco Park",
       "broadcasts": [
         "MLB.TV",
@@ -622,7 +622,7 @@
       "away_team": "Cincinnati Reds",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "85-57",
+      "home_record": "86-57",
       "away_record": "69-74",
       "venue": "Dodger Stadium",
       "broadcasts": [
@@ -976,7 +976,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "75-68",
-      "away_record": "67-77",
+      "away_record": "67-78",
       "venue": "Petco Park",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -1026,7 +1026,7 @@
       "away_team": "Cincinnati Reds",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "85-57",
+      "home_record": "86-57",
       "away_record": "69-74",
       "venue": "Dodger Stadium",
       "broadcasts": [
