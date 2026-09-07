@@ -1,5 +1,5 @@
 {
-  "refreshed_at_utc": "2026-09-06T22:33:46.587080Z",
+  "refreshed_at_utc": "2026-09-07T00:29:42.359044Z",
   "feeds": {
     "nba": {
       "event_count": 0,
@@ -22,7 +22,7 @@
       "errors": 0
     },
     "cfb": {
-      "event_count": 72,
+      "event_count": 4,
       "errors": 0
     }
   }
