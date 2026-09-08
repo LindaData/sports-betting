@@ -5,8 +5,11 @@
  */
 export const SPORT_LABELS = {
   football: "Soccer",
-  nba: "NBA",
   mlb: "MLB",
+  nfl: "NFL",
+  cfb: "CFB",
+  nhl: "NHL",
+  nba: "NBA",
 } as const;
 
 export type SportKey = keyof typeof SPORT_LABELS;

@@ -57,6 +57,9 @@ const App = () => (
                 <Route path="/football" element={<Navigate to="/matches" replace />} />
                 <Route path="/nba" element={<Navigate to="/matches?sport=nba" replace />} />
                 <Route path="/mlb" element={<Navigate to="/matches?sport=mlb" replace />} />
+                <Route path="/nfl" element={<Navigate to="/matches?sport=nfl" replace />} />
+                <Route path="/cfb" element={<Navigate to="/matches?sport=cfb" replace />} />
+                <Route path="/nhl" element={<Navigate to="/matches?sport=nhl" replace />} />
 
                 {/* Public research sub-pages: trust-building content only */}
                 <Route path="/model" element={<ModelAudit />} />

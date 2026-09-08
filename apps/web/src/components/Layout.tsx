@@ -42,7 +42,7 @@ const navItems: NavItem[] = [
     to: "/matches",
     label: "Matches",
     icon: CalendarDays,
-    childPrefixes: ["/football", "/nba", "/mlb"],
+    childPrefixes: ["/football", "/nba", "/mlb", "/nfl", "/cfb", "/nhl"],
   },
   ...(BETTING_DESK_ENABLED
     ? [

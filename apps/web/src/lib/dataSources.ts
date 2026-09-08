@@ -25,6 +25,22 @@ export const SOURCES: SourceDef[] = [
   { key: "model_champion", label: "Model Champion", kind: "json", url: `${BASE}/model_champion.json` },
   { key: "nba_live", label: "NBA Live", kind: "json", url: `${BASE}/nba_live.json` },
   { key: "mlb_live", label: "MLB Live", kind: "json", url: `${BASE}/mlb_live.json` },
+  // ESPN multisport batch (publish_multisport_espn.py): schedules, standings,
+  // and live scoreboards for the US sports, plus the per-sport manifest.
+  { key: "multisport_manifest", label: "Multisport Manifest", kind: "json", url: `${BASE}/multisport_manifest.json` },
+  { key: "nfl_schedule", label: "NFL Schedule", kind: "json", url: `${BASE}/nfl_schedule.json` },
+  { key: "nfl_standings", label: "NFL Standings", kind: "json", url: `${BASE}/nfl_standings_espn.json` },
+  { key: "nfl_live", label: "NFL Live", kind: "json", url: `${BASE}/nfl_live.json` },
+  { key: "nhl_schedule", label: "NHL Schedule", kind: "json", url: `${BASE}/nhl_schedule.json` },
+  { key: "nhl_standings", label: "NHL Standings", kind: "json", url: `${BASE}/nhl_standings_espn.json` },
+  { key: "nhl_live", label: "NHL Live", kind: "json", url: `${BASE}/nhl_live.json` },
+  { key: "cfb_schedule", label: "College Football Schedule", kind: "json", url: `${BASE}/cfb_schedule.json` },
+  { key: "cfb_standings", label: "College Football Standings", kind: "json", url: `${BASE}/cfb_standings_espn.json` },
+  { key: "cfb_live", label: "College Football Live", kind: "json", url: `${BASE}/cfb_live.json` },
+  { key: "nba_schedule", label: "NBA Schedule", kind: "json", url: `${BASE}/nba_schedule.json` },
+  { key: "nba_standings_espn", label: "NBA Standings (ESPN)", kind: "json", url: `${BASE}/nba_standings_espn.json` },
+  { key: "mlb_schedule", label: "MLB Schedule", kind: "json", url: `${BASE}/mlb_schedule.json` },
+  { key: "mlb_standings_espn", label: "MLB Standings (ESPN)", kind: "json", url: `${BASE}/mlb_standings_espn.json` },
   { key: "basketball_snapshot", label: "NBA Snapshot", kind: "json", url: `${BASE}/basketball_snapshot.json` },
   { key: "baseball_snapshot", label: "MLB Snapshot", kind: "json", url: `${BASE}/baseball_snapshot.json` },
   {
@@ -139,6 +155,7 @@ function rowCount(kind: SourceKind, data: unknown): number {
   if (typeof data === "object") {
     const d = data as Record<string, unknown>;
     if (Array.isArray(d.events)) return (d.events as unknown[]).length;
+    if (Array.isArray(d.standings)) return (d.standings as unknown[]).length;
     return 1;
   }
   return 0;
