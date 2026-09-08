@@ -38,6 +38,28 @@ export function mapEspnGames(data: unknown): GameRow[] {
   }));
 }
 
+/** Every ESPN schedule feed the app registers, one key per sport. */
+export const ESPN_SCHEDULE_KEYS = [
+  "mlb_schedule",
+  "nfl_schedule",
+  "cfb_schedule",
+  "nhl_schedule",
+  "nba_schedule",
+] as const;
+
+/**
+ * Flattens every ESPN schedule feed's events into one raw row list so
+ * cross-sport surfaces (Today, MatchDetail) see a single fixture pool
+ * alongside the football fixtures.
+ */
+export function espnScheduleEvents(
+  results: Record<string, { data?: unknown } | undefined>,
+): JsonRow[] {
+  return ESPN_SCHEDULE_KEYS.flatMap((key) =>
+    rowsOf(results[key]?.data ?? null, "events"),
+  );
+}
+
 export function mapEspnStandings(data: unknown): StandingRow[] {
   return rowsOf(data, "standings").map((r) => ({
     sport: s(r.sport),

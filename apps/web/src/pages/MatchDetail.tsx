@@ -7,6 +7,7 @@ import { PreliminaryChip } from "@/components/PreliminaryChip";
 import { StatusChip } from "@/components/StatusBadge";
 import { Skeleton } from "@/components/ui/skeleton";
 import { useSkeletonTimeout } from "@/hooks/use-skeleton-timeout";
+import { espnScheduleEvents } from "@/lib/espn";
 import { getPredictions, type ModelPrediction } from "@/lib/modelFeeds";
 import {
   friendlyTeamName,
@@ -39,9 +40,17 @@ export default function MatchDetail() {
   const { id } = useParams<{ id: string }>();
   const { results, loading } = useData();
 
+  // Match ids can come from any sport's schedule (soccer fixtures plus the
+  // ESPN multisport feeds), so the lookup spans the whole fixture pool.
   const fixtures = useMemo(
-    () => asFixtures(results.football_fixtures?.data),
-    [results.football_fixtures],
+    () =>
+      asFixtures([
+        ...(Array.isArray(results.football_fixtures?.data)
+          ? (results.football_fixtures.data as unknown[])
+          : []),
+        ...espnScheduleEvents(results),
+      ]),
+    [results],
   );
   const fixture = useMemo(
     () => fixtures.find((f) => f.game_id === id) ?? null,
@@ -73,7 +82,7 @@ export default function MatchDetail() {
             We couldn't find that match.
           </p>
           <p className="mt-1 text-xs text-muted-foreground">
-            The link may be out of date. Every World Cup fixture lives on the Matches tab.
+            The link may be out of date. Every match lives on the Matches tab.
           </p>
           <Link
             to="/matches"
@@ -239,7 +248,7 @@ function ModelCallCard({
         <p className="label-mono">Model's call</p>
         <p className="num-hero mt-1 text-muted-foreground">—</p>
         <p className="mt-1.5 text-sm text-muted-foreground">
-          The model's win probabilities for this match land before kickoff.
+          The model doesn't publish win probabilities for this matchup yet.
         </p>
       </section>
     );
