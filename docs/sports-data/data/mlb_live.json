@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-08T20:29:17.507512Z",
+  "refreshed_at_utc": "2026-09-08T22:53:38.707426Z",
   "dates_requested": [
     "20260907",
     "20260908",
@@ -291,15 +291,15 @@
       "date_utc": "2026-09-08T22:35Z",
       "name": "Cleveland Guardians at Baltimore Orioles",
       "short_name": "CLE @ BAL",
-      "status": "Scheduled",
-      "status_short": "9/8 - 6:35 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Baltimore Orioles",
       "away_team": "Cleveland Guardians",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "70-75",
       "away_record": "73-72",
       "venue": "Oriole Park at Camden Yards",
@@ -308,7 +308,7 @@
         "CLEGuardians.TV",
         "MASN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816854/guardians-orioles"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816854"
     },
     {
       "sport": "mlb",
@@ -316,9 +316,9 @@
       "date_utc": "2026-09-08T22:40Z",
       "name": "Houston Astros at Philadelphia Phillies",
       "short_name": "HOU @ PHI",
-      "status": "Scheduled",
-      "status_short": "9/8 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
@@ -334,7 +334,7 @@
         "NBC Sports Phil",
         "Space City Home Network"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816856/astros-phillies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816856"
     },
     {
       "sport": "mlb",
@@ -342,15 +342,15 @@
       "date_utc": "2026-09-08T22:40Z",
       "name": "Minnesota Twins at Detroit Tigers",
       "short_name": "MIN @ DET",
-      "status": "Scheduled",
-      "status_short": "9/8 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Mid 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
       "away_team": "Minnesota Twins",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "66-78",
       "away_record": "68-76",
       "venue": "Comerica Park",
@@ -359,7 +359,7 @@
         "Twins.TV",
         "Tigers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816857/twins-tigers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816857"
     },
     {
       "sport": "mlb",
@@ -367,15 +367,15 @@
       "date_utc": "2026-09-08T22:40Z",
       "name": "New York Mets at Miami Marlins",
       "short_name": "NYM @ MIA",
-      "status": "Scheduled",
-      "status_short": "9/8 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Miami Marlins",
       "away_team": "New York Mets",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "2",
       "home_record": "72-73",
       "away_record": "66-78",
       "venue": "loanDepot park",
@@ -384,7 +384,7 @@
         "Marlins.TV",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816858/mets-marlins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816858"
     },
     {
       "sport": "mlb",
@@ -392,9 +392,9 @@
       "date_utc": "2026-09-08T22:45Z",
       "name": "Los Angeles Angels at Boston Red Sox",
       "short_name": "LAA @ BOS",
-      "status": "Scheduled",
-      "status_short": "9/8 - 6:45 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Mid 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Boston Red Sox",
@@ -409,7 +409,7 @@
         "NESN",
         "Angels.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816853/angels-red-sox"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816853"
     },
     {
       "sport": "mlb",
