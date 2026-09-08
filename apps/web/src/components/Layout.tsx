@@ -19,6 +19,9 @@ const ONBOARDING_COPY =
 /** Appears in the desktop footer and as a quiet line at mobile list ends. */
 const RESEARCH_DISCLAIMER = "Forecasts are research, not betting advice.";
 
+/** Responsible-gambling line shown alongside the research disclaimer. */
+const RESPONSIBLE_LINE = "21+. Data and analysis only — bet responsibly.";
+
 function readBannerDismissed(): boolean {
   try {
     return localStorage.getItem(ONBOARDING_BANNER_KEY) === "1";
@@ -42,7 +45,7 @@ const navItems: NavItem[] = [
     to: "/matches",
     label: "Matches",
     icon: CalendarDays,
-    childPrefixes: ["/football", "/nba", "/mlb"],
+    childPrefixes: ["/football", "/nba", "/mlb", "/nfl", "/cfb", "/nhl"],
   },
   ...(BETTING_DESK_ENABLED
     ? [
@@ -193,13 +196,15 @@ export default function Layout() {
         {/* Mobile gets the disclaimer as a quiet line at the end of every list;
             desktop carries it in the footer instead. */}
         <p className="mt-8 text-center text-xs text-muted-foreground lg:hidden">
-          {RESEARCH_DISCLAIMER}
+          {RESEARCH_DISCLAIMER} {RESPONSIBLE_LINE}
         </p>
       </main>
 
       <footer className="hidden border-t border-border lg:block">
         <div className="mx-auto w-full max-w-5xl px-4 py-4">
-          <p className="text-xs text-muted-foreground">{RESEARCH_DISCLAIMER}</p>
+          <p className="text-xs text-muted-foreground">
+            {RESEARCH_DISCLAIMER} {RESPONSIBLE_LINE}
+          </p>
         </div>
       </footer>
 

@@ -1,8 +1,8 @@
-# LindaData World Cup 2026 Forecasting Hub
+# LindaData Sports
 
-A LindaData project for World Cup 2026 forecasting, model review, and public-safe research presentation.
+A LindaData multi-sport data and forecasting project. The World Cup 2026 forecasting system (completed July 2026) lives on as a case study; the app now covers MLB, NFL, college football, NHL, NBA, and soccer.
 
-[Open live project](https://lindadata.github.io/world-cup-2026-betting-model/) · [Open repository](https://github.com/LindaData/world-cup-2026-betting-model)
+[Open live project](https://lindadata.github.io/sports-betting/) · [Open repository](https://github.com/LindaData/sports-betting)
 
 ![World Cup 2026 Forecasting Model preview](assets/social-preview.svg)
 

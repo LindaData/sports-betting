@@ -7,6 +7,7 @@ import { PreliminaryChip } from "@/components/PreliminaryChip";
 import { StatusChip } from "@/components/StatusBadge";
 import { Skeleton } from "@/components/ui/skeleton";
 import { useSkeletonTimeout } from "@/hooks/use-skeleton-timeout";
+import { espnScheduleEvents } from "@/lib/espn";
 import { getPredictions, type ModelPrediction } from "@/lib/modelFeeds";
 import {
   friendlyTeamName,
@@ -39,9 +40,17 @@ export default function MatchDetail() {
   const { id } = useParams<{ id: string }>();
   const { results, loading } = useData();
 
+  // Match ids can come from any sport's schedule (soccer fixtures plus the
+  // ESPN multisport feeds), so the lookup spans the whole fixture pool.
   const fixtures = useMemo(
-    () => asFixtures(results.football_fixtures?.data),
-    [results.football_fixtures],
+    () =>
+      asFixtures([
+        ...(Array.isArray(results.football_fixtures?.data)
+          ? (results.football_fixtures.data as unknown[])
+          : []),
+        ...espnScheduleEvents(results),
+      ]),
+    [results],
   );
   const fixture = useMemo(
     () => fixtures.find((f) => f.game_id === id) ?? null,
@@ -73,7 +82,7 @@ export default function MatchDetail() {
             We couldn't find that match.
           </p>
           <p className="mt-1 text-xs text-muted-foreground">
-            The link may be out of date. Every World Cup fixture lives on the Matches tab.
+            The link may be out of date. Every match lives on the Matches tab.
           </p>
           <Link
             to="/matches"
@@ -140,7 +149,7 @@ export default function MatchDetail() {
           verdictText={verdict?.text ?? null}
         />
       ) : teamsTbd ? (
-        <TeamsTbdCard />
+        <TeamsTbdCard kickoffPassed={kickoffPassed(fixture.date_utc)} />
       ) : (
         <ModelCallCard
           homeName={homeName}
@@ -239,7 +248,7 @@ function ModelCallCard({
         <p className="label-mono">Model's call</p>
         <p className="num-hero mt-1 text-muted-foreground">—</p>
         <p className="mt-1.5 text-sm text-muted-foreground">
-          The model's win probabilities for this match land before kickoff.
+          The model doesn't publish win probabilities for this matchup yet.
         </p>
       </section>
     );
@@ -267,19 +276,34 @@ function ModelCallCard({
   );
 }
 
-/** Bracket fixture whose participants don't exist yet: teach, never guess. */
-function TeamsTbdCard() {
+/**
+ * Bracket fixture whose participants don't exist yet: teach, never guess.
+ * Tense-aware: once kickoff has passed, a still-placeholder fixture means a
+ * stale feed — speak of the slot in the past so the tournament never reads
+ * as reopened.
+ */
+function TeamsTbdCard({ kickoffPassed }: { kickoffPassed: boolean }) {
   return (
     <section className="surface-card p-5">
       <p className="label-mono">Model's call</p>
       <p className="mt-1 text-lg font-semibold text-card-foreground">
-        Teams are set after the semi-finals
+        {kickoffPassed
+          ? "This bracket slot was decided in the semi-finals"
+          : "Teams are set after the semi-finals"}
       </p>
       <p className="mt-1.5 text-sm text-muted-foreground">
-        Once both teams are decided, the model's win probabilities for this match appear here.
+        {kickoffPassed
+          ? "The result feed for this match is unavailable."
+          : "Once both teams are decided, the model's win probabilities for this match appear here."}
       </p>
     </section>
   );
+}
+
+/** True when a fixture's kickoff time is parseable and in the past. */
+function kickoffPassed(dateUtc: string | null | undefined): boolean {
+  const t = new Date(dateUtc ?? "").getTime();
+  return !Number.isNaN(t) && t < Date.now();
 }
 
 /* -------------------------------- helpers -------------------------------- */

@@ -46,4 +46,6 @@ reports/*_files/
 .localappdata/
 index_files/
 index.html
+# The Vite entry is real source, not Quarto render output.
+!apps/web/index.html
 **/*.quarto_ipynb

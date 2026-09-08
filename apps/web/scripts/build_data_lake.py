@@ -48,7 +48,7 @@ except ImportError:
     raise
 
 
-GITHUB_RAW = "https://raw.githubusercontent.com/LindaData/world-cup-2026-betting-model/main"
+GITHUB_RAW = "https://raw.githubusercontent.com/LindaData/sports-betting/main"
 ROOT = Path(__file__).resolve().parent.parent
 BUILD = ROOT / "build"
 CONFIG = ROOT / "config" / "datasets.yml"

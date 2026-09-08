@@ -25,13 +25,13 @@ project:
     - reports/10_model_challengers.qmd
 
 website:
-  title: "LindaData World Cup Forecasting Hub"
-  site-url: "https://lindadata.github.io/world-cup-2026-betting-model/"
-  repo-url: "https://github.com/LindaData/world-cup-2026-betting-model"
-  description: "LindaData World Cup 2026 forecasting command center with match probabilities, bracket projections, model review, and project operating context."
+  title: "LindaData Sports Research Hub"
+  site-url: "https://lindadata.github.io/sports-betting/"
+  repo-url: "https://github.com/LindaData/sports-betting"
+  description: "LindaData sports research hub: the completed World Cup 2026 forecasting case study — match probabilities, bracket projections, model review — and project operating context."
   favicon: assets/favicon.svg
   navbar:
-    title: "LindaData · World Cup"
+    title: "LindaData · Sports"
     background: "#102a43"
     left:
       - href: index.qmd
@@ -72,7 +72,7 @@ website:
       - text: LindaData HQ
         href: https://lindadata.github.io/
       - text: GitHub
-        href: https://github.com/LindaData/world-cup-2026-betting-model
+        href: https://github.com/LindaData/sports-betting
   page-footer:
     left: "LindaData World Cup 2026 forecasting hub."
     right: "Static forecasts built with R, Python, SQL, DuckDB, Quarto, and GitHub Pages."

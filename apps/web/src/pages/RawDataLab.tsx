@@ -1680,7 +1680,7 @@ function LineageTab({ dataset, state }: { dataset: DatasetDef; state: DatasetSta
 
       <div className="surface-card p-4 text-sm space-y-2">
         <div className="grid grid-cols-2 gap-3">
-          <Stat label="Source repository" value="LindaData/world-cup-2026-betting-model" />
+          <Stat label="Source repository" value="LindaData/sports-betting" />
           <Stat label="Schema version" value="v1" />
           <Stat label="Format" value={state.format ?? "—"} />
           <Stat label="Row count" value={state.rowCount.toLocaleString()} />
@@ -1695,12 +1695,12 @@ function LineageTab({ dataset, state }: { dataset: DatasetDef; state: DatasetSta
             CSV fallback: {dataset.csv_fallback_url}
           </a>
           <a
-            href="https://github.com/LindaData/world-cup-2026-betting-model"
+            href="https://github.com/LindaData/sports-betting"
             target="_blank"
             rel="noreferrer"
             className="block text-[11px] text-primary hover:underline"
           >
-            Repository: github.com/LindaData/world-cup-2026-betting-model
+            Repository: github.com/LindaData/sports-betting
           </a>
         </div>
       </div>

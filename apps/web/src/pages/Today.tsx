@@ -11,12 +11,9 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { useSkeletonTimeout } from "@/hooks/use-skeleton-timeout";
 import { BETTING_DESK_ENABLED } from "@/lib/flags";
 import { formatMoney } from "@/lib/edgeMath";
-import {
-  getPredictions,
-  getTitleChances,
-  type ModelPrediction,
-  type TitleChance,
-} from "@/lib/modelFeeds";
+import { espnScheduleEvents, mapEspnGames } from "@/lib/espn";
+import { SPORT_LABELS } from "@/lib/sports";
+import { getPredictions, type ModelPrediction } from "@/lib/modelFeeds";
 import {
   SAMPLE_LEDGER_CSV,
   isSampleLedgerCsv,
@@ -40,7 +37,14 @@ import type { LiveFeed } from "@/types";
 /** Must match the Bankroll page's storage key so both read the same ledger. */
 const LEDGER_STORAGE_KEY = "gsp:bankroll-ledger:v1";
 
-const LIVE_FEED_KEYS = ["football_live", "nba_live", "mlb_live"] as const;
+const LIVE_FEED_KEYS = [
+  "football_live",
+  "nba_live",
+  "mlb_live",
+  "nfl_live",
+  "nhl_live",
+  "cfb_live",
+] as const;
 
 /** How many compact cards "Up next" shows before deferring to Matches. */
 const UP_NEXT_LIMIT = 6;
@@ -49,6 +53,7 @@ interface FixtureRow {
   game_id: string;
   date_utc: string;
   status: string;
+  sport?: string;
   league?: string;
   home_team: string;
   away_team: string;
@@ -68,16 +73,22 @@ export default function Today() {
     return () => window.clearInterval(id);
   }, []);
 
+  // One cross-sport fixture pool: soccer fixtures plus every ESPN schedule
+  // feed, so the featured card and "Up next" surface whichever league
+  // actually plays next — an MLB pennant-race game tonight, NFL week 1, a
+  // Saturday CFB slate — instead of a single sport.
   const fixtures = useMemo(
-    () => asFixtures(results.football_fixtures?.data),
-    [results.football_fixtures],
+    () =>
+      asFixtures([
+        ...(Array.isArray(results.football_fixtures?.data)
+          ? (results.football_fixtures.data as unknown[])
+          : []),
+        ...espnScheduleEvents(results),
+      ]),
+    [results],
   );
   const { map: predictions, preliminary: predictionsPreliminary } = useMemo(
     () => getPredictions(results),
-    [results],
-  );
-  const { list: titleChances, preliminary: championPreliminary } = useMemo(
-    () => getTitleChances(results),
     [results],
   );
 
@@ -133,9 +144,8 @@ export default function Today() {
   // page is demo data, card/section-level chips only otherwise — never both
   // in the same viewport.
   const fixturesDemo = results.football_fixtures?.origin === "demo";
-  const championDemo = results.model_champion?.origin === "demo";
   const ledgerDemo = !BETTING_DESK_ENABLED || !ledger || ledger.isSample;
-  const pageDemo = fixturesDemo && championDemo && ledgerDemo;
+  const pageDemo = fixturesDemo && ledgerDemo;
 
   return (
     <div className="space-y-6 pb-36 lg:pb-4">
@@ -150,11 +160,7 @@ export default function Today() {
       {BETTING_DESK_ENABLED ? (
         <BankrollHero ledger={ledger} showDemoChip={!pageDemo} />
       ) : (
-        <ChampionHero
-          chances={titleChances}
-          preliminary={championPreliminary}
-          demoChip={championDemo && !pageDemo}
-        />
+        <LeaguePulseHero results={results} now={now} />
       )}
 
       <NextMatchCard
@@ -321,68 +327,90 @@ function BankrollHero({
 }
 
 /**
- * The shop window: the model's title chances as a movers-style leaderboard.
- * Bars fill an absolute 0-100% track (a 31% chance is 31% of the row) so the
- * picture tells the same honest story as the printed percentage — no team
- * ever looks like a lock.
+ * The shop window: a one-glance pulse of every league the app covers — live
+ * counts, tonight's slate size, or the next scheduled date — each row
+ * deep-linking into that sport's tab. An out-of-season league says so in
+ * plain words instead of looking broken.
  */
-function ChampionHero({
-  chances,
-  preliminary,
-  demoChip,
+function LeaguePulseHero({
+  results,
+  now,
 }: {
-  chances: TitleChance[];
-  preliminary: boolean;
-  demoChip: boolean;
+  results: Record<string, { data?: unknown; origin?: string; error?: string } | undefined>;
+  now: Date;
 }) {
-  const rows = chances.slice(0, 8).map((c) => ({
-    team: c.team,
-    // Feed publishes 0-1 fractions; tolerate 0-100 so a pipeline change
-    // can't render "3100%".
-    pct: c.probability <= 1 ? c.probability * 100 : c.probability,
-  }));
+  const todayKey = localDateKey(now);
+  const leagues = (["mlb", "nfl", "cfb", "nhl", "nba"] as const).map((key) => {
+    const schedule = results[`${key}_schedule`];
+    const games = mapEspnGames(schedule?.data ?? null);
+    const liveCount = (((results[`${key}_live`]?.data as LiveFeed | null)?.events) ?? []).filter(
+      (event) => event.state === "in",
+    ).length;
+    const todayCount = games.filter(
+      (g) => localDateKey(new Date(g.date_utc)) === todayKey,
+    ).length;
+    const next = games
+      .filter((g) => new Date(g.date_utc).getTime() > now.getTime())
+      .sort((a, b) => new Date(a.date_utc).getTime() - new Date(b.date_utc).getTime())[0];
+
+    let line: string;
+    let emphasis = false;
+    if (liveCount > 0) {
+      line = `${liveCount} live now`;
+      emphasis = true;
+    } else if (todayCount > 0) {
+      line = `${todayCount} game${todayCount === 1 ? "" : "s"} today`;
+      emphasis = true;
+    } else if (next) {
+      line = `Next game ${formatShortDate(new Date(next.date_utc))}`;
+    } else if (schedule?.origin === "empty") {
+      line = "Schedule unavailable";
+    } else {
+      line = "Offseason";
+    }
+    return { key, label: SPORT_LABELS[key], line, emphasis };
+  });
 
   return (
     <section className="surface-card p-5">
-      <div className="flex items-center gap-2">
-        <p className="label-mono">The model's call</p>
-        {demoChip && <StatusChip tone="muted" label="Demo" />}
-      </div>
-      <div className="mt-0.5 flex flex-wrap items-center gap-2">
-        <h2 className="text-lg font-bold text-card-foreground">Who wins the World Cup</h2>
-        {preliminary && <PreliminaryChip />}
-      </div>
-
-      {rows.length > 0 ? (
-        <>
-          <div className="mt-4 space-y-3">
-            {rows.map((row) => (
-              <div key={row.team}>
-                <div className="flex items-baseline justify-between gap-3">
-                  <p className="truncate text-sm font-semibold text-card-foreground">{row.team}</p>
-                  <p className="shrink-0 text-2xl font-extrabold tabular-nums text-gain">
-                    {Math.round(row.pct)}%
-                  </p>
-                </div>
-                <div className="mt-1 h-2 w-full overflow-hidden rounded-full bg-muted">
-                  <div
-                    className="h-full rounded-full bg-gain"
-                    style={{ width: `${Math.min(Math.max(row.pct, 0), 100)}%` }}
-                  />
-                </div>
-              </div>
-            ))}
-          </div>
-          <p className="mt-3 text-xs text-muted-foreground">
-            Each number is the model's chance that team lifts the trophy.
-          </p>
-        </>
-      ) : (
-        <p className="mt-3 text-xs text-muted-foreground">
-          The model's title chances land here once the champion feed publishes — one green bar per
-          team, favorite on top.
-        </p>
-      )}
+      <p className="label-mono">Across the leagues</p>
+      <h2 className="mt-0.5 text-lg font-bold text-card-foreground">
+        What's on in sports right now
+      </h2>
+      <ul className="mt-2 divide-y divide-border">
+        {leagues.map((league) => (
+          <li key={league.key}>
+            <Link
+              to={`/matches?sport=${league.key}`}
+              className="flex min-h-11 items-center justify-between gap-3 py-2 transition-colors hover:text-foreground"
+            >
+              <span className="text-sm font-semibold text-card-foreground">{league.label}</span>
+              <span
+                className={
+                  league.emphasis
+                    ? "text-sm font-semibold tabular-nums text-card-foreground"
+                    : "text-sm tabular-nums text-muted-foreground"
+                }
+              >
+                {league.line}
+              </span>
+            </Link>
+          </li>
+        ))}
+        <li>
+          <Link
+            to="/matches"
+            className="flex min-h-11 items-center justify-between gap-3 py-2 transition-colors hover:text-foreground"
+          >
+            <span className="text-sm font-semibold text-card-foreground">
+              {SPORT_LABELS.football}
+            </span>
+            <span className="text-sm tabular-nums text-muted-foreground">
+              World Cup 2026 archive
+            </span>
+          </Link>
+        </li>
+      </ul>
     </section>
   );
 }
@@ -451,8 +479,10 @@ function NextMatchCard({
           <span className="font-normal text-muted-foreground"> ({formatShortDate(kickoff)})</span>
         )}
       </p>
-      {fixture.venue && (
-        <p className="mt-0.5 text-xs text-muted-foreground">{fixture.venue}</p>
+      {(fixtureLeagueLabel(fixture) || fixture.venue) && (
+        <p className="mt-0.5 text-xs text-muted-foreground">
+          {[fixtureLeagueLabel(fixture), fixture.venue].filter(Boolean).join(" · ")}
+        </p>
       )}
 
       {prediction ? (
@@ -465,7 +495,7 @@ function NextMatchCard({
         </div>
       ) : (
         <p className="mt-4 text-xs text-muted-foreground">
-          Model prediction lands before kickoff.
+          No model forecast for this matchup yet.
         </p>
       )}
     </Link>
@@ -495,7 +525,7 @@ function UpNextCard({
   const pick = !teamsTbd && prediction ? topPick(prediction, homeName, awayName) : null;
   const meta = [
     formatRelativeKickoff(kickoff, now),
-    teamsTbd ? "Teams decided after the semi-finals" : fixture.venue,
+    teamsTbd ? "Teams decided after the semi-finals" : fixtureLeagueLabel(fixture),
   ]
     .filter(Boolean)
     .join(" · ");
@@ -580,6 +610,14 @@ function EmptyState({
 }
 
 /* -------------------------------- helpers -------------------------------- */
+
+/** Short league tag for mixed-sport lists: "MLB", "NFL", or the soccer league name. */
+function fixtureLeagueLabel(fixture: FixtureRow): string | null {
+  if (fixture.sport && fixture.sport in SPORT_LABELS) {
+    return SPORT_LABELS[fixture.sport as keyof typeof SPORT_LABELS];
+  }
+  return fixture.league || null;
+}
 
 function asFixtures(data: unknown): FixtureRow[] {
   if (!Array.isArray(data)) return [];

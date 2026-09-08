@@ -9,17 +9,23 @@ import { GamesViewVariantContext } from "@/components/GamesView";
 const Football = lazy(() => import("./Football"));
 const NBA = lazy(() => import("./NBA"));
 const MLB = lazy(() => import("./MLB"));
+const NFL = lazy(() => import("./NFL"));
+const CFB = lazy(() => import("./CFB"));
+const NHL = lazy(() => import("./NHL"));
 
 // Labels come from the shared sports constant so every tab, table, and ledger
 // calls the same sport by the same name ("Soccer", not "Football").
-// NBA/MLB have no model coverage yet, so their tabs are flag-gated: public
-// builds see one sport and no switcher at all.
+// In-season sports lead; VITE_ENABLE_EXTRA_SPORTS=false builds a
+// soccer-only app with no switcher at all.
 const SPORTS = [
   { key: "football", label: SPORT_LABELS.football, Page: Football },
   ...(EXTRA_SPORTS_ENABLED
     ? [
-        { key: "nba", label: SPORT_LABELS.nba, Page: NBA },
         { key: "mlb", label: SPORT_LABELS.mlb, Page: MLB },
+        { key: "nfl", label: SPORT_LABELS.nfl, Page: NFL },
+        { key: "cfb", label: SPORT_LABELS.cfb, Page: CFB },
+        { key: "nhl", label: SPORT_LABELS.nhl, Page: NHL },
+        { key: "nba", label: SPORT_LABELS.nba, Page: NBA },
       ]
     : []),
 ] as const;
@@ -43,7 +49,7 @@ export default function Matches() {
 
   return (
     <div className="space-y-5">
-      {/* One live sport = no switcher: the World Cup heading stands alone. */}
+      {/* One enabled sport = no switcher: the sport heading stands alone. */}
       {SPORTS.length > 1 && (
         <div
           role="group"
