@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lindadata.github.io/world-cup-2026-betting-model/sitemap.xml
+Sitemap: https://lindadata.github.io/sports-betting/sitemap.xml

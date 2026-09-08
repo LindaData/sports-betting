@@ -1,7 +1,7 @@
 import Papa from "papaparse";
 
 const BASE =
-  "https://raw.githubusercontent.com/LindaData/world-cup-2026-betting-model/main/docs/sports-data/data";
+  "https://raw.githubusercontent.com/LindaData/sports-betting/main/docs/sports-data/data";
 
 export type SourceKind = "csv" | "json";
 

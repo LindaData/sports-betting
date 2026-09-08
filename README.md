@@ -2,7 +2,7 @@
 
 A LindaData project for World Cup 2026 forecasting, model review, and public-safe research presentation.
 
-[Open live project](https://lindadata.github.io/world-cup-2026-betting-model/) · [Open repository](https://github.com/LindaData/world-cup-2026-betting-model)
+[Open live project](https://lindadata.github.io/sports-betting/) · [Open repository](https://github.com/LindaData/sports-betting)
 
 ![World Cup 2026 Forecasting Model preview](assets/social-preview.svg)
 

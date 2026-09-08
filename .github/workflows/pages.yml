@@ -72,7 +72,7 @@ jobs:
       - name: Build web app into docs/app
         working-directory: apps/web
         env:
-          VITE_BASE: /world-cup-2026-betting-model/app/
+          VITE_BASE: /sports-betting/app/
         run: |
           bun install --frozen-lockfile
           bun run build
