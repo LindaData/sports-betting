@@ -37,7 +37,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
           git add docs/sports-data/data/nfl_schedule.json \
                   docs/sports-data/data/nba_schedule.json \
                   docs/sports-data/data/mlb_schedule.json \
@@ -54,4 +53,5 @@ jobs:
             exit 0
           fi
           git commit -m "data: refresh multi-sport ESPN feeds"
+          git pull --rebase origin main
           git push
