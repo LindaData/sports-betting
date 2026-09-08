@@ -1,91 +1,22 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-07T22:54:34.602743Z",
+  "refreshed_at_utc": "2026-09-08T00:48:23.988956Z",
   "dates_requested": [
-    "20260906",
     "20260907",
-    "20260908"
+    "20260908",
+    "20260909"
   ],
-  "event_count": 4,
+  "event_count": 1,
   "events": [
-    {
-      "sport": "cfb",
-      "event_id": "401858437",
-      "date_utc": "2026-09-06T20:00Z",
-      "name": "Washington State Cougars at Washington Huskies",
-      "short_name": "WSU @ WASH",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Washington Huskies",
-      "away_team": "Washington State Cougars",
-      "home_score": "24",
-      "away_score": "10",
-      "home_record": "1-0",
-      "away_record": "0-1",
-      "venue": "Husky Stadium",
-      "broadcasts": [
-        "NBC"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858437/washington-st-washington"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401858438",
-      "date_utc": "2026-09-06T23:30Z",
-      "name": "Wisconsin Badgers at Notre Dame Fighting Irish",
-      "short_name": "WIS VS ND",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Notre Dame Fighting Irish",
-      "away_team": "Wisconsin Badgers",
-      "home_score": "41",
-      "away_score": "13",
-      "home_record": "1-0",
-      "away_record": "0-1",
-      "venue": "Lambeau Field",
-      "broadcasts": [
-        "NBC"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858438/wisconsin-notre-dame"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401856661",
-      "date_utc": "2026-09-06T23:30Z",
-      "name": "Louisville Cardinals at Ole Miss Rebels",
-      "short_name": "LOU VS MISS",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Ole Miss Rebels",
-      "away_team": "Louisville Cardinals",
-      "home_score": "41",
-      "away_score": "38",
-      "home_record": "1-0",
-      "away_record": "0-1",
-      "venue": "Nissan Stadium",
-      "broadcasts": [
-        "ABC"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856661/louisville-ole-miss"
-    },
     {
       "sport": "cfb",
       "event_id": "401858212",
       "date_utc": "2026-09-07T23:30Z",
       "name": "SMU Mustangs at Florida State Seminoles",
       "short_name": "SMU @ FSU",
-      "status": "Scheduled",
-      "status_short": "9/7 - 7:30 PM EDT",
-      "state": "pre",
+      "status": "Delayed",
+      "status_short": "Delayed",
+      "state": "in",
       "period": 0,
       "clock": "0:00",
       "home_team": "Florida State Seminoles",
@@ -98,7 +29,7 @@
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858212/smu-florida-st"
+      "link": "https://www.espn.com/college-football/game?gameId=401858212"
     }
   ],
   "errors": []
