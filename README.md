@@ -11,6 +11,7 @@ A LindaData project for World Cup 2026 forecasting, model review, and public-saf
 This repo is the consolidated home of the LindaData sports portfolio (see `MIGRATION.md` for the full map):
 
 - **Repo root** — the World Cup 2026 forecasting engine: R models, Python data pipelines, DuckDB, and the Quarto site published to GitHub Pages from `docs/`.
+- **`apps/ios-flappy/`** — `PitchFlap`, a native iOS (SwiftUI + SpriteKit) arcade game built as a learning project. Self-contained; no dependency on the forecasting stack. See `apps/ios-flappy/LEARN.md`.
 - **`apps/web/`** — the consolidated React app (formerly `game-stat-pulse`, absorbing `lindadata-sports-hub`): World Cup fixtures/standings/live scores, NBA/MLB data, dataset review tooling, and a private betting desk gated behind `VITE_ENABLE_BETTING_DESK`. Deploys to Vercel.
 
 ## Project Role
