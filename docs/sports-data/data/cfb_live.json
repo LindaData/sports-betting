@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-08T00:48:23.988956Z",
+  "refreshed_at_utc": "2026-09-08T05:27:28.330336Z",
   "dates_requested": [
     "20260907",
     "20260908",
@@ -14,22 +14,22 @@
       "date_utc": "2026-09-07T23:30Z",
       "name": "SMU Mustangs at Florida State Seminoles",
       "short_name": "SMU @ FSU",
-      "status": "Delayed",
-      "status_short": "Delayed",
-      "state": "in",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Florida State Seminoles",
       "away_team": "SMU Mustangs",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "1-0",
-      "away_record": "0-0",
+      "home_score": "24",
+      "away_score": "27",
+      "home_record": "1-1",
+      "away_record": "1-0",
       "venue": "Doak Campbell Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401858212"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858212/smu-florida-st"
     }
   ],
   "errors": []
