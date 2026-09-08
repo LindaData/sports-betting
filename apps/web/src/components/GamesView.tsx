@@ -283,6 +283,11 @@ function MatchCard({
   // Teams-TBD fixtures never show a hard probability bar: a concrete 44% for
   // teams that don't exist yet is false precision.
   const teamsTbd = isPlaceholderTeam(game.home_team) || isPlaceholderTeam(game.away_team);
+  // A bracket fixture whose kickoff has passed but whose teams are still
+  // placeholders means the archive/feed is stale — say "Result unavailable"
+  // rather than the future-tense line that would reopen the tournament.
+  const kickoffMs = new Date(game.date_utc ?? "").getTime();
+  const kickoffPassed = !Number.isNaN(kickoffMs) && kickoffMs < Date.now();
   const verdict = prediction
     ? matchVerdict({
         homeTeam: game.home_team,
@@ -309,7 +314,7 @@ function MatchCard({
         <p className="mt-3 text-sm font-semibold text-card-foreground">
           {bracketLabel}
           <span className="ml-2 font-normal text-muted-foreground">
-            Teams decided after the semi-finals
+            {kickoffPassed ? "Result unavailable" : "Teams decided after the semi-finals"}
           </span>
         </p>
       )}

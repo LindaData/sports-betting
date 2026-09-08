@@ -149,7 +149,7 @@ export default function MatchDetail() {
           verdictText={verdict?.text ?? null}
         />
       ) : teamsTbd ? (
-        <TeamsTbdCard />
+        <TeamsTbdCard kickoffPassed={kickoffPassed(fixture.date_utc)} />
       ) : (
         <ModelCallCard
           homeName={homeName}
@@ -276,19 +276,34 @@ function ModelCallCard({
   );
 }
 
-/** Bracket fixture whose participants don't exist yet: teach, never guess. */
-function TeamsTbdCard() {
+/**
+ * Bracket fixture whose participants don't exist yet: teach, never guess.
+ * Tense-aware: once kickoff has passed, a still-placeholder fixture means a
+ * stale feed — speak of the slot in the past so the tournament never reads
+ * as reopened.
+ */
+function TeamsTbdCard({ kickoffPassed }: { kickoffPassed: boolean }) {
   return (
     <section className="surface-card p-5">
       <p className="label-mono">Model's call</p>
       <p className="mt-1 text-lg font-semibold text-card-foreground">
-        Teams are set after the semi-finals
+        {kickoffPassed
+          ? "This bracket slot was decided in the semi-finals"
+          : "Teams are set after the semi-finals"}
       </p>
       <p className="mt-1.5 text-sm text-muted-foreground">
-        Once both teams are decided, the model's win probabilities for this match appear here.
+        {kickoffPassed
+          ? "The result feed for this match is unavailable."
+          : "Once both teams are decided, the model's win probabilities for this match appear here."}
       </p>
     </section>
   );
+}
+
+/** True when a fixture's kickoff time is parseable and in the past. */
+function kickoffPassed(dateUtc: string | null | undefined): boolean {
+  const t = new Date(dateUtc ?? "").getTime();
+  return !Number.isNaN(t) && t < Date.now();
 }
 
 /* -------------------------------- helpers -------------------------------- */
