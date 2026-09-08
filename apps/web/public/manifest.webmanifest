@@ -1,7 +1,7 @@
 {
   "name": "LindaData Sports",
   "short_name": "LindaData",
-  "description": "World Cup 2026 forecasts, fixtures, and standings.",
+  "description": "Live scores, schedules, standings, and model forecasts across MLB, NFL, college football, NHL, NBA, and soccer.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

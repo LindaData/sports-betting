@@ -1,7 +1,7 @@
 ---
-title: "LindaData World Cup 2026 Forecasting Hub"
-subtitle: "Project command center for match probabilities, bracket paths, and model review."
-description: "A readable LindaData World Cup 2026 forecasting command center with match probabilities, bracket projections, data freshness notes, model performance monitoring, and project operating context."
+title: "LindaData Sports Research Hub"
+subtitle: "The World Cup 2026 forecasting case study, archived: match probabilities, bracket paths, and model review."
+description: "The completed World Cup 2026 forecasting case study from LindaData: match probabilities, bracket projections, data freshness notes, model performance monitoring, and project operating context."
 image: assets/social-preview.png
 toc: false
 number-sections: false

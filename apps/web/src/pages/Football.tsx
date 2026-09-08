@@ -5,16 +5,18 @@ export default function Football() {
   return (
     <SportPage
       title="World Cup 2026"
-      subtitle="Fixtures, results, and group standings. Not betting advice."
+      subtitle="The completed tournament, archived: every result, final group standings, and the model's calls. Not betting advice."
       liveKey="football_live"
       gamesKey="football_fixtures"
       standingsKey="football_standings"
       copy={{
-        emptyLive: "Nothing is live right now. Live scores appear here on match days.",
+        gamesTitle: "Results",
+        standingsTitle: "Final group standings",
+        emptyLive: "The tournament is over — nothing is live. Every final score is below.",
         emptyStandings:
-          "Group tables appear here after the first matchday, then update after every result.",
+          "The final group tables load here once the standings feed connects.",
         emptyGames:
-          "The full match schedule — with final scores and the model's win probabilities — loads here once the fixture feed connects.",
+          "The full tournament archive — every final score with the model's pre-match win probabilities — loads here once the fixture feed connects.",
       }}
       mapGames={mapFootballGames}
       mapStandings={mapFootballStandings}
