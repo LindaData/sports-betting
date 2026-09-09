@@ -1,12 +1,12 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-09-08T22:53:38.707426Z",
+  "refreshed_at_utc": "2026-09-09T00:52:21.748616Z",
   "dates_requested": [
-    "20260907",
     "20260908",
-    "20260909"
+    "20260909",
+    "20260910"
   ],
-  "event_count": 1,
+  "event_count": 2,
   "events": [
     {
       "sport": "nfl",
@@ -30,6 +30,29 @@
         "NBC"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401872656/patriots-seahawks"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401872657",
+      "date_utc": "2026-09-11T00:35Z",
+      "name": "San Francisco 49ers at Los Angeles Rams",
+      "short_name": "SF VS LAR",
+      "status": "Scheduled",
+      "status_short": "9/10 - 8:35 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Los Angeles Rams",
+      "away_team": "San Francisco 49ers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Melbourne Cricket Ground",
+      "broadcasts": [
+        "Netflix"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872657/49ers-rams"
     }
   ],
   "errors": []

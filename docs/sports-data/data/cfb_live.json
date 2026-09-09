@@ -1,35 +1,35 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-08T22:53:38.707426Z",
+  "refreshed_at_utc": "2026-09-09T00:52:21.748616Z",
   "dates_requested": [
-    "20260907",
     "20260908",
-    "20260909"
+    "20260909",
+    "20260910"
   ],
   "event_count": 1,
   "events": [
     {
       "sport": "cfb",
-      "event_id": "401858212",
-      "date_utc": "2026-09-07T23:30Z",
-      "name": "SMU Mustangs at Florida State Seminoles",
-      "short_name": "SMU @ FSU",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
+      "event_id": "401858213",
+      "date_utc": "2026-09-11T00:00Z",
+      "name": "Florida A&M Rattlers at Miami Hurricanes",
+      "short_name": "FAMU @ MIA",
+      "status": "Scheduled",
+      "status_short": "9/10 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
       "clock": "0:00",
-      "home_team": "Florida State Seminoles",
-      "away_team": "SMU Mustangs",
-      "home_score": "24",
-      "away_score": "27",
-      "home_record": "1-1",
-      "away_record": "1-0",
-      "venue": "Doak Campbell Stadium",
+      "home_team": "Miami Hurricanes",
+      "away_team": "Florida A&M Rattlers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-0",
+      "away_record": "1-1",
+      "venue": "Hard Rock Stadium",
       "broadcasts": [
-        "ESPN"
+        "ACC Network"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858212/smu-florida-st"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858213/florida-am-miami"
     }
   ],
   "errors": []
