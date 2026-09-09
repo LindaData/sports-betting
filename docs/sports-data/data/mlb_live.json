@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-09T21:02:49.103704Z",
+  "refreshed_at_utc": "2026-09-09T23:23:17.875718Z",
   "dates_requested": [
     "20260908",
     "20260909",
@@ -392,24 +392,24 @@
       "date_utc": "2026-09-09T17:10Z",
       "name": "Minnesota Twins at Detroit Tigers",
       "short_name": "MIN @ DET",
-      "status": "In Progress",
-      "status_short": "Bot 7th",
-      "state": "in",
-      "period": 7,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
       "away_team": "Minnesota Twins",
-      "home_score": "5",
+      "home_score": "7",
       "away_score": "2",
-      "home_record": "66-79",
-      "away_record": "69-76",
+      "home_record": "67-79",
+      "away_record": "69-77",
       "venue": "Comerica Park",
       "broadcasts": [
         "MLB.TV",
         "Twins.TV",
         "Tigers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816872"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816872/twins-tigers"
     },
     {
       "sport": "mlb",
@@ -417,24 +417,24 @@
       "date_utc": "2026-09-09T19:05Z",
       "name": "Toronto Blue Jays at Athletics Athletics",
       "short_name": "TOR @ ATH",
-      "status": "In Progress",
-      "status_short": "Top 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Athletics",
       "away_team": "Toronto Blue Jays",
       "home_score": "2",
       "away_score": "0",
-      "home_record": "58-88",
-      "away_record": "73-73",
+      "home_record": "59-88",
+      "away_record": "73-74",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
         "NBC Sports CA",
         "Sportsnet"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816881"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816881/blue-jays-athletics"
     },
     {
       "sport": "mlb",
@@ -442,24 +442,24 @@
       "date_utc": "2026-09-09T19:45Z",
       "name": "St. Louis Cardinals at San Francisco Giants",
       "short_name": "STL @ SF",
-      "status": "In Progress",
-      "status_short": "Bot 4th",
-      "state": "in",
-      "period": 4,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "San Francisco Giants",
       "away_team": "St. Louis Cardinals",
-      "home_score": "1",
-      "away_score": "4",
-      "home_record": "61-85",
-      "away_record": "72-74",
+      "home_score": "7",
+      "away_score": "6",
+      "home_record": "62-85",
+      "away_record": "72-75",
       "venue": "Oracle Park",
       "broadcasts": [
         "MLB.TV",
         "NBC Sports BA",
         "Cardinals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816879"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816879/cardinals-giants"
     },
     {
       "sport": "mlb",
@@ -467,24 +467,24 @@
       "date_utc": "2026-09-09T20:10Z",
       "name": "Texas Rangers at Seattle Mariners",
       "short_name": "TEX @ SEA",
-      "status": "In Progress",
-      "status_short": "Top 4th",
-      "state": "in",
-      "period": 4,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Seattle Mariners",
       "away_team": "Texas Rangers",
-      "home_score": "1",
-      "away_score": "1",
-      "home_record": "67-78",
-      "away_record": "72-73",
+      "home_score": "3",
+      "away_score": "2",
+      "home_record": "68-78",
+      "away_record": "72-74",
       "venue": "T-Mobile Park",
       "broadcasts": [
         "MLB.TV",
         "Rangers Sports Network",
         "Mariners.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816880"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816880/rangers-mariners"
     },
     {
       "sport": "mlb",
@@ -492,24 +492,24 @@
       "date_utc": "2026-09-09T20:10Z",
       "name": "Washington Nationals at San Diego Padres",
       "short_name": "WSH @ SD",
-      "status": "In Progress",
-      "status_short": "Top 3rd",
-      "state": "in",
-      "period": 3,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "San Diego Padres",
       "away_team": "Washington Nationals",
-      "home_score": "0",
+      "home_score": "9",
       "away_score": "2",
-      "home_record": "77-68",
-      "away_record": "67-80",
+      "home_record": "78-68",
+      "away_record": "67-81",
       "venue": "Petco Park",
       "broadcasts": [
         "MLB.TV",
         "Padres.TV",
         "Nationals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816882"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816882/nationals-padres"
     },
     {
       "sport": "mlb",
@@ -517,15 +517,15 @@
       "date_utc": "2026-09-09T22:35Z",
       "name": "Cleveland Guardians at Baltimore Orioles",
       "short_name": "CLE @ BAL",
-      "status": "Scheduled",
-      "status_short": "9/9 - 6:35 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Baltimore Orioles",
       "away_team": "Cleveland Guardians",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "2",
       "home_record": "70-76",
       "away_record": "74-72",
       "venue": "Oriole Park at Camden Yards",
@@ -534,7 +534,7 @@
         "CLEGuardians.TV",
         "MASN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816869/guardians-orioles"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816869"
     },
     {
       "sport": "mlb",
@@ -542,10 +542,10 @@
       "date_utc": "2026-09-09T22:40Z",
       "name": "Houston Astros at Philadelphia Phillies",
       "short_name": "HOU @ PHI",
-      "status": "Scheduled",
-      "status_short": "9/9 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
       "away_team": "Houston Astros",
@@ -559,7 +559,7 @@
         "NBC Sports Phil",
         "Space City Home Network"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816871/astros-phillies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816871"
     },
     {
       "sport": "mlb",
@@ -567,15 +567,15 @@
       "date_utc": "2026-09-09T22:40Z",
       "name": "New York Mets at Miami Marlins",
       "short_name": "NYM @ MIA",
-      "status": "Scheduled",
-      "status_short": "9/9 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Miami Marlins",
       "away_team": "New York Mets",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "6",
       "home_record": "72-74",
       "away_record": "67-78",
       "venue": "loanDepot park",
@@ -584,7 +584,7 @@
         "Marlins.TV",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816873/mets-marlins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816873"
     },
     {
       "sport": "mlb",
@@ -592,15 +592,15 @@
       "date_utc": "2026-09-09T22:45Z",
       "name": "Los Angeles Angels at Boston Red Sox",
       "short_name": "LAA @ BOS",
-      "status": "Scheduled",
-      "status_short": "9/9 - 6:45 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Boston Red Sox",
       "away_team": "Los Angeles Angels",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "3",
       "home_record": "80-66",
       "away_record": "55-90",
       "venue": "Fenway Park",
@@ -609,7 +609,7 @@
         "NESN",
         "Angels.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816868/angels-red-sox"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816868"
     },
     {
       "sport": "mlb",
@@ -617,9 +617,9 @@
       "date_utc": "2026-09-09T23:05Z",
       "name": "Colorado Rockies at New York Yankees",
       "short_name": "COL @ NYY",
-      "status": "Scheduled",
-      "status_short": "9/9 - 7:05 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Yankees",
@@ -634,7 +634,7 @@
         "Rockies.TV",
         "YES"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816870/rockies-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816870"
     },
     {
       "sport": "mlb",
@@ -642,9 +642,9 @@
       "date_utc": "2026-09-09T23:15Z",
       "name": "Tampa Bay Rays at Atlanta Braves",
       "short_name": "TB @ ATL",
-      "status": "Scheduled",
-      "status_short": "9/9 - 7:15 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Atlanta Braves",
@@ -660,7 +660,7 @@
         "BravesVision",
         "Rays.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816874/rays-braves"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816874"
     },
     {
       "sport": "mlb",
@@ -668,9 +668,9 @@
       "date_utc": "2026-09-09T23:40Z",
       "name": "Arizona Diamondbacks at Kansas City Royals",
       "short_name": "ARI @ KC",
-      "status": "Scheduled",
-      "status_short": "9/9 - 7:40 PM EDT",
-      "state": "pre",
+      "status": "Rain Delay",
+      "status_short": "Rain Delay, Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Kansas City Royals",
@@ -685,7 +685,7 @@
         "Royals.TV",
         "DBACKS.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816875/diamondbacks-royals"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816875"
     },
     {
       "sport": "mlb",
@@ -829,8 +829,8 @@
       "away_team": "Texas Rangers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "67-78",
-      "away_record": "72-73",
+      "home_record": "68-78",
+      "away_record": "72-74",
       "venue": "T-Mobile Park",
       "broadcasts": [
         "MLB.TV",
