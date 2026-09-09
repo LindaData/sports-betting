@@ -1,5 +1,5 @@
 {
-  "dates_requested": "20260901-20260922",
+  "dates_requested": "20260902-20260923",
   "errors": [],
   "event_count": 252,
   "events": [
@@ -1751,24 +1751,6 @@
     },
     {
       "away_score": null,
-      "away_team": "Oregon Ducks",
-      "away_team_id": "2483",
-      "city": "Stillwater",
-      "date_utc": "2026-09-12T16:00Z",
-      "game_id": "401856782",
-      "home_score": null,
-      "home_team": "Oklahoma State Cowboys",
-      "home_team_id": "197",
-      "league": "NCAA - Football",
-      "league_id": "college-football",
-      "season": "2026",
-      "sport": "cfb",
-      "status": "Scheduled",
-      "status_code": "pre",
-      "venue": "Boone Pickens Stadium"
-    },
-    {
-      "away_score": null,
       "away_team": "Howard Bison",
       "away_team_id": "47",
       "city": "Bloomington",
@@ -1784,6 +1766,24 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Memorial Stadium (Bloomington, IN)"
+    },
+    {
+      "away_score": null,
+      "away_team": "Oregon Ducks",
+      "away_team_id": "2483",
+      "city": "Stillwater",
+      "date_utc": "2026-09-12T16:00Z",
+      "game_id": "401856782",
+      "home_score": null,
+      "home_team": "Oklahoma State Cowboys",
+      "home_team_id": "197",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Boone Pickens Stadium"
     },
     {
       "away_score": null,
@@ -3011,24 +3011,6 @@
     },
     {
       "away_score": null,
-      "away_team": "Prairie View A&M Panthers",
-      "away_team_id": "2504",
-      "city": "Waco",
-      "date_utc": "2026-09-13T00:00Z",
-      "game_id": "401856784",
-      "home_score": null,
-      "home_team": "Baylor Bears",
-      "home_team_id": "239",
-      "league": "NCAA - Football",
-      "league_id": "college-football",
-      "season": "2026",
-      "sport": "cfb",
-      "status": "Scheduled",
-      "status_code": "pre",
-      "venue": "McLane Stadium"
-    },
-    {
-      "away_score": null,
       "away_team": "Grambling Tigers",
       "away_team_id": "2755",
       "city": "Fort Worth",
@@ -3044,6 +3026,24 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Amon G. Carter Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "Prairie View A&M Panthers",
+      "away_team_id": "2504",
+      "city": "Waco",
+      "date_utc": "2026-09-13T00:08Z",
+      "game_id": "401856784",
+      "home_score": null,
+      "home_team": "Baylor Bears",
+      "home_team_id": "239",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "McLane Stadium"
     },
     {
       "away_score": null,
@@ -3623,24 +3623,6 @@
     },
     {
       "away_score": null,
-      "away_team": "UTEP Miners",
-      "away_team_id": "2638",
-      "city": "Ann Arbor",
-      "date_utc": "2026-09-19T19:30Z",
-      "game_id": "401858450",
-      "home_score": null,
-      "home_team": "Michigan Wolverines",
-      "home_team_id": "130",
-      "league": "NCAA - Football",
-      "league_id": "college-football",
-      "season": "2026",
-      "sport": "cfb",
-      "status": "Scheduled",
-      "status_code": "pre",
-      "venue": "Michigan Stadium"
-    },
-    {
-      "away_score": null,
       "away_team": "SMU Mustangs",
       "away_team_id": "2567",
       "city": "Louisville",
@@ -3710,6 +3692,24 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "California Memorial Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "UTEP Miners",
+      "away_team_id": "2638",
+      "city": "Ann Arbor",
+      "date_utc": "2026-09-19T19:30Z",
+      "game_id": "401858450",
+      "home_score": null,
+      "home_team": "Michigan Wolverines",
+      "home_team_id": "130",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Michigan Stadium"
     },
     {
       "away_score": null,
@@ -4271,24 +4271,6 @@
     },
     {
       "away_score": null,
-      "away_team": "Colorado Buffaloes",
-      "away_team_id": "38",
-      "city": "Evanston",
-      "date_utc": "2026-09-19T23:30Z",
-      "game_id": "401856796",
-      "home_score": null,
-      "home_team": "Northwestern Wildcats",
-      "home_team_id": "77",
-      "league": "NCAA - Football",
-      "league_id": "college-football",
-      "season": "2026",
-      "sport": "cfb",
-      "status": "Scheduled",
-      "status_code": "pre",
-      "venue": "Northwestern Medicine Field at Martin Stadium"
-    },
-    {
-      "away_score": null,
       "away_team": "West Virginia Mountaineers",
       "away_team_id": "277",
       "city": "Charlotte",
@@ -4304,6 +4286,24 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Bank of America Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "Colorado Buffaloes",
+      "away_team_id": "38",
+      "city": "Evanston",
+      "date_utc": "2026-09-19T23:30Z",
+      "game_id": "401856796",
+      "home_score": null,
+      "home_team": "Northwestern Wildcats",
+      "home_team_id": "77",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Northwestern Medicine Field at Martin Stadium"
     },
     {
       "away_score": null,
@@ -4541,6 +4541,6 @@
     }
   ],
   "league": "College Football",
-  "refreshed_at_utc": "2026-09-08T13:48:26.484097Z",
+  "refreshed_at_utc": "2026-09-09T13:51:38.543854Z",
   "sport": "cfb"
 }
