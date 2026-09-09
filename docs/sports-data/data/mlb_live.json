@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-09T14:41:59.498926Z",
+  "refreshed_at_utc": "2026-09-09T18:10:37.193741Z",
   "dates_requested": [
     "20260908",
     "20260909",
@@ -392,9 +392,9 @@
       "date_utc": "2026-09-09T17:10Z",
       "name": "Minnesota Twins at Detroit Tigers",
       "short_name": "MIN @ DET",
-      "status": "Scheduled",
-      "status_short": "9/9 - 1:10 PM EDT",
-      "state": "pre",
+      "status": "Delayed",
+      "status_short": "Delayed, Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
@@ -409,7 +409,7 @@
         "Twins.TV",
         "Tigers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816872/twins-tigers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816872"
     },
     {
       "sport": "mlb",
