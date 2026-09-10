@@ -1,5 +1,5 @@
-status=success
-run_id=34359404191
-commit=1e1a4f2e238ebddf5ab95415b8cc39042fa626c7
-updated_at_utc=2026-09-09T13:48:08Z
-exit_code=0
+status=failure
+run_id=34484391400
+commit=bf22beb22f8e8cb2a4139455c44b3803ae6db60d
+updated_at_utc=2026-09-10T13:43:12Z
+exit_code=1

@@ -1,34 +1,10 @@
-{
-  "refreshed_at_utc": "2026-09-09T13:48:05.382157Z",
-  "sports": {
-    "basketball": {
-      "league_id": 12,
-      "season": "2024-2025",
-      "available_games": 1387,
-      "published_games": 25,
-      "standings_rows": 60
-    },
-    "baseball": {
-      "league_id": 1,
-      "season": "2024",
-      "available_games": 2946,
-      "published_games": 25,
-      "standings_rows": 90
-    }
-  },
-  "quota_headers": {
-    "basketball": {
-      "x-ratelimit-limit": "10",
-      "x-ratelimit-remaining": "7",
-      "x-ratelimit-requests-limit": "100",
-      "x-ratelimit-requests-remaining": "97"
-    },
-    "baseball": {
-      "x-ratelimit-limit": "10",
-      "x-ratelimit-remaining": "7",
-      "x-ratelimit-requests-limit": "100",
-      "x-ratelimit-requests-remaining": "97"
-    }
-  },
-  "raw_artifact_directory": "data/raw/api_sports_publish/20260909T134805Z"
-}
+Traceback (most recent call last):
+  File "/home/runner/work/sports-betting/sports-betting/scripts/publish_sports_data_free.py", line 146, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "/home/runner/work/sports-betting/sports-betting/scripts/publish_sports_data_free.py", line 42, in main
+    leagues_payload, headers = base.request_json(cfg["host"], "/leagues", api_key)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/sports-betting/sports-betting/scripts/publish_sports_data.py", line 64, in request_json
+    raise RuntimeError(f"API returned errors for {path}: {errors}")
+RuntimeError: API returned errors for /leagues: {'access': 'Your account is suspended, check on https://dashboard.api-football.com.'}
