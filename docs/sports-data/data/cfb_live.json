@@ -1,12 +1,12 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-09T23:23:17.875718Z",
+  "refreshed_at_utc": "2026-09-10T01:13:36.124502Z",
   "dates_requested": [
-    "20260908",
     "20260909",
-    "20260910"
+    "20260910",
+    "20260911"
   ],
-  "event_count": 1,
+  "event_count": 6,
   "events": [
     {
       "sport": "cfb",
@@ -30,6 +30,121 @@
         "ACC Network"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401858213/florida-am-miami"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858215",
+      "date_utc": "2026-09-11T23:00Z",
+      "name": "Villanova Wildcats at Louisville Cardinals",
+      "short_name": "VILL @ LOU",
+      "status": "Scheduled",
+      "status_short": "9/11 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Louisville Cardinals",
+      "away_team": "Villanova Wildcats",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-1",
+      "away_record": "1-1",
+      "venue": "L&N Federal Credit Union Stadium",
+      "broadcasts": [
+        "ACC Network"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858215/villanova-louisville"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858220",
+      "date_utc": "2026-09-11T23:00Z",
+      "name": "Norfolk State Spartans at Virginia Cavaliers",
+      "short_name": "NORF @ UVA",
+      "status": "Scheduled",
+      "status_short": "9/11 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Virginia Cavaliers",
+      "away_team": "Norfolk State Spartans",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-0",
+      "away_record": "1-1",
+      "venue": "Scott Stadium",
+      "broadcasts": [
+        "ACCNX"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858220/norfolk-st-virginia"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858222",
+      "date_utc": "2026-09-11T23:00Z",
+      "name": "Richmond Spiders at NC State Wolfpack",
+      "short_name": "RICH @ NCSU",
+      "status": "Scheduled",
+      "status_short": "9/11 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "NC State Wolfpack",
+      "away_team": "Richmond Spiders",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-1",
+      "away_record": "2-0",
+      "venue": "Carter-Finley Stadium",
+      "broadcasts": [
+        "ESPNU"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858222/richmond-nc-state"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858214",
+      "date_utc": "2026-09-11T23:30Z",
+      "name": "Rutgers Scarlet Knights at Boston College Eagles",
+      "short_name": "RUTG @ BC",
+      "status": "Scheduled",
+      "status_short": "9/11 - 7:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Boston College Eagles",
+      "away_team": "Rutgers Scarlet Knights",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-1",
+      "away_record": "0-1",
+      "venue": "Alumni Stadium (Chestnut Hill, MA)",
+      "broadcasts": [
+        "ESPN2"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858214/rutgers-boston-college"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401856678",
+      "date_utc": "2026-09-12T00:00Z",
+      "name": "Missouri Tigers at Kansas Jayhawks",
+      "short_name": "MIZ @ KU",
+      "status": "Scheduled",
+      "status_short": "9/11 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Kansas Jayhawks",
+      "away_team": "Missouri Tigers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-0",
+      "away_record": "1-0",
+      "venue": "David Booth Kansas Memorial Stadium",
+      "broadcasts": [
+        "FOX"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856678/missouri-kansas"
     }
   ],
   "errors": []
