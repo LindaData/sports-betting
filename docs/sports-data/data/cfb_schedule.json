@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20260902-20260923",
+  "dates_requested": "20260903-20260924",
   "errors": [],
-  "event_count": 252,
+  "event_count": 253,
   "events": [
     {
       "away_score": 37,
@@ -4538,9 +4538,27 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "CEFCU Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "Liberty Flames",
+      "away_team_id": "2335",
+      "city": "Conway",
+      "date_utc": "2026-09-24T23:30Z",
+      "game_id": "401869941",
+      "home_score": null,
+      "home_team": "Coastal Carolina Chanticleers",
+      "home_team_id": "324",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Brooks Stadium (SC)"
     }
   ],
   "league": "College Football",
-  "refreshed_at_utc": "2026-09-09T13:51:38.543854Z",
+  "refreshed_at_utc": "2026-09-10T13:46:00.908201Z",
   "sport": "cfb"
 }

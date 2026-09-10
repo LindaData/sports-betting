@@ -1,24 +1,24 @@
 {
-  "dates_requested": "20260902-20260923",
+  "dates_requested": "20260903-20260924",
   "errors": [],
-  "event_count": 32,
+  "event_count": 33,
   "events": [
     {
-      "away_score": null,
+      "away_score": 10,
       "away_team": "New England Patriots",
       "away_team_id": "17",
       "city": "Seattle",
       "date_utc": "2026-09-10T00:20Z",
       "game_id": "401872656",
-      "home_score": null,
+      "home_score": 13,
       "home_team": "Seattle Seahawks",
       "home_team_id": "26",
       "league": "National Football League",
       "league_id": "nfl",
       "season": "2026",
       "sport": "nfl",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "Lumen Field"
     },
     {
@@ -578,9 +578,27 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "SoFi Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "Atlanta Falcons",
+      "away_team_id": "1",
+      "city": "Green Bay",
+      "date_utc": "2026-09-25T00:15Z",
+      "game_id": "401872948",
+      "home_score": null,
+      "home_team": "Green Bay Packers",
+      "home_team_id": "9",
+      "league": "National Football League",
+      "league_id": "nfl",
+      "season": "2026",
+      "sport": "nfl",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Lambeau Field"
     }
   ],
   "league": "NFL",
-  "refreshed_at_utc": "2026-09-09T13:51:38.543854Z",
+  "refreshed_at_utc": "2026-09-10T13:46:00.908201Z",
   "sport": "nfl"
 }
