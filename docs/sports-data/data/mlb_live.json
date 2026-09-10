@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-10T21:18:29.154455Z",
+  "refreshed_at_utc": "2026-09-10T23:16:34.350254Z",
   "dates_requested": [
     "20260909",
     "20260910",
@@ -442,24 +442,24 @@
       "date_utc": "2026-09-10T20:10Z",
       "name": "Texas Rangers at Seattle Mariners",
       "short_name": "TEX @ SEA",
-      "status": "In Progress",
-      "status_short": "Top 5th",
-      "state": "in",
-      "period": 5,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Seattle Mariners",
       "away_team": "Texas Rangers",
-      "home_score": "0",
+      "home_score": "4",
       "away_score": "3",
-      "home_record": "68-78",
-      "away_record": "72-74",
+      "home_record": "69-78",
+      "away_record": "72-75",
       "venue": "T-Mobile Park",
       "broadcasts": [
         "MLB.TV",
         "Rangers Sports Network",
         "Mariners.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816887"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816887/rangers-mariners"
     },
     {
       "sport": "mlb",
@@ -467,9 +467,9 @@
       "date_utc": "2026-09-10T23:05Z",
       "name": "Colorado Rockies at New York Yankees",
       "short_name": "COL @ NYY",
-      "status": "Scheduled",
-      "status_short": "9/10 - 7:05 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Mid 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Yankees",
@@ -484,7 +484,7 @@
         "Rockies.TV",
         "YES"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816883/rockies-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816883"
     },
     {
       "sport": "mlb",
@@ -828,7 +828,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "59-88",
-      "away_record": "68-78",
+      "away_record": "69-78",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
@@ -853,7 +853,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "78-69",
-      "away_record": "72-74",
+      "away_record": "72-75",
       "venue": "Chase Field",
       "broadcasts": [
         "MLB.TV",
