@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "refreshed_at_utc": "2026-09-10T13:46:00.908201Z",
+  "refreshed_at_utc": "2026-09-11T13:45:54.631230Z",
   "sport": "mlb",
   "standings": [
     {
@@ -28,11 +28,11 @@
       "wins": 56
     },
     {
-      "form": "W2",
+      "form": "L1",
       "group": "American League",
-      "losses": 58,
-      "percentage": 0.6,
-      "played": 145,
+      "losses": 59,
+      "percentage": 0.5958904,
+      "played": 146,
       "position": 3,
       "sport": "mlb",
       "team": "Tampa Bay Rays",
@@ -40,16 +40,16 @@
       "wins": 87
     },
     {
-      "form": "W2",
+      "form": "W3",
       "group": "American League",
       "losses": 62,
-      "percentage": 0.5724138,
-      "played": 145,
+      "percentage": 0.5753425,
+      "played": 146,
       "position": 4,
       "sport": "mlb",
       "team": "New York Yankees",
       "team_id": "10",
-      "wins": 83
+      "wins": 84
     },
     {
       "form": "L2",
@@ -64,11 +64,11 @@
       "wins": 80
     },
     {
-      "form": "L2",
+      "form": "L3",
       "group": "American League",
-      "losses": 70,
-      "percentage": 0.51724136,
-      "played": 145,
+      "losses": 71,
+      "percentage": 0.51369864,
+      "played": 146,
       "position": 6,
       "sport": "mlb",
       "team": "Chicago White Sox",
@@ -76,16 +76,16 @@
       "wins": 75
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "American League",
       "losses": 72,
-      "percentage": 0.5068493,
-      "played": 146,
+      "percentage": 0.5102041,
+      "played": 147,
       "position": 7,
       "sport": "mlb",
       "team": "Houston Astros",
       "team_id": "18",
-      "wins": 74
+      "wins": 75
     },
     {
       "form": "L1",
@@ -112,11 +112,11 @@
       "wins": 73
     },
     {
-      "form": "L1",
+      "form": "L2",
       "group": "American League",
-      "losses": 74,
-      "percentage": 0.49315068,
-      "played": 146,
+      "losses": 75,
+      "percentage": 0.48979592,
+      "played": 147,
       "position": 10,
       "sport": "mlb",
       "team": "Texas Rangers",
@@ -148,16 +148,16 @@
       "wins": 69
     },
     {
-      "form": "W1",
+      "form": "W2",
       "group": "American League",
       "losses": 78,
-      "percentage": 0.46575344,
-      "played": 146,
+      "percentage": 0.46938777,
+      "played": 147,
       "position": 13,
       "sport": "mlb",
       "team": "Seattle Mariners",
       "team_id": "12",
-      "wins": 68
+      "wins": 69
     },
     {
       "form": "W1",
@@ -196,11 +196,11 @@
       "wins": 62
     },
     {
-      "form": "L3",
+      "form": "L4",
       "group": "National League",
-      "losses": 90,
-      "percentage": 0.37931034,
-      "played": 145,
+      "losses": 91,
+      "percentage": 0.37671232,
+      "played": 146,
       "position": 2,
       "sport": "mlb",
       "team": "Colorado Rockies",
@@ -232,23 +232,23 @@
       "wins": 89
     },
     {
-      "form": "L3",
+      "form": "W1",
       "group": "National League",
       "losses": 61,
-      "percentage": 0.58219177,
-      "played": 146,
+      "percentage": 0.585034,
+      "played": 147,
       "position": 5,
       "sport": "mlb",
       "team": "Atlanta Braves",
       "team_id": "15",
-      "wins": 85
+      "wins": 86
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "National League",
-      "losses": 64,
-      "percentage": 0.56164384,
-      "played": 146,
+      "losses": 65,
+      "percentage": 0.5578231,
+      "played": 147,
       "position": 6,
       "sport": "mlb",
       "team": "Philadelphia Phillies",
@@ -292,16 +292,16 @@
       "wins": 78
     },
     {
-      "form": "W3",
+      "form": "W4",
       "group": "National League",
       "losses": 73,
-      "percentage": 0.5,
-      "played": 146,
+      "percentage": 0.50340134,
+      "played": 147,
       "position": 10,
       "sport": "mlb",
       "team": "Pittsburgh Pirates",
       "team_id": "23",
-      "wins": 73
+      "wins": 74
     },
     {
       "form": "L3",

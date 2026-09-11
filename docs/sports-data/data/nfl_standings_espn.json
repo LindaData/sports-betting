@@ -1,6 +1,6 @@
 {
   "league": "NFL",
-  "refreshed_at_utc": "2026-09-10T13:46:00.908201Z",
+  "refreshed_at_utc": "2026-09-11T13:45:54.631230Z",
   "sport": "nfl",
   "standings": [
     {
@@ -203,6 +203,18 @@
       "played": 1,
       "position": 1,
       "sport": "nfl",
+      "team": "San Francisco 49ers",
+      "team_id": "25",
+      "wins": 1
+    },
+    {
+      "form": "W1",
+      "group": "National Football Conference",
+      "losses": 0,
+      "percentage": 1.0,
+      "played": 1,
+      "position": 2,
+      "sport": "nfl",
       "team": "Seattle Seahawks",
       "team_id": "26",
       "wins": 1
@@ -213,7 +225,7 @@
       "losses": 0,
       "percentage": 0.0,
       "played": 0,
-      "position": 2,
+      "position": 3,
       "sport": "nfl",
       "team": "Atlanta Falcons",
       "team_id": "1",
@@ -225,7 +237,7 @@
       "losses": 0,
       "percentage": 0.0,
       "played": 0,
-      "position": 3,
+      "position": 4,
       "sport": "nfl",
       "team": "Chicago Bears",
       "team_id": "3",
@@ -237,7 +249,7 @@
       "losses": 0,
       "percentage": 0.0,
       "played": 0,
-      "position": 4,
+      "position": 5,
       "sport": "nfl",
       "team": "Dallas Cowboys",
       "team_id": "6",
@@ -249,7 +261,7 @@
       "losses": 0,
       "percentage": 0.0,
       "played": 0,
-      "position": 5,
+      "position": 6,
       "sport": "nfl",
       "team": "Detroit Lions",
       "team_id": "8",
@@ -261,22 +273,10 @@
       "losses": 0,
       "percentage": 0.0,
       "played": 0,
-      "position": 6,
+      "position": 7,
       "sport": "nfl",
       "team": "Green Bay Packers",
       "team_id": "9",
-      "wins": 0
-    },
-    {
-      "form": "-",
-      "group": "National Football Conference",
-      "losses": 0,
-      "percentage": 0.0,
-      "played": 0,
-      "position": 7,
-      "sport": "nfl",
-      "team": "Los Angeles Rams",
-      "team_id": "14",
       "wins": 0
     },
     {
@@ -347,18 +347,6 @@
       "played": 0,
       "position": 13,
       "sport": "nfl",
-      "team": "San Francisco 49ers",
-      "team_id": "25",
-      "wins": 0
-    },
-    {
-      "form": "-",
-      "group": "National Football Conference",
-      "losses": 0,
-      "percentage": 0.0,
-      "played": 0,
-      "position": 14,
-      "sport": "nfl",
       "team": "Tampa Bay Buccaneers",
       "team_id": "27",
       "wins": 0
@@ -369,7 +357,7 @@
       "losses": 0,
       "percentage": 0.0,
       "played": 0,
-      "position": 15,
+      "position": 14,
       "sport": "nfl",
       "team": "Washington Commanders",
       "team_id": "28",
@@ -381,10 +369,22 @@
       "losses": 0,
       "percentage": 0.0,
       "played": 0,
-      "position": 16,
+      "position": 15,
       "sport": "nfl",
       "team": "Carolina Panthers",
       "team_id": "29",
+      "wins": 0
+    },
+    {
+      "form": "L1",
+      "group": "National Football Conference",
+      "losses": 1,
+      "percentage": 0.0,
+      "played": 1,
+      "position": 16,
+      "sport": "nfl",
+      "team": "Los Angeles Rams",
+      "team_id": "14",
       "wins": 0
     }
   ],

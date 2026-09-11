@@ -1,5 +1,5 @@
 {
-  "dates_requested": "20260903-20260924",
+  "dates_requested": "20260904-20260925",
   "errors": [],
   "event_count": 33,
   "events": [
@@ -22,21 +22,21 @@
       "venue": "Lumen Field"
     },
     {
-      "away_score": null,
+      "away_score": 27,
       "away_team": "San Francisco 49ers",
       "away_team_id": "25",
       "city": "Melbourne",
       "date_utc": "2026-09-11T00:35Z",
       "game_id": "401872657",
-      "home_score": null,
+      "home_score": 7,
       "home_team": "Los Angeles Rams",
       "home_team_id": "14",
       "league": "National Football League",
       "league_id": "nfl",
       "season": "2026",
       "sport": "nfl",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "Melbourne Cricket Ground"
     },
     {
@@ -599,6 +599,6 @@
     }
   ],
   "league": "NFL",
-  "refreshed_at_utc": "2026-09-10T13:46:00.908201Z",
+  "refreshed_at_utc": "2026-09-11T13:45:54.631230Z",
   "sport": "nfl"
 }

@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-09-10T13:46:00.908201Z",
+  "refreshed_at_utc": "2026-09-11T13:45:54.631230Z",
   "sport": "cfb",
   "standings": [
     {
@@ -172,7 +172,7 @@
       "wins": 0
     },
     {
-      "form": "W1",
+      "form": "W2",
       "group": "Atlantic Coast Conference",
       "losses": null,
       "percentage": 1.0,
@@ -181,7 +181,7 @@
       "sport": "cfb",
       "team": "Miami Hurricanes",
       "team_id": "2390",
-      "wins": 1
+      "wins": 2
     },
     {
       "form": "W1",
