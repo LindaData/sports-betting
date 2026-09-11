@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-11T21:26:01.278430Z",
+  "refreshed_at_utc": "2026-09-11T23:24:54.425645Z",
   "dates_requested": [
     "20260910",
     "20260911",
@@ -37,22 +37,22 @@
       "date_utc": "2026-09-11T23:00Z",
       "name": "Villanova Wildcats at Louisville Cardinals",
       "short_name": "VILL @ LOU",
-      "status": "Scheduled",
-      "status_short": "9/11 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "6:24 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "6:24",
       "home_team": "Louisville Cardinals",
       "away_team": "Villanova Wildcats",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "3",
+      "away_score": "3",
       "home_record": "0-1",
       "away_record": "1-1",
       "venue": "L&N Federal Credit Union Stadium",
       "broadcasts": [
         "ACC Network"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858215/villanova-louisville"
+      "link": "https://www.espn.com/college-football/game?gameId=401858215"
     },
     {
       "sport": "cfb",
@@ -60,14 +60,14 @@
       "date_utc": "2026-09-11T23:00Z",
       "name": "Norfolk State Spartans at Virginia Cavaliers",
       "short_name": "NORF @ UVA",
-      "status": "Scheduled",
-      "status_short": "9/11 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "5:51 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "5:51",
       "home_team": "Virginia Cavaliers",
       "away_team": "Norfolk State Spartans",
-      "home_score": "0",
+      "home_score": "7",
       "away_score": "0",
       "home_record": "1-0",
       "away_record": "1-1",
@@ -75,7 +75,7 @@
       "broadcasts": [
         "ACCNX"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858220/norfolk-st-virginia"
+      "link": "https://www.espn.com/college-football/game?gameId=401858220"
     },
     {
       "sport": "cfb",
@@ -83,14 +83,14 @@
       "date_utc": "2026-09-11T23:00Z",
       "name": "Richmond Spiders at NC State Wolfpack",
       "short_name": "RICH @ NCSU",
-      "status": "Scheduled",
-      "status_short": "9/11 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "10:35 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "10:35",
       "home_team": "NC State Wolfpack",
       "away_team": "Richmond Spiders",
-      "home_score": "0",
+      "home_score": "14",
       "away_score": "0",
       "home_record": "0-1",
       "away_record": "2-0",
@@ -98,7 +98,7 @@
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858222/richmond-nc-state"
+      "link": "https://www.espn.com/college-football/game?gameId=401858222"
     },
     {
       "sport": "cfb",
