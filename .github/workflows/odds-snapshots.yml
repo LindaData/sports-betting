@@ -21,8 +21,8 @@ jobs:
     timeout-minutes: 10
     env:
       THE_ODDS_API_KEY: ${{ secrets.THE_ODDS_API_KEY }}
-      ODDS_SPORT_KEYS: ${{ vars.ODDS_SPORT_KEYS || 'soccer_fifa_world_cup' }}
-      ODDS_OUTRIGHT_KEYS: ${{ vars.ODDS_OUTRIGHT_KEYS || 'soccer_fifa_world_cup_winner' }}
+      ODDS_SPORT_KEYS: ${{ vars.ODDS_SPORT_KEYS || 'americanfootball_nfl,baseball_mlb' }}
+      ODDS_OUTRIGHT_KEYS: ${{ vars.ODDS_OUTRIGHT_KEYS || '' }}
       ODDS_REGIONS: ${{ vars.ODDS_REGIONS || 'us,eu' }}
       ODDS_MARKETS: ${{ vars.ODDS_MARKETS || 'h2h,spreads,totals' }}
 
@@ -39,13 +39,17 @@ jobs:
       - name: Commit odds data
         shell: bash
         run: |
+          if [ ! -d docs/sports-data/data/odds ]; then
+            echo "No odds directory — the snapshot script no-opped (THE_ODDS_API_KEY unset or nothing due)."
+            exit 0
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
           git add docs/sports-data/data/odds/
           if git diff --cached --quiet; then
             echo "No odds changes."
             exit 0
           fi
           git commit -m "data: odds snapshot"
+          git pull --rebase origin main
           git push
