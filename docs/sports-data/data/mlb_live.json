@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-11T15:32:07.653007Z",
+  "refreshed_at_utc": "2026-09-11T18:52:12.091725Z",
   "dates_requested": [
     "20260910",
     "20260911",
@@ -140,15 +140,15 @@
       "date_utc": "2026-09-11T18:20Z",
       "name": "Pittsburgh Pirates at Chicago Cubs",
       "short_name": "PIT @ CHC",
-      "status": "Scheduled",
-      "status_short": "9/11 - 2:20 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Chicago Cubs",
       "away_team": "Pittsburgh Pirates",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "81-66",
       "away_record": "74-73",
       "venue": "Wrigley Field",
@@ -156,7 +156,7 @@
         "MLB.TV",
         "Marquee Sports Net"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816899/pirates-cubs"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816899"
     },
     {
       "sport": "mlb",

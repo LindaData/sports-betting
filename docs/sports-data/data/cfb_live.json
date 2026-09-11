@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-11T15:32:07.653007Z",
+  "refreshed_at_utc": "2026-09-11T18:52:12.091725Z",
   "dates_requested": [
     "20260910",
     "20260911",
@@ -445,6 +445,29 @@
         "ESPN+"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401868187/gardner-webb-liberty"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401867929",
+      "date_utc": "2026-09-12T16:00Z",
+      "name": "Wagner Seahawks at James Madison Dukes",
+      "short_name": "WAG @ JMU",
+      "status": "Scheduled",
+      "status_short": "9/12 - 12:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "James Madison Dukes",
+      "away_team": "Wagner Seahawks",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-0",
+      "away_record": "1-1",
+      "venue": "Bridgeforth Stadium",
+      "broadcasts": [
+        "ESPN+"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401867929/wagner-james-madison"
     },
     {
       "sport": "cfb",
@@ -929,29 +952,6 @@
         "ESPN+"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401866420/sacred-heart-umass"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401867929",
-      "date_utc": "2026-09-12T19:30Z",
-      "name": "Wagner Seahawks at James Madison Dukes",
-      "short_name": "WAG @ JMU",
-      "status": "Scheduled",
-      "status_short": "9/12 - 3:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
-      "home_team": "James Madison Dukes",
-      "away_team": "Wagner Seahawks",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "1-0",
-      "away_record": "1-1",
-      "venue": "Bridgeforth Stadium",
-      "broadcasts": [
-        "ESPN+"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401867929/wagner-james-madison"
     },
     {
       "sport": "cfb",
