@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-11T01:15:21.650807Z",
+  "refreshed_at_utc": "2026-09-11T06:14:20.508856Z",
   "dates_requested": [
     "20260910",
     "20260911",
@@ -14,22 +14,22 @@
       "date_utc": "2026-09-11T00:00Z",
       "name": "Florida A&M Rattlers at Miami Hurricanes",
       "short_name": "FAMU @ MIA",
-      "status": "In Progress",
-      "status_short": "6:15 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "6:15",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Miami Hurricanes",
       "away_team": "Florida A&M Rattlers",
-      "home_score": "42",
-      "away_score": "0",
-      "home_record": "1-0",
-      "away_record": "1-1",
+      "home_score": "77",
+      "away_score": "7",
+      "home_record": "2-0",
+      "away_record": "1-2",
       "venue": "Hard Rock Stadium",
       "broadcasts": [
         "ACC Network"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401858213"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858213/florida-am-miami"
     },
     {
       "sport": "cfb",

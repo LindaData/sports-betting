@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-09-11T01:15:21.650807Z",
+  "refreshed_at_utc": "2026-09-11T06:14:20.508856Z",
   "dates_requested": [
     "20260910",
     "20260911",
@@ -14,22 +14,22 @@
       "date_utc": "2026-09-11T00:35Z",
       "name": "San Francisco 49ers at Los Angeles Rams",
       "short_name": "SF VS LAR",
-      "status": "In Progress",
-      "status_short": "13:36 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "13:36",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Los Angeles Rams",
       "away_team": "San Francisco 49ers",
       "home_score": "7",
-      "away_score": "3",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "away_score": "27",
+      "home_record": "0-1",
+      "away_record": "1-0",
       "venue": "Melbourne Cricket Ground",
       "broadcasts": [
         "Netflix"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401872657"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872657/49ers-rams"
     }
   ],
   "errors": []
