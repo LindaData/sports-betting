@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-12T14:14:59.735302Z",
+  "refreshed_at_utc": "2026-09-12T17:17:59.978308Z",
   "dates_requested": [
     "20260911",
     "20260912",
@@ -391,9 +391,9 @@
       "date_utc": "2026-09-12T17:10Z",
       "name": "Colorado Rockies at Detroit Tigers",
       "short_name": "COL @ DET",
-      "status": "Scheduled",
-      "status_short": "9/12 - 1:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
@@ -408,7 +408,7 @@
         "Rockies.TV",
         "Tigers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816905/rockies-tigers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816905"
     },
     {
       "sport": "mlb",
