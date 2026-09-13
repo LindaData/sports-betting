@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-13T02:07:25.342795Z",
+  "refreshed_at_utc": "2026-09-13T07:32:39.026425Z",
   "dates_requested": [
     "20260912",
     "20260913",
@@ -265,17 +265,17 @@
       "date_utc": "2026-09-12T23:10Z",
       "name": "Cincinnati Reds at Milwaukee Brewers",
       "short_name": "CIN @ MIL",
-      "status": "In Progress",
-      "status_short": "Top 9th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 9,
       "clock": "0:00",
       "home_team": "Milwaukee Brewers",
       "away_team": "Cincinnati Reds",
       "home_score": "13",
       "away_score": "9",
-      "home_record": "92-56",
-      "away_record": "69-78",
+      "home_record": "93-56",
+      "away_record": "69-79",
       "venue": "American Family Field",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -283,7 +283,7 @@
         "Reds.TV",
         "Brewers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816912"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816912/reds-brewers"
     },
     {
       "sport": "mlb",
@@ -316,24 +316,24 @@
       "date_utc": "2026-09-12T23:15Z",
       "name": "Chicago White Sox at St. Louis Cardinals",
       "short_name": "CHW @ STL",
-      "status": "In Progress",
-      "status_short": "Top 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "St. Louis Cardinals",
       "away_team": "Chicago White Sox",
-      "home_score": "4",
-      "away_score": "4",
-      "home_record": "73-75",
-      "away_record": "75-72",
+      "home_score": "5",
+      "away_score": "6",
+      "home_record": "73-76",
+      "away_record": "76-72",
       "venue": "Busch Stadium",
       "broadcasts": [
         "MLB.TV",
         "Cardinals.TV",
         "CHSN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816911"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816911/white-sox-cardinals"
     },
     {
       "sport": "mlb",
@@ -341,24 +341,24 @@
       "date_utc": "2026-09-13T00:10Z",
       "name": "Texas Rangers at Arizona Diamondbacks",
       "short_name": "TEX @ ARI",
-      "status": "In Progress",
-      "status_short": "Top 7th",
-      "state": "in",
-      "period": 7,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Texas Rangers",
       "home_score": "2",
       "away_score": "6",
-      "home_record": "79-69",
-      "away_record": "72-76",
+      "home_record": "79-70",
+      "away_record": "73-76",
       "venue": "Chase Field",
       "broadcasts": [
         "MLB.TV",
         "DBACKS.TV",
         "Rangers Sports Network"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816917"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816917/rangers-diamondbacks"
     },
     {
       "sport": "mlb",
@@ -366,24 +366,24 @@
       "date_utc": "2026-09-13T01:40Z",
       "name": "Seattle Mariners at Athletics Athletics",
       "short_name": "SEA @ ATH",
-      "status": "In Progress",
-      "status_short": "Top 2nd",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Athletics",
       "away_team": "Seattle Mariners",
-      "home_score": "0",
-      "away_score": "2",
-      "home_record": "60-88",
-      "away_record": "69-79",
+      "home_score": "1",
+      "away_score": "19",
+      "home_record": "60-89",
+      "away_record": "70-79",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
         "NBC Sports CA",
         "Mariners.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816916"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816916/mariners-athletics"
     },
     {
       "sport": "mlb",
@@ -576,8 +576,8 @@
       "away_team": "Cincinnati Reds",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "92-56",
-      "away_record": "69-78",
+      "home_record": "93-56",
+      "away_record": "69-79",
       "venue": "American Family Field",
       "broadcasts": [
         "MLB.TV",
@@ -626,8 +626,8 @@
       "away_team": "Chicago White Sox",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "73-75",
-      "away_record": "75-72",
+      "home_record": "73-76",
+      "away_record": "76-72",
       "venue": "Busch Stadium",
       "broadcasts": [
         "MLB.TV",
@@ -700,8 +700,8 @@
       "away_team": "Seattle Mariners",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "60-88",
-      "away_record": "69-79",
+      "home_record": "60-89",
+      "away_record": "70-79",
       "venue": "Sutter Health Park",
       "broadcasts": [
         "MLB.TV",
@@ -725,8 +725,8 @@
       "away_team": "Texas Rangers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "79-69",
-      "away_record": "72-76",
+      "home_record": "79-70",
+      "away_record": "73-76",
       "venue": "Chase Field",
       "broadcasts": [
         "MLB.TV",
@@ -774,7 +774,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "75-74",
-      "away_record": "75-72",
+      "away_record": "76-72",
       "venue": "Progressive Field",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -799,7 +799,7 @@
       "away_team": "Los Angeles Dodgers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "69-78",
+      "home_record": "69-79",
       "away_record": "90-58",
       "venue": "Great American Ball Park",
       "broadcasts": [
@@ -928,7 +928,7 @@
       "away_team": "San Francisco Giants",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "73-75",
+      "home_record": "73-76",
       "away_record": "62-87",
       "venue": "Busch Stadium",
       "broadcasts": [
@@ -979,7 +979,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "56-92",
-      "away_record": "69-79",
+      "away_record": "70-79",
       "venue": "Angel Stadium",
       "broadcasts": [
         "MLB.TV",
@@ -1003,7 +1003,7 @@
       "away_team": "Miami Marlins",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "79-69",
+      "home_record": "79-70",
       "away_record": "73-76",
       "venue": "Chase Field",
       "broadcasts": [
