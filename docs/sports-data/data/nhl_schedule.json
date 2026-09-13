@@ -1,5 +1,5 @@
 {
-  "dates_requested": "20260905-20260926",
+  "dates_requested": "20260906-20260927",
   "errors": [],
   "event_count": 65,
   "events": [
@@ -1175,6 +1175,6 @@
     }
   ],
   "league": "NHL",
-  "refreshed_at_utc": "2026-09-12T13:03:57.396704Z",
+  "refreshed_at_utc": "2026-09-13T13:52:50.539748Z",
   "sport": "nhl"
 }
