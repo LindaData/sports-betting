@@ -1,12 +1,12 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-09-12T23:34:21.532806Z",
+  "refreshed_at_utc": "2026-09-13T02:07:25.342795Z",
   "dates_requested": [
-    "20260911",
     "20260912",
-    "20260913"
+    "20260913",
+    "20260914"
   ],
-  "event_count": 13,
+  "event_count": 14,
   "events": [
     {
       "sport": "nfl",
@@ -306,6 +306,30 @@
         "NBC"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401872930/cowboys-giants"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401872931",
+      "date_utc": "2026-09-15T00:15Z",
+      "name": "Denver Broncos at Kansas City Chiefs",
+      "short_name": "DEN @ KC",
+      "status": "Scheduled",
+      "status_short": "9/14 - 8:15 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Kansas City Chiefs",
+      "away_team": "Denver Broncos",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Arrowhead Stadium",
+      "broadcasts": [
+        "ESPN",
+        "ABC"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872931/broncos-chiefs"
     }
   ],
   "errors": []
