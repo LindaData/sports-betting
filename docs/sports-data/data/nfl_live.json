@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-09-14T02:25:17.913524Z",
+  "refreshed_at_utc": "2026-09-14T08:00:01.690459Z",
   "dates_requested": [
     "20260913",
     "20260914",
@@ -290,22 +290,22 @@
       "date_utc": "2026-09-14T00:20Z",
       "name": "Dallas Cowboys at New York Giants",
       "short_name": "DAL @ NYG",
-      "status": "In Progress",
-      "status_short": "5:34 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "5:34",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "New York Giants",
       "away_team": "Dallas Cowboys",
-      "home_score": "21",
-      "away_score": "7",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "home_score": "28",
+      "away_score": "20",
+      "home_record": "1-0",
+      "away_record": "0-1",
       "venue": "MetLife Stadium",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401872930"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872930/cowboys-giants"
     },
     {
       "sport": "nfl",
