@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-14T19:41:04.203628Z",
+  "refreshed_at_utc": "2026-09-14T22:51:22.741979Z",
   "dates_requested": [
     "20260913",
     "20260914",
@@ -387,9 +387,9 @@
       "date_utc": "2026-09-14T22:40Z",
       "name": "Chicago White Sox at Cleveland Guardians",
       "short_name": "CHW @ CLE",
-      "status": "Scheduled",
-      "status_short": "9/14 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Mid 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
@@ -405,7 +405,7 @@
         "CLEGuardians.TV",
         "CHSN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816934/white-sox-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816934"
     },
     {
       "sport": "mlb",
@@ -413,9 +413,9 @@
       "date_utc": "2026-09-14T22:40Z",
       "name": "Los Angeles Dodgers at Cincinnati Reds",
       "short_name": "LAD @ CIN",
-      "status": "Scheduled",
-      "status_short": "9/14 - 6:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
@@ -432,7 +432,7 @@
         "WXIX FOX19",
         "Reds.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816936/dodgers-reds"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816936"
     },
     {
       "sport": "mlb",
