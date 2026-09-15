@@ -1,5 +1,5 @@
 {
-  "dates_requested": "20260907-20260928",
+  "dates_requested": "20260908-20260929",
   "errors": [],
   "event_count": 48,
   "events": [
@@ -274,21 +274,21 @@
       "venue": "MetLife Stadium"
     },
     {
-      "away_score": null,
+      "away_score": 10,
       "away_team": "Denver Broncos",
       "away_team_id": "7",
       "city": "Kansas City",
       "date_utc": "2026-09-15T00:15Z",
       "game_id": "401872931",
-      "home_score": null,
+      "home_score": 31,
       "home_team": "Kansas City Chiefs",
       "home_team_id": "12",
       "league": "National Football League",
       "league_id": "nfl",
       "season": "2026",
       "sport": "nfl",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "Arrowhead Stadium"
     },
     {
@@ -869,6 +869,6 @@
     }
   ],
   "league": "NFL",
-  "refreshed_at_utc": "2026-09-14T15:58:40.515484Z",
+  "refreshed_at_utc": "2026-09-15T14:25:28.590599Z",
   "sport": "nfl"
 }
