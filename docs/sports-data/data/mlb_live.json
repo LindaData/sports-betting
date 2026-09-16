@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-16T15:04:56.417494Z",
+  "refreshed_at_utc": "2026-09-16T18:58:07.506782Z",
   "dates_requested": [
     "20260915",
     "20260916",
@@ -392,15 +392,15 @@
       "date_utc": "2026-09-16T17:00Z",
       "name": "Chicago White Sox at Cleveland Guardians",
       "short_name": "CHW @ CLE",
-      "status": "Scheduled",
-      "status_short": "9/16 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 6th",
+      "state": "in",
+      "period": 6,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
       "away_team": "Chicago White Sox",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "5",
+      "away_score": "3",
       "home_record": "77-75",
       "away_record": "77-74",
       "venue": "Progressive Field",
@@ -408,7 +408,7 @@
         "ESPN",
         "CHSN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816960/white-sox-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816960"
     },
     {
       "sport": "mlb",
@@ -416,15 +416,15 @@
       "date_utc": "2026-09-16T17:15Z",
       "name": "San Francisco Giants at St. Louis Cardinals",
       "short_name": "SF @ STL",
-      "status": "Scheduled",
-      "status_short": "9/16 - 1:15 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 7th",
+      "state": "in",
+      "period": 7,
       "clock": "0:00",
       "home_team": "St. Louis Cardinals",
       "away_team": "San Francisco Giants",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "75-77",
       "away_record": "63-89",
       "venue": "Busch Stadium",
@@ -433,7 +433,7 @@
         "NBC Sports BA",
         "Cardinals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816969/giants-cardinals"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816969"
     },
     {
       "sport": "mlb",
@@ -441,14 +441,14 @@
       "date_utc": "2026-09-16T17:40Z",
       "name": "New York Yankees at Minnesota Twins",
       "short_name": "NYY @ MIN",
-      "status": "Scheduled",
-      "status_short": "9/16 - 1:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 5th",
+      "state": "in",
+      "period": 5,
       "clock": "0:00",
       "home_team": "Minnesota Twins",
       "away_team": "New York Yankees",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "70-81",
       "away_record": "88-63",
@@ -458,7 +458,7 @@
         "Twins.TV",
         "YES"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816968/yankees-twins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816968"
     },
     {
       "sport": "mlb",
