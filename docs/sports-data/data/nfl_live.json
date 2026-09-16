@@ -1,36 +1,35 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-09-15T22:32:33.750336Z",
+  "refreshed_at_utc": "2026-09-16T00:53:33.704398Z",
   "dates_requested": [
-    "20260914",
     "20260915",
-    "20260916"
+    "20260916",
+    "20260917"
   ],
   "event_count": 1,
   "events": [
     {
       "sport": "nfl",
-      "event_id": "401872931",
-      "date_utc": "2026-09-15T00:15Z",
-      "name": "Denver Broncos at Kansas City Chiefs",
-      "short_name": "DEN @ KC",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
+      "event_id": "401872932",
+      "date_utc": "2026-09-18T00:15Z",
+      "name": "Detroit Lions at Buffalo Bills",
+      "short_name": "DET @ BUF",
+      "status": "Scheduled",
+      "status_short": "9/17 - 8:15 PM EDT",
+      "state": "pre",
+      "period": 0,
       "clock": "0:00",
-      "home_team": "Kansas City Chiefs",
-      "away_team": "Denver Broncos",
-      "home_score": "31",
-      "away_score": "10",
+      "home_team": "Buffalo Bills",
+      "away_team": "Detroit Lions",
+      "home_score": "0",
+      "away_score": "0",
       "home_record": "1-0",
-      "away_record": "0-1",
-      "venue": "Arrowhead Stadium",
+      "away_record": "1-0",
+      "venue": "Highmark Stadium",
       "broadcasts": [
-        "ESPN",
-        "ABC"
+        "Prime Video"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872931/broncos-chiefs"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872932/lions-bills"
     }
   ],
   "errors": []
