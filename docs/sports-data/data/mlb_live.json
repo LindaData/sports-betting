@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-17T03:34:20.432707Z",
+  "refreshed_at_utc": "2026-09-17T09:01:04.318235Z",
   "dates_requested": [
     "20260916",
     "20260917",
@@ -336,24 +336,24 @@
       "date_utc": "2026-09-17T01:38Z",
       "name": "Seattle Mariners at Los Angeles Angels",
       "short_name": "SEA @ LAA",
-      "status": "In Progress",
-      "status_short": "Bot 5th",
-      "state": "in",
-      "period": 5,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Los Angeles Angels",
       "away_team": "Seattle Mariners",
       "home_score": "2",
-      "away_score": "5",
-      "home_record": "58-93",
-      "away_record": "70-82",
+      "away_score": "7",
+      "home_record": "58-94",
+      "away_record": "71-82",
       "venue": "Angel Stadium",
       "broadcasts": [
         "MLB.TV",
         "Mariners.TV",
         "Angels.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816972"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816972/mariners-angels"
     },
     {
       "sport": "mlb",
@@ -361,17 +361,17 @@
       "date_utc": "2026-09-17T01:40Z",
       "name": "Miami Marlins at Arizona Diamondbacks",
       "short_name": "MIA @ ARI",
-      "status": "In Progress",
-      "status_short": "Top 6th",
-      "state": "in",
-      "period": 6,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Miami Marlins",
-      "home_score": "2",
+      "home_score": "3",
       "away_score": "4",
-      "home_record": "80-72",
-      "away_record": "75-77",
+      "home_record": "80-73",
+      "away_record": "76-77",
       "venue": "Chase Field",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -379,7 +379,7 @@
         "DBACKS.TV",
         "Marlins.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816971"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816971/marlins-diamondbacks"
     },
     {
       "sport": "mlb",
@@ -594,7 +594,7 @@
       "away_team": "Minnesota Twins",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "58-93",
+      "home_record": "58-94",
       "away_record": "71-81",
       "venue": "Angel Stadium",
       "broadcasts": [
@@ -845,7 +845,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "56-96",
-      "away_record": "70-82",
+      "away_record": "71-82",
       "venue": "Coors Field",
       "broadcasts": [
         "MLB.TV",
@@ -894,7 +894,7 @@
       "away_team": "Minnesota Twins",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "58-93",
+      "home_record": "58-94",
       "away_record": "71-81",
       "venue": "Angel Stadium",
       "broadcasts": [
@@ -920,7 +920,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "83-69",
-      "away_record": "75-77",
+      "away_record": "76-77",
       "venue": "Petco Park",
       "broadcasts": [
         "MLB.TV",
@@ -944,7 +944,7 @@
       "away_team": "New York Yankees",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "80-72",
+      "home_record": "80-73",
       "away_record": "88-64",
       "venue": "Chase Field",
       "broadcasts": [
