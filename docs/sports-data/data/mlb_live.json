@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-17T18:22:41.995176Z",
+  "refreshed_at_utc": "2026-09-17T21:32:44.348739Z",
   "dates_requested": [
     "20260916",
     "20260917",
@@ -387,23 +387,23 @@
       "date_utc": "2026-09-17T16:35Z",
       "name": "Milwaukee Brewers at Pittsburgh Pirates",
       "short_name": "MIL @ PIT",
-      "status": "In Progress",
-      "status_short": "Top 6th",
-      "state": "in",
-      "period": 6,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Milwaukee Brewers",
-      "home_score": "5",
-      "away_score": "1",
-      "home_record": "75-77",
-      "away_record": "95-57",
+      "home_score": "7",
+      "away_score": "4",
+      "home_record": "76-77",
+      "away_record": "95-58",
       "venue": "PNC Park",
       "broadcasts": [
         "MLB.TV",
         "Brewers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816975"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816975/brewers-pirates"
     },
     {
       "sport": "mlb",
@@ -411,24 +411,24 @@
       "date_utc": "2026-09-17T16:40Z",
       "name": "Los Angeles Dodgers at Cincinnati Reds",
       "short_name": "LAD @ CIN",
-      "status": "In Progress",
-      "status_short": "Top 6th",
-      "state": "in",
-      "period": 6,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Cincinnati Reds",
       "away_team": "Los Angeles Dodgers",
-      "home_score": "1",
-      "away_score": "7",
-      "home_record": "71-81",
-      "away_record": "92-60",
+      "home_score": "2",
+      "away_score": "8",
+      "home_record": "71-82",
+      "away_record": "93-60",
       "venue": "Great American Ball Park",
       "broadcasts": [
         "MLB.TV",
         "SportsNet LA",
         "Reds.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816974"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816974/dodgers-reds"
     },
     {
       "sport": "mlb",
@@ -436,24 +436,24 @@
       "date_utc": "2026-09-17T17:10Z",
       "name": "Athletics Athletics at Tampa Bay Rays",
       "short_name": "ATH @ TB",
-      "status": "In Progress",
-      "status_short": "Bot 4th",
-      "state": "in",
-      "period": 4,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
       "away_team": "Athletics",
-      "home_score": "6",
-      "away_score": "0",
-      "home_record": "92-59",
-      "away_record": "61-91",
+      "home_score": "10",
+      "away_score": "1",
+      "home_record": "93-59",
+      "away_record": "61-92",
       "venue": "Tropicana Field",
       "broadcasts": [
         "MLB.TV",
         "Rays.TV",
         "NBC Sports CA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816973"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816973/athletics-rays"
     },
     {
       "sport": "mlb",
@@ -461,15 +461,15 @@
       "date_utc": "2026-09-17T19:10Z",
       "name": "San Diego Padres at Colorado Rockies",
       "short_name": "SD @ COL",
-      "status": "Scheduled",
-      "status_short": "9/17 - 3:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 8th",
+      "state": "in",
+      "period": 8,
       "clock": "0:00",
       "home_team": "Colorado Rockies",
       "away_team": "San Diego Padres",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "2",
+      "away_score": "9",
       "home_record": "56-96",
       "away_record": "83-69",
       "venue": "Coors Field",
@@ -479,7 +479,7 @@
         "Padres.TV",
         "Rockies.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816980/padres-rockies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816980"
     },
     {
       "sport": "mlb",
@@ -619,7 +619,7 @@
       "away_team": "Chicago Cubs",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "71-81",
+      "home_record": "71-82",
       "away_record": "85-68",
       "venue": "Great American Ball Park",
       "broadcasts": [
@@ -644,7 +644,7 @@
       "away_team": "Kansas City Royals",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "75-77",
+      "home_record": "76-77",
       "away_record": "67-85",
       "venue": "PNC Park",
       "broadcasts": [
@@ -669,7 +669,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "75-78",
-      "away_record": "95-57",
+      "away_record": "95-58",
       "venue": "Oriole Park at Camden Yards",
       "broadcasts": [
         "MLB.TV",
@@ -694,7 +694,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "78-75",
-      "away_record": "61-91",
+      "away_record": "61-92",
       "venue": "Progressive Field",
       "broadcasts": [
         "MLB.TV",
@@ -719,7 +719,7 @@
       "away_team": "Boston Red Sox",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "92-59",
+      "home_record": "93-59",
       "away_record": "82-70",
       "venue": "Tropicana Field",
       "broadcasts": [
@@ -969,7 +969,7 @@
       "away_team": "San Francisco Giants",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "92-60",
+      "home_record": "93-60",
       "away_record": "64-89",
       "venue": "Dodger Stadium",
       "broadcasts": [
