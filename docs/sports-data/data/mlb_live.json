@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-17T21:32:44.348739Z",
+  "refreshed_at_utc": "2026-09-17T23:48:01.787104Z",
   "dates_requested": [
     "20260916",
     "20260917",
@@ -461,17 +461,17 @@
       "date_utc": "2026-09-17T19:10Z",
       "name": "San Diego Padres at Colorado Rockies",
       "short_name": "SD @ COL",
-      "status": "In Progress",
-      "status_short": "Top 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Colorado Rockies",
       "away_team": "San Diego Padres",
       "home_score": "2",
       "away_score": "9",
-      "home_record": "56-96",
-      "away_record": "83-69",
+      "home_record": "56-97",
+      "away_record": "84-69",
       "venue": "Coors Field",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -479,7 +479,7 @@
         "Padres.TV",
         "Rockies.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816980"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816980/padres-rockies"
     },
     {
       "sport": "mlb",
@@ -487,10 +487,10 @@
       "date_utc": "2026-09-17T23:15Z",
       "name": "Philadelphia Phillies at New York Mets",
       "short_name": "PHI @ NYM",
-      "status": "Scheduled",
-      "status_short": "9/17 - 7:15 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "New York Mets",
       "away_team": "Philadelphia Phillies",
@@ -503,7 +503,7 @@
         "MLB.TV",
         "FOX"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816976/phillies-mets"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816976"
     },
     {
       "sport": "mlb",
@@ -511,15 +511,15 @@
       "date_utc": "2026-09-17T23:15Z",
       "name": "Kansas City Royals at Houston Astros",
       "short_name": "KC @ HOU",
-      "status": "Scheduled",
-      "status_short": "9/17 - 7:15 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Houston Astros",
       "away_team": "Kansas City Royals",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "2",
+      "away_score": "1",
       "home_record": "76-76",
       "away_record": "67-85",
       "venue": "Daikin Park",
@@ -527,7 +527,7 @@
         "MLB.TV",
         "FOX"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816979/royals-astros"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816979"
     },
     {
       "sport": "mlb",
@@ -535,9 +535,9 @@
       "date_utc": "2026-09-17T23:40Z",
       "name": "Detroit Tigers at Chicago White Sox",
       "short_name": "DET @ CHW",
-      "status": "Scheduled",
-      "status_short": "9/17 - 7:40 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Chicago White Sox",
@@ -552,7 +552,7 @@
         "Tigers.TV",
         "CHSN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401816978/tigers-white-sox"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401816978"
     },
     {
       "sport": "mlb",
@@ -844,7 +844,7 @@
       "away_team": "Seattle Mariners",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "56-96",
+      "home_record": "56-97",
       "away_record": "71-82",
       "venue": "Coors Field",
       "broadcasts": [
@@ -919,7 +919,7 @@
       "away_team": "Miami Marlins",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "83-69",
+      "home_record": "84-69",
       "away_record": "76-77",
       "venue": "Petco Park",
       "broadcasts": [

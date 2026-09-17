@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-17T21:32:44.348739Z",
+  "refreshed_at_utc": "2026-09-17T23:48:01.787104Z",
   "dates_requested": [
     "20260916",
     "20260917",
@@ -14,11 +14,11 @@
       "date_utc": "2026-09-17T23:30Z",
       "name": "Syracuse Orange at Pittsburgh Panthers",
       "short_name": "SYR @ PITT",
-      "status": "Scheduled",
-      "status_short": "9/17 - 7:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "6:44 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "6:44",
       "home_team": "Pittsburgh Panthers",
       "away_team": "Syracuse Orange",
       "home_score": "0",
@@ -29,7 +29,7 @@
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858225/syracuse-pitt"
+      "link": "https://www.espn.com/college-football/game?gameId=401858225"
     },
     {
       "sport": "cfb",
