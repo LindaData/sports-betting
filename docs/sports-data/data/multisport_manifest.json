@@ -1,38 +1,38 @@
 {
   "provider": "ESPN",
-  "refreshed_at_utc": "2026-09-16T14:19:54.348580Z",
+  "refreshed_at_utc": "2026-09-17T14:25:13.031824Z",
   "sports": {
     "cfb": {
       "errors": [
-        "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260909-20260930&limit=400: HTTP Error 400: Bad Request"
+        "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260910-20261001&limit=400: HTTP Error 400: Bad Request"
       ],
       "events": 0,
       "standings_rows": 138
     },
     "mlb": {
       "errors": [
-        "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20260909-20260930&limit=400: HTTP Error 400: Bad Request"
+        "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20260910-20261001&limit=400: HTTP Error 400: Bad Request"
       ],
       "events": 0,
       "standings_rows": 30
     },
     "nba": {
       "errors": [
-        "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260909-20260930&limit=400: HTTP Error 400: Bad Request"
+        "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260910-20261001&limit=400: HTTP Error 400: Bad Request"
       ],
       "events": 0,
       "standings_rows": 30
     },
     "nfl": {
       "errors": [
-        "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260909-20260930&limit=400: HTTP Error 400: Bad Request"
+        "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260910-20261001&limit=400: HTTP Error 400: Bad Request"
       ],
       "events": 0,
       "standings_rows": 32
     },
     "nhl": {
       "errors": [
-        "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/scoreboard?dates=20260909-20260930&limit=400: HTTP Error 400: Bad Request"
+        "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/scoreboard?dates=20260910-20261001&limit=400: HTTP Error 400: Bad Request"
       ],
       "events": 0,
       "standings_rows": 32

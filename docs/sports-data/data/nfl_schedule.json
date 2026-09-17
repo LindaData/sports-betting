@@ -1,11 +1,11 @@
 {
-  "dates_requested": "20260909-20260930",
+  "dates_requested": "20260910-20261001",
   "errors": [
-    "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260909-20260930&limit=400: HTTP Error 400: Bad Request"
+    "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260910-20261001&limit=400: HTTP Error 400: Bad Request"
   ],
   "event_count": 0,
   "events": [],
   "league": "NFL",
-  "refreshed_at_utc": "2026-09-16T14:19:54.348580Z",
+  "refreshed_at_utc": "2026-09-17T14:25:13.031824Z",
   "sport": "nfl"
 }
