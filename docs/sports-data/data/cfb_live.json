@@ -1,12 +1,12 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-16T23:58:09.590194Z",
+  "refreshed_at_utc": "2026-09-17T03:34:20.432707Z",
   "dates_requested": [
-    "20260915",
     "20260916",
-    "20260917"
+    "20260917",
+    "20260918"
   ],
-  "event_count": 1,
+  "event_count": 4,
   "events": [
     {
       "sport": "cfb",
@@ -30,6 +30,75 @@
         "ESPN"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401858225/syracuse-pitt"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858226",
+      "date_utc": "2026-09-18T23:30Z",
+      "name": "Miami Hurricanes at Wake Forest Demon Deacons",
+      "short_name": "MIA @ WAKE",
+      "status": "Scheduled",
+      "status_short": "9/18 - 7:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Wake Forest Demon Deacons",
+      "away_team": "Miami Hurricanes",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-0",
+      "away_record": "2-0",
+      "venue": "Allegacy Federal Credit Union Stadium",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858226/miami-wake-forest"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401856811",
+      "date_utc": "2026-09-19T00:00Z",
+      "name": "Houston Cougars at Texas Tech Red Raiders",
+      "short_name": "HOU @ TTU",
+      "status": "Scheduled",
+      "status_short": "9/18 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Texas Tech Red Raiders",
+      "away_team": "Houston Cougars",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-0",
+      "away_record": "2-0",
+      "venue": "Galaxy Stadium",
+      "broadcasts": [
+        "FOX"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856811/houston-texas-tech"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858455",
+      "date_utc": "2026-09-19T02:30Z",
+      "name": "Portland State Vikings at Oregon Ducks",
+      "short_name": "PRST @ ORE",
+      "status": "Scheduled",
+      "status_short": "9/18 - 10:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Oregon Ducks",
+      "away_team": "Portland State Vikings",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-1",
+      "away_record": "0-3",
+      "venue": "Autzen Stadium",
+      "broadcasts": [
+        "BTN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858455/portland-st-oregon"
     }
   ],
   "errors": []
