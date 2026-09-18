@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-18T21:45:12.277651Z",
+  "refreshed_at_utc": "2026-09-18T23:45:06.148232Z",
   "dates_requested": [
     "20260917",
     "20260918",
@@ -37,11 +37,11 @@
       "date_utc": "2026-09-18T23:30Z",
       "name": "Miami Hurricanes at Wake Forest Demon Deacons",
       "short_name": "MIA @ WAKE",
-      "status": "Scheduled",
-      "status_short": "9/18 - 7:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "8:47 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "8:47",
       "home_team": "Wake Forest Demon Deacons",
       "away_team": "Miami Hurricanes",
       "home_score": "0",
@@ -52,7 +52,7 @@
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858226/miami-wake-forest"
+      "link": "https://www.espn.com/college-football/game?gameId=401858226"
     },
     {
       "sport": "cfb",
