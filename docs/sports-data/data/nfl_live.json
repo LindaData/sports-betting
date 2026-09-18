@@ -1,10 +1,10 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-09-17T23:48:01.787104Z",
+  "refreshed_at_utc": "2026-09-18T02:14:04.594160Z",
   "dates_requested": [
-    "20260916",
     "20260917",
-    "20260918"
+    "20260918",
+    "20260919"
   ],
   "event_count": 1,
   "events": [
@@ -14,22 +14,22 @@
       "date_utc": "2026-09-18T00:15Z",
       "name": "Detroit Lions at Buffalo Bills",
       "short_name": "DET @ BUF",
-      "status": "Scheduled",
-      "status_short": "9/17 - 8:15 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "9:29 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "9:29",
       "home_team": "Buffalo Bills",
       "away_team": "Detroit Lions",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "27",
+      "away_score": "10",
       "home_record": "1-0",
       "away_record": "1-0",
       "venue": "Highmark Stadium",
       "broadcasts": [
         "Prime Video"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872932/lions-bills"
+      "link": "https://www.espn.com/nfl/game?gameId=401872932"
     }
   ],
   "errors": []
