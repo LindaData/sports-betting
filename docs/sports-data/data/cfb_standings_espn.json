@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-09-17T14:25:13.031824Z",
+  "refreshed_at_utc": "2026-09-18T13:46:26.756030Z",
   "sport": "cfb",
   "standings": [
     {
@@ -172,12 +172,24 @@
       "wins": 0
     },
     {
-      "form": "W2",
+      "form": "W3",
       "group": "Atlantic Coast Conference",
       "losses": null,
       "percentage": 1.0,
       "played": null,
       "position": 1,
+      "sport": "cfb",
+      "team": "Pittsburgh Panthers",
+      "team_id": "221",
+      "wins": 3
+    },
+    {
+      "form": "W2",
+      "group": "Atlantic Coast Conference",
+      "losses": null,
+      "percentage": 1.0,
+      "played": null,
+      "position": 2,
       "sport": "cfb",
       "team": "Miami Hurricanes",
       "team_id": "2390",
@@ -189,7 +201,7 @@
       "losses": null,
       "percentage": 1.0,
       "played": null,
-      "position": 2,
+      "position": 3,
       "sport": "cfb",
       "team": "SMU Mustangs",
       "team_id": "2567",
@@ -201,7 +213,7 @@
       "losses": null,
       "percentage": 1.0,
       "played": null,
-      "position": 3,
+      "position": 4,
       "sport": "cfb",
       "team": "Virginia Cavaliers",
       "team_id": "258",
@@ -213,7 +225,7 @@
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 4,
+      "position": 5,
       "sport": "cfb",
       "team": "Duke Blue Devils",
       "team_id": "150",
@@ -225,22 +237,10 @@
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 5,
+      "position": 6,
       "sport": "cfb",
       "team": "North Carolina Tar Heels",
       "team_id": "153",
-      "wins": 2
-    },
-    {
-      "form": "W2",
-      "group": "Atlantic Coast Conference",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 6,
-      "sport": "cfb",
-      "team": "Pittsburgh Panthers",
-      "team_id": "221",
       "wins": 2
     },
     {
@@ -352,7 +352,7 @@
       "wins": 1
     },
     {
-      "form": "L1",
+      "form": "L2",
       "group": "Atlantic Coast Conference",
       "losses": null,
       "percentage": 0.0,

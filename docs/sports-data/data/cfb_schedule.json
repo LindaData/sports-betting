@@ -1,11 +1,11 @@
 {
-  "dates_requested": "20260910-20261001",
+  "dates_requested": "20260911-20261002",
   "errors": [
-    "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260910-20261001&limit=400: HTTP Error 400: Bad Request"
+    "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260911-20261002&limit=400: HTTP Error 400: Bad Request"
   ],
   "event_count": 0,
   "events": [],
   "league": "College Football",
-  "refreshed_at_utc": "2026-09-17T14:25:13.031824Z",
+  "refreshed_at_utc": "2026-09-18T13:46:26.756030Z",
   "sport": "cfb"
 }
