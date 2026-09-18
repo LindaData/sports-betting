@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-09-18T12:29:33.052809Z",
+  "refreshed_at_utc": "2026-09-18T16:38:15.023019Z",
   "dates_requested": [
     "20260917",
     "20260918",
@@ -47,7 +47,9 @@
       "home_record": "0-0-0",
       "away_record": "0-0-0",
       "venue": "Bell Centre",
-      "broadcasts": [],
+      "broadcasts": [
+        "NHL Net"
+      ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401881923/maple-leafs-canadiens"
     },
     {
@@ -68,7 +70,10 @@
       "home_record": "0-0-0",
       "away_record": "0-0-0",
       "venue": "Enterprise Center",
-      "broadcasts": [],
+      "broadcasts": [
+        "ESPN+",
+        "Blues App"
+      ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401886427/stars-blues"
     },
     {
@@ -110,7 +115,10 @@
       "home_record": "0-0-0",
       "away_record": "0-0-0",
       "venue": "Grand Casino Arena",
-      "broadcasts": [],
+      "broadcasts": [
+        "ESPN+",
+        "CHSN+"
+      ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401886258/blackhawks-wild"
     },
     {
@@ -132,6 +140,7 @@
       "away_record": "0-0-0",
       "venue": "Toyota Arena",
       "broadcasts": [
+        "ESPN+",
         "Scripps Sports"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401879412/golden-knights-kings"
@@ -154,7 +163,11 @@
       "home_record": "0-0-0",
       "away_record": "0-0-0",
       "venue": "Climate Pledge Arena",
-      "broadcasts": [],
+      "broadcasts": [
+        "ESPN+",
+        "KONG",
+        "KHN"
+      ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401879652/canucks-kraken"
     }
   ],

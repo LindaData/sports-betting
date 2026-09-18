@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-18T12:29:33.052809Z",
+  "refreshed_at_utc": "2026-09-18T16:38:15.023019Z",
   "dates_requested": [
     "20260917",
     "20260918",
@@ -584,11 +584,11 @@
     {
       "sport": "mlb",
       "event_id": "401816996",
-      "date_utc": "2026-09-19T02:10Z",
+      "date_utc": "2026-09-19T02:15Z",
       "name": "San Francisco Giants at Los Angeles Dodgers",
       "short_name": "SF @ LAD",
       "status": "Scheduled",
-      "status_short": "9/18 - 10:10 PM EDT",
+      "status_short": "9/18 - 10:15 PM EDT",
       "state": "pre",
       "period": 1,
       "clock": "0:00",
