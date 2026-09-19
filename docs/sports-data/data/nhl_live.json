@@ -1,12 +1,12 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-09-18T23:45:06.148232Z",
+  "refreshed_at_utc": "2026-09-19T02:16:50.262548Z",
   "dates_requested": [
-    "20260917",
     "20260918",
-    "20260919"
+    "20260919",
+    "20260920"
   ],
-  "event_count": 7,
+  "event_count": 14,
   "events": [
     {
       "sport": "nhl",
@@ -169,6 +169,176 @@
         "KHN"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401879652/canucks-kraken"
+    },
+    {
+      "sport": "nhl",
+      "event_id": "401879644",
+      "date_utc": "2026-09-20T17:00Z",
+      "name": "New York Islanders at New Jersey Devils",
+      "short_name": "NYI @ NJ",
+      "status": "Scheduled",
+      "status_short": "9/20 - 1:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "New Jersey Devils",
+      "away_team": "New York Islanders",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0-0",
+      "away_record": "0-0-0",
+      "venue": "Prudential Center",
+      "broadcasts": [
+        "MSGSN",
+        "NHL Net",
+        "MSG"
+      ],
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879644/islanders-devils"
+    },
+    {
+      "sport": "nhl",
+      "event_id": "401879368",
+      "date_utc": "2026-09-20T20:00Z",
+      "name": "San Jose Sharks at Anaheim Ducks",
+      "short_name": "SJ @ ANA",
+      "status": "Scheduled",
+      "status_short": "9/20 - 4:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Anaheim Ducks",
+      "away_team": "San Jose Sharks",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0-0",
+      "away_record": "0-0-0",
+      "venue": "Honda Center",
+      "broadcasts": [],
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879368/sharks-ducks"
+    },
+    {
+      "sport": "nhl",
+      "event_id": "401879358",
+      "date_utc": "2026-09-20T21:00Z",
+      "name": "Washington Capitals at Boston Bruins",
+      "short_name": "WSH @ BOS",
+      "status": "Scheduled",
+      "status_short": "9/20 - 5:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Boston Bruins",
+      "away_team": "Washington Capitals",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0-0",
+      "away_record": "0-0-0",
+      "venue": "TD Garden",
+      "broadcasts": [
+        "NESN+",
+        "MNMT2",
+        "MNMT",
+        "NHL Net"
+      ],
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879358/capitals-bruins"
+    },
+    {
+      "sport": "nhl",
+      "event_id": "401881131",
+      "date_utc": "2026-09-20T21:00Z",
+      "name": "Nashville Predators at Tampa Bay Lightning",
+      "short_name": "NSH @ TB",
+      "status": "Scheduled",
+      "status_short": "9/20 - 5:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Tampa Bay Lightning",
+      "away_team": "Nashville Predators",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0-0",
+      "away_record": "0-0-0",
+      "venue": "Benchmark International Arena",
+      "broadcasts": [
+        "ESPN+",
+        "The Spot - MTN",
+        "Scripps Sports"
+      ],
+      "link": "https://www.espn.com/nhl/game/_/gameId/401881131/predators-lightning"
+    },
+    {
+      "sport": "nhl",
+      "event_id": "401879364",
+      "date_utc": "2026-09-20T23:00Z",
+      "name": "Utah Mammoth at Colorado Avalanche",
+      "short_name": "UTA @ COL",
+      "status": "Scheduled",
+      "status_short": "9/20 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Colorado Avalanche",
+      "away_team": "Utah Mammoth",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0-0",
+      "away_record": "0-0-0",
+      "venue": "Ball Arena",
+      "broadcasts": [
+        "ESPN+",
+        "Utah 16"
+      ],
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879364/mammoth-avalanche"
+    },
+    {
+      "sport": "nhl",
+      "event_id": "401879932",
+      "date_utc": "2026-09-20T23:00Z",
+      "name": "Carolina Hurricanes at Florida Panthers",
+      "short_name": "CAR @ FLA",
+      "status": "Scheduled",
+      "status_short": "9/20 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Florida Panthers",
+      "away_team": "Carolina Hurricanes",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0-0",
+      "away_record": "0-0-0",
+      "venue": "Amerant Bank Arena",
+      "broadcasts": [
+        "ESPN+",
+        "Scripps Sports"
+      ],
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879932/hurricanes-panthers"
+    },
+    {
+      "sport": "nhl",
+      "event_id": "401879309",
+      "date_utc": "2026-09-21T00:00Z",
+      "name": "Seattle Kraken at Calgary Flames",
+      "short_name": "SEA @ CGY",
+      "status": "Scheduled",
+      "status_short": "9/20 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Calgary Flames",
+      "away_team": "Seattle Kraken",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0-0",
+      "away_record": "0-0-0",
+      "venue": "Scotiabank Saddledome",
+      "broadcasts": [
+        "KONG",
+        "KHN",
+        "NHL Net"
+      ],
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879309/kraken-flames"
     }
   ],
   "errors": []

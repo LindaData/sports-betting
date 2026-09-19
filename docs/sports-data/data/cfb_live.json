@@ -1,36 +1,13 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-18T23:45:06.148232Z",
+  "refreshed_at_utc": "2026-09-19T02:16:50.262548Z",
   "dates_requested": [
-    "20260917",
     "20260918",
-    "20260919"
+    "20260919",
+    "20260920"
   ],
-  "event_count": 75,
+  "event_count": 74,
   "events": [
-    {
-      "sport": "cfb",
-      "event_id": "401858225",
-      "date_utc": "2026-09-17T23:30Z",
-      "name": "Syracuse Orange at Pittsburgh Panthers",
-      "short_name": "SYR @ PITT",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Pittsburgh Panthers",
-      "away_team": "Syracuse Orange",
-      "home_score": "27",
-      "away_score": "13",
-      "home_record": "3-0",
-      "away_record": "1-2",
-      "venue": "Acrisure Stadium",
-      "broadcasts": [
-        "ESPN"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858225/syracuse-pitt"
-    },
     {
       "sport": "cfb",
       "event_id": "401858226",
@@ -38,14 +15,14 @@
       "name": "Miami Hurricanes at Wake Forest Demon Deacons",
       "short_name": "MIA @ WAKE",
       "status": "In Progress",
-      "status_short": "8:47 - 1st",
+      "status_short": "13:27 - 4th",
       "state": "in",
-      "period": 1,
-      "clock": "8:47",
+      "period": 4,
+      "clock": "13:27",
       "home_team": "Wake Forest Demon Deacons",
       "away_team": "Miami Hurricanes",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "20",
+      "away_score": "31",
       "home_record": "2-0",
       "away_record": "2-0",
       "venue": "Allegacy Federal Credit Union Stadium",
@@ -60,22 +37,22 @@
       "date_utc": "2026-09-19T00:00Z",
       "name": "Houston Cougars at Texas Tech Red Raiders",
       "short_name": "HOU @ TTU",
-      "status": "Scheduled",
-      "status_short": "9/18 - 8:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "7:11 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "7:11",
       "home_team": "Texas Tech Red Raiders",
       "away_team": "Houston Cougars",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "21",
+      "away_score": "17",
       "home_record": "2-0",
       "away_record": "2-0",
       "venue": "Galaxy Stadium",
       "broadcasts": [
         "FOX"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856811/houston-texas-tech"
+      "link": "https://www.espn.com/college-football/game?gameId=401856811"
     },
     {
       "sport": "cfb",
