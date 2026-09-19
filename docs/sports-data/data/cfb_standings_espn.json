@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-09-18T13:46:26.756030Z",
+  "refreshed_at_utc": "2026-09-19T13:21:04.758268Z",
   "sport": "cfb",
   "standings": [
     {
@@ -179,21 +179,21 @@
       "played": null,
       "position": 1,
       "sport": "cfb",
-      "team": "Pittsburgh Panthers",
-      "team_id": "221",
+      "team": "Miami Hurricanes",
+      "team_id": "2390",
       "wins": 3
     },
     {
-      "form": "W2",
+      "form": "W3",
       "group": "Atlantic Coast Conference",
       "losses": null,
       "percentage": 1.0,
       "played": null,
       "position": 2,
       "sport": "cfb",
-      "team": "Miami Hurricanes",
-      "team_id": "2390",
-      "wins": 2
+      "team": "Pittsburgh Panthers",
+      "team_id": "221",
+      "wins": 3
     },
     {
       "form": "W2",
@@ -256,7 +256,7 @@
       "wins": 2
     },
     {
-      "form": "W2",
+      "form": "L1",
       "group": "Atlantic Coast Conference",
       "losses": null,
       "percentage": 0.0,
@@ -376,12 +376,24 @@
       "wins": 0
     },
     {
-      "form": "W2",
+      "form": "W3",
       "group": "Big 12 Conference",
       "losses": null,
       "percentage": 1.0,
       "played": null,
       "position": 1,
+      "sport": "cfb",
+      "team": "Texas Tech Red Raiders",
+      "team_id": "2641",
+      "wins": 3
+    },
+    {
+      "form": "W2",
+      "group": "Big 12 Conference",
+      "losses": null,
+      "percentage": 1.0,
+      "played": null,
+      "position": 2,
       "sport": "cfb",
       "team": "BYU Cougars",
       "team_id": "252",
@@ -393,7 +405,7 @@
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 2,
+      "position": 3,
       "sport": "cfb",
       "team": "Cincinnati Bearcats",
       "team_id": "2132",
@@ -405,22 +417,10 @@
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 3,
+      "position": 4,
       "sport": "cfb",
       "team": "Colorado Buffaloes",
       "team_id": "38",
-      "wins": 2
-    },
-    {
-      "form": "W2",
-      "group": "Big 12 Conference",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 4,
-      "sport": "cfb",
-      "team": "Houston Cougars",
-      "team_id": "248",
       "wins": 2
     },
     {
@@ -443,18 +443,6 @@
       "played": null,
       "position": 6,
       "sport": "cfb",
-      "team": "Texas Tech Red Raiders",
-      "team_id": "2641",
-      "wins": 2
-    },
-    {
-      "form": "W2",
-      "group": "Big 12 Conference",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 7,
-      "sport": "cfb",
       "team": "Utah Utes",
       "team_id": "254",
       "wins": 2
@@ -465,10 +453,22 @@
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 8,
+      "position": 7,
       "sport": "cfb",
       "team": "West Virginia Mountaineers",
       "team_id": "277",
+      "wins": 2
+    },
+    {
+      "form": "L1",
+      "group": "Big 12 Conference",
+      "losses": null,
+      "percentage": 0.0,
+      "played": null,
+      "position": 8,
+      "sport": "cfb",
+      "team": "Houston Cougars",
+      "team_id": "248",
       "wins": 2
     },
     {
@@ -700,12 +700,24 @@
       "wins": 1
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "Big Ten Conference",
       "losses": null,
       "percentage": 0.0,
       "played": null,
       "position": 12,
+      "sport": "cfb",
+      "team": "Oregon Ducks",
+      "team_id": "2483",
+      "wins": 2
+    },
+    {
+      "form": "L1",
+      "group": "Big Ten Conference",
+      "losses": null,
+      "percentage": 0.0,
+      "played": null,
+      "position": 13,
       "sport": "cfb",
       "team": "Illinois Fighting Illini",
       "team_id": "356",
@@ -717,7 +729,7 @@
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 13,
+      "position": 14,
       "sport": "cfb",
       "team": "Minnesota Golden Gophers",
       "team_id": "135",
@@ -729,22 +741,10 @@
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 14,
+      "position": 15,
       "sport": "cfb",
       "team": "Ohio State Buckeyes",
       "team_id": "194",
-      "wins": 1
-    },
-    {
-      "form": "L1",
-      "group": "Big Ten Conference",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 15,
-      "sport": "cfb",
-      "team": "Oregon Ducks",
-      "team_id": "2483",
       "wins": 1
     },
     {
