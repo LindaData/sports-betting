@@ -174,8 +174,40 @@ def main() -> int:
     check("flat payload -> Overall group", len(flat) == 1 and flat[0]["group"] == "Overall")
     check("empty payload -> empty list", normalize_standings(NBA, {}) == [])
 
+    test_scoreboard_fallback()
+
     print("all checks passed")
     return 0
+
+def test_scoreboard_fallback() -> None:
+    """A failing range request must fall back to per-day requests and merge them."""
+    import publish_multisport_espn as pub
+
+    calls: list[str] = []
+    real_fetch = pub.fetch_json
+
+    def fake_fetch(url: str) -> dict:
+        calls.append(url)
+        if "dates=20260101-20260103" in url:
+            raise RuntimeError("HTTP Error 400: Bad Request")
+        day = url.split("dates=")[1].split("&")[0]
+        if day == "20260102":
+            raise RuntimeError("HTTP Error 500")
+        return {"season": {"year": 2026}, "events": [{"id": f"evt-{day}"}]}
+
+    pub.fetch_json = fake_fetch
+    try:
+        days = pub.window_days("20260101-20260103")
+        check("window_days expands inclusive range", days == ["20260101", "20260102", "20260103"])
+        payload, events, note = pub.fetch_scoreboard({"key": "nfl", "label": "NFL", "path": "football/nfl"}, "20260101-20260103")
+        check("fallback merges per-day events", [e["id"] for e in events] == ["evt-20260101", "evt-20260103"])
+        check("fallback keeps first payload for season", payload.get("season", {}).get("year") == 2026)
+        check("fallback note names the failed day", note is not None and "20260102" in note and "3 per-day" in note)
+        check("range tried once then one call per day", len(calls) == 4)
+        payload, events, note = pub.fetch_scoreboard({"key": "mlb", "label": "MLB", "path": "baseball/mlb"}, "20260201-20260202")
+        check("healthy range request skips fallback", note is None and len(events) == 1)
+    finally:
+        pub.fetch_json = real_fetch
 
 
 if __name__ == "__main__":
