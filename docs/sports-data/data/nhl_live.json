@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-09-20T17:08:24.310820Z",
+  "refreshed_at_utc": "2026-09-20T19:34:22.710347Z",
   "dates_requested": [
     "20260919",
     "20260920",
@@ -175,15 +175,15 @@
       "date_utc": "2026-09-20T17:00Z",
       "name": "New York Islanders at New Jersey Devils",
       "short_name": "NYI @ NJ",
-      "status": "Scheduled",
-      "status_short": "9/20 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:17 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "0:17",
       "home_team": "New Jersey Devils",
       "away_team": "New York Islanders",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "2",
+      "away_score": "1",
       "home_record": "0-0-0",
       "away_record": "0-0-0",
       "venue": "Prudential Center",
@@ -192,7 +192,7 @@
         "NHL Net",
         "MSG"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401879644/islanders-devils"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879644"
     },
     {
       "sport": "nhl",
