@@ -1,12 +1,12 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-09-19T22:34:06.106893Z",
+  "refreshed_at_utc": "2026-09-20T00:30:00.865633Z",
   "dates_requested": [
-    "20260918",
     "20260919",
-    "20260920"
+    "20260920",
+    "20260921"
   ],
-  "event_count": 14,
+  "event_count": 15,
   "events": [
     {
       "sport": "nfl",
@@ -329,6 +329,30 @@
         "NBC"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401872945/colts-chiefs"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401872947",
+      "date_utc": "2026-09-22T00:15Z",
+      "name": "New York Giants at Los Angeles Rams",
+      "short_name": "NYG @ LAR",
+      "status": "Scheduled",
+      "status_short": "9/21 - 8:15 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Los Angeles Rams",
+      "away_team": "New York Giants",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-1",
+      "away_record": "1-0",
+      "venue": "SoFi Stadium",
+      "broadcasts": [
+        "ESPN",
+        "ABC"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872947/giants-rams"
     }
   ],
   "errors": []
