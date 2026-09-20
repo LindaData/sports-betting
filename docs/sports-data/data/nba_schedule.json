@@ -1,11 +1,11 @@
 {
-  "dates_requested": "20260912-20261003",
+  "dates_requested": "20260913-20261004",
   "errors": [
-    "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260912-20261003&limit=400: HTTP Error 400: Bad Request"
+    "scoreboard: Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260913-20261004&limit=400: HTTP Error 400: Bad Request"
   ],
   "event_count": 0,
   "events": [],
   "league": "NBA",
-  "refreshed_at_utc": "2026-09-19T13:21:04.758268Z",
+  "refreshed_at_utc": "2026-09-20T13:40:00.643459Z",
   "sport": "nba"
 }
