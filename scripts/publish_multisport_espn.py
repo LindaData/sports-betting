@@ -231,6 +231,47 @@ def scoreboard_window(now: datetime) -> str:
     return f"{start}-{end}"
 
 
+def window_days(window: str) -> list[str]:
+    """Expand a YYYYMMDD-YYYYMMDD window into one YYYYMMDD string per day."""
+    start_s, end_s = window.split("-", 1)
+    start = datetime.strptime(start_s, "%Y%m%d")
+    end = datetime.strptime(end_s, "%Y%m%d")
+    return [(start + timedelta(days=i)).strftime("%Y%m%d") for i in range((end - start).days + 1)]
+
+
+def fetch_scoreboard(sport: dict[str, str], window: str) -> tuple[dict[str, Any], list[dict[str, Any]], str | None]:
+    """Fetch scoreboard events for the window.
+
+    ESPN accepts a date range for most leagues, but the NFL endpoint started
+    answering 400 to multi-week ranges mid-September 2026 while still serving
+    single days (the live scoreboard feed relies on exactly that). So: try the
+    range once, and on any failure walk the window a day at a time, which is
+    slower but always answered. Returns (first payload, events, fallback note).
+    """
+    base = f"{SITE_API_BASE}/{sport['path']}/scoreboard"
+    try:
+        payload = fetch_json(f"{base}?dates={window}&limit={SCOREBOARD_LIMIT}")
+        return payload, list(payload.get("events") or []), None
+    except RuntimeError as range_exc:
+        first_payload: dict[str, Any] = {}
+        events: list[dict[str, Any]] = []
+        failed_days: list[str] = []
+        for day in window_days(window):
+            try:
+                payload = fetch_json(f"{base}?dates={day}&limit={SCOREBOARD_LIMIT}")
+            except RuntimeError:
+                failed_days.append(day)
+                continue
+            first_payload = first_payload or payload
+            events.extend(payload.get("events") or [])
+        if not first_payload:
+            raise RuntimeError(f"range request failed ({range_exc}) and every per-day request failed too")
+        note = f"range request failed ({range_exc}); fell back to {len(window_days(window))} per-day requests"
+        if failed_days:
+            note += f", {len(failed_days)} day(s) unavailable: {', '.join(failed_days)}"
+        return first_payload, events, note
+
+
 def publish_sport(sport: dict[str, str], output: Path, refreshed_at: str, window: str) -> dict[str, Any]:
     errors: list[str] = []
     events: list[dict[str, Any]] = []
@@ -238,13 +279,16 @@ def publish_sport(sport: dict[str, str], output: Path, refreshed_at: str, window
     scoreboard_ok = False
     standings_ok = False
 
-    scoreboard_url = f"{SITE_API_BASE}/{sport['path']}/scoreboard?dates={window}&limit={SCOREBOARD_LIMIT}"
+    notes: list[str] = []
     try:
-        payload = fetch_json(scoreboard_url)
+        payload, raw_events, fallback_note = fetch_scoreboard(sport, window)
+        if fallback_note:
+            notes.append(f"scoreboard: {fallback_note}")
+            print(f"[{sport['key']}] {fallback_note}", file=sys.stderr)
         season = payload_season(payload)
         league_name = payload_league_name(payload, sport["label"])
         seen: dict[str, dict[str, Any]] = {}
-        for event in payload.get("events") or []:
+        for event in raw_events:
             row = normalize_event(sport, event, season, league_name)
             seen[row["game_id"]] = row
         events = sorted(seen.values(), key=lambda row: row.get("date_utc") or "")
@@ -273,6 +317,7 @@ def publish_sport(sport: dict[str, str], output: Path, refreshed_at: str, window
             "event_count": len(events),
             "events": events,
             "errors": errors,
+            "notes": notes,
         },
     )
     write_json(
@@ -289,6 +334,7 @@ def publish_sport(sport: dict[str, str], output: Path, refreshed_at: str, window
         "events": len(events),
         "standings_rows": len(standings),
         "errors": errors,
+        "notes": notes,
         "failed": not scoreboard_ok and not standings_ok,
     }
 
