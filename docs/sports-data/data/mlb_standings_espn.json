@@ -1,19 +1,19 @@
 {
   "league": "MLB",
-  "refreshed_at_utc": "2026-09-20T13:40:00.643459Z",
+  "refreshed_at_utc": "2026-09-20T20:14:46.317855Z",
   "sport": "mlb",
   "standings": [
     {
-      "form": "W1",
+      "form": "W2",
       "group": "American League",
       "losses": 60,
-      "percentage": 0.6103896,
-      "played": 154,
+      "percentage": 0.61290324,
+      "played": 155,
       "position": 1,
       "sport": "mlb",
       "team": "Tampa Bay Rays",
       "team_id": "30",
-      "wins": 94
+      "wins": 95
     },
     {
       "form": "L1",
@@ -64,11 +64,11 @@
       "wins": 60
     },
     {
-      "form": "L1",
+      "form": "L2",
       "group": "American League",
-      "losses": 71,
-      "percentage": 0.5419355,
-      "played": 155,
+      "losses": 72,
+      "percentage": 0.53846157,
+      "played": 156,
       "position": 6,
       "sport": "mlb",
       "team": "Boston Red Sox",
@@ -268,11 +268,11 @@
       "wins": 73
     },
     {
-      "form": "L1",
+      "form": "L2",
       "group": "National League",
-      "losses": 83,
-      "percentage": 0.46451613,
-      "played": 155,
+      "losses": 84,
+      "percentage": 0.46153846,
+      "played": 156,
       "position": 8,
       "sport": "mlb",
       "team": "Cincinnati Reds",
@@ -316,16 +316,16 @@
       "wins": 57
     },
     {
-      "form": "W1",
+      "form": "W2",
       "group": "National League",
       "losses": 69,
-      "percentage": 0.5548387,
-      "played": 155,
+      "percentage": 0.5576923,
+      "played": 156,
       "position": 12,
       "sport": "mlb",
       "team": "Chicago Cubs",
       "team_id": "16",
-      "wins": 86
+      "wins": 87
     },
     {
       "form": "W4",
