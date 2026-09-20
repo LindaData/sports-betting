@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-09-20T05:15:20.556330Z",
+  "refreshed_at_utc": "2026-09-20T09:54:14.020741Z",
   "dates_requested": [
     "20260919",
     "20260920",
@@ -1487,22 +1487,22 @@
       "date_utc": "2026-09-20T02:00Z",
       "name": "South Dakota Coyotes at Boise State Broncos",
       "short_name": "SDAK @ BOIS",
-      "status": "In Progress",
-      "status_short": "2:00 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "2:00",
+      "clock": "0:00",
       "home_team": "Boise State Broncos",
       "away_team": "South Dakota Coyotes",
-      "home_score": "31",
+      "home_score": "38",
       "away_score": "24",
-      "home_record": "1-1",
-      "away_record": "3-0",
+      "home_record": "2-1",
+      "away_record": "3-1",
       "venue": "Albertsons Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401860885"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401860885/south-dakota-boise-st"
     },
     {
       "sport": "cfb",
@@ -1510,22 +1510,22 @@
       "date_utc": "2026-09-20T02:00Z",
       "name": "James Madison Dukes at San Diego State Aztecs",
       "short_name": "JMU @ SDSU",
-      "status": "In Progress",
-      "status_short": "8:06 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "8:06",
+      "clock": "0:00",
       "home_team": "San Diego State Aztecs",
       "away_team": "James Madison Dukes",
       "home_score": "13",
       "away_score": "26",
-      "home_record": "1-1",
-      "away_record": "2-0",
+      "home_record": "1-2",
+      "away_record": "3-0",
       "venue": "Snapdragon Stadium",
       "broadcasts": [
         "CW"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401860887"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401860887/james-madison-san-diego-st"
     },
     {
       "sport": "cfb",
@@ -1533,22 +1533,22 @@
       "date_utc": "2026-09-20T02:30Z",
       "name": "Northern Illinois Huskies at Arizona Wildcats",
       "short_name": "NIU @ ARIZ",
-      "status": "In Progress",
-      "status_short": "6:43 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "6:43",
+      "clock": "0:00",
       "home_team": "Arizona Wildcats",
       "away_team": "Northern Illinois Huskies",
       "home_score": "42",
-      "away_score": "10",
-      "home_record": "1-1",
-      "away_record": "0-2",
+      "away_score": "17",
+      "home_record": "2-1",
+      "away_record": "0-3",
       "venue": "Casino Del Sol Stadium",
       "broadcasts": [
         "TNT"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401856793"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856793/n-illinois-arizona"
     },
     {
       "sport": "cfb",
@@ -1556,22 +1556,22 @@
       "date_utc": "2026-09-20T02:30Z",
       "name": "North Dakota State Bison at Sacramento State Hornets",
       "short_name": "NDSU @ SAC",
-      "status": "End of Period",
-      "status_short": "End of 3rd",
-      "state": "in",
-      "period": 3,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Sacramento State Hornets",
       "away_team": "North Dakota State Bison",
-      "home_score": "3",
-      "away_score": "28",
-      "home_record": "1-2",
-      "away_record": "3-0",
+      "home_score": "10",
+      "away_score": "31",
+      "home_record": "1-3",
+      "away_record": "4-0",
       "venue": "Hornet Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401864507"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401864507/n-dakota-st-sacramento-st"
     },
     {
       "sport": "cfb",
@@ -1579,22 +1579,22 @@
       "date_utc": "2026-09-20T03:00Z",
       "name": "Purdue Boilermakers at UCLA Bruins",
       "short_name": "PUR @ UCLA",
-      "status": "In Progress",
-      "status_short": "10:23 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "10:23",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "UCLA Bruins",
       "away_team": "Purdue Boilermakers",
-      "home_score": "31",
-      "away_score": "28",
-      "home_record": "2-0",
-      "away_record": "1-1",
+      "home_score": "52",
+      "away_score": "38",
+      "home_record": "3-0",
+      "away_record": "1-2",
       "venue": "Rose Bowl",
       "broadcasts": [
         "BTN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401858458"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858458/purdue-ucla"
     },
     {
       "sport": "cfb",
@@ -1602,22 +1602,22 @@
       "date_utc": "2026-09-20T03:00Z",
       "name": "Montana Grizzlies at Oregon State Beavers",
       "short_name": "MONT @ ORST",
-      "status": "In Progress",
-      "status_short": "10:20 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "10:20",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Oregon State Beavers",
       "away_team": "Montana Grizzlies",
-      "home_score": "42",
-      "away_score": "3",
-      "home_record": "0-2",
-      "away_record": "3-0",
+      "home_score": "52",
+      "away_score": "17",
+      "home_record": "1-2",
+      "away_record": "3-1",
       "venue": "Reser Stadium",
       "broadcasts": [
         "USA Net"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401860886"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401860886/montana-oregon-st"
     },
     {
       "sport": "cfb",
@@ -1625,22 +1625,22 @@
       "date_utc": "2026-09-20T03:00Z",
       "name": "Fresno State Bulldogs at San Jos\u00e9 State Spartans",
       "short_name": "FRES @ SJSU",
-      "status": "In Progress",
-      "status_short": "10:26 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "10:26",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "San Jos\u00e9 State Spartans",
       "away_team": "Fresno State Bulldogs",
-      "home_score": "3",
-      "away_score": "13",
-      "home_record": "2-1",
-      "away_record": "1-1",
+      "home_score": "10",
+      "away_score": "26",
+      "home_record": "2-2",
+      "away_record": "2-1",
       "venue": "CEFCU Stadium",
       "broadcasts": [
         "FS1"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401860888"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401860888/fresno-st-san-jose-st"
     }
   ],
   "errors": []

@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-20T05:15:20.556330Z",
+  "refreshed_at_utc": "2026-09-20T09:54:14.020741Z",
   "dates_requested": [
     "20260919",
     "20260920",
@@ -366,24 +366,24 @@
       "date_utc": "2026-09-20T01:38Z",
       "name": "Minnesota Twins at Los Angeles Angels",
       "short_name": "MIN @ LAA",
-      "status": "In Progress",
-      "status_short": "Bot 11th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final/11",
+      "state": "post",
       "period": 11,
       "clock": "0:00",
       "home_team": "Los Angeles Angels",
       "away_team": "Minnesota Twins",
-      "home_score": "5",
+      "home_score": "6",
       "away_score": "5",
-      "home_record": "59-95",
-      "away_record": "72-82",
+      "home_record": "60-95",
+      "away_record": "72-83",
       "venue": "Angel Stadium",
       "broadcasts": [
         "MLB.TV",
         "Twins.TV",
         "Angels.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817009"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817009/twins-angels"
     },
     {
       "sport": "mlb",
@@ -652,8 +652,8 @@
       "away_team": "Minnesota Twins",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "59-95",
-      "away_record": "72-82",
+      "home_record": "60-95",
+      "away_record": "72-83",
       "venue": "Angel Stadium",
       "broadcasts": [
         "MLB.TV",
@@ -829,7 +829,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "64-91",
-      "away_record": "72-82",
+      "away_record": "72-83",
       "venue": "Oracle Park",
       "broadcasts": [
         "MLB.TV",
