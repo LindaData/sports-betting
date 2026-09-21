@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-09-21T20:42:04.532212Z",
+  "refreshed_at_utc": "2026-09-21T23:43:57.354983Z",
   "dates_requested": [
     "20260920",
     "20260921",
@@ -184,15 +184,15 @@
       "date_utc": "2026-09-21T23:00Z",
       "name": "Philadelphia Flyers at Washington Capitals",
       "short_name": "PHI @ WSH",
-      "status": "Scheduled",
-      "status_short": "9/21 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "7:47 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "7:47",
       "home_team": "Washington Capitals",
       "away_team": "Philadelphia Flyers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "1",
       "home_record": "0-0-1",
       "away_record": "0-0-0",
       "venue": "Giant Center",
@@ -201,7 +201,7 @@
         "MNMT",
         "NBC Sports Phil"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401879359/flyers-capitals"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879359"
     },
     {
       "sport": "nhl",
@@ -209,10 +209,10 @@
       "date_utc": "2026-09-21T23:00Z",
       "name": "Detroit Red Wings at Columbus Blue Jackets",
       "short_name": "DET @ CBJ",
-      "status": "Scheduled",
-      "status_short": "9/21 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 1st",
+      "state": "in",
+      "period": 1,
       "clock": "0:00",
       "home_team": "Columbus Blue Jackets",
       "away_team": "Detroit Red Wings",
@@ -222,7 +222,7 @@
       "away_record": "0-0-0",
       "venue": "Nationwide Arena",
       "broadcasts": [],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401879450/red-wings-blue-jackets"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879450"
     },
     {
       "sport": "nhl",
@@ -230,14 +230,14 @@
       "date_utc": "2026-09-21T23:00Z",
       "name": "Buffalo Sabres at Pittsburgh Penguins",
       "short_name": "BUF @ PIT",
-      "status": "Scheduled",
-      "status_short": "9/21 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:11 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "0:11",
       "home_team": "Pittsburgh Penguins",
       "away_team": "Buffalo Sabres",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "0-0-0",
       "away_record": "0-0-0",
@@ -246,7 +246,7 @@
         "ESPN+",
         "MSGB"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401879456/sabres-penguins"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879456"
     },
     {
       "sport": "nhl",
@@ -254,10 +254,10 @@
       "date_utc": "2026-09-21T23:00Z",
       "name": "New York Rangers at New Jersey Devils",
       "short_name": "NYR @ NJ",
-      "status": "Scheduled",
-      "status_short": "9/21 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 1st",
+      "state": "in",
+      "period": 1,
       "clock": "0:00",
       "home_team": "New Jersey Devils",
       "away_team": "New York Rangers",
@@ -271,7 +271,7 @@
         "MSG",
         "MSGSN"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401879645/rangers-devils"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879645"
     },
     {
       "sport": "nhl",
@@ -279,22 +279,22 @@
       "date_utc": "2026-09-21T23:00Z",
       "name": "Ottawa Senators at Montreal Canadiens",
       "short_name": "OTT @ MTL",
-      "status": "Scheduled",
-      "status_short": "9/21 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "10:55 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "10:55",
       "home_team": "Montreal Canadiens",
       "away_team": "Ottawa Senators",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "1",
       "home_record": "2-0-0",
       "away_record": "0-0-0",
       "venue": "Colisee Videotron",
       "broadcasts": [
         "NHL Net"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401881921/senators-canadiens"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401881921"
     },
     {
       "sport": "nhl",
