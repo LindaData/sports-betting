@@ -1,5 +1,5 @@
 {
-  "dates_requested": "20260913-20261004",
+  "dates_requested": "20260914-20261005",
   "errors": [],
   "event_count": 205,
   "events": [
@@ -3696,8 +3696,8 @@
   ],
   "league": "College Football",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260913-20261004&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260914-20261005&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-09-20T20:14:46.317855Z",
+  "refreshed_at_utc": "2026-09-21T15:59:42.660743Z",
   "sport": "cfb"
 }
