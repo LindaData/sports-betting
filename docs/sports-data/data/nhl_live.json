@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-09-21T16:42:03.292384Z",
+  "refreshed_at_utc": "2026-09-21T20:42:04.532212Z",
   "dates_requested": [
     "20260920",
     "20260921",
@@ -407,7 +407,11 @@
       "home_record": "0-0-0",
       "away_record": "0-0-0",
       "venue": "PPG Paints Arena",
-      "broadcasts": [],
+      "broadcasts": [
+        "ESPN+",
+        "SportsNet PIT+",
+        "DSN"
+      ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401879451/red-wings-penguins"
     },
     {
@@ -498,7 +502,9 @@
       "home_record": "0-1-0",
       "away_record": "1-0-0",
       "venue": "Canada Life Centre",
-      "broadcasts": [],
+      "broadcasts": [
+        "ESPN+"
+      ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401878101/oilers-jets"
     },
     {
