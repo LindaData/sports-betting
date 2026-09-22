@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-22T12:56:16.507549Z",
+  "refreshed_at_utc": "2026-09-22T17:28:35.169339Z",
   "dates_requested": [
     "20260921",
     "20260922",
@@ -91,10 +91,10 @@
       "date_utc": "2026-09-22T17:05Z",
       "name": "Tampa Bay Rays at New York Yankees",
       "short_name": "TB @ NYY",
-      "status": "Scheduled",
-      "status_short": "9/22 - 1:05 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "End of 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "New York Yankees",
       "away_team": "Tampa Bay Rays",
@@ -109,7 +109,7 @@
         "YES",
         "Rays.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401873648/rays-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401873648"
     },
     {
       "sport": "mlb",
