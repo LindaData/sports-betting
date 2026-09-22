@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-09-22T02:27:22.510550Z",
+  "refreshed_at_utc": "2026-09-22T07:51:24.937009Z",
   "dates_requested": [
     "20260921",
     "20260922",
@@ -14,23 +14,23 @@
       "date_utc": "2026-09-22T00:15Z",
       "name": "New York Giants at Los Angeles Rams",
       "short_name": "NYG @ LAR",
-      "status": "In Progress",
-      "status_short": "3:44 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "3:44",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Los Angeles Rams",
       "away_team": "New York Giants",
-      "home_score": "21",
+      "home_score": "28",
       "away_score": "6",
-      "home_record": "0-1",
-      "away_record": "1-0",
+      "home_record": "1-1",
+      "away_record": "1-1",
       "venue": "SoFi Stadium",
       "broadcasts": [
         "ESPN",
         "ABC"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401872947"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872947/giants-rams"
     }
   ],
   "errors": []
