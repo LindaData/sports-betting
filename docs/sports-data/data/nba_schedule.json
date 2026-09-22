@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20260914-20261005",
+  "dates_requested": "20260915-20261006",
   "errors": [],
-  "event_count": 8,
+  "event_count": 12,
   "events": [
     {
       "away_score": null,
@@ -146,12 +146,84 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Golden 1 Center"
+    },
+    {
+      "away_score": null,
+      "away_team": "Brooklyn Nets",
+      "away_team_id": "17",
+      "city": "Charlotte",
+      "date_utc": "2026-10-06T23:00Z",
+      "game_id": "401901820",
+      "home_score": null,
+      "home_team": "Charlotte Hornets",
+      "home_team_id": "30",
+      "league": "National Basketball Association",
+      "league_id": "nba",
+      "season": "2027",
+      "sport": "nba",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Spectrum Center"
+    },
+    {
+      "away_score": null,
+      "away_team": "New Orleans Pelicans",
+      "away_team_id": "3",
+      "city": "Tulsa",
+      "date_utc": "2026-10-07T00:00Z",
+      "game_id": "401898389",
+      "home_score": null,
+      "home_team": "Oklahoma City Thunder",
+      "home_team_id": "25",
+      "league": "National Basketball Association",
+      "league_id": "nba",
+      "season": "2027",
+      "sport": "nba",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "BOK Center"
+    },
+    {
+      "away_score": null,
+      "away_team": "Denver Nuggets",
+      "away_team_id": "7",
+      "city": "Salt Lake City",
+      "date_utc": "2026-10-07T01:00Z",
+      "game_id": "401914128",
+      "home_score": null,
+      "home_team": "Utah Jazz",
+      "home_team_id": "26",
+      "league": "National Basketball Association",
+      "league_id": "nba",
+      "season": "2027",
+      "sport": "nba",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Delta Center"
+    },
+    {
+      "away_score": null,
+      "away_team": "Los Angeles Lakers",
+      "away_team_id": "13",
+      "city": "San Francisco",
+      "date_utc": "2026-10-07T02:00Z",
+      "game_id": "401898390",
+      "home_score": null,
+      "home_team": "Golden State Warriors",
+      "home_team_id": "9",
+      "league": "National Basketball Association",
+      "league_id": "nba",
+      "season": "2027",
+      "sport": "nba",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Chase Center"
     }
   ],
   "league": "NBA",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260914-20261005&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260915-20261006&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-09-21T15:59:42.660743Z",
+  "refreshed_at_utc": "2026-09-22T14:08:37.649014Z",
   "sport": "nba"
 }
