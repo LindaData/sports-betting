@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-22T20:22:23.331804Z",
+  "refreshed_at_utc": "2026-09-22T23:04:46.945604Z",
   "dates_requested": [
     "20260921",
     "20260922",
@@ -142,10 +142,10 @@
       "date_utc": "2026-09-22T22:40Z",
       "name": "Milwaukee Brewers at Philadelphia Phillies",
       "short_name": "MIL @ PHI",
-      "status": "Scheduled",
-      "status_short": "9/22 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "End of 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
       "away_team": "Milwaukee Brewers",
@@ -159,7 +159,7 @@
         "Brewers.TV",
         "NBC Sports Phil"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817032/brewers-phillies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817032"
     },
     {
       "sport": "mlb",
@@ -167,10 +167,10 @@
       "date_utc": "2026-09-22T22:40Z",
       "name": "St. Louis Cardinals at Pittsburgh Pirates",
       "short_name": "STL @ PIT",
-      "status": "Scheduled",
-      "status_short": "9/22 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "End 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
       "away_team": "St. Louis Cardinals",
@@ -183,7 +183,7 @@
         "MLB.TV",
         "Cardinals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817033/cardinals-pirates"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817033"
     },
     {
       "sport": "mlb",
@@ -191,15 +191,15 @@
       "date_utc": "2026-09-22T22:40Z",
       "name": "Washington Nationals at Detroit Tigers",
       "short_name": "WSH @ DET",
-      "status": "Scheduled",
-      "status_short": "9/22 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
       "away_team": "Washington Nationals",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "74-83",
       "away_record": "73-84",
       "venue": "Comerica Park",
@@ -208,7 +208,7 @@
         "Tigers.TV",
         "Nationals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817036/nationals-tigers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817036"
     },
     {
       "sport": "mlb",
@@ -216,10 +216,10 @@
       "date_utc": "2026-09-22T22:45Z",
       "name": "Cleveland Guardians at Boston Red Sox",
       "short_name": "CLE @ BOS",
-      "status": "Scheduled",
-      "status_short": "9/22 - 6:45 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Boston Red Sox",
       "away_team": "Cleveland Guardians",
@@ -233,7 +233,7 @@
         "CLEGuardians.TV",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817031/guardians-red-sox"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817031"
     },
     {
       "sport": "mlb",
@@ -533,7 +533,10 @@
       "away_record": "77-80",
       "venue": "Oriole Park at Camden Yards",
       "broadcasts": [
-        "MLB.TV"
+        "MLB.TV",
+        "Sportsnet",
+        "TVA",
+        "MASN"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401923610/blue-jays-orioles"
     },
