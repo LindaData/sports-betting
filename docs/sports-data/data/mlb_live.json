@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-23T12:36:21.545528Z",
+  "refreshed_at_utc": "2026-09-23T17:35:10.281294Z",
   "dates_requested": [
     "20260922",
     "20260923",
@@ -417,10 +417,10 @@
       "date_utc": "2026-09-23T17:10Z",
       "name": "Washington Nationals at Detroit Tigers",
       "short_name": "WSH @ DET",
-      "status": "Scheduled",
-      "status_short": "9/23 - 1:10 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
       "away_team": "Washington Nationals",
@@ -435,7 +435,7 @@
         "Tigers.TV",
         "Nationals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817051/nationals-tigers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817051"
     },
     {
       "sport": "mlb",

@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-09-23T12:36:21.545528Z",
+  "refreshed_at_utc": "2026-09-23T17:35:10.281294Z",
   "dates_requested": [
     "20260922",
     "20260923",
@@ -308,6 +308,7 @@
       "away_record": "1-0-1",
       "venue": "American Airlines Center",
       "broadcasts": [
+        "ESPN+",
         "KSTC"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401886429/wild-stars"
@@ -330,7 +331,10 @@
       "home_record": "1-0-0",
       "away_record": "0-2-0",
       "venue": "Honda Center",
-      "broadcasts": [],
+      "broadcasts": [
+        "ESPN+",
+        "KCOP"
+      ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401879369/kings-ducks"
     },
     {
