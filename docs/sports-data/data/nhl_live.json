@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-09-23T20:51:23.837519Z",
+  "refreshed_at_utc": "2026-09-23T23:20:24.294571Z",
   "dates_requested": [
     "20260922",
     "20260923",
@@ -251,11 +251,11 @@
       "date_utc": "2026-09-23T23:00Z",
       "name": "Toronto Maple Leafs at Ottawa Senators",
       "short_name": "TOR @ OTT",
-      "status": "Scheduled",
-      "status_short": "9/23 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "10:19 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "10:19",
       "home_team": "Ottawa Senators",
       "away_team": "Toronto Maple Leafs",
       "home_score": "0",
@@ -266,7 +266,7 @@
       "broadcasts": [
         "NHL Net"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401879650/maple-leafs-senators"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879650"
     },
     {
       "sport": "nhl",
@@ -274,20 +274,20 @@
       "date_utc": "2026-09-23T23:00Z",
       "name": "Ottawa Senators at Toronto Maple Leafs",
       "short_name": "OTT @ TOR",
-      "status": "Scheduled",
-      "status_short": "9/23 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "11:35 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "11:35",
       "home_team": "Toronto Maple Leafs",
       "away_team": "Ottawa Senators",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "1",
       "home_record": "0-1-1",
       "away_record": "0-0-1",
       "venue": "Scotiabank Arena",
       "broadcasts": [],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401886441/senators-maple-leafs"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401886441"
     },
     {
       "sport": "nhl",

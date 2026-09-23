@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-23T20:51:23.837519Z",
+  "refreshed_at_utc": "2026-09-23T23:20:24.294571Z",
   "dates_requested": [
     "20260922",
     "20260923",
@@ -469,24 +469,24 @@
       "date_utc": "2026-09-23T19:45Z",
       "name": "Minnesota Twins at San Francisco Giants",
       "short_name": "MIN @ SF",
-      "status": "In Progress",
-      "status_short": "Top 5th",
-      "state": "in",
-      "period": 5,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "San Francisco Giants",
       "away_team": "Minnesota Twins",
       "home_score": "2",
-      "away_score": "1",
-      "home_record": "65-93",
-      "away_record": "74-84",
+      "away_score": "4",
+      "home_record": "65-94",
+      "away_record": "75-84",
       "venue": "Oracle Park",
       "broadcasts": [
         "MLB.TV",
         "Twins.TV",
         "NBC Sports BA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817058"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817058/twins-giants"
     },
     {
       "sport": "mlb",
@@ -494,14 +494,14 @@
       "date_utc": "2026-09-23T22:35Z",
       "name": "Toronto Blue Jays at Baltimore Orioles",
       "short_name": "TOR @ BAL",
-      "status": "Scheduled",
-      "status_short": "9/23 - 6:35 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Baltimore Orioles",
       "away_team": "Toronto Blue Jays",
-      "home_score": "0",
+      "home_score": "3",
       "away_score": "0",
       "home_record": "77-81",
       "away_record": "77-81",
@@ -512,7 +512,7 @@
         "Sportsnet",
         "TVA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817050/blue-jays-orioles"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817050"
     },
     {
       "sport": "mlb",
@@ -520,15 +520,15 @@
       "date_utc": "2026-09-23T22:40Z",
       "name": "Milwaukee Brewers at Philadelphia Phillies",
       "short_name": "MIL @ PHI",
-      "status": "Scheduled",
-      "status_short": "9/23 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "End 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Philadelphia Phillies",
       "away_team": "Milwaukee Brewers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "2",
       "home_record": "87-70",
       "away_record": "98-59",
       "venue": "Citizens Bank Park",
@@ -537,7 +537,7 @@
         "Brewers.TV",
         "NBC Sports Phil"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817047/brewers-phillies"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817047"
     },
     {
       "sport": "mlb",
@@ -545,14 +545,14 @@
       "date_utc": "2026-09-23T22:40Z",
       "name": "St. Louis Cardinals at Pittsburgh Pirates",
       "short_name": "STL @ PIT",
-      "status": "Scheduled",
-      "status_short": "9/23 - 6:40 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
       "away_team": "St. Louis Cardinals",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "80-77",
       "away_record": "76-81",
@@ -561,7 +561,7 @@
         "MLB.TV",
         "Cardinals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817048/cardinals-pirates"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817048"
     },
     {
       "sport": "mlb",
@@ -569,9 +569,9 @@
       "date_utc": "2026-09-23T23:00Z",
       "name": "Cleveland Guardians at Boston Red Sox",
       "short_name": "CLE @ BOS",
-      "status": "Scheduled",
-      "status_short": "9/23 - 7:00 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Mid 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Boston Red Sox",
@@ -584,7 +584,7 @@
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817046/guardians-red-sox"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817046"
     },
     {
       "sport": "mlb",
@@ -592,14 +592,14 @@
       "date_utc": "2026-09-23T23:05Z",
       "name": "Tampa Bay Rays at New York Yankees",
       "short_name": "TB @ NYY",
-      "status": "Scheduled",
-      "status_short": "9/23 - 7:05 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Bot 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "New York Yankees",
       "away_team": "Tampa Bay Rays",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "90-67",
       "away_record": "96-61",
@@ -609,7 +609,7 @@
         "Prime Video",
         "Rays.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817049/rays-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817049"
     },
     {
       "sport": "mlb",
@@ -617,15 +617,15 @@
       "date_utc": "2026-09-23T23:15Z",
       "name": "Cincinnati Reds at Atlanta Braves",
       "short_name": "CIN @ ATL",
-      "status": "Scheduled",
-      "status_short": "9/23 - 7:15 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Atlanta Braves",
       "away_team": "Cincinnati Reds",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "92-65",
       "away_record": "73-84",
       "venue": "Truist Park",
@@ -634,7 +634,7 @@
         "BravesVision",
         "Reds.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817045/reds-braves"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817045"
     },
     {
       "sport": "mlb",
