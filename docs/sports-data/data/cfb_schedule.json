@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20260915-20261006",
+  "dates_requested": "20260916-20261007",
   "errors": [],
-  "event_count": 206,
+  "event_count": 208,
   "events": [
     {
       "away_score": 13,
@@ -2795,24 +2795,6 @@
     },
     {
       "away_score": null,
-      "away_team": "Texas Tech Red Raiders",
-      "away_team_id": "2641",
-      "city": "Boulder",
-      "date_utc": "2026-10-03T04:00Z",
-      "game_id": "401856821",
-      "home_score": null,
-      "home_team": "Colorado Buffaloes",
-      "home_team_id": "38",
-      "league": "NCAA - Football",
-      "league_id": "college-football",
-      "season": "2026",
-      "sport": "cfb",
-      "status": "Scheduled",
-      "status_code": "pre",
-      "venue": "Folsom Field"
-    },
-    {
-      "away_score": null,
       "away_team": "Michigan Wolverines",
       "away_team_id": "130",
       "city": "Minneapolis",
@@ -3479,6 +3461,24 @@
     },
     {
       "away_score": null,
+      "away_team": "Texas Tech Red Raiders",
+      "away_team_id": "2641",
+      "city": "Boulder",
+      "date_utc": "2026-10-03T23:30Z",
+      "game_id": "401856821",
+      "home_score": null,
+      "home_team": "Colorado Buffaloes",
+      "home_team_id": "38",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Folsom Field"
+    },
+    {
+      "away_score": null,
       "away_team": "Washington Huskies",
       "away_team_id": "264",
       "city": "Los Angeles",
@@ -3710,12 +3710,48 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Veterans Memorial Stadium (AL)"
+    },
+    {
+      "away_score": null,
+      "away_team": "Jacksonville State Gamecocks",
+      "away_team_id": "55",
+      "city": "Kennesaw",
+      "date_utc": "2026-10-07T23:00Z",
+      "game_id": "401871051",
+      "home_score": null,
+      "home_team": "Kennesaw State Owls",
+      "home_team_id": "338",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Walens Family Field at Fifth Third Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "New Mexico State Aggies",
+      "away_team_id": "166",
+      "city": "Miami",
+      "date_utc": "2026-10-07T23:30Z",
+      "game_id": "401871066",
+      "home_score": null,
+      "home_team": "Florida International Panthers",
+      "home_team_id": "2229",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Pitbull Stadium"
     }
   ],
   "league": "College Football",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260915-20261006&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260916-20261007&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-09-22T14:08:37.649014Z",
+  "refreshed_at_utc": "2026-09-23T14:22:18.036472Z",
   "sport": "cfb"
 }
