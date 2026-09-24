@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20260916-20261007",
+  "dates_requested": "20260917-20261008",
   "errors": [],
-  "event_count": 208,
+  "event_count": 212,
   "events": [
     {
       "away_score": 13,
@@ -3746,12 +3746,84 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Pitbull Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "Sam Houston Bearkats",
+      "away_team_id": "2534",
+      "city": "Lynchburg",
+      "date_utc": "2026-10-08T23:00Z",
+      "game_id": "401870766",
+      "home_score": null,
+      "home_team": "Liberty Flames",
+      "home_team_id": "2335",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Williams Stadium (VA)"
+    },
+    {
+      "away_score": null,
+      "away_team": "Missouri State Bears",
+      "away_team_id": "2623",
+      "city": "Bowling Green",
+      "date_utc": "2026-10-08T23:00Z",
+      "game_id": "401871052",
+      "home_score": null,
+      "home_team": "Western Kentucky Hilltoppers",
+      "home_team_id": "98",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Houchens Industries-L.T. Smith Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "South Florida Bulls",
+      "away_team_id": "58",
+      "city": "San Antonio",
+      "date_utc": "2026-10-08T23:30Z",
+      "game_id": "401862794",
+      "home_score": null,
+      "home_team": "UTSA Roadrunners",
+      "home_team_id": "2636",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Alamodome"
+    },
+    {
+      "away_score": null,
+      "away_team": "South Alabama Jaguars",
+      "away_team_id": "6",
+      "city": "Jonesboro",
+      "date_utc": "2026-10-08T23:30Z",
+      "game_id": "401869933",
+      "home_score": null,
+      "home_team": "Arkansas State Red Wolves",
+      "home_team_id": "2032",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Centennial Bank Stadium"
     }
   ],
   "league": "College Football",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260916-20261007&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260917-20261008&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-09-23T14:22:18.036472Z",
+  "refreshed_at_utc": "2026-09-24T14:22:32.923479Z",
   "sport": "cfb"
 }

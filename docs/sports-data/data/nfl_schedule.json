@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20260916-20261007",
+  "dates_requested": "20260917-20261008",
   "errors": [],
-  "event_count": 48,
+  "event_count": 49,
   "events": [
     {
       "away_score": 31,
@@ -866,12 +866,30 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Caesars Superdome"
+    },
+    {
+      "away_score": null,
+      "away_team": "Tampa Bay Buccaneers",
+      "away_team_id": "27",
+      "city": "Arlington",
+      "date_utc": "2026-10-09T00:15Z",
+      "game_id": "401872980",
+      "home_score": null,
+      "home_team": "Dallas Cowboys",
+      "home_team_id": "6",
+      "league": "National Football League",
+      "league_id": "nfl",
+      "season": "2026",
+      "sport": "nfl",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "AT&T Stadium"
     }
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260916-20261007&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260917-20261008&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-09-23T14:22:18.036472Z",
+  "refreshed_at_utc": "2026-09-24T14:22:32.923479Z",
   "sport": "nfl"
 }
