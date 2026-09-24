@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-24T12:29:23.515238Z",
+  "refreshed_at_utc": "2026-09-24T17:27:22.929574Z",
   "dates_requested": [
     "20260923",
     "20260924",
@@ -413,15 +413,15 @@
       "date_utc": "2026-09-24T16:35Z",
       "name": "St. Louis Cardinals at Pittsburgh Pirates",
       "short_name": "STL @ PIT",
-      "status": "Scheduled",
-      "status_short": "9/24 - 12:35 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 4th",
+      "state": "in",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Pittsburgh Pirates",
       "away_team": "St. Louis Cardinals",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "1",
       "home_record": "80-78",
       "away_record": "77-81",
       "venue": "PNC Park",
@@ -429,7 +429,7 @@
         "MLB.TV",
         "Cardinals.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817063/cardinals-pirates"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817063"
     },
     {
       "sport": "mlb",
@@ -729,8 +729,7 @@
       "venue": "Fenway Park",
       "broadcasts": [
         "MLB.TV",
-        "Marquee Sports Net",
-        "NESN"
+        "Marquee Sports Net"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401817104/cubs-red-sox"
     },
