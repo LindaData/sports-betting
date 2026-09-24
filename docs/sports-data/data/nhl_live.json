@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-09-24T20:38:23.109348Z",
+  "refreshed_at_utc": "2026-09-24T23:40:37.452752Z",
   "dates_requested": [
     "20260923",
     "20260924",
@@ -104,14 +104,14 @@
       "date_utc": "2026-09-24T23:00Z",
       "name": "Boston Bruins at Philadelphia Flyers",
       "short_name": "BOS @ PHI",
-      "status": "Scheduled",
-      "status_short": "9/24 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "2:54 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "2:54",
       "home_team": "Philadelphia Flyers",
       "away_team": "Boston Bruins",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "0-2-0",
       "away_record": "2-0-0",
@@ -121,7 +121,7 @@
         "NESN+",
         "NBC Sports Phil +"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401879363/bruins-flyers"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879363"
     },
     {
       "sport": "nhl",
@@ -129,15 +129,15 @@
       "date_utc": "2026-09-24T23:00Z",
       "name": "Buffalo Sabres at Detroit Red Wings",
       "short_name": "BUF @ DET",
-      "status": "Scheduled",
-      "status_short": "9/24 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "4:32 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "4:32",
       "home_team": "Detroit Red Wings",
       "away_team": "Buffalo Sabres",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "1-0-1",
       "away_record": "1-1-0",
       "venue": "Little Caesars Arena",
@@ -146,7 +146,7 @@
         "DSN",
         "MSGB"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401879452/sabres-red-wings"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879452"
     },
     {
       "sport": "nhl",
@@ -154,20 +154,20 @@
       "date_utc": "2026-09-24T23:00Z",
       "name": "Pittsburgh Penguins at Columbus Blue Jackets",
       "short_name": "PIT @ CBJ",
-      "status": "Scheduled",
-      "status_short": "9/24 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:12 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "0:12",
       "home_team": "Columbus Blue Jackets",
       "away_team": "Pittsburgh Penguins",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "1-1-0",
       "away_record": "1-1-0",
       "venue": "Nationwide Arena",
       "broadcasts": [],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401879455/penguins-blue-jackets"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879455"
     },
     {
       "sport": "nhl",
@@ -175,15 +175,15 @@
       "date_utc": "2026-09-24T23:00Z",
       "name": "New Jersey Devils at New York Rangers",
       "short_name": "NJ @ NYR",
-      "status": "Scheduled",
-      "status_short": "9/24 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "2:06 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "2:06",
       "home_team": "New York Rangers",
       "away_team": "New Jersey Devils",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "0-2-0",
       "away_record": "2-0-0",
       "venue": "Madison Square Garden",
@@ -192,7 +192,7 @@
         "NHL Net",
         "MSG"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401879646/devils-rangers"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879646"
     },
     {
       "sport": "nhl",
@@ -200,15 +200,15 @@
       "date_utc": "2026-09-24T23:00Z",
       "name": "Nashville Predators at Carolina Hurricanes",
       "short_name": "NSH @ CAR",
-      "status": "Scheduled",
-      "status_short": "9/24 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "2:35 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "2:35",
       "home_team": "Carolina Hurricanes",
       "away_team": "Nashville Predators",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "3",
       "home_record": "1-1-0",
       "away_record": "1-1-0",
       "venue": "First Horizon Coliseum",
@@ -216,7 +216,7 @@
         "ESPN+",
         "Scripps Sports"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401879934/predators-hurricanes"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401879934"
     },
     {
       "sport": "nhl",
@@ -224,11 +224,11 @@
       "date_utc": "2026-09-24T23:00Z",
       "name": "Florida Panthers at Tampa Bay Lightning",
       "short_name": "FLA @ TB",
-      "status": "Scheduled",
-      "status_short": "9/24 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "2:07 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "2:07",
       "home_team": "Tampa Bay Lightning",
       "away_team": "Florida Panthers",
       "home_score": "0",
@@ -241,7 +241,7 @@
         "The Spot - MTN",
         "Scripps Sports"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401881133/panthers-lightning"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401881133"
     },
     {
       "sport": "nhl",
