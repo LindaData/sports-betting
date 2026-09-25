@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-25T18:16:59.057150Z",
+  "refreshed_at_utc": "2026-09-25T21:42:59.896080Z",
   "dates_requested": [
     "20260924",
     "20260925",
@@ -316,23 +316,23 @@
       "date_utc": "2026-09-25T17:05Z",
       "name": "Chicago Cubs at Boston Red Sox",
       "short_name": "CHC @ BOS",
-      "status": "In Progress",
-      "status_short": "Top 5th",
-      "state": "in",
-      "period": 5,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Boston Red Sox",
       "away_team": "Chicago Cubs",
-      "home_score": "1",
+      "home_score": "4",
       "away_score": "3",
-      "home_record": "85-74",
-      "away_record": "88-71",
+      "home_record": "86-74",
+      "away_record": "88-72",
       "venue": "Fenway Park",
       "broadcasts": [
         "MLB.TV",
         "Marquee Sports Net"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817104"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817104/cubs-red-sox"
     },
     {
       "sport": "mlb",
@@ -340,15 +340,15 @@
       "date_utc": "2026-09-25T20:05Z",
       "name": "Baltimore Orioles at New York Yankees",
       "short_name": "BAL @ NYY",
-      "status": "Scheduled",
-      "status_short": "9/25 - 4:05 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 6th",
+      "state": "in",
+      "period": 6,
       "clock": "0:00",
       "home_team": "New York Yankees",
       "away_team": "Baltimore Orioles",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "8",
       "home_record": "92-67",
       "away_record": "78-81",
       "venue": "Yankee Stadium",
@@ -357,7 +357,7 @@
         "YES",
         "MASN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817088/orioles-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817088"
     },
     {
       "sport": "mlb",
@@ -365,17 +365,17 @@
       "date_utc": "2026-09-25T21:30Z",
       "name": "Chicago Cubs at Boston Red Sox",
       "short_name": "CHC @ BOS",
-      "status": "Scheduled",
-      "status_short": "9/25 - 5:30 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Boston Red Sox",
       "away_team": "Chicago Cubs",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "85-74",
-      "away_record": "88-71",
+      "home_record": "86-74",
+      "away_record": "88-72",
       "venue": "Fenway Park",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -383,7 +383,7 @@
         "Marquee Sports Net",
         "NESN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817074/cubs-red-sox"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817074"
     },
     {
       "sport": "mlb",
@@ -977,8 +977,8 @@
       "away_team": "Chicago Cubs",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "85-74",
-      "away_record": "88-71",
+      "home_record": "86-74",
+      "away_record": "88-72",
       "venue": "Fenway Park",
       "broadcasts": [
         "MLB.TV",
