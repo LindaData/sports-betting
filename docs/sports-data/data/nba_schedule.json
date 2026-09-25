@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20260917-20261008",
+  "dates_requested": "20260918-20261009",
   "errors": [],
-  "event_count": 23,
+  "event_count": 25,
   "events": [
     {
       "away_score": null,
@@ -416,12 +416,48 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "crypto.com Arena"
+    },
+    {
+      "away_score": null,
+      "away_team": "Houston Rockets",
+      "away_team_id": "10",
+      "city": null,
+      "date_utc": "2026-10-09T12:00Z",
+      "game_id": "401898395",
+      "home_score": null,
+      "home_team": "Dallas Mavericks",
+      "home_team_id": "6",
+      "league": "National Basketball Association",
+      "league_id": "nba",
+      "season": "2027",
+      "sport": "nba",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Venetian Arena"
+    },
+    {
+      "away_score": null,
+      "away_team": "Memphis Grizzlies",
+      "away_team_id": "29",
+      "city": "Chicago",
+      "date_utc": "2026-10-10T00:00Z",
+      "game_id": "401908940",
+      "home_score": null,
+      "home_team": "Chicago Bulls",
+      "home_team_id": "4",
+      "league": "National Basketball Association",
+      "league_id": "nba",
+      "season": "2027",
+      "sport": "nba",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "United Center"
     }
   ],
   "league": "NBA",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260917-20261008&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260918-20261009&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-09-24T14:22:32.923479Z",
+  "refreshed_at_utc": "2026-09-25T14:42:56.186029Z",
   "sport": "nba"
 }

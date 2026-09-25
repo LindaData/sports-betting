@@ -1,26 +1,8 @@
 {
-  "dates_requested": "20260917-20261008",
+  "dates_requested": "20260918-20261009",
   "errors": [],
-  "event_count": 49,
+  "event_count": 48,
   "events": [
-    {
-      "away_score": 31,
-      "away_team": "Detroit Lions",
-      "away_team_id": "8",
-      "city": "Orchard Park",
-      "date_utc": "2026-09-18T00:15Z",
-      "game_id": "401872932",
-      "home_score": 41,
-      "home_team": "Buffalo Bills",
-      "home_team_id": "2",
-      "league": "National Football League",
-      "league_id": "nfl",
-      "season": "2026",
-      "sport": "nfl",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Highmark Stadium"
-    },
     {
       "away_score": 34,
       "away_team": "Carolina Panthers",
@@ -292,21 +274,21 @@
       "venue": "SoFi Stadium"
     },
     {
-      "away_score": null,
+      "away_score": 35,
       "away_team": "Atlanta Falcons",
       "away_team_id": "1",
       "city": "Green Bay",
       "date_utc": "2026-09-25T00:15Z",
       "game_id": "401872948",
-      "home_score": null,
+      "home_score": 14,
       "home_team": "Green Bay Packers",
       "home_team_id": "9",
       "league": "National Football League",
       "league_id": "nfl",
       "season": "2026",
       "sport": "nfl",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "Lambeau Field"
     },
     {
@@ -888,8 +870,8 @@
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260917-20261008&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260918-20261009&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-09-24T14:22:32.923479Z",
+  "refreshed_at_utc": "2026-09-25T14:42:56.186029Z",
   "sport": "nfl"
 }

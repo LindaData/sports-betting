@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-09-24T14:22:32.923479Z",
+  "refreshed_at_utc": "2026-09-25T14:42:56.186029Z",
   "sport": "cfb",
   "standings": [
     {
@@ -784,27 +784,27 @@
       "wins": 0
     },
     {
-      "form": "W1",
+      "form": "W3",
       "group": "Conference USA",
       "losses": null,
       "percentage": 0.0,
       "played": null,
       "position": 1,
       "sport": "cfb",
-      "team": "Delaware Blue Hens",
-      "team_id": "48",
-      "wins": 2
+      "team": "Liberty Flames",
+      "team_id": "2335",
+      "wins": 3
     },
     {
-      "form": "W2",
+      "form": "W1",
       "group": "Conference USA",
       "losses": null,
       "percentage": 0.0,
       "played": null,
       "position": 2,
       "sport": "cfb",
-      "team": "Liberty Flames",
-      "team_id": "2335",
+      "team": "Delaware Blue Hens",
+      "team_id": "48",
       "wins": 2
     },
     {
@@ -1540,24 +1540,12 @@
       "wins": 2
     },
     {
-      "form": "L1",
-      "group": "Sun Belt Conference - Sun Belt - East",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 5,
-      "sport": "cfb",
-      "team": "Coastal Carolina Chanticleers",
-      "team_id": "324",
-      "wins": 1
-    },
-    {
       "form": "L2",
       "group": "Sun Belt Conference - Sun Belt - East",
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 6,
+      "position": 5,
       "sport": "cfb",
       "team": "Georgia Southern Eagles",
       "team_id": "290",
@@ -1569,10 +1557,22 @@
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 7,
+      "position": 6,
       "sport": "cfb",
       "team": "Old Dominion Monarchs",
       "team_id": "295",
+      "wins": 1
+    },
+    {
+      "form": "L2",
+      "group": "Sun Belt Conference - Sun Belt - East",
+      "losses": null,
+      "percentage": 0.0,
+      "played": null,
+      "position": 7,
+      "sport": "cfb",
+      "team": "Coastal Carolina Chanticleers",
+      "team_id": "324",
       "wins": 1
     },
     {
