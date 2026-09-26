@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
-    "test": "vitest run"
+    "test": "vitest run",
+    "build:pages": "npm run build && rm -rf ../../docs/grid-rush && mkdir -p ../../docs/grid-rush && cp -r dist/. ../../docs/grid-rush/"
   },
   "dependencies": {
     "react": "^19.3.0",

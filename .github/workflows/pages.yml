@@ -83,6 +83,23 @@ jobs:
             cp dist/index.html "../../docs/app/$route/index.html"
           done
 
+      # Grid Rush (browser arcade game) ships at /grid-rush/. Relative asset
+      # paths, so no base URL is needed. Rebuilt after the Quarto render so a
+      # render can never drop it from docs/.
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Build Grid Rush into docs/grid-rush
+        working-directory: apps/grid-rush
+        run: |
+          npm ci
+          npm run build
+          rm -rf ../../docs/grid-rush
+          mkdir -p ../../docs/grid-rush
+          cp -r dist/. ../../docs/grid-rush/
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 

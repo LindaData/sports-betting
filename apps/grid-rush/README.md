@@ -20,8 +20,17 @@ npm run dev        # http://localhost:5173
 | `npm run lint` | ESLint (TypeScript and React Hooks rules) |
 | `npm run typecheck` | `tsc --noEmit` |
 | `npm test` | Vitest unit tests for the game engine |
+| `npm run build:pages` | Build and copy the output to `docs/grid-rush/` |
 
 The build uses a relative base (`./`), so you can drop `dist/` into any static host or subfolder.
+
+## Publishing
+
+The game is served from `/grid-rush/` on the repo's GitHub Pages site.
+
+- **Committed copy:** `docs/grid-rush/` holds a committed build. Refresh it with `npm run build:pages` after you change the game.
+- **Deploy:** the `Publish GitHub Pages` workflow rebuilds the game after the Quarto render, so the live copy always matches `main`.
+- **CI:** the `Grid Rush CI` workflow runs lint, type check, tests and build on every PR that touches `apps/grid-rush/`.
 
 ## How to play
 
