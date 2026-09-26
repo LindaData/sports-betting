@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-26T17:50:27.125023Z",
+  "refreshed_at_utc": "2026-09-26T20:22:22.530057Z",
   "dates_requested": [
     "20260925",
     "20260926",
@@ -440,17 +440,17 @@
       "date_utc": "2026-09-26T16:35Z",
       "name": "New York Mets at Washington Nationals",
       "short_name": "NYM @ WSH",
-      "status": "In Progress",
-      "status_short": "End 4th",
-      "state": "in",
-      "period": 4,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Washington Nationals",
       "away_team": "New York Mets",
       "home_score": "1",
-      "away_score": "0",
-      "home_record": "76-84",
-      "away_record": "73-87",
+      "away_score": "7",
+      "home_record": "76-85",
+      "away_record": "74-87",
       "venue": "Nationals Park",
       "broadcasts": [
         "ESPN Unlmtd",
@@ -458,7 +458,7 @@
         "Nationals.TV",
         "SNY"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817091"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817091/mets-nationals"
     },
     {
       "sport": "mlb",
@@ -466,23 +466,23 @@
       "date_utc": "2026-09-26T17:10Z",
       "name": "Pittsburgh Pirates at Detroit Tigers",
       "short_name": "PIT @ DET",
-      "status": "In Progress",
-      "status_short": "Bot 2nd",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Detroit Tigers",
       "away_team": "Pittsburgh Pirates",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "75-85",
-      "away_record": "81-79",
+      "home_score": "4",
+      "away_score": "3",
+      "home_record": "76-85",
+      "away_record": "81-80",
       "venue": "Comerica Park",
       "broadcasts": [
         "MLB.TV",
         "Tigers.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817092"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817092/pirates-tigers"
     },
     {
       "sport": "mlb",
@@ -490,15 +490,15 @@
       "date_utc": "2026-09-26T19:07Z",
       "name": "Cincinnati Reds at Toronto Blue Jays",
       "short_name": "CIN @ TOR",
-      "status": "Scheduled",
-      "status_short": "9/26 - 3:07 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 5th",
+      "state": "in",
+      "period": 5,
       "clock": "0:00",
       "home_team": "Toronto Blue Jays",
       "away_team": "Cincinnati Reds",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "3",
       "home_record": "78-82",
       "away_record": "74-86",
       "venue": "Rogers Centre",
@@ -508,7 +508,7 @@
         "Sportsnet",
         "TVA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817090/reds-blue-jays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817090"
     },
     {
       "sport": "mlb",
@@ -516,9 +516,9 @@
       "date_utc": "2026-09-26T20:05Z",
       "name": "Los Angeles Dodgers at San Francisco Giants",
       "short_name": "LAD @ SF",
-      "status": "Scheduled",
-      "status_short": "9/26 - 4:05 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "End 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "San Francisco Giants",
@@ -533,7 +533,7 @@
         "NBC Sports BA",
         "SportsNet LA"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817101/dodgers-giants"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817101"
     },
     {
       "sport": "mlb",
@@ -541,15 +541,15 @@
       "date_utc": "2026-09-26T20:10Z",
       "name": "Atlanta Braves at Miami Marlins",
       "short_name": "ATL @ MIA",
-      "status": "Scheduled",
-      "status_short": "9/26 - 4:10 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Mid 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Miami Marlins",
       "away_team": "Atlanta Braves",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "79-81",
       "away_record": "93-67",
       "venue": "loanDepot park",
@@ -558,7 +558,7 @@
         "BravesVision",
         "Marlins.TV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817087/braves-marlins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817087"
     },
     {
       "sport": "mlb",
@@ -566,9 +566,9 @@
       "date_utc": "2026-09-26T20:10Z",
       "name": "Texas Rangers at Minnesota Twins",
       "short_name": "TEX @ MIN",
-      "status": "Scheduled",
-      "status_short": "9/26 - 4:10 PM EDT",
-      "state": "pre",
+      "status": "Rain Delay",
+      "status_short": "Rain Delay, Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Minnesota Twins",
@@ -583,7 +583,7 @@
         "Twins.TV",
         "Rangers Sports Network"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817097/rangers-twins"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817097"
     },
     {
       "sport": "mlb",
@@ -761,6 +761,31 @@
     },
     {
       "sport": "mlb",
+      "event_id": "401817103",
+      "date_utc": "2026-09-27T17:05Z",
+      "name": "Baltimore Orioles at New York Yankees",
+      "short_name": "BAL @ NYY",
+      "status": "Scheduled",
+      "status_short": "9/27 - 1:05 PM EDT",
+      "state": "pre",
+      "period": 1,
+      "clock": "0:00",
+      "home_team": "New York Yankees",
+      "away_team": "Baltimore Orioles",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "93-68",
+      "away_record": "79-82",
+      "venue": "Yankee Stadium",
+      "broadcasts": [
+        "MLB.TV",
+        "MASN",
+        "YES"
+      ],
+      "link": "https://www.espn.com/mlb/game/_/gameId/401817103/orioles-yankees"
+    },
+    {
+      "sport": "mlb",
       "event_id": "401817089",
       "date_utc": "2026-09-27T19:05Z",
       "name": "Chicago Cubs at Boston Red Sox",
@@ -798,8 +823,8 @@
       "away_team": "New York Mets",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "76-84",
-      "away_record": "73-87",
+      "home_record": "76-85",
+      "away_record": "74-87",
       "venue": "Nationals Park",
       "broadcasts": [
         "MLB.TV",
@@ -950,8 +975,8 @@
       "away_team": "Pittsburgh Pirates",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "75-85",
-      "away_record": "81-79",
+      "home_record": "76-85",
+      "away_record": "81-80",
       "venue": "Comerica Park",
       "broadcasts": [
         "MLB.TV",
@@ -978,6 +1003,7 @@
       "away_record": "84-76",
       "venue": "Kauffman Stadium",
       "broadcasts": [
+        "ESPN Unlmtd",
         "MLB.TV",
         "CLEGuardians.TV",
         "Royals.TV"
@@ -1108,31 +1134,6 @@
         "DBACKS.TV"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401817114/diamondbacks-padres"
-    },
-    {
-      "sport": "mlb",
-      "event_id": "401817103",
-      "date_utc": "2026-09-27T19:20Z",
-      "name": "Baltimore Orioles at New York Yankees",
-      "short_name": "BAL @ NYY",
-      "status": "Scheduled",
-      "status_short": "9/27 - 3:20 PM EDT",
-      "state": "pre",
-      "period": 1,
-      "clock": "0:00",
-      "home_team": "New York Yankees",
-      "away_team": "Baltimore Orioles",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "93-68",
-      "away_record": "79-82",
-      "venue": "Yankee Stadium",
-      "broadcasts": [
-        "MLB.TV",
-        "MASN",
-        "YES"
-      ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401817103/orioles-yankees"
     }
   ],
   "errors": []
