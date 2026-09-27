@@ -2,7 +2,7 @@ import { useEffect, useRef } from 'react';
 import type { Direction } from '../game/types';
 
 export interface KeyboardHandlers {
-  onMove: (direction: Direction) => void;
+  onMove: (direction: Direction, isRepeat: boolean) => void;
   onPrimary: () => void;
   onTogglePause: () => void;
   onRestart: () => void;
@@ -36,7 +36,7 @@ export function useKeyboard(handlers: KeyboardHandlers): void {
       const direction = MOVE_KEYS[k];
       if (direction) {
         event.preventDefault();
-        h.onMove(direction);
+        h.onMove(direction, event.repeat);
         return;
       }
       if (event.repeat) return;

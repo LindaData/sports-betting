@@ -39,6 +39,11 @@ const SOUNDS: Record<SoundKind, Note[]> = {
     { freq: 262, start: 0.44, duration: 0.22, wave: 'square', volume: 0.12 },
     { freq: 196, to: 98, start: 0.66, duration: 0.6, wave: 'sawtooth', volume: 0.14 },
   ],
+  warp: [
+    { freq: 300, to: 1200, start: 0, duration: 0.18, wave: 'sine', volume: 0.16 },
+    { freq: 600, to: 2400, start: 0.03, duration: 0.16, wave: 'triangle', volume: 0.06 },
+    { freq: 1500, to: 900, start: 0.18, duration: 0.12, wave: 'sine', volume: 0.08 },
+  ],
   start: [
     { freq: 440, start: 0, duration: 0.08, wave: 'square', volume: 0.08 },
     { freq: 880, start: 0.08, duration: 0.14, wave: 'square', volume: 0.08 },

@@ -1,6 +1,7 @@
 import { DIRECTIONS, distanceMap, findPath, key, manhattan, step, inBounds } from './grid';
+import { playerReachable, portalCells } from './portals';
 import type { Rng } from './random';
-import { GRID_SIZE, type Coin, type Enemy, type Level, type Point } from './types';
+import { GRID_SIZE, type Coin, type Enemy, type Level, type Point, type Portal } from './types';
 
 export const START: Point = { x: 0, y: GRID_SIZE - 1 };
 
@@ -10,6 +11,7 @@ export interface Difficulty {
   coins: number;
   enemyStepMs: number;
   chaseChance: number;
+  portalPairs: number;
 }
 
 /** Difficulty curve: every stat ramps gently and then plateaus at a fair ceiling. */
@@ -21,6 +23,8 @@ export function difficultyFor(levelNumber: number): Difficulty {
     coins: Math.min(4 + n, 12),
     enemyStepMs: Math.max(300, 850 - n * 55),
     chaseChance: Math.min(0.75, 0.2 + n * 0.06),
+    // Levels 1–2 teach the basics; warps arrive at level 3, 6 and 10.
+    portalPairs: levelNumber >= 10 ? 3 : levelNumber >= 6 ? 2 : levelNumber >= 3 ? 1 : 0,
   };
 }
 
@@ -65,6 +69,29 @@ function placeWalls(rng: Rng, count: number, reserved: Set<string>): Set<string>
   return walls;
 }
 
+const MIN_PORTAL_SPAN = 5;
+
+/**
+ * Pick endpoints for each warp pair. The two ends of a pair sit far apart so
+ * each warp is a real shortcut, and no endpoint touches another portal.
+ */
+function placePortals(rng: Rng, pairs: number, candidates: Point[]): Portal[] {
+  const pool = rng.shuffle([...candidates]);
+  const used: Point[] = [];
+  const clear = (p: Point) => used.every((u) => manhattan(u, p) >= 2);
+  const portals: Portal[] = [];
+  for (let id = 1; id <= pairs; id++) {
+    const a = pool.find(clear);
+    if (!a) break;
+    used.push(a);
+    const b = pool.find((p) => clear(p) && manhattan(a, p) >= MIN_PORTAL_SPAN);
+    if (!b) break;
+    used.push(b);
+    portals.push({ id, a, b });
+  }
+  return portals;
+}
+
 function parseKey(k: string): Point {
   const [x, y] = k.split(',').map(Number);
   return { x: x as number, y: y as number };
@@ -89,13 +116,27 @@ export function generateLevel(levelNumber: number, rng: Rng): Level {
       .filter((k) => k !== key(START) && k !== key(goal))
       .map(parseKey);
 
+    const portals = placePortals(
+      rng,
+      diff.portalPairs,
+      open.filter((p) => manhattan(p, START) >= 3 && manhattan(p, goal) >= 2),
+    );
+    if (portals.length < diff.portalPairs) continue;
+
+    // Portals can cut corridors (you can't walk *through* a portal cell), so
+    // re-check solvability with warp-following movement.
+    const standable = playerReachable(START, walls, portals);
+    if (!standable.has(key(goal))) continue;
+    const warpCells = portalCells(portals);
+    const itemCells = open.filter((p) => standable.has(key(p)) && !warpCells.has(key(p)));
+
     // Coins go on reachable cells, preferring a spread across the board.
-    const coinCells = rng.shuffle(open.filter((p) => manhattan(p, START) >= 2)).slice(0, diff.coins);
+    const coinCells = rng.shuffle(itemCells.filter((p) => manhattan(p, START) >= 2)).slice(0, diff.coins);
     if (coinCells.length < Math.min(diff.coins, 3)) continue;
     const coinKeys = new Set(coinCells.map(key));
 
     const enemyCells = rng
-      .shuffle(open.filter((p) => manhattan(p, START) >= 6 && !coinKeys.has(key(p))))
+      .shuffle(itemCells.filter((p) => manhattan(p, START) >= 6 && !coinKeys.has(key(p))))
       .slice(0, diff.enemies);
     if (enemyCells.length < diff.enemies) continue;
 
@@ -112,6 +153,7 @@ export function generateLevel(levelNumber: number, rng: Rng): Level {
       walls: [...walls].map(parseKey),
       coins,
       enemies,
+      portals,
       start: { ...START },
       goal,
       enemyStepMs: diff.enemyStepMs,
@@ -127,6 +169,7 @@ export function generateLevel(levelNumber: number, rng: Rng): Level {
     walls: [],
     coins: [],
     enemies: [],
+    portals: [],
     start: { ...START },
     goal,
     enemyStepMs: diff.enemyStepMs,

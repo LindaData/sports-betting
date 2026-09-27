@@ -31,7 +31,7 @@ function renderContent(
         <>
           <h2 className="overlay__title overlay__title--brand">Grid Rush</h2>
           <p className="overlay__text">
-            Grab the coins, dodge the hunters, and dash for the portal. Every level gets a little meaner.
+            Grab the coins, dodge the hunters, and dash for the exit. Every level gets a little meaner.
           </p>
           {state.highScore > 0 && (
             <p className="overlay__meta">

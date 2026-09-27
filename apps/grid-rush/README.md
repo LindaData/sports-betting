@@ -1,6 +1,6 @@
 # Grid Rush
 
-A small arcade strategy game for the browser. Steer your runner across a 10×10 grid, grab coins, dodge the hunters and reach the portal. Every level adds more walls, more coins and faster, smarter enemies, and the game keeps going until you run out of lives.
+A small arcade strategy game for the browser. Steer your runner across a 10×10 grid, grab coins, dodge the hunters, use warp portals and reach the exit. Every level adds more walls, more coins and faster, smarter enemies, and the game keeps going until you run out of lives.
 
 Built with React, TypeScript and Vite. No backend and no external assets. Graphics are CSS and inline SVG, and sound comes from the Web Audio API.
 
@@ -35,6 +35,8 @@ The game is served from `/grid-rush/` on the repo's GitHub Pages site.
 ## How to play
 
 - **Move:** Arrow keys or WASD. On touch screens, use the on-screen pad (hold a button to keep moving).
+- **Input buffering:** quick taps are queued (up to 3) and played out one step every 70 ms, so no press is lost. Held keys only top up an empty queue, so the runner stops as soon as you let go.
+- **Warp portals:** from level 3, matching coloured portals appear in pairs. Step into one and you come out of its twin. Hunters walk over portals but never teleport, so one can be waiting at the far end.
 - **Pause:** `P` / `Esc` · **Restart:** `R` · **Mute:** `M` · **Start / continue:** `Enter`
 - The game pauses on its own when the tab is hidden.
 
@@ -43,7 +45,7 @@ The game is served from `/grid-rush/` on the repo's GitHub Pages site.
 | Event | Points |
 |---|---|
 | Coin | +25 |
-| Reach the portal | +100 |
+| Reach the exit | +100 |
 | Speed bonus | +10 for every second under the level's par time |
 
 You start with 3 lives. If a hunter lands on your square, you lose a life, go back to the start and get a short shield. The high score and the mute setting are saved in `localStorage`.
@@ -59,8 +61,9 @@ Levels are generated procedurally from a seeded RNG. Each level ramps up these v
 | Coins | 4 | +1 | 12 |
 | Hunter step interval | 850 ms | −55 ms | 300 ms |
 | Chance a hunter chases you | 20% | +6% | 75% |
+| Warp portal pairs | 0 | 1 at level 3, 2 at level 6, 3 at level 10 | 3 |
 
-Every level has a path from the start to the goal, and every coin can be reached. The generator checks both with a breadth-first search and throws away any layout that fails. Hunters spawn at least 6 steps away from the start and never enter walls, the portal or the start square.
+Every level has a path from the start to the exit, and every coin can be reached. The generator checks both with a breadth-first search that follows warp portals the same way the player moves (you can't walk *through* a portal cell), and throws away any layout that fails. The two ends of a warp are at least 5 steps apart and never touch another portal. Coins, hunters, the start and the exit are never placed on a portal. Hunters spawn at least 6 steps away from the start and never enter walls, the exit or the start square.
 
 ## Code layout
 
@@ -72,9 +75,11 @@ src/
     grid.ts        grid helpers, BFS distance map and pathfinding
     level.ts       difficulty curve and procedural level generator
     enemies.ts     hunter movement (chase or wander)
+    portals.ts     warp lookup and portal-aware reachability
+    moveQueue.ts   buffered, steady-paced movement input
     engine.ts      reducer: movement, collisions, scoring, lives, timer, phases
     storage.ts     localStorage persistence (fails safely)
-    game.test.ts   engine tests
+    *.test.ts      engine, portal and input-queue tests
   audio/sfx.ts     Web Audio sound effects
   hooks/           useGame (loop, sound, persistence), useKeyboard
   components/      Board, Hud, Overlay, Controls, DPad, Instructions

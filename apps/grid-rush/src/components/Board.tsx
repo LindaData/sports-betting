@@ -63,6 +63,18 @@ export function Board({ state, children }: BoardProps) {
           <span className="goal__ring" />
           <span className="goal__core" />
         </Sprite>
+        {level.portals.flatMap((portal) =>
+          [portal.a, portal.b].map((end, i) => (
+            <Sprite
+              key={`p${level.number}-${portal.id}-${i}`}
+              at={end}
+              className={`warp warp--${((portal.id - 1) % 3) + 1}`}
+            >
+              <span className="warp__swirl" />
+              <span className="warp__eye" />
+            </Sprite>
+          )),
+        )}
         {level.coins.map((c) => (
           <Sprite key={`c${level.number}-${c.id}`} at={c} className="coin">
             <span className="coin__face" />
@@ -74,7 +86,7 @@ export function Board({ state, children }: BoardProps) {
           </Sprite>
         ))}
         <Sprite
-          key={`p${level.number}-${state.lives}`}
+          key={`me${level.number}-${state.lives}-${state.warps}`}
           at={player}
           className={`player${shielded ? ' player--shielded' : ''}`}
         >
@@ -82,7 +94,7 @@ export function Board({ state, children }: BoardProps) {
         </Sprite>
         {state.popups.map((p) => (
           <Sprite key={`pop${p.id}`} at={p} className={`popup popup--${p.tone}`}>
-            <span>{p.text}</span>
+            {p.text ? <span>{p.text}</span> : <span className="popup__burst" />}
           </Sprite>
         ))}
       </div>

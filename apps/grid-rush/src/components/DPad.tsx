@@ -12,7 +12,7 @@ const ARROWS: Record<Direction, string> = {
 };
 
 interface DPadProps {
-  onMove: (direction: Direction) => void;
+  onMove: (direction: Direction, isRepeat?: boolean) => void;
   disabled?: boolean;
 }
 
@@ -41,7 +41,7 @@ export function DPad({ onMove, disabled }: DPadProps) {
     stop();
     onMoveRef.current(direction);
     timers.current.delay = window.setTimeout(() => {
-      timers.current.repeat = window.setInterval(() => onMoveRef.current(direction), REPEAT_INTERVAL_MS);
+      timers.current.repeat = window.setInterval(() => onMoveRef.current(direction, true), REPEAT_INTERVAL_MS);
     }, REPEAT_DELAY_MS);
   };
 

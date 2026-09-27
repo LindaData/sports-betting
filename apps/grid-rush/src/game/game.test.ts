@@ -9,8 +9,9 @@ import {
   speedBonus,
   type GameAction,
 } from './engine';
-import { distanceMap, findPath, key, manhattan, samePoint } from './grid';
+import { findPath, key, manhattan, samePoint } from './grid';
 import { START, difficultyFor, generateLevel } from './level';
+import { playerReachable, portalCells, warpExit } from './portals';
 import { createRng } from './random';
 import { GRID_SIZE, type Direction, type GameState, type Point } from './types';
 
@@ -22,7 +23,7 @@ function playing(seed = 42): GameState {
 
 /** Replace the level with a hand-built board for precise scenarios. */
 function withBoard(state: GameState, patch: Partial<GameState['level']>): GameState {
-  return { ...state, level: { ...state.level, walls: [], coins: [], enemies: [], ...patch } };
+  return { ...state, level: { ...state.level, walls: [], coins: [], enemies: [], portals: [], ...patch } };
 }
 
 function directionTo(from: Point, to: Point): Direction {
@@ -47,8 +48,20 @@ describe('level generation', () => {
         expect(walls.has(key(level.goal))).toBe(false);
         expect(findPath(level.start, level.goal, walls)).not.toBeNull();
 
-        const reachable = distanceMap(level.start, walls);
+        // Reachability follows warp portals, exactly as the player moves.
+        const reachable = playerReachable(level.start, walls, level.portals);
+        expect(reachable.has(key(level.goal))).toBe(true);
         for (const coin of level.coins) expect(reachable.has(key(coin))).toBe(true);
+        expect(level.portals).toHaveLength(difficultyFor(levelNumber).portalPairs);
+        const warps = portalCells(level.portals);
+        expect(warps.size).toBe(level.portals.length * 2);
+        for (const cell of [...level.coins, ...level.enemies, level.goal, level.start]) {
+          expect(warps.has(key(cell))).toBe(false);
+        }
+        for (const portal of level.portals) {
+          expect(walls.has(key(portal.a)) || walls.has(key(portal.b))).toBe(false);
+          expect(manhattan(portal.a, portal.b)).toBeGreaterThanOrEqual(5);
+        }
         for (const enemy of level.enemies) {
           expect(walls.has(key(enemy))).toBe(false);
           expect(manhattan(enemy, level.start)).toBeGreaterThanOrEqual(6);
@@ -217,7 +230,7 @@ describe('game flow', () => {
     let s = playing(2024);
     // Freeze enemies out of the way to test the full clear -> next level loop.
     for (let level = 1; level <= 5; level++) {
-      s = { ...s, level: { ...s.level, enemies: [] } };
+      s = { ...s, level: { ...s.level, enemies: [], portals: [] } };
       const path = findPath(s.player, s.level.goal, new Set(s.level.walls.map(key)));
       expect(path).not.toBeNull();
       for (let i = 1; i < (path as Point[]).length; i++) {
@@ -229,5 +242,49 @@ describe('game flow', () => {
     }
     expect(s.level.number).toBe(6);
     expect(s.score).toBeGreaterThanOrEqual(5 * POINTS_GOAL);
+  });
+});
+
+describe('warp portals', () => {
+  const pair = { id: 1, a: { x: 0, y: GRID_SIZE - 2 }, b: { x: 7, y: 4 } };
+
+  it('ramps in from level 3 and caps at 3 pairs', () => {
+    expect([1, 2, 3, 5, 6, 9, 10, 40].map((n) => difficultyFor(n).portalPairs)).toEqual([0, 0, 1, 1, 2, 2, 3, 3]);
+  });
+
+  it('teleports the player to the twin endpoint, both ways', () => {
+    let s = withBoard(playing(), { portals: [pair] });
+    s = run(s, { type: 'MOVE', direction: 'up' });
+    expect(s.player).toEqual(pair.b);
+    expect(s.warps).toBe(1);
+    expect(s.sounds.at(-1)?.kind).toBe('warp');
+    expect(s.popups.filter((p) => p.tone === 'warp')).toHaveLength(2);
+
+    // Step off, then back in from the other side.
+    s = run(s, { type: 'MOVE', direction: 'right' }, { type: 'MOVE', direction: 'left' });
+    expect(s.player).toEqual(pair.a);
+    expect(s.warps).toBe(2);
+  });
+
+  it('a hunter waiting at the exit still catches you', () => {
+    let s = withBoard(playing(), {
+      portals: [pair],
+      enemies: [{ id: 1, ...pair.b, heading: 'up' }],
+      enemyStepMs: 100000,
+    });
+    s = run(s, { type: 'MOVE', direction: 'up' });
+    expect(s.lives).toBe(STARTING_LIVES - 1);
+    expect(s.player).toEqual(START);
+  });
+
+  it('reachability follows warps into otherwise sealed areas', () => {
+    // A wall ring seals the top-right corner; a warp is the only way in.
+    const walls = new Set(['7,0', '7,1', '7,2', '8,2', '9,2']);
+    const sealed = { x: 9, y: 0 };
+    expect(playerReachable(START, walls, []).has(key(sealed))).toBe(false);
+    const warp = { id: 1, a: { x: 3, y: 7 }, b: { x: 8, y: 1 } };
+    expect(playerReachable(START, walls, [warp]).has(key(sealed))).toBe(true);
+    expect(warpExit([warp], warp.a)).toEqual(warp.b);
+    expect(warpExit([warp], { x: 0, y: 0 })).toBeNull();
   });
 });
