@@ -120,6 +120,17 @@ jobs:
           mkdir -p ../../docs/chess-ascension
           cp -r dist/. ../../docs/chess-ascension/
 
+      # Piece It Together (photo jigsaw game) ships at /piece-it-together/.
+      # Relative asset paths, so no base URL is needed.
+      - name: Build Piece It Together into docs/piece-it-together
+        working-directory: apps/piece-it-together
+        run: |
+          npm ci
+          npm run build
+          rm -rf ../../docs/piece-it-together
+          mkdir -p ../../docs/piece-it-together
+          cp -r dist/. ../../docs/piece-it-together/
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
