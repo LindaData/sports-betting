@@ -50,8 +50,11 @@ index.html
 !apps/web/index.html
 !apps/grid-rush/index.html
 !apps/chess-ascension/index.html
+!apps/piece-it-together/index.html
 # Grid Rush static build published on Pages.
 !docs/grid-rush/index.html
 # Chess Ascension static build published on Pages.
 !docs/chess-ascension/index.html
+# Piece It Together static build published on Pages.
+!docs/piece-it-together/index.html
 **/*.quarto_ipynb
