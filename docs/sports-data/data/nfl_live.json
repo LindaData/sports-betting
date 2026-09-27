@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-09-27T13:10:28.387286Z",
+  "refreshed_at_utc": "2026-09-27T17:51:43.912665Z",
   "dates_requested": [
     "20260926",
     "20260927",
@@ -14,22 +14,22 @@
       "date_utc": "2026-09-27T17:00Z",
       "name": "Los Angeles Chargers at Buffalo Bills",
       "short_name": "LAC @ BUF",
-      "status": "Scheduled",
-      "status_short": "9/27 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "10:22 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "10:22",
       "home_team": "Buffalo Bills",
       "away_team": "Los Angeles Chargers",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "10",
       "home_record": "2-0",
       "away_record": "0-2",
       "venue": "Highmark Stadium",
       "broadcasts": [
         "FOX"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872953/chargers-bills"
+      "link": "https://www.espn.com/nfl/game?gameId=401872953"
     },
     {
       "sport": "nfl",
@@ -37,11 +37,11 @@
       "date_utc": "2026-09-27T17:00Z",
       "name": "Carolina Panthers at Cleveland Browns",
       "short_name": "CAR @ CLE",
-      "status": "Scheduled",
-      "status_short": "9/27 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "8:43 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "8:43",
       "home_team": "Cleveland Browns",
       "away_team": "Carolina Panthers",
       "home_score": "0",
@@ -52,7 +52,7 @@
       "broadcasts": [
         "FOX"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872949/panthers-browns"
+      "link": "https://www.espn.com/nfl/game?gameId=401872949"
     },
     {
       "sport": "nfl",
@@ -60,22 +60,22 @@
       "date_utc": "2026-09-27T17:00Z",
       "name": "New York Jets at Detroit Lions",
       "short_name": "NYJ @ DET",
-      "status": "Scheduled",
-      "status_short": "9/27 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "5:33 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "5:33",
       "home_team": "Detroit Lions",
       "away_team": "New York Jets",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "3",
+      "away_score": "6",
       "home_record": "1-1",
       "away_record": "1-1",
       "venue": "Ford Field",
       "broadcasts": [
         "FOX"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872954/jets-lions"
+      "link": "https://www.espn.com/nfl/game?gameId=401872954"
     },
     {
       "sport": "nfl",
@@ -83,14 +83,14 @@
       "date_utc": "2026-09-27T17:00Z",
       "name": "Houston Texans at Indianapolis Colts",
       "short_name": "HOU @ IND",
-      "status": "Scheduled",
-      "status_short": "9/27 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "11:08 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "11:08",
       "home_team": "Indianapolis Colts",
       "away_team": "Houston Texans",
-      "home_score": "0",
+      "home_score": "10",
       "away_score": "0",
       "home_record": "0-2",
       "away_record": "0-2",
@@ -98,7 +98,7 @@
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872951/texans-colts"
+      "link": "https://www.espn.com/nfl/game?gameId=401872951"
     },
     {
       "sport": "nfl",
@@ -106,22 +106,22 @@
       "date_utc": "2026-09-27T17:00Z",
       "name": "Kansas City Chiefs at Miami Dolphins",
       "short_name": "KC @ MIA",
-      "status": "Scheduled",
-      "status_short": "9/27 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "9:22 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "9:22",
       "home_team": "Miami Dolphins",
       "away_team": "Kansas City Chiefs",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "14",
       "home_record": "0-2",
       "away_record": "2-0",
       "venue": "Hard Rock Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872952/chiefs-dolphins"
+      "link": "https://www.espn.com/nfl/game?gameId=401872952"
     },
     {
       "sport": "nfl",
@@ -129,14 +129,14 @@
       "date_utc": "2026-09-27T17:00Z",
       "name": "Tennessee Titans at New York Giants",
       "short_name": "TEN @ NYG",
-      "status": "Scheduled",
-      "status_short": "9/27 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "11:59 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "11:59",
       "home_team": "New York Giants",
       "away_team": "Tennessee Titans",
-      "home_score": "0",
+      "home_score": "3",
       "away_score": "0",
       "home_record": "1-1",
       "away_record": "0-2",
@@ -144,7 +144,7 @@
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872956/titans-giants"
+      "link": "https://www.espn.com/nfl/game?gameId=401872956"
     },
     {
       "sport": "nfl",
@@ -152,22 +152,22 @@
       "date_utc": "2026-09-27T17:00Z",
       "name": "Cincinnati Bengals at Pittsburgh Steelers",
       "short_name": "CIN @ PIT",
-      "status": "Scheduled",
-      "status_short": "9/27 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "10:16 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "10:16",
       "home_team": "Pittsburgh Steelers",
       "away_team": "Cincinnati Bengals",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "14",
+      "away_score": "10",
       "home_record": "1-1",
       "away_record": "2-0",
       "venue": "Acrisure Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872950/bengals-steelers"
+      "link": "https://www.espn.com/nfl/game?gameId=401872950"
     },
     {
       "sport": "nfl",
@@ -175,22 +175,22 @@
       "date_utc": "2026-09-27T17:00Z",
       "name": "Seattle Seahawks at Washington Commanders",
       "short_name": "SEA @ WSH",
-      "status": "Scheduled",
-      "status_short": "9/27 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:27 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "13:27",
       "home_team": "Washington Commanders",
       "away_team": "Seattle Seahawks",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "7",
       "home_record": "0-2",
       "away_record": "2-0",
       "venue": "Northwest Stadium",
       "broadcasts": [
         "FOX"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872955/seahawks-commanders"
+      "link": "https://www.espn.com/nfl/game?gameId=401872955"
     },
     {
       "sport": "nfl",
@@ -198,14 +198,14 @@
       "date_utc": "2026-09-27T17:00Z",
       "name": "New England Patriots at Jacksonville Jaguars",
       "short_name": "NE @ JAX",
-      "status": "Scheduled",
-      "status_short": "9/27 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "11:04 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "11:04",
       "home_team": "Jacksonville Jaguars",
       "away_team": "New England Patriots",
-      "home_score": "0",
+      "home_score": "7",
       "away_score": "0",
       "home_record": "1-1",
       "away_record": "1-1",
@@ -213,7 +213,7 @@
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872957/patriots-jaguars"
+      "link": "https://www.espn.com/nfl/game?gameId=401872957"
     },
     {
       "sport": "nfl",
