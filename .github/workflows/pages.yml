@@ -64,6 +64,15 @@ jobs:
           FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
         run: quarto render
 
+      # A failed render can leave docs/ half-cleaned (Quarto clears its output
+      # dir first), which drops the homepage and reports from the deploy.
+      # Put back every committed docs/ file that is now missing; freshly
+      # rendered files are kept as they are.
+      - name: Restore committed site files the render removed
+        run: |
+          git ls-files --deleted -- docs | tee /tmp/restored.txt | xargs -r git checkout HEAD --
+          echo "Restored $(wc -l < /tmp/restored.txt) committed docs/ files"
+
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
 
