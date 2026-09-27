@@ -1,6 +1,7 @@
 import { moveEnemies } from './enemies';
 import { inBounds, samePoint, step } from './grid';
 import { generateLevel } from './level';
+import { warpExit } from './portals';
 import { createRng } from './random';
 import type { Direction, GameState, LevelSummary, Popup, SoundKind } from './types';
 
@@ -42,6 +43,7 @@ export function createInitialState(seed: number, highScore: number): GameState {
     invulnerableMs: 0,
     hitFlashMs: 0,
     coinsCollected: 0,
+    warps: 0,
     lastSummary: null,
     sounds: [],
     popups: [],
@@ -110,6 +112,16 @@ function movePlayer(state: GameState, direction: Direction): GameState {
   const target = step(state.player, direction);
   if (!inBounds(target)) return state;
   if (state.level.walls.some((w) => samePoint(w, target))) return state;
+
+  // Warp portals: step in, come out of the twin. Endpoints never hold coins
+  // or the goal, so the only thing left to check is a hunter at the exit.
+  const exit = warpExit(state.level.portals, target);
+  if (exit) {
+    let warped: GameState = { ...state, player: { ...exit }, warps: state.warps + 1 };
+    warped = withPopup(warped, { ...target, text: '', tone: 'warp' });
+    warped = withPopup(warped, { ...exit, text: '', tone: 'warp' });
+    return resolveCollision(withSound(warped, 'warp'));
+  }
 
   let next: GameState = { ...state, player: target };
 

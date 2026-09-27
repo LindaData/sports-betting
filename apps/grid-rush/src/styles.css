@@ -295,6 +295,44 @@ button {
   animation: pulse 1.4s ease-in-out infinite;
 }
 
+/* Warp portals: each pair shares a colour so twins are easy to match. */
+.warp--1 {
+  --warp: #ff9f40;
+}
+
+.warp--2 {
+  --warp: #4db8ff;
+}
+
+.warp--3 {
+  --warp: #b6ff4d;
+}
+
+.warp__swirl,
+.warp__eye {
+  grid-area: 1 / 1;
+  border-radius: 50%;
+}
+
+.warp__swirl {
+  width: 80%;
+  height: 80%;
+  background: conic-gradient(from 0deg, var(--warp), transparent 30%, var(--warp) 50%, transparent 80%, var(--warp));
+  mask: radial-gradient(circle, transparent 38%, #000 42%);
+  -webkit-mask: radial-gradient(circle, transparent 38%, #000 42%);
+  filter: drop-shadow(0 0 6px var(--warp));
+  animation: spin 1.4s linear infinite, pop-in 0.35s ease both;
+}
+
+.warp__eye {
+  width: 30%;
+  height: 30%;
+  background: radial-gradient(circle, #fff 0%, var(--warp) 70%);
+  box-shadow: 0 0 12px 2px var(--warp);
+  opacity: 0.85;
+  animation: pulse 1.1s ease-in-out infinite;
+}
+
 /* Coins */
 .coin__face {
   width: 44%;
@@ -337,7 +375,6 @@ button {
 .player {
   z-index: 2;
   transition: transform var(--move-ms) ease-out;
-  animation: pop-in 0.3s ease both;
 }
 
 .player__core {
@@ -349,6 +386,8 @@ button {
     0 0 16px rgba(56, 245, 208, 0.8),
     inset 0 -3px 0 rgba(0, 0, 0, 0.18);
   position: relative;
+  /* Animate the inner body: `scale` on the positioned sprite would also scale its translate. */
+  animation: pop-in 0.3s ease both;
 }
 
 .player__core::before,
@@ -396,6 +435,15 @@ button {
 .popup--hit span {
   color: var(--bad);
   text-shadow: 0 0 8px rgba(255, 84, 112, 0.8);
+}
+
+.popup--warp .popup__burst {
+  width: 90%;
+  height: 90%;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  box-shadow: 0 0 18px rgba(255, 255, 255, 0.8);
+  animation: warp-burst 0.5s ease-out forwards;
 }
 
 .popup--goal span {
@@ -780,6 +828,12 @@ button {
   box-shadow: 0 0 8px var(--goal);
 }
 
+.swatch--warp {
+  border-radius: 50%;
+  background: conic-gradient(#ff9f40, #4db8ff, #b6ff4d, #ff9f40);
+  box-shadow: 0 0 8px rgba(77, 184, 255, 0.7);
+}
+
 .howto h3 {
   margin: 0 0 6px;
   font-size: 0.72rem;
@@ -897,7 +951,7 @@ kbd {
   }
 }
 
-/* Uses the standalone `scale` property so it composes with sprite translation. */
+/* Apply to inner elements only: on a translated sprite, `scale` would also scale its offset. */
 @keyframes pop-in {
   from {
     scale: 0.3;
@@ -936,6 +990,17 @@ kbd {
   }
   80% {
     translate: 3px 0;
+  }
+}
+
+@keyframes warp-burst {
+  from {
+    transform: scale(0.3);
+    opacity: 1;
+  }
+  to {
+    transform: scale(1.6);
+    opacity: 0;
   }
 }
 

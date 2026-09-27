@@ -1,12 +1,12 @@
 import { useCallback, useEffect, useReducer, useRef, useState } from 'react';
 import { SoundEngine } from '../audio/sfx';
 import { createInitialState, gameReducer } from '../game/engine';
+import { MoveQueue } from '../game/moveQueue';
 import { randomSeed } from '../game/random';
 import { loadHighScore, loadMuted, saveHighScore, saveMuted } from '../game/storage';
 import type { Direction } from '../game/types';
 
 const TICK_MS = 50;
-const MIN_MOVE_GAP_MS = 75;
 export const LEVEL_ADVANCE_MS = 3200;
 
 /**
@@ -20,7 +20,8 @@ export function useGame() {
   const [muted, setMuted] = useState(loadMuted);
   const soundRef = useRef<SoundEngine | null>(null);
   const lastSoundId = useRef(0);
-  const lastMoveAt = useRef(0);
+  const moves = useRef(new MoveQueue());
+  const moveTimer = useRef<number | undefined>(undefined);
 
   const sound = useCallback(() => {
     if (!soundRef.current) soundRef.current = new SoundEngine();
@@ -67,6 +68,15 @@ export function useGame() {
     return () => document.removeEventListener('visibilitychange', onVisibility);
   }, []);
 
+  // Buffered moves never carry over into a pause, level change or game over.
+  useEffect(() => {
+    if (state.phase === 'playing') return;
+    moves.current.clear();
+    window.clearTimeout(moveTimer.current);
+  }, [state.phase]);
+
+  useEffect(() => () => window.clearTimeout(moveTimer.current), []);
+
   // Level-complete screen advances on its own after a short celebration.
   useEffect(() => {
     if (state.phase !== 'levelComplete') return;
@@ -79,12 +89,28 @@ export function useGame() {
     dispatch({ type: 'START', seed: randomSeed() });
   }, [sound]);
 
-  const move = useCallback((direction: Direction) => {
-    const now = performance.now();
-    if (now - lastMoveAt.current < MIN_MOVE_GAP_MS) return;
-    lastMoveAt.current = now;
-    dispatch({ type: 'MOVE', direction });
+  // Drain the move buffer at a steady pace: run what is due now, then wake
+  // up exactly when the next buffered step is allowed.
+  const pump = useCallback(() => {
+    const run = () => {
+      window.clearTimeout(moveTimer.current);
+      const queue = moves.current;
+      const now = performance.now();
+      const direction = queue.take(now);
+      if (direction) dispatch({ type: 'MOVE', direction });
+      const wait = queue.waitMs(now);
+      if (Number.isFinite(wait)) moveTimer.current = window.setTimeout(run, wait);
+    };
+    run();
   }, []);
+
+  const move = useCallback(
+    (direction: Direction, isRepeat = false) => {
+      moves.current.push(direction, isRepeat);
+      pump();
+    },
+    [pump],
+  );
 
   const pause = useCallback(() => dispatch({ type: 'PAUSE' }), []);
   const resume = useCallback(() => {

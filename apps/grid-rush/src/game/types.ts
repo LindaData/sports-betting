@@ -24,11 +24,19 @@ export interface Enemy extends Point {
   heading: Direction;
 }
 
+/** A linked pair of warp portals: stepping into one endpoint exits at the other. */
+export interface Portal {
+  id: number;
+  a: Point;
+  b: Point;
+}
+
 export interface Level {
   number: number;
   walls: Point[];
   coins: Coin[];
   enemies: Enemy[];
+  portals: Portal[];
   start: Point;
   goal: Point;
   /** Milliseconds between enemy steps. */
@@ -41,7 +49,7 @@ export interface Level {
 
 export type Phase = 'menu' | 'playing' | 'paused' | 'levelComplete' | 'gameOver';
 
-export type SoundKind = 'coin' | 'hit' | 'level' | 'gameOver' | 'step' | 'start';
+export type SoundKind = 'coin' | 'hit' | 'level' | 'gameOver' | 'step' | 'start' | 'warp';
 
 export interface SoundEvent {
   id: number;
@@ -53,7 +61,7 @@ export interface Popup {
   x: number;
   y: number;
   text: string;
-  tone: 'coin' | 'hit' | 'goal';
+  tone: 'coin' | 'hit' | 'goal' | 'warp';
   ttlMs: number;
 }
 
@@ -82,6 +90,8 @@ export interface GameState {
   invulnerableMs: number;
   hitFlashMs: number;
   coinsCollected: number;
+  /** Increments on every teleport so the player sprite re-mounts instead of sliding across the board. */
+  warps: number;
   lastSummary: LevelSummary | null;
   sounds: SoundEvent[];
   popups: Popup[];

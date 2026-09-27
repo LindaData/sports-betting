@@ -5,7 +5,8 @@ const LEGEND = [
   { swatch: 'coin', label: `Coin +${POINTS_COIN}` },
   { swatch: 'enemy', label: 'Hunter' },
   { swatch: 'wall', label: 'Wall' },
-  { swatch: 'goal', label: `Portal +${POINTS_GOAL}` },
+  { swatch: 'goal', label: `Exit +${POINTS_GOAL}` },
+  { swatch: 'warp', label: 'Warp' },
 ];
 
 export function Instructions() {
@@ -31,7 +32,11 @@ export function Instructions() {
             <kbd>S</kbd>
             <kbd>D</kbd>. On touch screens, use the pad.
           </li>
-          <li>Reach the portal in the top-right to clear the level. Beat the par time for a speed bonus.</li>
+          <li>Reach the purple exit in the top-right to clear the level. Beat the par time for a speed bonus.</li>
+          <li>
+            From level 3, matching warp portals appear. Step into one to pop out of its twin. Hunters can't use
+            them, but they can wait at the other end.
+          </li>
           <li>
             A hunter touching you costs a life. You have {STARTING_LIVES}, and you get a moment of shield after
             respawning.
