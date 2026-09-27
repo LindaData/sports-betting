@@ -6,7 +6,7 @@ export interface RunState {
   id: string;
   round: number;
   playerElo: number;
-  /** per-run difficulty jitter so each run starts a little differently */
+  /** legacy per-run ELO jitter; new runs use 0 so the ladder is exactly 400, 500, … */
   eloOffset: number;
   reinforcements: OwnedReinforcement[];
   phase: RunPhase;
@@ -19,15 +19,18 @@ export interface RunState {
   startedAt: number;
 }
 
-/** Displayed computer ELO for a round. Rounds 1–10 follow the design table; after that it climbs faster. */
-const ELO_TABLE = [800, 950, 1100, 1250, 1400, 1550, 1700, 1850, 2000, 2200];
+/** Displayed computer ELO for a round: 400 in round 1, +100 per round up to 2200 (round 19), then +250 per round. */
+export const START_ELO = 400;
+export const ELO_STEP = 100;
+export const LADDER_TOP = 2200;
+const LADDER_ROUNDS = (LADDER_TOP - START_ELO) / ELO_STEP + 1;
 export function baseEloForRound(round: number): number {
-  if (round <= ELO_TABLE.length) return ELO_TABLE[round - 1];
-  return 2200 + (round - 10) * 250;
+  if (round <= LADDER_ROUNDS) return START_ELO + (round - 1) * ELO_STEP;
+  return LADDER_TOP + (round - LADDER_ROUNDS) * 250;
 }
 
 export function computerElo(run: Pick<RunState, 'round' | 'eloOffset'>): number {
-  return Math.max(600, baseEloForRound(run.round) + run.eloOffset);
+  return Math.max(START_ELO, baseEloForRound(run.round) + run.eloOffset);
 }
 
 export function newRun(rand: () => number = Math.random): RunState {
@@ -35,7 +38,7 @@ export function newRun(rand: () => number = Math.random): RunState {
     id: Math.floor(rand() * 1e9).toString(36),
     round: 1,
     playerElo: 1200,
-    eloOffset: Math.round((rand() * 100 - 50) / 10) * 10,
+    eloOffset: 0,
     reinforcements: [],
     phase: 'round',
     offers: [],

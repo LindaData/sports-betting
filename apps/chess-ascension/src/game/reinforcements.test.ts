@@ -286,3 +286,21 @@ describe('computer opponent', () => {
     expect(m.log.length).toBeGreaterThan(10);
   });
 });
+
+describe('ELO ladder', () => {
+  it('starts at 400 and climbs 100 per round to 2200, then keeps climbing', async () => {
+    const { baseEloForRound, computerElo, newRun } = await import('./run');
+    expect([1, 2, 3, 10, 19].map(baseEloForRound)).toEqual([400, 500, 600, 1300, 2200]);
+    for (let r = 2; r <= 19; r++) expect(baseEloForRound(r) - baseEloForRound(r - 1)).toBe(100);
+    expect(baseEloForRound(20)).toBeGreaterThan(2200);
+    expect(computerElo(newRun())).toBe(400);
+  });
+
+  it('the AI gets weaker below 800 (more noise and mistakes)', () => {
+    const e400 = settingsForElo(400);
+    const e800 = settingsForElo(800);
+    expect(e400.noise).toBeGreaterThan(e800.noise);
+    expect(e400.blunder).toBeGreaterThan(e800.blunder);
+    expect(settingsForElo(500).blunder).toBeGreaterThan(settingsForElo(700).blunder);
+  });
+});

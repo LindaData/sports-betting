@@ -137,8 +137,7 @@ describe('Chess Ascension end-to-end', () => {
     await page.getByRole('button', { name: 'Start Run' }).click();
     await page.waitForSelector('[data-round="1"]');
     const elo1 = Number(await page.getAttribute('[data-computer-elo]', 'data-computer-elo'));
-    expect(elo1).toBeGreaterThanOrEqual(750);
-    expect(elo1).toBeLessThanOrEqual(850);
+    expect(elo1).toBe(400);
     await page.getByRole('button', { name: 'Start Game' }).click();
     await page.waitForSelector('.board');
 
@@ -190,7 +189,7 @@ describe('Chess Ascension end-to-end', () => {
     await page.click('.reward .btn--primary');
     await page.waitForSelector('[data-round="2"]');
     const elo2 = Number(await page.getAttribute('[data-computer-elo]', 'data-computer-elo'));
-    expect(elo2).toBe(elo1 + 150);
+    expect(elo2).toBe(500);
     expect((await owned()).map((o) => o.id)).toEqual([ids[0]]);
 
     const stats = await storage<{ games: number; wins: number; highestElo: number }>('chess-ascension:stats:v1');
@@ -199,13 +198,13 @@ describe('Chess Ascension end-to-end', () => {
   });
 
   it('Knight Queen, Pawn Momentum and Twin Strike all work together in the UI', async () => {
-    // Load a saved run with several reinforcements, as if the player had reached round 3.
+    // Load a saved run with several reinforcements, as if the player had reached round 8 (1100 ELO).
     await page.evaluate(() => {
       localStorage.setItem(
         'chess-ascension:run:v1',
         JSON.stringify({
           id: 'e2e',
-          round: 3,
+          round: 8,
           playerElo: 1240,
           eloOffset: 0,
           reinforcements: [
@@ -223,7 +222,7 @@ describe('Chess Ascension end-to-end', () => {
       );
     });
     await page.goto(URL);
-    await page.getByRole('button', { name: /Continue Run · Round 3/ }).click();
+    await page.getByRole('button', { name: /Continue Run · Round 8/ }).click();
     await page.getByRole('button', { name: 'Start Game' }).click();
     await page.waitForSelector('.board');
     expect(await page.textContent('.rpanel')).toContain('Knight Queen');
@@ -278,13 +277,13 @@ describe('Chess Ascension end-to-end', () => {
     await page.waitForSelector('.over');
     expect(await page.textContent('.over__title')).toMatch(/Run Over/i);
     const round = Number(await page.getAttribute('[data-over-round]', 'data-over-round'));
-    expect(round).toBeGreaterThanOrEqual(3);
+    expect(round).toBeGreaterThanOrEqual(8);
     expect(await page.$$('.over__cards .card')).not.toHaveLength(0);
 
     const stats = await storage<{ runs: number; losses: number; games: number; bestRound: number }>('chess-ascension:stats:v1');
     expect(stats?.runs).toBe(1);
     expect(stats?.losses).toBe(1);
-    expect(stats?.bestRound).toBeGreaterThanOrEqual(3);
+    expect(stats?.bestRound).toBeGreaterThanOrEqual(8);
     expect(await storage('chess-ascension:run:v1')).toBeNull();
 
     // restart
