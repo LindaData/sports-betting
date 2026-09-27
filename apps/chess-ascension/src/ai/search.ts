@@ -19,6 +19,11 @@ export interface AiSettings {
 export type Tier = 'Beginner' | 'Intermediate' | 'Advanced' | 'Expert' | 'Grandmaster';
 
 const LEVELS: { elo: number; s: AiSettings }[] = [
+  // 400–700: one-move lookahead with heavy noise and frequent deliberate mistakes
+  { elo: 450, s: { depth: 1, timeMs: 500, noise: 220, blunder: 0.55, blunderMargin: 900 } },
+  { elo: 550, s: { depth: 1, timeMs: 500, noise: 180, blunder: 0.45, blunderMargin: 700 } },
+  { elo: 650, s: { depth: 1, timeMs: 500, noise: 140, blunder: 0.38, blunderMargin: 550 } },
+  { elo: 750, s: { depth: 1, timeMs: 550, noise: 110, blunder: 0.33, blunderMargin: 420 } },
   { elo: 850, s: { depth: 1, timeMs: 600, noise: 90, blunder: 0.3, blunderMargin: 350 } },
   { elo: 1000, s: { depth: 2, timeMs: 700, noise: 65, blunder: 0.2, blunderMargin: 280 } },
   { elo: 1150, s: { depth: 2, timeMs: 800, noise: 45, blunder: 0.12, blunderMargin: 220 } },

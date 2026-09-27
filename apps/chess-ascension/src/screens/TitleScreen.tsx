@@ -71,7 +71,7 @@ export function TitleScreen({ stats, savedRun, onStart, onContinue, onAbandon, o
           <h2 className="panel__title">How a run works</h2>
           <ol className="howto__list">
             <li>
-              <strong>Play real chess</strong> as the cream pieces against a computer that starts near 800 ELO.
+              <strong>Play real chess</strong> as the cream pieces against a computer that starts at 400 ELO.
             </li>
             <li>
               <strong>Win to ascend.</strong> Pick 1 of 3 Reinforcements that permanently rewrite how your pieces move.

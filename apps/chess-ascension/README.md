@@ -47,7 +47,7 @@ src/components, src/screens   React UI.
 
 ### Difficulty
 
-The ELO shown is a progression label (800, 950, 1100 … 2200, then +250 per round, with a ±50 random offset per run). What actually changes is the search: the depth cap rises from 1 ply to 12 (in practice about 1 ply at 800 ELO and 6–7 plies above 2400), the time budget from 0.6 s to 3.2 s, and the random noise and deliberate mistakes shrink to zero by about 2000 ELO. Tiers: Beginner (rounds 1–3), Intermediate (4–6), Advanced (7–10), Expert (11+), and Grandmaster from 2700 ELO.
+The ELO shown is a progression label: 400 in round 1, +100 per round up to 2200 in round 19, then +250 per round. What actually changes is the search: below 800 the computer looks one move ahead with heavy random noise and frequent deliberate mistakes; from there the depth cap rises (about 6–7 plies above 2400), the time budget grows from 0.5 s to 3.2 s, and the noise and mistakes shrink to zero by about 2000 ELO. Tiers: Beginner (below 1250), Intermediate (below 1700), Advanced (up to 2200), Expert (2450+), Grandmaster (2700+).
 
 ### Adding a Reinforcement
 
