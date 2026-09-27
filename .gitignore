@@ -49,6 +49,9 @@ index.html
 # The Vite entry is real source, not Quarto render output.
 !apps/web/index.html
 !apps/grid-rush/index.html
+!apps/chess-ascension/index.html
 # Grid Rush static build published on Pages.
 !docs/grid-rush/index.html
+# Chess Ascension static build published on Pages.
+!docs/chess-ascension/index.html
 **/*.quarto_ipynb

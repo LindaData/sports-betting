@@ -2,6 +2,8 @@
 
 A roguelike chess game for the browser. Win a game, pick one of three **Reinforcements** that rewrite how your pieces move, then face a stronger computer. One loss ends the run.
 
+**Play:** https://lindadata.github.io/sports-betting/chess-ascension/
+
 Built with React, TypeScript, Vite and plain CSS. No backend: best round, best run and lifetime stats are saved in `localStorage`.
 
 ## Run it
@@ -12,6 +14,8 @@ npm install
 npm run dev        # http://localhost:5173
 npm run build      # static output in dist/ (relative paths, works from any subfolder)
 ```
+
+The Pages workflow rebuilds the game into `docs/chess-ascension/` on every push to `main`. The committed copy there is a fallback.
 
 ## Checks
 
