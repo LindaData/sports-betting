@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-09-28T01:54:13.281388Z",
+  "refreshed_at_utc": "2026-09-28T07:58:30.384563Z",
   "dates_requested": [
     "20260927",
     "20260928",
@@ -313,22 +313,22 @@
       "date_utc": "2026-09-28T00:20Z",
       "name": "Los Angeles Rams at Denver Broncos",
       "short_name": "LAR @ DEN",
-      "status": "Halftime",
-      "status_short": "Halftime",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Denver Broncos",
       "away_team": "Los Angeles Rams",
-      "home_score": "0",
-      "away_score": "16",
-      "home_record": "1-1",
-      "away_record": "1-1",
+      "home_score": "30",
+      "away_score": "26",
+      "home_record": "2-1",
+      "away_record": "1-2",
       "venue": "Empower Field at Mile High",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401872962"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872962/rams-broncos"
     },
     {
       "sport": "nfl",
