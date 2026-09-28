@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20260920-20261011",
+  "dates_requested": "20260921-20261012",
   "errors": [],
-  "event_count": 36,
+  "event_count": 41,
   "events": [
     {
       "away_score": null,
@@ -43,7 +43,7 @@
       "away_score": null,
       "away_team": "Golden State Warriors",
       "away_team_id": "9",
-      "city": "Inglewood",
+      "city": "Honolulu",
       "date_utc": "2026-10-04T23:00Z",
       "game_id": "401918010",
       "home_score": null,
@@ -55,7 +55,7 @@
       "sport": "nba",
       "status": "Scheduled",
       "status_code": "pre",
-      "venue": "Intuit Dome"
+      "venue": "Stan Sheriff Center"
     },
     {
       "away_score": null,
@@ -650,12 +650,102 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Ball Arena"
+    },
+    {
+      "away_score": null,
+      "away_team": "London Lions",
+      "away_team_id": "134478",
+      "city": "Portland",
+      "date_utc": "2026-10-12T20:00Z",
+      "game_id": "401914130",
+      "home_score": null,
+      "home_team": "Portland Trail Blazers",
+      "home_team_id": "22",
+      "league": "National Basketball Association",
+      "league_id": "nba",
+      "season": "2027",
+      "sport": "nba",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Moda Center"
+    },
+    {
+      "away_score": null,
+      "away_team": "Oklahoma City Thunder",
+      "away_team_id": "25",
+      "city": "Atlanta",
+      "date_utc": "2026-10-12T23:00Z",
+      "game_id": "401898402",
+      "home_score": null,
+      "home_team": "Atlanta Hawks",
+      "home_team_id": "1",
+      "league": "National Basketball Association",
+      "league_id": "nba",
+      "season": "2027",
+      "sport": "nba",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "State Farm Arena"
+    },
+    {
+      "away_score": null,
+      "away_team": "Brooklyn Nets",
+      "away_team_id": "17",
+      "city": "Washington",
+      "date_utc": "2026-10-12T23:00Z",
+      "game_id": "401901824",
+      "home_score": null,
+      "home_team": "Washington Wizards",
+      "home_team_id": "27",
+      "league": "National Basketball Association",
+      "league_id": "nba",
+      "season": "2027",
+      "sport": "nba",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Capital One Arena"
+    },
+    {
+      "away_score": null,
+      "away_team": "Minnesota Timberwolves",
+      "away_team_id": "16",
+      "city": "New York",
+      "date_utc": "2026-10-12T23:30Z",
+      "game_id": "401914124",
+      "home_score": null,
+      "home_team": "New York Knicks",
+      "home_team_id": "18",
+      "league": "National Basketball Association",
+      "league_id": "nba",
+      "season": "2027",
+      "sport": "nba",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Madison Square Garden"
+    },
+    {
+      "away_score": null,
+      "away_team": "San Antonio Spurs",
+      "away_team_id": "24",
+      "city": "Salt Lake City",
+      "date_utc": "2026-10-13T01:00Z",
+      "game_id": "401898721",
+      "home_score": null,
+      "home_team": "Utah Jazz",
+      "home_team_id": "26",
+      "league": "National Basketball Association",
+      "league_id": "nba",
+      "season": "2027",
+      "sport": "nba",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Delta Center"
     }
   ],
   "league": "NBA",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260920-20261011&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260921-20261012&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-09-27T14:48:29.028745Z",
+  "refreshed_at_utc": "2026-09-28T17:47:19.524415Z",
   "sport": "nba"
 }

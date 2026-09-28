@@ -1,44 +1,44 @@
 {
   "provider": "ESPN",
-  "refreshed_at_utc": "2026-09-27T14:48:29.028745Z",
+  "refreshed_at_utc": "2026-09-28T17:47:19.524415Z",
   "sports": {
     "cfb": {
       "errors": [],
       "events": 188,
       "notes": [
-        "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260920-20261011&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+        "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260921-20261012&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
       ],
       "standings_rows": 138
     },
     "mlb": {
       "errors": [],
-      "events": 140,
+      "events": 127,
       "notes": [
-        "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20260920-20261011&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+        "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20260921-20261012&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
       ],
       "standings_rows": 30
     },
     "nba": {
       "errors": [],
-      "events": 36,
+      "events": 41,
       "notes": [
-        "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260920-20261011&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+        "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260921-20261012&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
       ],
       "standings_rows": 30
     },
     "nfl": {
       "errors": [],
-      "events": 61,
+      "events": 48,
       "notes": [
-        "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920-20261011&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+        "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260921-20261012&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
       ],
       "standings_rows": 32
     },
     "nhl": {
       "errors": [],
-      "events": 144,
+      "events": 140,
       "notes": [
-        "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/scoreboard?dates=20260920-20261011&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+        "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/scoreboard?dates=20260921-20261012&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
       ],
       "standings_rows": 32
     }
