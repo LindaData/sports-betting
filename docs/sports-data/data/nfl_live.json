@@ -1,10 +1,10 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-09-27T23:29:25.634469Z",
+  "refreshed_at_utc": "2026-09-28T01:54:13.281388Z",
   "dates_requested": [
-    "20260926",
     "20260927",
-    "20260928"
+    "20260928",
+    "20260929"
   ],
   "event_count": 15,
   "events": [
@@ -217,29 +217,6 @@
     },
     {
       "sport": "nfl",
-      "event_id": "401872959",
-      "date_utc": "2026-09-27T20:05Z",
-      "name": "Minnesota Vikings at Tampa Bay Buccaneers",
-      "short_name": "MIN @ TB",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Tampa Bay Buccaneers",
-      "away_team": "Minnesota Vikings",
-      "home_score": "16",
-      "away_score": "23",
-      "home_record": "0-3",
-      "away_record": "3-0",
-      "venue": "Raymond James Stadium",
-      "broadcasts": [
-        "FOX"
-      ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872959/vikings-buccaneers"
-    },
-    {
-      "sport": "nfl",
       "event_id": "401872958",
       "date_utc": "2026-09-27T20:05Z",
       "name": "Arizona Cardinals at San Francisco 49ers",
@@ -263,26 +240,49 @@
     },
     {
       "sport": "nfl",
+      "event_id": "401872959",
+      "date_utc": "2026-09-27T20:05Z",
+      "name": "Minnesota Vikings at Tampa Bay Buccaneers",
+      "short_name": "MIN @ TB",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
+      "home_team": "Tampa Bay Buccaneers",
+      "away_team": "Minnesota Vikings",
+      "home_score": "16",
+      "away_score": "23",
+      "home_record": "0-3",
+      "away_record": "3-0",
+      "venue": "Raymond James Stadium",
+      "broadcasts": [
+        "FOX"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872959/vikings-buccaneers"
+    },
+    {
+      "sport": "nfl",
       "event_id": "401872960",
       "date_utc": "2026-09-27T20:25Z",
       "name": "Baltimore Ravens at Dallas Cowboys",
       "short_name": "BAL VS DAL",
-      "status": "In Progress",
-      "status_short": "1:38 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "1:38",
+      "clock": "0:00",
       "home_team": "Dallas Cowboys",
       "away_team": "Baltimore Ravens",
-      "home_score": "28",
-      "away_score": "24",
-      "home_record": "1-1",
-      "away_record": "1-1",
+      "home_score": "31",
+      "away_score": "34",
+      "home_record": "1-2",
+      "away_record": "2-1",
       "venue": "Maracan\u00e3 Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401872960"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872960/ravens-cowboys"
     },
     {
       "sport": "nfl",
@@ -290,22 +290,22 @@
       "date_utc": "2026-09-27T20:25Z",
       "name": "Las Vegas Raiders at New Orleans Saints",
       "short_name": "LV @ NO",
-      "status": "In Progress",
-      "status_short": "2:21 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "2:21",
+      "clock": "0:00",
       "home_team": "New Orleans Saints",
       "away_team": "Las Vegas Raiders",
       "home_score": "27",
       "away_score": "35",
-      "home_record": "1-1",
-      "away_record": "2-0",
+      "home_record": "1-2",
+      "away_record": "3-0",
       "venue": "Caesars Superdome",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401872961"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872961/raiders-saints"
     },
     {
       "sport": "nfl",
@@ -313,22 +313,22 @@
       "date_utc": "2026-09-28T00:20Z",
       "name": "Los Angeles Rams at Denver Broncos",
       "short_name": "LAR @ DEN",
-      "status": "Scheduled",
-      "status_short": "9/27 - 8:20 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Denver Broncos",
       "away_team": "Los Angeles Rams",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "16",
       "home_record": "1-1",
       "away_record": "1-1",
       "venue": "Empower Field at Mile High",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872962/rams-broncos"
+      "link": "https://www.espn.com/nfl/game?gameId=401872962"
     },
     {
       "sport": "nfl",
