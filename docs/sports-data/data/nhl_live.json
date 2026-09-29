@@ -1,12 +1,12 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-09-28T22:13:27.361608Z",
+  "refreshed_at_utc": "2026-09-29T02:06:58.866714Z",
   "dates_requested": [
-    "20260927",
     "20260928",
-    "20260929"
+    "20260929",
+    "20260930"
   ],
-  "event_count": 5,
+  "event_count": 8,
   "events": [
     {
       "sport": "nhl",
@@ -122,6 +122,78 @@
         "ESPN"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401891775/blackhawks-golden-knights"
+    },
+    {
+      "sport": "nhl",
+      "event_id": "401891821",
+      "date_utc": "2026-09-30T23:30Z",
+      "name": "Pittsburgh Penguins at Philadelphia Flyers",
+      "short_name": "PIT @ PHI",
+      "status": "Scheduled",
+      "status_short": "9/30 - 7:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Philadelphia Flyers",
+      "away_team": "Pittsburgh Penguins",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0-0",
+      "away_record": "0-0-0",
+      "venue": "Xfinity Mobile Arena",
+      "broadcasts": [
+        "TNT",
+        "truTV"
+      ],
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891821/penguins-flyers"
+    },
+    {
+      "sport": "nhl",
+      "event_id": "401892431",
+      "date_utc": "2026-09-30T23:30Z",
+      "name": "New York Islanders at Toronto Maple Leafs",
+      "short_name": "NYI @ TOR",
+      "status": "Scheduled",
+      "status_short": "9/30 - 7:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Toronto Maple Leafs",
+      "away_team": "New York Islanders",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0-0",
+      "away_record": "0-0-0",
+      "venue": "Scotiabank Arena",
+      "broadcasts": [
+        "ESPN+",
+        "MSGSN"
+      ],
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892431/islanders-maple-leafs"
+    },
+    {
+      "sport": "nhl",
+      "event_id": "401891780",
+      "date_utc": "2026-10-01T02:00Z",
+      "name": "Los Angeles Kings at Colorado Avalanche",
+      "short_name": "LA @ COL",
+      "status": "Scheduled",
+      "status_short": "9/30 - 10:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Colorado Avalanche",
+      "away_team": "Los Angeles Kings",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0-0",
+      "away_record": "0-0-0",
+      "venue": "Ball Arena",
+      "broadcasts": [
+        "TNT",
+        "truTV"
+      ],
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891780/kings-avalanche"
     }
   ],
   "errors": []
