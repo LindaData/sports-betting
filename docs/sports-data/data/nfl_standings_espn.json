@@ -1,6 +1,6 @@
 {
   "league": "NFL",
-  "refreshed_at_utc": "2026-09-28T17:47:19.524415Z",
+  "refreshed_at_utc": "2026-09-29T16:05:22.197963Z",
   "sport": "nfl",
   "standings": [
     {
@@ -88,27 +88,27 @@
       "wins": 2
     },
     {
-      "form": "L1",
+      "form": "W2",
       "group": "American Football Conference",
       "losses": 1,
       "percentage": 0.6666667,
       "played": 3,
       "position": 8,
       "sport": "nfl",
-      "team": "Cincinnati Bengals",
-      "team_id": "4",
+      "team": "Cleveland Browns",
+      "team_id": "5",
       "wins": 2
     },
     {
-      "form": "W2",
+      "form": "L1",
       "group": "American Football Conference",
       "losses": 1,
       "percentage": 0.6666667,
       "played": 3,
       "position": 9,
       "sport": "nfl",
-      "team": "Cleveland Browns",
-      "team_id": "5",
+      "team": "Cincinnati Bengals",
+      "team_id": "4",
       "wins": 2
     },
     {
@@ -179,8 +179,8 @@
       "played": 3,
       "position": 15,
       "sport": "nfl",
-      "team": "Houston Texans",
-      "team_id": "34",
+      "team": "Tennessee Titans",
+      "team_id": "10",
       "wins": 0
     },
     {
@@ -191,8 +191,8 @@
       "played": 3,
       "position": 16,
       "sport": "nfl",
-      "team": "Tennessee Titans",
-      "team_id": "10",
+      "team": "Houston Texans",
+      "team_id": "34",
       "wins": 0
     },
     {
@@ -220,11 +220,11 @@
       "wins": 3
     },
     {
-      "form": "W2",
+      "form": "L1",
       "group": "National Football Conference",
-      "losses": 0,
-      "percentage": 1.0,
-      "played": 2,
+      "losses": 1,
+      "percentage": 0.6666667,
+      "played": 3,
       "position": 3,
       "sport": "nfl",
       "team": "Philadelphia Eagles",
@@ -244,12 +244,24 @@
       "wins": 2
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "National Football Conference",
       "losses": 1,
       "percentage": 0.6666667,
       "played": 3,
       "position": 5,
+      "sport": "nfl",
+      "team": "Chicago Bears",
+      "team_id": "3",
+      "wins": 2
+    },
+    {
+      "form": "L1",
+      "group": "National Football Conference",
+      "losses": 1,
+      "percentage": 0.6666667,
+      "played": 3,
+      "position": 6,
       "sport": "nfl",
       "team": "Seattle Seahawks",
       "team_id": "26",
@@ -261,23 +273,11 @@
       "losses": 1,
       "percentage": 0.6666667,
       "played": 3,
-      "position": 6,
+      "position": 7,
       "sport": "nfl",
       "team": "New York Giants",
       "team_id": "19",
       "wins": 2
-    },
-    {
-      "form": "L1",
-      "group": "National Football Conference",
-      "losses": 1,
-      "percentage": 0.5,
-      "played": 2,
-      "position": 7,
-      "sport": "nfl",
-      "team": "Chicago Bears",
-      "team_id": "3",
-      "wins": 1
     },
     {
       "form": "L1",
@@ -316,15 +316,15 @@
       "wins": 1
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "National Football Conference",
       "losses": 2,
       "percentage": 0.33333334,
       "played": 3,
       "position": 11,
       "sport": "nfl",
-      "team": "Atlanta Falcons",
-      "team_id": "1",
+      "team": "New Orleans Saints",
+      "team_id": "18",
       "wins": 1
     },
     {
@@ -340,15 +340,15 @@
       "wins": 1
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "National Football Conference",
       "losses": 2,
       "percentage": 0.33333334,
       "played": 3,
       "position": 13,
       "sport": "nfl",
-      "team": "New Orleans Saints",
-      "team_id": "18",
+      "team": "Atlanta Falcons",
+      "team_id": "1",
       "wins": 1
     },
     {

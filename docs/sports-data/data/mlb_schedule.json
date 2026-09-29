@@ -1,62 +1,8 @@
 {
-  "dates_requested": "20260921-20261012",
+  "dates_requested": "20260922-20261013",
   "errors": [],
-  "event_count": 127,
+  "event_count": 125,
   "events": [
-    {
-      "away_score": 3,
-      "away_team": "Toronto Blue Jays",
-      "away_team_id": "14",
-      "city": "Baltimore",
-      "date_utc": "2026-09-21T22:35Z",
-      "game_id": "401817027",
-      "home_score": 4,
-      "home_team": "Baltimore Orioles",
-      "home_team_id": "1",
-      "league": "Major League Baseball",
-      "league_id": "mlb",
-      "season": "2026",
-      "sport": "mlb",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Oriole Park at Camden Yards"
-    },
-    {
-      "away_score": 2,
-      "away_team": "Washington Nationals",
-      "away_team_id": "20",
-      "city": "Detroit",
-      "date_utc": "2026-09-21T22:40Z",
-      "game_id": "401817028",
-      "home_score": 9,
-      "home_team": "Detroit Tigers",
-      "home_team_id": "6",
-      "league": "Major League Baseball",
-      "league_id": "mlb",
-      "season": "2026",
-      "sport": "mlb",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Comerica Park"
-    },
-    {
-      "away_score": 2,
-      "away_team": "Minnesota Twins",
-      "away_team_id": "9",
-      "city": "San Francisco",
-      "date_utc": "2026-09-22T01:45Z",
-      "game_id": "401817029",
-      "home_score": 5,
-      "home_team": "San Francisco Giants",
-      "home_team_id": "26",
-      "league": "Major League Baseball",
-      "league_id": "mlb",
-      "season": "2026",
-      "sport": "mlb",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Oracle Park"
-    },
     {
       "away_score": 0,
       "away_team": "Tampa Bay Rays",
@@ -2288,12 +2234,30 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": null
+    },
+    {
+      "away_score": null,
+      "away_team": "TBD",
+      "away_team_id": "-2",
+      "city": null,
+      "date_utc": "2026-10-13T04:00Z",
+      "game_id": "401908024",
+      "home_score": null,
+      "home_team": "TBD",
+      "home_team_id": "-1",
+      "league": "Major League Baseball",
+      "league_id": "mlb",
+      "season": "2026",
+      "sport": "mlb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": null
     }
   ],
   "league": "MLB",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20260921-20261012&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20260922-20261013&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-09-28T17:47:19.524415Z",
+  "refreshed_at_utc": "2026-09-29T16:05:22.197963Z",
   "sport": "mlb"
 }
