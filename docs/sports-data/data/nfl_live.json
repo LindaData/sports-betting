@@ -1,36 +1,35 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-09-29T23:49:22.936295Z",
+  "refreshed_at_utc": "2026-09-30T03:02:15.133754Z",
   "dates_requested": [
-    "20260928",
     "20260929",
-    "20260930"
+    "20260930",
+    "20261001"
   ],
   "event_count": 1,
   "events": [
     {
       "sport": "nfl",
-      "event_id": "401872963",
-      "date_utc": "2026-09-29T00:15Z",
-      "name": "Philadelphia Eagles at Chicago Bears",
-      "short_name": "PHI @ CHI",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
+      "event_id": "401872964",
+      "date_utc": "2026-10-02T00:15Z",
+      "name": "Pittsburgh Steelers at Cleveland Browns",
+      "short_name": "PIT @ CLE",
+      "status": "Scheduled",
+      "status_short": "10/1 - 8:15 PM EDT",
+      "state": "pre",
+      "period": 0,
       "clock": "0:00",
-      "home_team": "Chicago Bears",
-      "away_team": "Philadelphia Eagles",
-      "home_score": "27",
-      "away_score": "7",
+      "home_team": "Cleveland Browns",
+      "away_team": "Pittsburgh Steelers",
+      "home_score": "0",
+      "away_score": "0",
       "home_record": "2-1",
       "away_record": "2-1",
-      "venue": "Soldier Field",
+      "venue": "Huntington Bank Field",
       "broadcasts": [
-        "ESPN",
-        "ABC"
+        "Prime Video"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872963/eagles-bears"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872964/steelers-browns"
     }
   ],
   "errors": []

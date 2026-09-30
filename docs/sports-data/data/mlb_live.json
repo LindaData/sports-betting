@@ -1,12 +1,12 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-29T23:49:22.936295Z",
+  "refreshed_at_utc": "2026-09-30T03:02:15.133754Z",
   "dates_requested": [
-    "20260928",
     "20260929",
-    "20260930"
+    "20260930",
+    "20261001"
   ],
-  "event_count": 8,
+  "event_count": 12,
   "events": [
     {
       "sport": "mlb",
@@ -37,14 +37,14 @@
       "date_utc": "2026-09-29T21:00Z",
       "name": "Chicago White Sox at Houston Astros",
       "short_name": "CHW @ HOU",
-      "status": "In Progress",
-      "status_short": "Bot 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Houston Astros",
       "away_team": "Chicago White Sox",
-      "home_score": "2",
+      "home_score": "3",
       "away_score": "6",
       "home_record": "81-81",
       "away_record": "84-78",
@@ -53,7 +53,7 @@
         "Peacock",
         "NBCSN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401907896"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401907896/white-sox-astros"
     },
     {
       "sport": "mlb",
@@ -61,14 +61,14 @@
       "date_utc": "2026-09-30T00:00Z",
       "name": "Boston Red Sox at New York Yankees",
       "short_name": "BOS @ NYY",
-      "status": "Scheduled",
-      "status_short": "9/29 - 8:00 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 8th",
+      "state": "in",
+      "period": 8,
       "clock": "0:00",
       "home_team": "New York Yankees",
       "away_team": "Boston Red Sox",
-      "home_score": "0",
+      "home_score": "4",
       "away_score": "0",
       "home_record": "93-68",
       "away_record": "87-75",
@@ -76,7 +76,7 @@
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401907924/red-sox-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401907924"
     },
     {
       "sport": "mlb",
@@ -84,14 +84,14 @@
       "date_utc": "2026-09-30T02:00Z",
       "name": "Chicago Cubs at San Diego Padres",
       "short_name": "CHC @ SD",
-      "status": "Scheduled",
-      "status_short": "9/29 - 10:00 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 4th",
+      "state": "in",
+      "period": 4,
       "clock": "0:00",
       "home_team": "San Diego Padres",
       "away_team": "Chicago Cubs",
-      "home_score": "0",
+      "home_score": "3",
       "away_score": "0",
       "home_record": "91-71",
       "away_record": "89-73",
@@ -100,7 +100,7 @@
         "Peacock",
         "NBCSN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401907974/cubs-padres"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401907974"
     },
     {
       "sport": "mlb",
@@ -195,6 +195,100 @@
         "NBCSN"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401907975/cubs-padres"
+    },
+    {
+      "sport": "mlb",
+      "event_id": "401907973",
+      "date_utc": "2026-10-01T18:00Z",
+      "name": "Philadelphia Phillies at Atlanta Braves",
+      "short_name": "PHI @ ATL",
+      "status": "Scheduled",
+      "status_short": "10/1 - 2:00 PM EDT",
+      "state": "pre",
+      "period": 1,
+      "clock": "0:00",
+      "home_team": "Atlanta Braves",
+      "away_team": "Philadelphia Phillies",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "94-68",
+      "away_record": "88-74",
+      "venue": "Truist Park",
+      "broadcasts": [
+        "NBC"
+      ],
+      "link": "https://www.espn.com/mlb/game/_/gameId/401907973/phillies-braves"
+    },
+    {
+      "sport": "mlb",
+      "event_id": "401907898",
+      "date_utc": "2026-10-01T21:00Z",
+      "name": "Chicago White Sox at Houston Astros",
+      "short_name": "CHW @ HOU",
+      "status": "Scheduled",
+      "status_short": "10/1 - 5:00 PM EDT",
+      "state": "pre",
+      "period": 1,
+      "clock": "0:00",
+      "home_team": "Houston Astros",
+      "away_team": "Chicago White Sox",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "81-81",
+      "away_record": "84-78",
+      "venue": "Daikin Park",
+      "broadcasts": [
+        "Peacock",
+        "NBCSN"
+      ],
+      "link": "https://www.espn.com/mlb/game/_/gameId/401907898/white-sox-astros"
+    },
+    {
+      "sport": "mlb",
+      "event_id": "401907964",
+      "date_utc": "2026-10-02T00:00Z",
+      "name": "Boston Red Sox at New York Yankees",
+      "short_name": "BOS @ NYY",
+      "status": "Scheduled",
+      "status_short": "10/1 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 1,
+      "clock": "0:00",
+      "home_team": "New York Yankees",
+      "away_team": "Boston Red Sox",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "93-68",
+      "away_record": "87-75",
+      "venue": "Yankee Stadium",
+      "broadcasts": [
+        "NBC"
+      ],
+      "link": "https://www.espn.com/mlb/game/_/gameId/401907964/red-sox-yankees"
+    },
+    {
+      "sport": "mlb",
+      "event_id": "401907976",
+      "date_utc": "2026-10-02T02:00Z",
+      "name": "Chicago Cubs at San Diego Padres",
+      "short_name": "CHC @ SD",
+      "status": "Scheduled",
+      "status_short": "10/1 - 10:00 PM EDT",
+      "state": "pre",
+      "period": 1,
+      "clock": "0:00",
+      "home_team": "San Diego Padres",
+      "away_team": "Chicago Cubs",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "91-71",
+      "away_record": "89-73",
+      "venue": "Petco Park",
+      "broadcasts": [
+        "Peacock",
+        "NBCSN"
+      ],
+      "link": "https://www.espn.com/mlb/game/_/gameId/401907976/cubs-padres"
     }
   ],
   "errors": []
