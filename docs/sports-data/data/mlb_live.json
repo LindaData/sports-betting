@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-30T03:02:15.133754Z",
+  "refreshed_at_utc": "2026-09-30T09:52:00.077169Z",
   "dates_requested": [
     "20260929",
     "20260930",
@@ -61,14 +61,14 @@
       "date_utc": "2026-09-30T00:00Z",
       "name": "Boston Red Sox at New York Yankees",
       "short_name": "BOS @ NYY",
-      "status": "In Progress",
-      "status_short": "Bot 8th",
-      "state": "in",
-      "period": 8,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "New York Yankees",
       "away_team": "Boston Red Sox",
-      "home_score": "4",
+      "home_score": "9",
       "away_score": "0",
       "home_record": "93-68",
       "away_record": "87-75",
@@ -76,7 +76,7 @@
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401907924"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401907924/red-sox-yankees"
     },
     {
       "sport": "mlb",
@@ -84,14 +84,14 @@
       "date_utc": "2026-09-30T02:00Z",
       "name": "Chicago Cubs at San Diego Padres",
       "short_name": "CHC @ SD",
-      "status": "In Progress",
-      "status_short": "Top 4th",
-      "state": "in",
-      "period": 4,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "San Diego Padres",
       "away_team": "Chicago Cubs",
-      "home_score": "3",
+      "home_score": "8",
       "away_score": "0",
       "home_record": "91-71",
       "away_record": "89-73",
@@ -100,7 +100,7 @@
         "Peacock",
         "NBCSN"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401907974"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401907974/cubs-padres"
     },
     {
       "sport": "mlb",
