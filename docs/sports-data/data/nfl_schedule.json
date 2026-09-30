@@ -1,5 +1,5 @@
 {
-  "dates_requested": "20260922-20261013",
+  "dates_requested": "20260923-20261014",
   "errors": [],
   "event_count": 47,
   "events": [
@@ -617,6 +617,24 @@
     },
     {
       "away_score": null,
+      "away_team": "Chicago Bears",
+      "away_team_id": "3",
+      "city": "Green Bay",
+      "date_utc": "2026-10-11T17:00Z",
+      "game_id": "401872990",
+      "home_score": null,
+      "home_team": "Green Bay Packers",
+      "home_team_id": "9",
+      "league": "National Football League",
+      "league_id": "nfl",
+      "season": "2026",
+      "sport": "nfl",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Lambeau Field"
+    },
+    {
+      "away_score": null,
       "away_team": "Houston Texans",
       "away_team_id": "34",
       "city": "Nashville",
@@ -761,24 +779,6 @@
     },
     {
       "away_score": null,
-      "away_team": "Chicago Bears",
-      "away_team_id": "3",
-      "city": "Green Bay",
-      "date_utc": "2026-10-11T20:25Z",
-      "game_id": "401872990",
-      "home_score": null,
-      "home_team": "Green Bay Packers",
-      "home_team_id": "9",
-      "league": "National Football League",
-      "league_id": "nfl",
-      "season": "2026",
-      "sport": "nfl",
-      "status": "Scheduled",
-      "status_code": "pre",
-      "venue": "Lambeau Field"
-    },
-    {
-      "away_score": null,
       "away_team": "Detroit Lions",
       "away_team_id": "8",
       "city": "Glendale",
@@ -852,8 +852,8 @@
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260922-20261013&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260923-20261014&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-09-29T16:05:22.197963Z",
+  "refreshed_at_utc": "2026-09-30T16:03:04.381155Z",
   "sport": "nfl"
 }

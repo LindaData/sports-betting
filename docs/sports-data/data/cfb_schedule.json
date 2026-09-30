@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20260922-20261013",
+  "dates_requested": "20260923-20261014",
   "errors": [],
-  "event_count": 190,
+  "event_count": 192,
   "events": [
     {
       "away_score": 34,
@@ -3422,12 +3422,48 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "AmFirst Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "Kennesaw State Owls",
+      "away_team_id": "338",
+      "city": "Springfield",
+      "date_utc": "2026-10-14T23:30Z",
+      "game_id": "401871054",
+      "home_score": null,
+      "home_team": "Missouri State Bears",
+      "home_team_id": "2623",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Robert W. Plaster Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "Western Kentucky Hilltoppers",
+      "away_team_id": "98",
+      "city": "Huntsville",
+      "date_utc": "2026-10-15T00:00Z",
+      "game_id": "401871068",
+      "home_score": null,
+      "home_team": "Sam Houston Bearkats",
+      "home_team_id": "2534",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Elliott T. Bowers Stadium"
     }
   ],
   "league": "College Football",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260922-20261013&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260923-20261014&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-09-29T16:05:22.197963Z",
+  "refreshed_at_utc": "2026-09-30T16:03:04.381155Z",
   "sport": "cfb"
 }
