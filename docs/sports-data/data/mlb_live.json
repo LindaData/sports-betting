@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-09-30T16:09:57.261088Z",
+  "refreshed_at_utc": "2026-09-30T20:54:04.711723Z",
   "dates_requested": [
     "20260929",
     "20260930",
@@ -108,22 +108,22 @@
       "date_utc": "2026-09-30T18:00Z",
       "name": "Philadelphia Phillies at Atlanta Braves",
       "short_name": "PHI @ ATL",
-      "status": "Scheduled",
-      "status_short": "9/30 - 2:00 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 9th",
+      "state": "in",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Atlanta Braves",
       "away_team": "Philadelphia Phillies",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "3",
+      "away_score": "3",
       "home_record": "94-68",
       "away_record": "88-74",
       "venue": "Truist Park",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401907972/phillies-braves"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401907972"
     },
     {
       "sport": "mlb",
