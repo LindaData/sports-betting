@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-01T19:08:39.812200Z",
+  "refreshed_at_utc": "2026-10-01T23:17:03.790532Z",
   "dates_requested": [
     "20260930",
     "20261001",
@@ -86,11 +86,11 @@
       "date_utc": "2026-10-01T23:00Z",
       "name": "Buffalo Sabres at Columbus Blue Jackets",
       "short_name": "BUF @ CBJ",
-      "status": "Scheduled",
-      "status_short": "10/1 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "19:09 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "19:09",
       "home_team": "Columbus Blue Jackets",
       "away_team": "Buffalo Sabres",
       "home_score": "0",
@@ -103,7 +103,7 @@
         "MSGB",
         "CBJNHL"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401891781/sabres-blue-jackets"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891781"
     },
     {
       "sport": "nhl",
@@ -111,11 +111,11 @@
       "date_utc": "2026-10-01T23:00Z",
       "name": "Philadelphia Flyers at New Jersey Devils",
       "short_name": "PHI @ NJ",
-      "status": "Scheduled",
-      "status_short": "10/1 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "15:07 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "15:07",
       "home_team": "New Jersey Devils",
       "away_team": "Philadelphia Flyers",
       "home_score": "0",
@@ -128,7 +128,7 @@
         "ESPN+",
         "Hulu"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401891817/flyers-devils"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891817"
     },
     {
       "sport": "nhl",
@@ -136,11 +136,11 @@
       "date_utc": "2026-10-01T23:00Z",
       "name": "Tampa Bay Lightning at New York Rangers",
       "short_name": "TB @ NYR",
-      "status": "Scheduled",
-      "status_short": "10/1 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "20:00 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "20:00",
       "home_team": "New York Rangers",
       "away_team": "Tampa Bay Lightning",
       "home_score": "0",
@@ -153,7 +153,7 @@
         "MSG",
         "The Spot - MTN"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401891819/lightning-rangers"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891819"
     },
     {
       "sport": "nhl",
