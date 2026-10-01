@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20260923-20261014",
+  "dates_requested": "20260924-20261015",
   "errors": [],
-  "event_count": 192,
+  "event_count": 195,
   "events": [
     {
       "away_score": 34,
@@ -3458,12 +3458,66 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Elliott T. Bowers Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "East Carolina Pirates",
+      "away_team_id": "151",
+      "city": "Birmingham",
+      "date_utc": "2026-10-15T23:30Z",
+      "game_id": "401862800",
+      "home_score": null,
+      "home_team": "UAB Blazers",
+      "home_team_id": "5",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Protective Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "Georgia Southern Eagles",
+      "away_team_id": "290",
+      "city": "Norfolk",
+      "date_utc": "2026-10-15T23:30Z",
+      "game_id": "401869950",
+      "home_score": null,
+      "home_team": "Old Dominion Monarchs",
+      "home_team_id": "295",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "S.B. Ballard Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "Colorado State Rams",
+      "away_team_id": "36",
+      "city": "San Marcos",
+      "date_utc": "2026-10-16T00:00Z",
+      "game_id": "401860923",
+      "home_score": null,
+      "home_team": "Texas State Bobcats",
+      "home_team_id": "326",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "UFCU Stadium"
     }
   ],
   "league": "College Football",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260923-20261014&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260924-20261015&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-09-30T16:03:04.381155Z",
+  "refreshed_at_utc": "2026-10-01T16:40:04.109065Z",
   "sport": "cfb"
 }
