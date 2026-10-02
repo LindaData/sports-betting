@@ -1,12 +1,36 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-01T23:17:03.790532Z",
+  "refreshed_at_utc": "2026-10-02T02:21:58.664404Z",
   "dates_requested": [
-    "20260930",
     "20261001",
-    "20261002"
+    "20261002",
+    "20261003"
   ],
-  "event_count": 0,
-  "events": [],
+  "event_count": 1,
+  "events": [
+    {
+      "sport": "nba",
+      "event_id": "401902644",
+      "date_utc": "2026-10-03T23:00Z",
+      "name": "Miami Heat at Toronto Raptors",
+      "short_name": "MIA @ TOR",
+      "status": "Scheduled",
+      "status_short": "10/3 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "Toronto Raptors",
+      "away_team": "Miami Heat",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Videotron Centre",
+      "broadcasts": [
+        "NBA TV"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401902644/heat-raptors"
+    }
+  ],
   "errors": []
 }

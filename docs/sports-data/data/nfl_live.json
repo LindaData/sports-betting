@@ -1,10 +1,10 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-01T23:17:03.790532Z",
+  "refreshed_at_utc": "2026-10-02T02:21:58.664404Z",
   "dates_requested": [
-    "20260930",
     "20261001",
-    "20261002"
+    "20261002",
+    "20261003"
   ],
   "event_count": 1,
   "events": [
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-02T00:15Z",
       "name": "Pittsburgh Steelers at Cleveland Browns",
       "short_name": "PIT @ CLE",
-      "status": "Scheduled",
-      "status_short": "10/1 - 8:15 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "9:33 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "9:33",
       "home_team": "Cleveland Browns",
       "away_team": "Pittsburgh Steelers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "21",
+      "away_score": "10",
       "home_record": "2-1",
       "away_record": "2-1",
       "venue": "Huntington Bank Field",
       "broadcasts": [
         "Prime Video"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872964/steelers-browns"
+      "link": "https://www.espn.com/nfl/game?gameId=401872964"
     }
   ],
   "errors": []
