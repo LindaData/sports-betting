@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-02T20:00:53.993806Z",
+  "refreshed_at_utc": "2026-10-02T23:53:29.720217Z",
   "dates_requested": [
     "20261001",
     "20261002",
@@ -60,22 +60,22 @@
       "date_utc": "2026-10-02T23:00Z",
       "name": "Pittsburgh Panthers at Virginia Tech Hokies",
       "short_name": "PITT @ VT",
-      "status": "Scheduled",
-      "status_short": "10/2 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 1st",
+      "state": "in",
+      "period": 1,
       "clock": "0:00",
       "home_team": "Virginia Tech Hokies",
       "away_team": "Pittsburgh Panthers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "14",
+      "away_score": "7",
       "home_record": "4-0",
       "away_record": "4-0",
       "venue": "Lane Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858245/pitt-virginia-tech"
+      "link": "https://www.espn.com/college-football/game?gameId=401858245"
     },
     {
       "sport": "cfb",
@@ -83,22 +83,22 @@
       "date_utc": "2026-10-02T23:00Z",
       "name": "Liberty Flames at Delaware Blue Hens",
       "short_name": "LIB @ DEL",
-      "status": "Scheduled",
-      "status_short": "10/2 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "7:44 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "7:44",
       "home_team": "Delaware Blue Hens",
       "away_team": "Liberty Flames",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "6",
       "home_record": "2-2",
       "away_record": "3-1",
       "venue": "Delaware Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871050/liberty-delaware"
+      "link": "https://www.espn.com/college-football/game?gameId=401871050"
     },
     {
       "sport": "cfb",
