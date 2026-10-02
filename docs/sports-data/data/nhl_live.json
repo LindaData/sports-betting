@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-02T02:21:58.664404Z",
+  "refreshed_at_utc": "2026-10-02T08:43:48.749286Z",
   "dates_requested": [
     "20261001",
     "20261002",
@@ -89,24 +89,24 @@
       "date_utc": "2026-10-02T00:00Z",
       "name": "Minnesota Wild at Nashville Predators",
       "short_name": "MIN @ NSH",
-      "status": "In Progress",
-      "status_short": "11:37 - 3rd",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 3,
-      "clock": "11:37",
+      "clock": "0:00",
       "home_team": "Nashville Predators",
       "away_team": "Minnesota Wild",
       "home_score": "1",
       "away_score": "3",
-      "home_record": "0-0-0",
-      "away_record": "0-0-0",
+      "home_record": "0-1-0",
+      "away_record": "1-0-0",
       "venue": "Bridgestone Arena",
       "broadcasts": [
         "ESPN+",
         "Scripps Sports",
         "MINNHL"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401891816"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891816/wild-predators"
     },
     {
       "sport": "nhl",
@@ -114,17 +114,17 @@
       "date_utc": "2026-10-02T01:00Z",
       "name": "Seattle Kraken at Calgary Flames",
       "short_name": "SEA @ CGY",
-      "status": "In Progress",
-      "status_short": "17:33 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "17:33",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 3,
+      "clock": "0:00",
       "home_team": "Calgary Flames",
       "away_team": "Seattle Kraken",
-      "home_score": "0",
-      "away_score": "3",
-      "home_record": "0-0-0",
-      "away_record": "0-0-0",
+      "home_score": "1",
+      "away_score": "6",
+      "home_record": "0-1-0",
+      "away_record": "1-0-0",
       "venue": "Scotiabank Saddledome",
       "broadcasts": [
         "ESPN+",
@@ -132,7 +132,7 @@
         "KHN",
         "Prime Video (Local)"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401891777"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891777/kraken-flames"
     },
     {
       "sport": "nhl",
@@ -140,24 +140,24 @@
       "date_utc": "2026-10-02T01:30Z",
       "name": "Chicago Blackhawks at Utah Mammoth",
       "short_name": "CHI @ UTA",
-      "status": "End of Period",
-      "status_short": "End of 1st",
-      "state": "in",
-      "period": 1,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Utah Mammoth",
       "away_team": "Chicago Blackhawks",
-      "home_score": "2",
+      "home_score": "6",
       "away_score": "0",
-      "home_record": "0-0-0",
-      "away_record": "0-1-0",
+      "home_record": "1-0-0",
+      "away_record": "0-2-0",
       "venue": "Delta Center",
       "broadcasts": [
         "Disney+",
         "ESPN+",
         "Hulu"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401891828"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891828/blackhawks-mammoth"
     },
     {
       "sport": "nhl",
@@ -165,24 +165,24 @@
       "date_utc": "2026-10-02T02:00Z",
       "name": "Florida Panthers at San Jose Sharks",
       "short_name": "FLA @ SJ",
-      "status": "In Progress",
-      "status_short": "13:29 - 1st",
-      "state": "in",
-      "period": 1,
-      "clock": "13:29",
+      "status": "Final",
+      "status_short": "Final/OT",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "San Jose Sharks",
       "away_team": "Florida Panthers",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "0-0-0",
-      "away_record": "1-0-0",
+      "home_score": "4",
+      "away_score": "3",
+      "home_record": "1-0-0",
+      "away_record": "1-0-1",
       "venue": "SAP Center at San Jose",
       "broadcasts": [
         "ESPN+",
         "Scripps Sports",
         "NBC Sports BA"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401891823"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891823/panthers-sharks"
     },
     {
       "sport": "nhl",
@@ -190,22 +190,22 @@
       "date_utc": "2026-10-02T02:00Z",
       "name": "Edmonton Oilers at Vancouver Canucks",
       "short_name": "EDM @ VAN",
-      "status": "In Progress",
-      "status_short": "15:35 - 1st",
-      "state": "in",
-      "period": 1,
-      "clock": "15:35",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 3,
+      "clock": "0:00",
       "home_team": "Vancouver Canucks",
       "away_team": "Edmonton Oilers",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "1-0-0",
-      "away_record": "0-0-1",
+      "home_score": "7",
+      "away_score": "9",
+      "home_record": "1-1-0",
+      "away_record": "1-0-1",
       "venue": "Rogers Arena",
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401891829"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891829/oilers-canucks"
     },
     {
       "sport": "nhl",
@@ -346,7 +346,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "0-1-0",
-      "away_record": "0-1-0",
+      "away_record": "0-2-0",
       "venue": "KeyBank Center",
       "broadcasts": [
         "ESPN+",
@@ -467,7 +467,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "1-0-0",
-      "away_record": "0-0-0",
+      "away_record": "1-0-0",
       "venue": "Nationwide Arena",
       "broadcasts": [
         "ESPN+",
@@ -491,8 +491,8 @@
       "away_team": "Seattle Kraken",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "0-0-1",
-      "away_record": "0-0-0",
+      "home_record": "1-0-1",
+      "away_record": "1-0-0",
       "venue": "Rogers Place",
       "broadcasts": [
         "NHL Net",
@@ -542,7 +542,7 @@
       "away_team": "Boston Bruins",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "0-0-0",
+      "home_record": "1-0-0",
       "away_record": "1-0-0",
       "venue": "Grand Casino Arena",
       "broadcasts": [
@@ -567,7 +567,7 @@
       "away_team": "Dallas Stars",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "0-0-0",
+      "home_record": "0-1-0",
       "away_record": "0-0-0",
       "venue": "Bridgestone Arena",
       "broadcasts": [
@@ -618,8 +618,8 @@
       "away_team": "Calgary Flames",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "1-0-0",
-      "away_record": "0-0-0",
+      "home_record": "1-1-0",
+      "away_record": "0-1-0",
       "venue": "Rogers Arena",
       "broadcasts": [
         "ESPN+"
@@ -641,7 +641,7 @@
       "away_team": "Los Angeles Kings",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "0-0-0",
+      "home_record": "1-0-0",
       "away_record": "0-1-0",
       "venue": "SAP Center at San Jose",
       "broadcasts": [
