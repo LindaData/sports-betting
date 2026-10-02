@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-10-01T16:40:04.109065Z",
+  "refreshed_at_utc": "2026-10-02T15:56:44.287191Z",
   "sport": "cfb",
   "standings": [
     {
@@ -40,24 +40,12 @@
       "wins": 3
     },
     {
-      "form": "L1",
-      "group": "American Conference",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 4,
-      "sport": "cfb",
-      "team": "Tulsa Golden Hurricane",
-      "team_id": "202",
-      "wins": 3
-    },
-    {
       "form": "W1",
       "group": "American Conference",
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 5,
+      "position": 4,
       "sport": "cfb",
       "team": "UTSA Roadrunners",
       "team_id": "2636",
@@ -69,11 +57,35 @@
       "losses": null,
       "percentage": 0.5,
       "played": null,
-      "position": 6,
+      "position": 5,
       "sport": "cfb",
       "team": "Army Black Knights",
       "team_id": "349",
       "wins": 2
+    },
+    {
+      "form": "W2",
+      "group": "American Conference",
+      "losses": null,
+      "percentage": 1.0,
+      "played": null,
+      "position": 6,
+      "sport": "cfb",
+      "team": "North Texas Mean Green",
+      "team_id": "249",
+      "wins": 3
+    },
+    {
+      "form": "L2",
+      "group": "American Conference",
+      "losses": null,
+      "percentage": 0.0,
+      "played": null,
+      "position": 7,
+      "sport": "cfb",
+      "team": "Tulsa Golden Hurricane",
+      "team_id": "202",
+      "wins": 3
     },
     {
       "form": "W1",
@@ -81,7 +93,7 @@
       "losses": null,
       "percentage": 1.0,
       "played": null,
-      "position": 7,
+      "position": 8,
       "sport": "cfb",
       "team": "UAB Blazers",
       "team_id": "5",
@@ -93,22 +105,10 @@
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 8,
+      "position": 9,
       "sport": "cfb",
       "team": "East Carolina Pirates",
       "team_id": "151",
-      "wins": 2
-    },
-    {
-      "form": "W1",
-      "group": "American Conference",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 9,
-      "sport": "cfb",
-      "team": "North Texas Mean Green",
-      "team_id": "249",
       "wins": 2
     },
     {
@@ -844,12 +844,24 @@
       "wins": 2
     },
     {
+      "form": "W1",
+      "group": "Conference USA",
+      "losses": null,
+      "percentage": 1.0,
+      "played": null,
+      "position": 6,
+      "sport": "cfb",
+      "team": "New Mexico State Aggies",
+      "team_id": "166",
+      "wins": 2
+    },
+    {
       "form": "L3",
       "group": "Conference USA",
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 6,
+      "position": 7,
       "sport": "cfb",
       "team": "Kennesaw State Owls",
       "team_id": "338",
@@ -861,22 +873,10 @@
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 7,
+      "position": 8,
       "sport": "cfb",
       "team": "Missouri State Bears",
       "team_id": "2623",
-      "wins": 1
-    },
-    {
-      "form": "L2",
-      "group": "Conference USA",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 8,
-      "sport": "cfb",
-      "team": "New Mexico State Aggies",
-      "team_id": "166",
       "wins": 1
     },
     {
@@ -892,7 +892,7 @@
       "wins": 1
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "Conference USA",
       "losses": null,
       "percentage": 0.0,

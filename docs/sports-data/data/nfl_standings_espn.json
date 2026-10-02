@@ -1,6 +1,6 @@
 {
   "league": "NFL",
-  "refreshed_at_utc": "2026-10-01T16:40:04.109065Z",
+  "refreshed_at_utc": "2026-10-02T15:56:44.287191Z",
   "sport": "nfl",
   "standings": [
     {
@@ -40,16 +40,16 @@
       "wins": 3
     },
     {
-      "form": "W1",
+      "form": "W3",
       "group": "American Football Conference",
       "losses": 1,
-      "percentage": 0.6666667,
-      "played": 3,
+      "percentage": 0.75,
+      "played": 4,
       "position": 4,
       "sport": "nfl",
-      "team": "Jacksonville Jaguars",
-      "team_id": "30",
-      "wins": 2
+      "team": "Cleveland Browns",
+      "team_id": "5",
+      "wins": 3
     },
     {
       "form": "W1",
@@ -59,8 +59,8 @@
       "played": 3,
       "position": 5,
       "sport": "nfl",
-      "team": "Pittsburgh Steelers",
-      "team_id": "23",
+      "team": "Jacksonville Jaguars",
+      "team_id": "30",
       "wins": 2
     },
     {
@@ -88,27 +88,27 @@
       "wins": 2
     },
     {
-      "form": "W2",
+      "form": "L1",
       "group": "American Football Conference",
       "losses": 1,
       "percentage": 0.6666667,
       "played": 3,
       "position": 8,
       "sport": "nfl",
-      "team": "Cleveland Browns",
-      "team_id": "5",
+      "team": "Cincinnati Bengals",
+      "team_id": "4",
       "wins": 2
     },
     {
       "form": "L1",
       "group": "American Football Conference",
-      "losses": 1,
-      "percentage": 0.6666667,
-      "played": 3,
+      "losses": 2,
+      "percentage": 0.5,
+      "played": 4,
       "position": 9,
       "sport": "nfl",
-      "team": "Cincinnati Bengals",
-      "team_id": "4",
+      "team": "Pittsburgh Steelers",
+      "team_id": "23",
       "wins": 2
     },
     {
@@ -316,27 +316,27 @@
       "wins": 1
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "National Football Conference",
       "losses": 2,
       "percentage": 0.33333334,
       "played": 3,
       "position": 11,
       "sport": "nfl",
-      "team": "New Orleans Saints",
-      "team_id": "18",
+      "team": "Washington Commanders",
+      "team_id": "28",
       "wins": 1
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "National Football Conference",
       "losses": 2,
       "percentage": 0.33333334,
       "played": 3,
       "position": 12,
       "sport": "nfl",
-      "team": "Washington Commanders",
-      "team_id": "28",
+      "team": "New Orleans Saints",
+      "team_id": "18",
       "wins": 1
     },
     {
