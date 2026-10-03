@@ -1,5 +1,5 @@
 {
-  "dates_requested": "20260925-20261016",
+  "dates_requested": "20260926-20261017",
   "errors": [],
   "event_count": 67,
   "events": [
@@ -1212,8 +1212,8 @@
   ],
   "league": "NBA",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260925-20261016&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260926-20261017&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-02T15:56:44.287191Z",
+  "refreshed_at_utc": "2026-10-03T14:24:07.883445Z",
   "sport": "nba"
 }
