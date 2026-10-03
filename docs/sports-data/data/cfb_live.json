@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-03T02:56:38.647810Z",
+  "refreshed_at_utc": "2026-10-03T08:47:43.478842Z",
   "dates_requested": [
     "20261002",
     "20261003",
@@ -60,22 +60,22 @@
       "date_utc": "2026-10-03T00:00Z",
       "name": "Penn State Nittany Lions at Northwestern Wildcats",
       "short_name": "PSU @ NU",
-      "status": "In Progress",
-      "status_short": "13:26 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "13:26",
+      "clock": "0:00",
       "home_team": "Northwestern Wildcats",
       "away_team": "Penn State Nittany Lions",
-      "home_score": "31",
-      "away_score": "7",
-      "home_record": "2-1",
-      "away_record": "3-1",
+      "home_score": "34",
+      "away_score": "13",
+      "home_record": "3-1",
+      "away_record": "3-2",
       "venue": "Ryan Field",
       "broadcasts": [
         "FOX"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401858476"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858476/penn-state-northwestern"
     },
     {
       "sport": "cfb",
