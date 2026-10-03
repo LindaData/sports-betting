@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-03T18:04:04.830996Z",
+  "refreshed_at_utc": "2026-10-03T21:34:20.908263Z",
   "dates_requested": [
     "20261002",
     "20261003",
@@ -14,15 +14,15 @@
       "date_utc": "2026-10-03T17:00Z",
       "name": "Chicago White Sox at Cleveland Guardians",
       "short_name": "CHW @ CLE",
-      "status": "In Progress",
-      "status_short": "End 3rd",
-      "state": "in",
-      "period": 3,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
       "away_team": "Chicago White Sox",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "3",
       "home_record": "85-77",
       "away_record": "84-78",
       "venue": "Progressive Field",
@@ -30,7 +30,7 @@
         "TBS",
         "truTV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401907990"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401907990/white-sox-guardians"
     },
     {
       "sport": "mlb",
@@ -38,14 +38,14 @@
       "date_utc": "2026-10-03T20:00Z",
       "name": "Atlanta Braves at Los Angeles Dodgers",
       "short_name": "ATL @ LAD",
-      "status": "Scheduled",
-      "status_short": "10/3 - 4:00 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "End 5th",
+      "state": "in",
+      "period": 5,
       "clock": "0:00",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Atlanta Braves",
-      "home_score": "0",
+      "home_score": "2",
       "away_score": "0",
       "home_record": "100-62",
       "away_record": "94-68",
@@ -53,7 +53,7 @@
       "broadcasts": [
         "FOX"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908007/braves-dodgers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908007"
     },
     {
       "sport": "mlb",
