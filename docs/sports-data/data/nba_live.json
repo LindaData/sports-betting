@@ -1,12 +1,12 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-02T23:53:29.720217Z",
+  "refreshed_at_utc": "2026-10-03T02:56:38.647810Z",
   "dates_requested": [
-    "20261001",
     "20261002",
-    "20261003"
+    "20261003",
+    "20261004"
   ],
-  "event_count": 1,
+  "event_count": 3,
   "events": [
     {
       "sport": "nba",
@@ -30,6 +30,50 @@
         "NBA TV"
       ],
       "link": "https://www.espn.com/nba/game/_/gameId/401902644/heat-raptors"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401914127",
+      "date_utc": "2026-10-04T23:00Z",
+      "name": "Utah Jazz at Denver Nuggets",
+      "short_name": "UTAH @ DEN",
+      "status": "Scheduled",
+      "status_short": "10/4 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "Denver Nuggets",
+      "away_team": "Utah Jazz",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "CU Events Center",
+      "broadcasts": [
+        "NBA TV"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401914127/jazz-nuggets"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401918010",
+      "date_utc": "2026-10-04T23:00Z",
+      "name": "Golden State Warriors at LA Clippers",
+      "short_name": "GS VS LAC",
+      "status": "Scheduled",
+      "status_short": "10/4 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "LA Clippers",
+      "away_team": "Golden State Warriors",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Stan Sheriff Center",
+      "broadcasts": [],
+      "link": "https://www.espn.com/nba/game/_/gameId/401918010/warriors-clippers"
     }
   ],
   "errors": []
