@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-03T14:04:06.209248Z",
+  "refreshed_at_utc": "2026-10-03T18:04:04.830996Z",
   "dates_requested": [
     "20261002",
     "20261003",
@@ -14,10 +14,10 @@
       "date_utc": "2026-10-03T17:00Z",
       "name": "Chicago White Sox at Cleveland Guardians",
       "short_name": "CHW @ CLE",
-      "status": "Scheduled",
-      "status_short": "10/3 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "End 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
       "away_team": "Chicago White Sox",
@@ -30,7 +30,7 @@
         "TBS",
         "truTV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401907990/white-sox-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401907990"
     },
     {
       "sport": "mlb",

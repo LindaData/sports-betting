@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-03T14:04:06.209248Z",
+  "refreshed_at_utc": "2026-10-03T18:04:04.830996Z",
   "dates_requested": [
     "20261002",
     "20261003",
@@ -349,6 +349,7 @@
       "broadcasts": [
         "ESPN+",
         "MINNHL",
+        "KSTC",
         "NESN"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401891814/bruins-wild"
