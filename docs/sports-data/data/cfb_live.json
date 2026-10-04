@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-04T06:06:01.770042Z",
+  "refreshed_at_utc": "2026-10-04T12:37:41.921133Z",
   "dates_requested": [
     "20261003",
     "20261004",
@@ -1166,22 +1166,22 @@
       "date_utc": "2026-10-04T02:30Z",
       "name": "Baylor Bears at Arizona State Sun Devils",
       "short_name": "BAY @ ASU",
-      "status": "In Progress",
-      "status_short": "2:00 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "2:00",
+      "clock": "0:00",
       "home_team": "Arizona State Sun Devils",
       "away_team": "Baylor Bears",
       "home_score": "19",
       "away_score": "55",
-      "home_record": "2-1",
-      "away_record": "3-1",
+      "home_record": "2-2",
+      "away_record": "4-1",
       "venue": "Mountain America Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401856817"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856817/baylor-arizona-st"
     },
     {
       "sport": "cfb",
@@ -1189,22 +1189,22 @@
       "date_utc": "2026-10-04T02:30Z",
       "name": "Texas State Bobcats at San Diego State Aztecs",
       "short_name": "TXST @ SDSU",
-      "status": "In Progress",
-      "status_short": "1:40 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "1:40",
+      "clock": "0:00",
       "home_team": "San Diego State Aztecs",
       "away_team": "Texas State Bobcats",
       "home_score": "31",
       "away_score": "29",
-      "home_record": "1-3",
-      "away_record": "2-2",
+      "home_record": "2-3",
+      "away_record": "2-3",
       "venue": "Snapdragon Stadium",
       "broadcasts": [
         "CW"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401860900"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401860900/texas-st-san-diego-st"
     },
     {
       "sport": "cfb",
@@ -1212,22 +1212,22 @@
       "date_utc": "2026-10-04T03:00Z",
       "name": "Cincinnati Bearcats at Arizona Wildcats",
       "short_name": "CIN @ ARIZ",
-      "status": "In Progress",
-      "status_short": "5:21 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "5:21",
+      "clock": "0:00",
       "home_team": "Arizona Wildcats",
       "away_team": "Cincinnati Bearcats",
       "home_score": "34",
-      "away_score": "0",
-      "home_record": "3-1",
-      "away_record": "4-0",
+      "away_score": "7",
+      "home_record": "4-1",
+      "away_record": "4-1",
       "venue": "Casino Del Sol Stadium",
       "broadcasts": [
         "FOX"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401856820"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856820/cincinnati-arizona"
     },
     {
       "sport": "cfb",
@@ -1235,22 +1235,22 @@
       "date_utc": "2026-10-04T03:59Z",
       "name": "San Jos\u00e9 State Spartans at Hawai'i Rainbow Warriors",
       "short_name": "SJSU @ HAW",
-      "status": "In Progress",
-      "status_short": "8:15 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "8:15",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Hawai'i Rainbow Warriors",
       "away_team": "San Jos\u00e9 State Spartans",
-      "home_score": "3",
-      "away_score": "14",
-      "home_record": "1-3",
-      "away_record": "2-2",
+      "home_score": "16",
+      "away_score": "20",
+      "home_record": "1-4",
+      "away_record": "3-2",
       "venue": "Clarence T.C. Ching Athletics Complex",
       "broadcasts": [
         "MW+"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401864513"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401864513/san-jose-st-hawaii"
     }
   ],
   "errors": []
