@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-04T20:16:30.283936Z",
+  "refreshed_at_utc": "2026-10-04T23:20:54.656942Z",
   "dates_requested": [
     "20261003",
     "20261004",
@@ -30,52 +30,6 @@
         "NFL Net"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401872965/colts-commanders"
-    },
-    {
-      "sport": "nfl",
-      "event_id": "401872969",
-      "date_utc": "2026-10-04T17:00Z",
-      "name": "Jacksonville Jaguars at Cincinnati Bengals",
-      "short_name": "JAX @ CIN",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Cincinnati Bengals",
-      "away_team": "Jacksonville Jaguars",
-      "home_score": "17",
-      "away_score": "22",
-      "home_record": "2-2",
-      "away_record": "3-1",
-      "venue": "Paycor Stadium",
-      "broadcasts": [
-        "CBS"
-      ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872969/jaguars-bengals"
-    },
-    {
-      "sport": "nfl",
-      "event_id": "401872970",
-      "date_utc": "2026-10-04T17:00Z",
-      "name": "Los Angeles Rams at Philadelphia Eagles",
-      "short_name": "LAR @ PHI",
-      "status": "In Progress",
-      "status_short": "0:04 - 4th",
-      "state": "in",
-      "period": 4,
-      "clock": "0:04",
-      "home_team": "Philadelphia Eagles",
-      "away_team": "Los Angeles Rams",
-      "home_score": "20",
-      "away_score": "24",
-      "home_record": "2-1",
-      "away_record": "1-2",
-      "venue": "Lincoln Financial Field",
-      "broadcasts": [
-        "FOX"
-      ],
-      "link": "https://www.espn.com/nfl/game?gameId=401872970"
     },
     {
       "sport": "nfl",
@@ -125,6 +79,29 @@
     },
     {
       "sport": "nfl",
+      "event_id": "401872969",
+      "date_utc": "2026-10-04T17:00Z",
+      "name": "Jacksonville Jaguars at Cincinnati Bengals",
+      "short_name": "JAX @ CIN",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
+      "home_team": "Cincinnati Bengals",
+      "away_team": "Jacksonville Jaguars",
+      "home_score": "17",
+      "away_score": "22",
+      "home_record": "2-2",
+      "away_record": "3-1",
+      "venue": "Paycor Stadium",
+      "broadcasts": [
+        "CBS"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872969/jaguars-bengals"
+    },
+    {
+      "sport": "nfl",
       "event_id": "401872966",
       "date_utc": "2026-10-04T17:00Z",
       "name": "Arizona Cardinals at New York Giants",
@@ -145,6 +122,29 @@
         "CBS"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401872966/cardinals-giants"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401872970",
+      "date_utc": "2026-10-04T17:00Z",
+      "name": "Los Angeles Rams at Philadelphia Eagles",
+      "short_name": "LAR @ PHI",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
+      "home_team": "Philadelphia Eagles",
+      "away_team": "Los Angeles Rams",
+      "home_score": "20",
+      "away_score": "24",
+      "home_record": "2-2",
+      "away_record": "2-2",
+      "venue": "Lincoln Financial Field",
+      "broadcasts": [
+        "FOX"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872970/rams-eagles"
     },
     {
       "sport": "nfl",
@@ -221,22 +221,22 @@
       "date_utc": "2026-10-04T20:05Z",
       "name": "Miami Dolphins at Minnesota Vikings",
       "short_name": "MIA @ MIN",
-      "status": "In Progress",
-      "status_short": "10:25 - 1st",
-      "state": "in",
-      "period": 1,
-      "clock": "10:25",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Minnesota Vikings",
       "away_team": "Miami Dolphins",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "3-0",
-      "away_record": "0-3",
+      "home_score": "15",
+      "away_score": "10",
+      "home_record": "4-0",
+      "away_record": "0-4",
       "venue": "U.S. Bank Stadium",
       "broadcasts": [
         "FOX"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401872974"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872974/dolphins-vikings"
     },
     {
       "sport": "nfl",
@@ -244,22 +244,22 @@
       "date_utc": "2026-10-04T20:25Z",
       "name": "Kansas City Chiefs at Las Vegas Raiders",
       "short_name": "KC @ LV",
-      "status": "Scheduled",
-      "status_short": "10/4 - 4:25 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "3:02 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "3:02",
       "home_team": "Las Vegas Raiders",
       "away_team": "Kansas City Chiefs",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "19",
+      "away_score": "30",
       "home_record": "3-0",
       "away_record": "3-0",
       "venue": "Allegiant Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872976/chiefs-raiders"
+      "link": "https://www.espn.com/nfl/game?gameId=401872976"
     },
     {
       "sport": "nfl",
@@ -267,22 +267,22 @@
       "date_utc": "2026-10-04T20:25Z",
       "name": "Denver Broncos at San Francisco 49ers",
       "short_name": "DEN @ SF",
-      "status": "Scheduled",
-      "status_short": "10/4 - 4:25 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "2:15 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "2:15",
       "home_team": "San Francisco 49ers",
       "away_team": "Denver Broncos",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "24",
+      "away_score": "14",
       "home_record": "3-0",
       "away_record": "2-1",
       "venue": "Levi's Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872975/broncos-49ers"
+      "link": "https://www.espn.com/nfl/game?gameId=401872975"
     },
     {
       "sport": "nfl",
@@ -290,22 +290,22 @@
       "date_utc": "2026-10-04T20:25Z",
       "name": "Los Angeles Chargers at Seattle Seahawks",
       "short_name": "LAC @ SEA",
-      "status": "Scheduled",
-      "status_short": "10/4 - 4:25 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "5:38 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "5:38",
       "home_team": "Seattle Seahawks",
       "away_team": "Los Angeles Chargers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "30",
+      "away_score": "20",
       "home_record": "2-1",
       "away_record": "0-3",
       "venue": "Lumen Field",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872977/chargers-seahawks"
+      "link": "https://www.espn.com/nfl/game?gameId=401872977"
     },
     {
       "sport": "nfl",

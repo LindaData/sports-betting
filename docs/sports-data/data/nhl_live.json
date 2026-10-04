@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-04T20:16:30.283936Z",
+  "refreshed_at_utc": "2026-10-04T23:20:54.656942Z",
   "dates_requested": [
     "20261003",
     "20261004",
@@ -360,14 +360,14 @@
       "date_utc": "2026-10-04T22:00Z",
       "name": "Utah Mammoth at New York Rangers",
       "short_name": "UTA @ NYR",
-      "status": "Scheduled",
-      "status_short": "10/4 - 6:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "9:40 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "9:40",
       "home_team": "New York Rangers",
       "away_team": "Utah Mammoth",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "2-1-0",
       "away_record": "2-0-0",
@@ -377,7 +377,7 @@
         "MSG",
         "Utah 16"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892443/mammoth-rangers"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892443"
     },
     {
       "sport": "nhl",
