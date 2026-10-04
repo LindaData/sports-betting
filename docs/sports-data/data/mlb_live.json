@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-04T17:11:19.294959Z",
+  "refreshed_at_utc": "2026-10-04T20:16:30.283936Z",
   "dates_requested": [
     "20261003",
     "20261004",
@@ -108,9 +108,9 @@
       "date_utc": "2026-10-04T20:00Z",
       "name": "San Diego Padres at Milwaukee Brewers",
       "short_name": "SD @ MIL",
-      "status": "Scheduled",
-      "status_short": "10/4 - 4:00 PM EDT",
-      "state": "pre",
+      "status": "In Progress",
+      "status_short": "Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Milwaukee Brewers",
@@ -123,7 +123,7 @@
       "broadcasts": [
         "FS1"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908003/padres-brewers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908003"
     },
     {
       "sport": "mlb",
