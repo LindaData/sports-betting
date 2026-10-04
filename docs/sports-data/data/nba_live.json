@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-04T00:14:08.256858Z",
+  "refreshed_at_utc": "2026-10-04T06:06:01.770042Z",
   "dates_requested": [
     "20261003",
     "20261004",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-03T23:00Z",
       "name": "Miami Heat at Toronto Raptors",
       "short_name": "MIA @ TOR",
-      "status": "In Progress",
-      "status_short": "52.4 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "52.4",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0.0",
       "home_team": "Toronto Raptors",
       "away_team": "Miami Heat",
-      "home_score": "54",
-      "away_score": "74",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "home_score": "105",
+      "away_score": "129",
+      "home_record": "0-1",
+      "away_record": "1-0",
       "venue": "Videotron Centre",
       "broadcasts": [
         "NBA TV"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401902644"
+      "link": "https://www.espn.com/nba/game/_/gameId/401902644/heat-raptors"
     },
     {
       "sport": "nba",
