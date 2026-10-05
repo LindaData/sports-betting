@@ -1,10 +1,10 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-04T23:20:54.656942Z",
+  "refreshed_at_utc": "2026-10-05T02:10:26.535766Z",
   "dates_requested": [
-    "20261003",
     "20261004",
-    "20261005"
+    "20261005",
+    "20261006"
   ],
   "event_count": 15,
   "events": [
@@ -244,22 +244,22 @@
       "date_utc": "2026-10-04T20:25Z",
       "name": "Kansas City Chiefs at Las Vegas Raiders",
       "short_name": "KC @ LV",
-      "status": "In Progress",
-      "status_short": "3:02 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "3:02",
+      "clock": "0:00",
       "home_team": "Las Vegas Raiders",
       "away_team": "Kansas City Chiefs",
-      "home_score": "19",
+      "home_score": "27",
       "away_score": "30",
-      "home_record": "3-0",
-      "away_record": "3-0",
+      "home_record": "3-1",
+      "away_record": "4-0",
       "venue": "Allegiant Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401872976"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872976/chiefs-raiders"
     },
     {
       "sport": "nfl",
@@ -267,22 +267,22 @@
       "date_utc": "2026-10-04T20:25Z",
       "name": "Denver Broncos at San Francisco 49ers",
       "short_name": "DEN @ SF",
-      "status": "In Progress",
-      "status_short": "2:15 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "2:15",
+      "clock": "0:00",
       "home_team": "San Francisco 49ers",
       "away_team": "Denver Broncos",
       "home_score": "24",
       "away_score": "14",
-      "home_record": "3-0",
-      "away_record": "2-1",
+      "home_record": "4-0",
+      "away_record": "2-2",
       "venue": "Levi's Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401872975"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872975/broncos-49ers"
     },
     {
       "sport": "nfl",
@@ -290,22 +290,22 @@
       "date_utc": "2026-10-04T20:25Z",
       "name": "Los Angeles Chargers at Seattle Seahawks",
       "short_name": "LAC @ SEA",
-      "status": "In Progress",
-      "status_short": "5:38 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "5:38",
+      "clock": "0:00",
       "home_team": "Seattle Seahawks",
       "away_team": "Los Angeles Chargers",
       "home_score": "30",
-      "away_score": "20",
-      "home_record": "2-1",
-      "away_record": "0-3",
+      "away_score": "23",
+      "home_record": "3-1",
+      "away_record": "0-4",
       "venue": "Lumen Field",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401872977"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872977/chargers-seahawks"
     },
     {
       "sport": "nfl",
@@ -313,22 +313,22 @@
       "date_utc": "2026-10-05T00:20Z",
       "name": "Detroit Lions at Carolina Panthers",
       "short_name": "DET @ CAR",
-      "status": "Scheduled",
-      "status_short": "10/4 - 8:20 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "12:54 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "12:54",
       "home_team": "Carolina Panthers",
       "away_team": "Detroit Lions",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "16",
+      "away_score": "16",
       "home_record": "1-2",
       "away_record": "2-1",
       "venue": "Bank of America Stadium",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872978/lions-panthers"
+      "link": "https://www.espn.com/nfl/game?gameId=401872978"
     },
     {
       "sport": "nfl",
