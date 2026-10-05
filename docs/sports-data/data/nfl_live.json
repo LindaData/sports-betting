@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-05T02:10:26.535766Z",
+  "refreshed_at_utc": "2026-10-05T09:18:33.204866Z",
   "dates_requested": [
     "20261004",
     "20261005",
@@ -313,22 +313,22 @@
       "date_utc": "2026-10-05T00:20Z",
       "name": "Detroit Lions at Carolina Panthers",
       "short_name": "DET @ CAR",
-      "status": "In Progress",
-      "status_short": "12:54 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "12:54",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Carolina Panthers",
       "away_team": "Detroit Lions",
-      "home_score": "16",
-      "away_score": "16",
-      "home_record": "1-2",
-      "away_record": "2-1",
+      "home_score": "32",
+      "away_score": "26",
+      "home_record": "2-2",
+      "away_record": "2-2",
       "venue": "Bank of America Stadium",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401872978"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872978/lions-panthers"
     },
     {
       "sport": "nfl",

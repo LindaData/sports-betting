@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-05T02:10:26.535766Z",
+  "refreshed_at_utc": "2026-10-05T09:18:33.204866Z",
   "dates_requested": [
     "20261004",
     "20261005",
@@ -63,17 +63,17 @@
       "date_utc": "2026-10-05T00:00Z",
       "name": "Florida Panthers at Anaheim Ducks",
       "short_name": "FLA @ ANA",
-      "status": "In Progress",
-      "status_short": "16:35 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "16:35",
+      "status": "Final",
+      "status_short": "Final/OT",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Anaheim Ducks",
       "away_team": "Florida Panthers",
-      "home_score": "2",
-      "away_score": "1",
-      "home_record": "1-0-0",
-      "away_record": "1-0-1",
+      "home_score": "3",
+      "away_score": "2",
+      "home_record": "2-0-0",
+      "away_record": "1-0-2",
       "venue": "Honda Center",
       "broadcasts": [
         "ESPN+",
@@ -81,7 +81,7 @@
         "KCOP",
         "Prime Video (Local)"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401891778"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891778/panthers-ducks"
     },
     {
       "sport": "nhl",
@@ -89,17 +89,17 @@
       "date_utc": "2026-10-05T00:00Z",
       "name": "Calgary Flames at Seattle Kraken",
       "short_name": "CGY @ SEA",
-      "status": "In Progress",
-      "status_short": "20:00 - 3rd",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 3,
-      "clock": "20:00",
+      "clock": "0:00",
       "home_team": "Seattle Kraken",
       "away_team": "Calgary Flames",
-      "home_score": "5",
-      "away_score": "0",
-      "home_record": "1-1-0",
-      "away_record": "0-2-0",
+      "home_score": "6",
+      "away_score": "1",
+      "home_record": "2-1-0",
+      "away_record": "0-3-0",
       "venue": "Climate Pledge Arena",
       "broadcasts": [
         "ESPN+",
@@ -107,7 +107,7 @@
         "KHN",
         "Prime Video (Local)"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401891824"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891824/flames-kraken"
     },
     {
       "sport": "nhl",
@@ -115,23 +115,23 @@
       "date_utc": "2026-10-05T01:00Z",
       "name": "Vegas Golden Knights at Vancouver Canucks",
       "short_name": "VGK @ VAN",
-      "status": "In Progress",
-      "status_short": "16:20 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "16:20",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 3,
+      "clock": "0:00",
       "home_team": "Vancouver Canucks",
       "away_team": "Vegas Golden Knights",
-      "home_score": "1",
-      "away_score": "0",
-      "home_record": "2-1-0",
-      "away_record": "1-1-0",
+      "home_score": "2",
+      "away_score": "3",
+      "home_record": "2-2-0",
+      "away_record": "2-1-0",
       "venue": "Rogers Arena",
       "broadcasts": [
         "ESPN+",
         "Scripps Sports"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892444"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892444/golden-knights-canucks"
     },
     {
       "sport": "nhl",
@@ -416,8 +416,8 @@
       "away_team": "Vegas Golden Knights",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "1-1-0",
-      "away_record": "1-1-0",
+      "home_record": "2-1-0",
+      "away_record": "2-1-0",
       "venue": "Climate Pledge Arena",
       "broadcasts": [
         "ESPN+",
@@ -445,7 +445,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "0-1-1",
-      "away_record": "1-0-1",
+      "away_record": "1-0-2",
       "venue": "crypto.com Arena",
       "broadcasts": [
         "ESPN"
