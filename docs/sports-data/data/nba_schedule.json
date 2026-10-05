@@ -1,5 +1,5 @@
 {
-  "dates_requested": "20260927-20261018",
+  "dates_requested": "20260928-20261019",
   "errors": [],
   "event_count": 67,
   "events": [
@@ -22,39 +22,39 @@
       "venue": "Videotron Centre"
     },
     {
-      "away_score": null,
+      "away_score": 109,
       "away_team": "Utah Jazz",
       "away_team_id": "26",
       "city": "Boulder",
       "date_utc": "2026-10-04T23:00Z",
       "game_id": "401914127",
-      "home_score": null,
+      "home_score": 97,
       "home_team": "Denver Nuggets",
       "home_team_id": "7",
       "league": "National Basketball Association",
       "league_id": "nba",
       "season": "2027",
       "sport": "nba",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "CU Events Center"
     },
     {
-      "away_score": null,
+      "away_score": 101,
       "away_team": "Golden State Warriors",
       "away_team_id": "9",
       "city": "Honolulu",
       "date_utc": "2026-10-04T23:00Z",
       "game_id": "401918010",
-      "home_score": null,
+      "home_score": 104,
       "home_team": "LA Clippers",
       "home_team_id": "12",
       "league": "National Basketball Association",
       "league_id": "nba",
       "season": "2027",
       "sport": "nba",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "Stan Sheriff Center"
     },
     {
@@ -1212,8 +1212,8 @@
   ],
   "league": "NBA",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260927-20261018&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260928-20261019&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-04T14:56:54.170272Z",
+  "refreshed_at_utc": "2026-10-05T18:47:22.400154Z",
   "sport": "nba"
 }
