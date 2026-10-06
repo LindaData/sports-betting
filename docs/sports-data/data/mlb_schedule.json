@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20260928-20261019",
+  "dates_requested": "20260929-20261020",
   "errors": [],
-  "event_count": 42,
+  "event_count": 43,
   "events": [
     {
       "away_score": 3,
@@ -274,39 +274,39 @@
       "venue": "Dodger Stadium"
     },
     {
-      "away_score": null,
+      "away_score": 4,
       "away_team": "Chicago White Sox",
       "away_team_id": "4",
       "city": "Cleveland",
       "date_utc": "2026-10-05T21:00Z",
       "game_id": "401907991",
-      "home_score": null,
+      "home_score": 3,
       "home_team": "Cleveland Guardians",
       "home_team_id": "5",
       "league": "Major League Baseball",
       "league_id": "mlb",
       "season": "2026",
       "sport": "mlb",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "Progressive Field"
     },
     {
-      "away_score": null,
+      "away_score": 2,
       "away_team": "New York Yankees",
       "away_team_id": "10",
       "city": "St. Petersburg",
       "date_utc": "2026-10-06T00:00Z",
       "game_id": "401907986",
-      "home_score": null,
+      "home_score": 5,
       "home_team": "Tampa Bay Rays",
       "home_team_id": "30",
       "league": "Major League Baseball",
       "league_id": "mlb",
       "season": "2026",
       "sport": "mlb",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "Tropicana Field"
     },
     {
@@ -758,12 +758,30 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": null
+    },
+    {
+      "away_score": null,
+      "away_team": "TBD",
+      "away_team_id": "-2",
+      "city": null,
+      "date_utc": "2026-10-20T04:00Z",
+      "game_id": "401908029",
+      "home_score": null,
+      "home_team": "TBD",
+      "home_team_id": "-1",
+      "league": "Major League Baseball",
+      "league_id": "mlb",
+      "season": "2026",
+      "sport": "mlb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": null
     }
   ],
   "league": "MLB",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20260928-20261019&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20260929-20261020&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-05T18:47:22.400154Z",
+  "refreshed_at_utc": "2026-10-06T16:13:10.074012Z",
   "sport": "mlb"
 }
