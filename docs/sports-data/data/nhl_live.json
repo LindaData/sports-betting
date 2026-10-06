@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-06T13:46:47.641237Z",
+  "refreshed_at_utc": "2026-10-06T19:14:01.764091Z",
   "dates_requested": [
     "20261005",
     "20261006",
@@ -279,11 +279,11 @@
     {
       "sport": "nhl",
       "event_id": "401892454",
-      "date_utc": "2026-10-07T01:00Z",
+      "date_utc": "2026-10-07T01:40Z",
       "name": "Vegas Golden Knights at Seattle Kraken",
       "short_name": "VGK @ SEA",
       "status": "Scheduled",
-      "status_short": "10/6 - 9:00 PM EDT",
+      "status_short": "10/6 - 9:40 PM EDT",
       "state": "pre",
       "period": 0,
       "clock": "0:00",
