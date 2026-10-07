@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-07T17:05:50.419340Z",
+  "refreshed_at_utc": "2026-10-07T22:07:13.084725Z",
   "dates_requested": [
     "20261006",
     "20261007",
@@ -60,15 +60,15 @@
       "date_utc": "2026-10-07T20:00Z",
       "name": "Cleveland Guardians at Chicago White Sox",
       "short_name": "CLE @ CHW",
-      "status": "Scheduled",
-      "status_short": "10/7 - 4:00 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 6th",
+      "state": "in",
+      "period": 6,
       "clock": "0:00",
       "home_team": "Chicago White Sox",
       "away_team": "Cleveland Guardians",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "2",
+      "away_score": "5",
       "home_record": "84-78",
       "away_record": "85-77",
       "venue": "Rate Field",
@@ -76,7 +76,7 @@
         "TBS",
         "truTV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401907992/guardians-white-sox"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401907992"
     },
     {
       "sport": "mlb",
