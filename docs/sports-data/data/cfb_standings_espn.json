@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-10-06T16:13:10.074012Z",
+  "refreshed_at_utc": "2026-10-07T16:51:55.590018Z",
   "sport": "cfb",
   "standings": [
     {
@@ -1603,24 +1603,24 @@
       "form": "W1",
       "group": "Sun Belt Conference - Sun Belt - West",
       "losses": null,
-      "percentage": 0.0,
+      "percentage": 1.0,
       "played": null,
       "position": 3,
       "sport": "cfb",
-      "team": "Louisiana Tech Bulldogs",
-      "team_id": "2348",
-      "wins": 2
+      "team": "Troy Trojans",
+      "team_id": "2653",
+      "wins": 3
     },
     {
-      "form": "L2",
+      "form": "W1",
       "group": "Sun Belt Conference - Sun Belt - West",
       "losses": null,
       "percentage": 0.0,
       "played": null,
       "position": 4,
       "sport": "cfb",
-      "team": "Troy Trojans",
-      "team_id": "2653",
+      "team": "Louisiana Tech Bulldogs",
+      "team_id": "2348",
       "wins": 2
     },
     {
@@ -1636,7 +1636,7 @@
       "wins": 2
     },
     {
-      "form": "L3",
+      "form": "L4",
       "group": "Sun Belt Conference - Sun Belt - West",
       "losses": null,
       "percentage": 0.0,

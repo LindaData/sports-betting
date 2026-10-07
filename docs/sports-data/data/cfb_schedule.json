@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20260929-20261020",
+  "dates_requested": "20260930-20261021",
   "errors": [],
-  "event_count": 182,
+  "event_count": 183,
   "events": [
     {
       "away_score": 13,
@@ -1066,21 +1066,21 @@
       "venue": "Clarence T.C. Ching Athletics Complex"
     },
     {
-      "away_score": null,
+      "away_score": 34,
       "away_team": "Southern Miss Golden Eagles",
       "away_team_id": "2572",
       "city": "Troy",
       "date_utc": "2026-10-07T00:00Z",
       "game_id": "401871090",
-      "home_score": null,
+      "home_score": 55,
       "home_team": "Troy Trojans",
       "home_team_id": "2653",
       "league": "NCAA - Football",
       "league_id": "college-football",
       "season": "2026",
       "sport": "cfb",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "Veterans Memorial Stadium (AL)"
     },
     {
@@ -2471,42 +2471,6 @@
     },
     {
       "away_score": null,
-      "away_team": "Kansas Jayhawks",
-      "away_team_id": "2305",
-      "city": "Manhattan",
-      "date_utc": "2026-10-17T16:00Z",
-      "game_id": "401856830",
-      "home_score": null,
-      "home_team": "Kansas State Wildcats",
-      "home_team_id": "2306",
-      "league": "NCAA - Football",
-      "league_id": "college-football",
-      "season": "2026",
-      "sport": "cfb",
-      "status": "Scheduled",
-      "status_code": "pre",
-      "venue": "Bill Snyder Family Stadium"
-    },
-    {
-      "away_score": null,
-      "away_team": "Northwestern Wildcats",
-      "away_team_id": "77",
-      "city": "East Lansing",
-      "date_utc": "2026-10-17T16:00Z",
-      "game_id": "401858491",
-      "home_score": null,
-      "home_team": "Michigan State Spartans",
-      "home_team_id": "127",
-      "league": "NCAA - Football",
-      "league_id": "college-football",
-      "season": "2026",
-      "sport": "cfb",
-      "status": "Scheduled",
-      "status_code": "pre",
-      "venue": "Spartan Stadium"
-    },
-    {
-      "away_score": null,
       "away_team": "Cincinnati Bearcats",
       "away_team_id": "2132",
       "city": "Morgantown",
@@ -2525,6 +2489,24 @@
     },
     {
       "away_score": null,
+      "away_team": "Kansas Jayhawks",
+      "away_team_id": "2305",
+      "city": "Manhattan",
+      "date_utc": "2026-10-17T16:00Z",
+      "game_id": "401856830",
+      "home_score": null,
+      "home_team": "Kansas State Wildcats",
+      "home_team_id": "2306",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Bill Snyder Family Stadium"
+    },
+    {
+      "away_score": null,
       "away_team": "Charleston Southern Buccaneers",
       "away_team_id": "2127",
       "city": "Clemson",
@@ -2540,6 +2522,24 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Memorial Stadium (Clemson, SC)"
+    },
+    {
+      "away_score": null,
+      "away_team": "Northwestern Wildcats",
+      "away_team_id": "77",
+      "city": "East Lansing",
+      "date_utc": "2026-10-17T16:00Z",
+      "game_id": "401858491",
+      "home_score": null,
+      "home_team": "Michigan State Spartans",
+      "home_team_id": "127",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Spartan Stadium"
     },
     {
       "away_score": null,
@@ -2939,24 +2939,6 @@
     },
     {
       "away_score": null,
-      "away_team": "TCU Horned Frogs",
-      "away_team_id": "2628",
-      "city": "Waco",
-      "date_utc": "2026-10-17T23:00Z",
-      "game_id": "401856832",
-      "home_score": null,
-      "home_team": "Baylor Bears",
-      "home_team_id": "239",
-      "league": "NCAA - Football",
-      "league_id": "college-football",
-      "season": "2026",
-      "sport": "cfb",
-      "status": "Scheduled",
-      "status_code": "pre",
-      "venue": "McLane Stadium"
-    },
-    {
-      "away_score": null,
       "away_team": "Arkansas Razorbacks",
       "away_team_id": "8",
       "city": "Nashville",
@@ -2972,6 +2954,24 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "FirstBank Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "TCU Horned Frogs",
+      "away_team_id": "2628",
+      "city": "Waco",
+      "date_utc": "2026-10-17T23:00Z",
+      "game_id": "401856832",
+      "home_score": null,
+      "home_team": "Baylor Bears",
+      "home_team_id": "239",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "McLane Stadium"
     },
     {
       "away_score": null,
@@ -3191,24 +3191,6 @@
     },
     {
       "away_score": null,
-      "away_team": "New Mexico Lobos",
-      "away_team_id": "167",
-      "city": "Honolulu",
-      "date_utc": "2026-10-18T02:30Z",
-      "game_id": "401864521",
-      "home_score": null,
-      "home_team": "Hawai'i Rainbow Warriors",
-      "home_team_id": "62",
-      "league": "NCAA - Football",
-      "league_id": "college-football",
-      "season": "2026",
-      "sport": "cfb",
-      "status": "Scheduled",
-      "status_code": "pre",
-      "venue": "Clarence T.C. Ching Athletics Complex"
-    },
-    {
-      "away_score": null,
       "away_team": "Fresno State Bulldogs",
       "away_team_id": "278",
       "city": "San Diego",
@@ -3224,6 +3206,24 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Snapdragon Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "New Mexico Lobos",
+      "away_team_id": "167",
+      "city": "Honolulu",
+      "date_utc": "2026-10-18T02:30Z",
+      "game_id": "401864521",
+      "home_score": null,
+      "home_team": "Hawai'i Rainbow Warriors",
+      "home_team_id": "62",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Clarence T.C. Ching Athletics Complex"
     },
     {
       "away_score": null,
@@ -3278,12 +3278,30 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Joan C. Edwards Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "New Mexico State Aggies",
+      "away_team_id": "166",
+      "city": "Huntsville",
+      "date_utc": "2026-10-22T00:00Z",
+      "game_id": "401871070",
+      "home_score": null,
+      "home_team": "Sam Houston Bearkats",
+      "home_team_id": "2534",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Elliott T. Bowers Stadium"
     }
   ],
   "league": "College Football",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260929-20261020&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260930-20261021&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-06T16:13:10.074012Z",
+  "refreshed_at_utc": "2026-10-07T16:51:55.590018Z",
   "sport": "cfb"
 }

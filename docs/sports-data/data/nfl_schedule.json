@@ -1,5 +1,5 @@
 {
-  "dates_requested": "20260929-20261020",
+  "dates_requested": "20260930-20261021",
   "errors": [],
   "event_count": 45,
   "events": [
@@ -816,8 +816,8 @@
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260929-20261020&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260930-20261021&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-06T16:13:10.074012Z",
+  "refreshed_at_utc": "2026-10-07T16:51:55.590018Z",
   "sport": "nfl"
 }
