@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20260930-20261021",
+  "dates_requested": "20261001-20261022",
   "errors": [],
-  "event_count": 45,
+  "event_count": 46,
   "events": [
     {
       "away_score": 24,
@@ -812,12 +812,30 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Levi's Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "New England Patriots",
+      "away_team_id": "17",
+      "city": "Chicago",
+      "date_utc": "2026-10-23T00:15Z",
+      "game_id": "401873010",
+      "home_score": null,
+      "home_team": "Chicago Bears",
+      "home_team_id": "3",
+      "league": "National Football League",
+      "league_id": "nfl",
+      "season": "2026",
+      "sport": "nfl",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Soldier Field"
     }
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260930-20261021&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261001-20261022&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-07T16:51:55.590018Z",
+  "refreshed_at_utc": "2026-10-08T16:51:39.976557Z",
   "sport": "nfl"
 }
