@@ -1,17 +1,41 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-07T22:07:13.084725Z",
+  "refreshed_at_utc": "2026-10-08T02:06:54.617745Z",
   "dates_requested": [
-    "20261006",
     "20261007",
-    "20261008"
+    "20261008",
+    "20261009"
   ],
-  "event_count": 8,
+  "event_count": 7,
   "events": [
     {
       "sport": "mlb",
-      "event_id": "401908015",
-      "date_utc": "2026-10-06T22:00Z",
+      "event_id": "401907992",
+      "date_utc": "2026-10-07T20:00Z",
+      "name": "Cleveland Guardians at Chicago White Sox",
+      "short_name": "CLE @ CHW",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
+      "clock": "0:00",
+      "home_team": "Chicago White Sox",
+      "away_team": "Cleveland Guardians",
+      "home_score": "3",
+      "away_score": "9",
+      "home_record": "84-78",
+      "away_record": "85-77",
+      "venue": "Rate Field",
+      "broadcasts": [
+        "TBS",
+        "truTV"
+      ],
+      "link": "https://www.espn.com/mlb/game/_/gameId/401907992/guardians-white-sox"
+    },
+    {
+      "sport": "mlb",
+      "event_id": "401908016",
+      "date_utc": "2026-10-07T22:00Z",
       "name": "Los Angeles Dodgers at Atlanta Braves",
       "short_name": "LAD @ ATL",
       "status": "Final",
@@ -22,77 +46,7 @@
       "home_team": "Atlanta Braves",
       "away_team": "Los Angeles Dodgers",
       "home_score": "1",
-      "away_score": "3",
-      "home_record": "94-68",
-      "away_record": "100-62",
-      "venue": "Truist Park",
-      "broadcasts": [
-        "FS1"
-      ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908015/dodgers-braves"
-    },
-    {
-      "sport": "mlb",
-      "event_id": "401908004",
-      "date_utc": "2026-10-07T01:30Z",
-      "name": "Milwaukee Brewers at San Diego Padres",
-      "short_name": "MIL @ SD",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 9,
-      "clock": "0:00",
-      "home_team": "San Diego Padres",
-      "away_team": "Milwaukee Brewers",
-      "home_score": "4",
-      "away_score": "3",
-      "home_record": "91-71",
-      "away_record": "103-59",
-      "venue": "Petco Park",
-      "broadcasts": [
-        "FS1"
-      ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908004/brewers-padres"
-    },
-    {
-      "sport": "mlb",
-      "event_id": "401907992",
-      "date_utc": "2026-10-07T20:00Z",
-      "name": "Cleveland Guardians at Chicago White Sox",
-      "short_name": "CLE @ CHW",
-      "status": "In Progress",
-      "status_short": "Top 6th",
-      "state": "in",
-      "period": 6,
-      "clock": "0:00",
-      "home_team": "Chicago White Sox",
-      "away_team": "Cleveland Guardians",
-      "home_score": "2",
-      "away_score": "5",
-      "home_record": "84-78",
-      "away_record": "85-77",
-      "venue": "Rate Field",
-      "broadcasts": [
-        "TBS",
-        "truTV"
-      ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401907992"
-    },
-    {
-      "sport": "mlb",
-      "event_id": "401908016",
-      "date_utc": "2026-10-07T22:00Z",
-      "name": "Los Angeles Dodgers at Atlanta Braves",
-      "short_name": "LAD @ ATL",
-      "status": "Scheduled",
-      "status_short": "10/7 - 6:00 PM EDT",
-      "state": "pre",
-      "period": 1,
-      "clock": "0:00",
-      "home_team": "Atlanta Braves",
-      "away_team": "Los Angeles Dodgers",
-      "home_score": "0",
-      "away_score": "0",
+      "away_score": "4",
       "home_record": "94-68",
       "away_record": "100-62",
       "venue": "Truist Park",
@@ -107,15 +61,15 @@
       "date_utc": "2026-10-08T00:00Z",
       "name": "Tampa Bay Rays at New York Yankees",
       "short_name": "TB @ NYY",
-      "status": "Scheduled",
-      "status_short": "10/7 - 8:00 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 6th",
+      "state": "in",
+      "period": 6,
       "clock": "0:00",
       "home_team": "New York Yankees",
       "away_team": "Tampa Bay Rays",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "2",
+      "away_score": "4",
       "home_record": "93-68",
       "away_record": "98-64",
       "venue": "Yankee Stadium",
@@ -123,7 +77,7 @@
         "TBS",
         "truTV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401907987/rays-yankees"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401907987"
     },
     {
       "sport": "mlb",
@@ -195,6 +149,29 @@
         "truTV"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401907988/rays-yankees"
+    },
+    {
+      "sport": "mlb",
+      "event_id": "401908006",
+      "date_utc": "2026-10-10T00:00Z",
+      "name": "San Diego Padres at Milwaukee Brewers",
+      "short_name": "SD @ MIL",
+      "status": "Scheduled",
+      "status_short": "10/9 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 1,
+      "clock": "0:00",
+      "home_team": "Milwaukee Brewers",
+      "away_team": "San Diego Padres",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "103-59",
+      "away_record": "91-71",
+      "venue": "American Family Field",
+      "broadcasts": [
+        "Fox"
+      ],
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908006/padres-brewers"
     }
   ],
   "errors": []

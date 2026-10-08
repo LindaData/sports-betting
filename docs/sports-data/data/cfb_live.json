@@ -1,81 +1,58 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-07T22:07:13.084725Z",
+  "refreshed_at_utc": "2026-10-08T02:06:54.617745Z",
   "dates_requested": [
-    "20261006",
     "20261007",
-    "20261008"
+    "20261008",
+    "20261009"
   ],
-  "event_count": 7,
+  "event_count": 11,
   "events": [
-    {
-      "sport": "cfb",
-      "event_id": "401871090",
-      "date_utc": "2026-10-07T00:00Z",
-      "name": "Southern Miss Golden Eagles at Troy Trojans",
-      "short_name": "USM @ TROY",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Troy Trojans",
-      "away_team": "Southern Miss Golden Eagles",
-      "home_score": "55",
-      "away_score": "34",
-      "home_record": "3-2",
-      "away_record": "1-4",
-      "venue": "Veterans Memorial Stadium (AL)",
-      "broadcasts": [
-        "ESPN2"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871090/southern-miss-troy"
-    },
     {
       "sport": "cfb",
       "event_id": "401871051",
       "date_utc": "2026-10-07T23:00Z",
       "name": "Jacksonville State Gamecocks at Kennesaw State Owls",
       "short_name": "JXST @ KENN",
-      "status": "Scheduled",
-      "status_short": "10/7 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "7:37 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "7:37",
       "home_team": "Kennesaw State Owls",
       "away_team": "Jacksonville State Gamecocks",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "23",
+      "away_score": "24",
       "home_record": "1-3",
       "away_record": "3-2",
       "venue": "Walens Family Field at Fifth Third Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871051/jax-state-kennesaw-st"
+      "link": "https://www.espn.com/college-football/game?gameId=401871051"
     },
     {
       "sport": "cfb",
       "event_id": "401871066",
-      "date_utc": "2026-10-07T23:30Z",
+      "date_utc": "2026-10-08T00:04Z",
       "name": "New Mexico State Aggies at Florida International Panthers",
       "short_name": "NMSU @ FIU",
-      "status": "Scheduled",
-      "status_short": "10/7 - 7:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "7:59 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "7:59",
       "home_team": "Florida International Panthers",
       "away_team": "New Mexico State Aggies",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "13",
+      "away_score": "3",
       "home_record": "2-2",
       "away_record": "2-3",
       "venue": "Pitbull Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871066/new-mexico-st-fiu"
+      "link": "https://www.espn.com/college-football/game?gameId=401871066"
     },
     {
       "sport": "cfb",
@@ -168,6 +145,119 @@
         "ESPN2"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401869933/south-alabama-arkansas-st"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858254",
+      "date_utc": "2026-10-09T23:00Z",
+      "name": "Florida State Seminoles at Louisville Cardinals",
+      "short_name": "FSU @ LOU",
+      "status": "Scheduled",
+      "status_short": "10/9 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Louisville Cardinals",
+      "away_team": "Florida State Seminoles",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-3",
+      "away_record": "3-2",
+      "venue": "L&N Federal Credit Union Stadium",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858254/florida-st-louisville"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858487",
+      "date_utc": "2026-10-10T01:00Z",
+      "name": "Iowa Hawkeyes at Washington Huskies",
+      "short_name": "IOWA @ WASH",
+      "status": "Scheduled",
+      "status_short": "10/9 - 9:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Washington Huskies",
+      "away_team": "Iowa Hawkeyes",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "3-2",
+      "away_record": "4-1",
+      "venue": "Husky Stadium",
+      "broadcasts": [],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858487/iowa-washington"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401860922",
+      "date_utc": "2026-10-10T01:00Z",
+      "name": "Washington State Cougars at Utah State Aggies",
+      "short_name": "WSU @ USU",
+      "status": "Scheduled",
+      "status_short": "10/9 - 9:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Utah State Aggies",
+      "away_team": "Washington State Cougars",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-4",
+      "away_record": "1-4",
+      "venue": "Maverik Stadium",
+      "broadcasts": [
+        "CW"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401860922/washington-st-utah-state"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401864519",
+      "date_utc": "2026-10-10T01:00Z",
+      "name": "Wyoming Cowboys at San Jos\u00e9 State Spartans",
+      "short_name": "WYO @ SJSU",
+      "status": "Scheduled",
+      "status_short": "10/9 - 9:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "San Jos\u00e9 State Spartans",
+      "away_team": "Wyoming Cowboys",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "3-2",
+      "away_record": "2-3",
+      "venue": "CEFCU Stadium",
+      "broadcasts": [
+        "CBSSN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401864519/wyoming-san-jose-st"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401856826",
+      "date_utc": "2026-10-10T02:15Z",
+      "name": "Iowa State Cyclones at BYU Cougars",
+      "short_name": "ISU @ BYU",
+      "status": "Scheduled",
+      "status_short": "10/9 - 10:15 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "BYU Cougars",
+      "away_team": "Iowa State Cyclones",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "4-0",
+      "away_record": "3-2",
+      "venue": "LaVell Edwards Stadium",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856826/iowa-state-byu"
     }
   ],
   "errors": []
