@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-09T08:10:38.513526Z",
+  "refreshed_at_utc": "2026-10-09T15:23:59.056653Z",
   "dates_requested": [
     "20261008",
     "20261009",
@@ -145,17 +145,17 @@
       "date_utc": "2026-10-09T12:00Z",
       "name": "Houston Rockets at Dallas Mavericks",
       "short_name": "HOU VS DAL",
-      "status": "Scheduled",
-      "status_short": "10/9 - 8:00 AM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0.0",
       "home_team": "Dallas Mavericks",
       "away_team": "Houston Rockets",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "0-0",
-      "away_record": "0-0",
+      "home_score": "117",
+      "away_score": "135",
+      "home_record": "0-1",
+      "away_record": "1-0",
       "venue": "Venetian Arena",
       "broadcasts": [
         "NBA TV"

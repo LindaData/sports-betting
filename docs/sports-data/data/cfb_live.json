@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-09T08:10:38.513526Z",
+  "refreshed_at_utc": "2026-10-09T15:23:59.056653Z",
   "dates_requested": [
     "20261008",
     "20261009",
@@ -468,6 +468,29 @@
     },
     {
       "sport": "cfb",
+      "event_id": "401862797",
+      "date_utc": "2026-10-10T17:00Z",
+      "name": "Rice Owls at East Carolina Pirates",
+      "short_name": "RICE @ ECU",
+      "status": "Scheduled",
+      "status_short": "10/10 - 1:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "East Carolina Pirates",
+      "away_team": "Rice Owls",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-2",
+      "away_record": "1-4",
+      "venue": "Dowdy-Ficklen Stadium",
+      "broadcasts": [
+        "ESPN+"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862797/rice-east-carolina"
+    },
+    {
+      "sport": "cfb",
       "event_id": "401866440",
       "date_utc": "2026-10-10T18:00Z",
       "name": "Miami (OH) RedHawks at Massachusetts Minutemen",
@@ -833,29 +856,6 @@
         "ESPNU"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401861964/uconn-temple"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401862797",
-      "date_utc": "2026-10-10T20:00Z",
-      "name": "Rice Owls at East Carolina Pirates",
-      "short_name": "RICE @ ECU",
-      "status": "Scheduled",
-      "status_short": "10/10 - 4:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
-      "home_team": "East Carolina Pirates",
-      "away_team": "Rice Owls",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "2-2",
-      "away_record": "1-4",
-      "venue": "Dowdy-Ficklen Stadium",
-      "broadcasts": [
-        "ESPN+"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862797/rice-east-carolina"
     },
     {
       "sport": "cfb",
