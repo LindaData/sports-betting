@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-09T01:33:34.257583Z",
+  "refreshed_at_utc": "2026-10-09T08:10:38.513526Z",
   "dates_requested": [
     "20261008",
     "20261009",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-09T00:15Z",
       "name": "Tampa Bay Buccaneers at Dallas Cowboys",
       "short_name": "TB @ DAL",
-      "status": "In Progress",
-      "status_short": "0:58 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "0:58",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Dallas Cowboys",
       "away_team": "Tampa Bay Buccaneers",
-      "home_score": "7",
-      "away_score": "7",
-      "home_record": "2-2",
-      "away_record": "0-4",
+      "home_score": "16",
+      "away_score": "24",
+      "home_record": "2-3",
+      "away_record": "1-4",
       "venue": "AT&T Stadium",
       "broadcasts": [
         "Prime Video"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401872980"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872980/buccaneers-cowboys"
     }
   ],
   "errors": []
