@@ -1,6 +1,6 @@
 {
   "league": "NFL",
-  "refreshed_at_utc": "2026-10-08T16:51:39.976557Z",
+  "refreshed_at_utc": "2026-10-09T16:29:59.642700Z",
   "sport": "nfl",
   "standings": [
     {
@@ -179,8 +179,8 @@
       "played": 4,
       "position": 15,
       "sport": "nfl",
-      "team": "Houston Texans",
-      "team_id": "34",
+      "team": "Tennessee Titans",
+      "team_id": "10",
       "wins": 0
     },
     {
@@ -191,8 +191,8 @@
       "played": 4,
       "position": 16,
       "sport": "nfl",
-      "team": "Tennessee Titans",
-      "team_id": "10",
+      "team": "Houston Texans",
+      "team_id": "34",
       "wins": 0
     },
     {
@@ -328,11 +328,11 @@
       "wins": 2
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "National Football Conference",
-      "losses": 2,
-      "percentage": 0.5,
-      "played": 4,
+      "losses": 3,
+      "percentage": 0.4,
+      "played": 5,
       "position": 12,
       "sport": "nfl",
       "team": "Dallas Cowboys",
@@ -376,16 +376,16 @@
       "wins": 1
     },
     {
-      "form": "L4",
+      "form": "W1",
       "group": "National Football Conference",
       "losses": 4,
-      "percentage": 0.0,
-      "played": 4,
+      "percentage": 0.2,
+      "played": 5,
       "position": 16,
       "sport": "nfl",
       "team": "Tampa Bay Buccaneers",
       "team_id": "27",
-      "wins": 0
+      "wins": 1
     }
   ],
   "standings_rows": 32

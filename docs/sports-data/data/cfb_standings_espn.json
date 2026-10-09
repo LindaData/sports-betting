@@ -1,15 +1,27 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-10-08T16:51:39.976557Z",
+  "refreshed_at_utc": "2026-10-09T16:29:59.642700Z",
   "sport": "cfb",
   "standings": [
+    {
+      "form": "W3",
+      "group": "American Conference",
+      "losses": null,
+      "percentage": 1.0,
+      "played": null,
+      "position": 1,
+      "sport": "cfb",
+      "team": "UTSA Roadrunners",
+      "team_id": "2636",
+      "wins": 5
+    },
     {
       "form": "W4",
       "group": "American Conference",
       "losses": null,
       "percentage": 1.0,
       "played": null,
-      "position": 1,
+      "position": 2,
       "sport": "cfb",
       "team": "Florida Atlantic Owls",
       "team_id": "2226",
@@ -21,29 +33,17 @@
       "losses": null,
       "percentage": 1.0,
       "played": null,
-      "position": 2,
+      "position": 3,
       "sport": "cfb",
       "team": "Memphis Tigers",
       "team_id": "235",
       "wins": 4
     },
     {
-      "form": "W2",
+      "form": "L2",
       "group": "American Conference",
       "losses": null,
-      "percentage": 1.0,
-      "played": null,
-      "position": 3,
-      "sport": "cfb",
-      "team": "UTSA Roadrunners",
-      "team_id": "2636",
-      "wins": 4
-    },
-    {
-      "form": "L1",
-      "group": "American Conference",
-      "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.33333334,
       "played": null,
       "position": 4,
       "sport": "cfb",
@@ -784,7 +784,7 @@
       "wins": 1
     },
     {
-      "form": "W4",
+      "form": "W5",
       "group": "Conference USA",
       "losses": null,
       "percentage": 1.0,
@@ -793,7 +793,7 @@
       "sport": "cfb",
       "team": "Liberty Flames",
       "team_id": "2335",
-      "wins": 4
+      "wins": 5
     },
     {
       "form": "W3",
@@ -856,28 +856,16 @@
       "wins": 2
     },
     {
-      "form": "L2",
+      "form": "W1",
       "group": "Conference USA",
       "losses": null,
-      "percentage": 0.0,
+      "percentage": 0.5,
       "played": null,
       "position": 7,
       "sport": "cfb",
-      "team": "Missouri State Bears",
-      "team_id": "2623",
-      "wins": 1
-    },
-    {
-      "form": "L1",
-      "group": "Conference USA",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 8,
-      "sport": "cfb",
-      "team": "Sam Houston Bearkats",
-      "team_id": "2534",
-      "wins": 1
+      "team": "Western Kentucky Hilltoppers",
+      "team_id": "98",
+      "wins": 2
     },
     {
       "form": "L4",
@@ -885,22 +873,34 @@
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 9,
+      "position": 8,
       "sport": "cfb",
       "team": "Kennesaw State Owls",
       "team_id": "338",
       "wins": 1
     },
     {
-      "form": "L1",
+      "form": "L3",
+      "group": "Conference USA",
+      "losses": null,
+      "percentage": 0.0,
+      "played": null,
+      "position": 9,
+      "sport": "cfb",
+      "team": "Missouri State Bears",
+      "team_id": "2623",
+      "wins": 1
+    },
+    {
+      "form": "L2",
       "group": "Conference USA",
       "losses": null,
       "percentage": 0.0,
       "played": null,
       "position": 10,
       "sport": "cfb",
-      "team": "Western Kentucky Hilltoppers",
-      "team_id": "98",
+      "team": "Sam Houston Bearkats",
+      "team_id": "2534",
       "wins": 1
     },
     {
@@ -1588,7 +1588,7 @@
       "wins": 4
     },
     {
-      "form": "W1",
+      "form": "W2",
       "group": "Sun Belt Conference - Sun Belt - West",
       "losses": null,
       "percentage": 1.0,
@@ -1597,7 +1597,7 @@
       "sport": "cfb",
       "team": "South Alabama Jaguars",
       "team_id": "6",
-      "wins": 3
+      "wins": 4
     },
     {
       "form": "W1",
@@ -1624,7 +1624,7 @@
       "wins": 2
     },
     {
-      "form": "L1",
+      "form": "L2",
       "group": "Sun Belt Conference - Sun Belt - West",
       "losses": null,
       "percentage": 0.0,

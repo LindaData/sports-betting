@@ -1,26 +1,8 @@
 {
-  "dates_requested": "20261001-20261022",
+  "dates_requested": "20261002-20261023",
   "errors": [],
-  "event_count": 46,
+  "event_count": 45,
   "events": [
-    {
-      "away_score": 24,
-      "away_team": "Pittsburgh Steelers",
-      "away_team_id": "23",
-      "city": "Cleveland",
-      "date_utc": "2026-10-02T00:15Z",
-      "game_id": "401872964",
-      "home_score": 27,
-      "home_team": "Cleveland Browns",
-      "home_team_id": "5",
-      "league": "National Football League",
-      "league_id": "nfl",
-      "season": "2026",
-      "sport": "nfl",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Huntington Bank Field"
-    },
     {
       "away_score": 30,
       "away_team": "Indianapolis Colts",
@@ -292,21 +274,21 @@
       "venue": "Caesars Superdome"
     },
     {
-      "away_score": null,
+      "away_score": 24,
       "away_team": "Tampa Bay Buccaneers",
       "away_team_id": "27",
       "city": "Arlington",
       "date_utc": "2026-10-09T00:15Z",
       "game_id": "401872980",
-      "home_score": null,
+      "home_score": 16,
       "home_team": "Dallas Cowboys",
       "home_team_id": "6",
       "league": "National Football League",
       "league_id": "nfl",
       "season": "2026",
       "sport": "nfl",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "AT&T Stadium"
     },
     {
@@ -834,8 +816,8 @@
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261001-20261022&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261002-20261023&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-08T16:51:39.976557Z",
+  "refreshed_at_utc": "2026-10-09T16:29:59.642700Z",
   "sport": "nfl"
 }
