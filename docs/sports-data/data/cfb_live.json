@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-09T15:23:59.056653Z",
+  "refreshed_at_utc": "2026-10-09T20:10:20.662802Z",
   "dates_requested": [
     "20261008",
     "20261009",
@@ -141,7 +141,9 @@
       "home_record": "3-2",
       "away_record": "4-1",
       "venue": "Husky Stadium",
-      "broadcasts": [],
+      "broadcasts": [
+        "Fox"
+      ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401858487/iowa-washington"
     },
     {
