@@ -1,37 +1,13 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-09T20:10:20.662802Z",
+  "refreshed_at_utc": "2026-10-10T00:07:40.583254Z",
   "dates_requested": [
-    "20261008",
     "20261009",
-    "20261010"
+    "20261010",
+    "20261011"
   ],
   "event_count": 2,
   "events": [
-    {
-      "sport": "mlb",
-      "event_id": "401907993",
-      "date_utc": "2026-10-09T00:00Z",
-      "name": "Cleveland Guardians at Chicago White Sox",
-      "short_name": "CLE @ CHW",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 9,
-      "clock": "0:00",
-      "home_team": "Chicago White Sox",
-      "away_team": "Cleveland Guardians",
-      "home_score": "5",
-      "away_score": "9",
-      "home_record": "84-78",
-      "away_record": "85-77",
-      "venue": "Rate Field",
-      "broadcasts": [
-        "TBS",
-        "truTV"
-      ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401907993/guardians-white-sox"
-    },
     {
       "sport": "mlb",
       "event_id": "401907994",
@@ -55,6 +31,30 @@
         "truTV"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401907994/white-sox-guardians"
+    },
+    {
+      "sport": "mlb",
+      "event_id": "401908030",
+      "date_utc": "2026-10-12T00:00Z",
+      "name": "Los Angeles Dodgers at Milwaukee Brewers",
+      "short_name": "LAD @ MIL",
+      "status": "Scheduled",
+      "status_short": "10/11 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 1,
+      "clock": "0:00",
+      "home_team": "Milwaukee Brewers",
+      "away_team": "Los Angeles Dodgers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "103-59",
+      "away_record": "100-62",
+      "venue": "American Family Field",
+      "broadcasts": [
+        "Fox",
+        "FS1"
+      ],
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908030/dodgers-brewers"
     }
   ],
   "errors": []
