@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-10T06:06:00.755613Z",
+  "refreshed_at_utc": "2026-10-10T12:46:44.311678Z",
   "dates_requested": [
     "20261009",
     "20261010",
@@ -355,29 +355,6 @@
     },
     {
       "sport": "cfb",
-      "event_id": "401869843",
-      "date_utc": "2026-10-10T17:00Z",
-      "name": "Old Dominion Monarchs at App State Mountaineers",
-      "short_name": "ODU @ APP",
-      "status": "Scheduled",
-      "status_short": "10/10 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
-      "home_team": "App State Mountaineers",
-      "away_team": "Old Dominion Monarchs",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "3-1",
-      "away_record": "1-4",
-      "venue": "Kidd Brewer Stadium",
-      "broadcasts": [
-        "ESPN+"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401869843/old-dominion-app-state"
-    },
-    {
-      "sport": "cfb",
       "event_id": "401862797",
       "date_utc": "2026-10-10T17:00Z",
       "name": "Rice Owls at East Carolina Pirates",
@@ -398,6 +375,29 @@
         "ESPN+"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401862797/rice-east-carolina"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401869843",
+      "date_utc": "2026-10-10T17:00Z",
+      "name": "Old Dominion Monarchs at App State Mountaineers",
+      "short_name": "ODU @ APP",
+      "status": "Scheduled",
+      "status_short": "10/10 - 1:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "App State Mountaineers",
+      "away_team": "Old Dominion Monarchs",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "3-1",
+      "away_record": "1-4",
+      "venue": "Kidd Brewer Stadium",
+      "broadcasts": [
+        "ESPN+"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401869843/old-dominion-app-state"
     },
     {
       "sport": "cfb",
