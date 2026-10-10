@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20261002-20261023",
+  "dates_requested": "20261003-20261024",
   "errors": [],
-  "event_count": 31,
+  "event_count": 32,
   "events": [
     {
       "away_score": 3,
@@ -560,12 +560,30 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": null
+    },
+    {
+      "away_score": null,
+      "away_team": "TBD",
+      "away_team_id": "-2",
+      "city": null,
+      "date_utc": "2026-10-24T04:00Z",
+      "game_id": "401908043",
+      "home_score": null,
+      "home_team": "TBD",
+      "home_team_id": "-1",
+      "league": "Major League Baseball",
+      "league_id": "mlb",
+      "season": "2026",
+      "sport": "mlb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": null
     }
   ],
   "league": "MLB",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261002-20261023&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261003-20261024&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-09T16:29:59.642700Z",
+  "refreshed_at_utc": "2026-10-10T15:32:52.655842Z",
   "sport": "mlb"
 }
