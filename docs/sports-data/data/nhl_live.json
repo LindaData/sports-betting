@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-10T20:53:08.030732Z",
+  "refreshed_at_utc": "2026-10-10T23:58:39.910616Z",
   "dates_requested": [
     "20261009",
     "20261010",
@@ -141,23 +141,23 @@
       "date_utc": "2026-10-10T19:30Z",
       "name": "Vancouver Canucks at New Jersey Devils",
       "short_name": "VAN @ NJ",
-      "status": "In Progress",
-      "status_short": "7:42 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "7:42",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 3,
+      "clock": "0:00",
       "home_team": "New Jersey Devils",
       "away_team": "Vancouver Canucks",
-      "home_score": "3",
+      "home_score": "4",
       "away_score": "1",
-      "home_record": "1-2-0",
-      "away_record": "2-3-0",
+      "home_record": "2-2-0",
+      "away_record": "2-4-0",
       "venue": "Prudential Center",
       "broadcasts": [
         "ESPN+",
         "MSGSN"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892470"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892470/canucks-devils"
     },
     {
       "sport": "nhl",
@@ -165,23 +165,23 @@
       "date_utc": "2026-10-10T20:00Z",
       "name": "Edmonton Oilers at San Jose Sharks",
       "short_name": "EDM @ SJ",
-      "status": "End of Period",
-      "status_short": "End of 1st",
-      "state": "in",
-      "period": 1,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 3,
       "clock": "0:00",
       "home_team": "San Jose Sharks",
       "away_team": "Edmonton Oilers",
-      "home_score": "0",
-      "away_score": "1",
-      "home_record": "3-1-0",
-      "away_record": "3-0-1",
+      "home_score": "1",
+      "away_score": "3",
+      "home_record": "3-2-0",
+      "away_record": "4-0-1",
       "venue": "SAP Center at San Jose",
       "broadcasts": [
         "ESPN+",
         "NBC Sports BA"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892471"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892471/oilers-sharks"
     },
     {
       "sport": "nhl",
@@ -189,15 +189,15 @@
       "date_utc": "2026-10-10T22:00Z",
       "name": "Minnesota Wild at Florida Panthers",
       "short_name": "MIN @ FLA",
-      "status": "Scheduled",
-      "status_short": "10/10 - 6:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Florida Panthers",
       "away_team": "Minnesota Wild",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "3",
       "home_record": "2-0-2",
       "away_record": "2-1-1",
       "venue": "Amerant Bank Arena",
@@ -206,7 +206,7 @@
         "Scripps Sports",
         "MINNHL"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401891805/wild-panthers"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891805"
     },
     {
       "sport": "nhl",
@@ -214,15 +214,15 @@
       "date_utc": "2026-10-10T23:00Z",
       "name": "Utah Mammoth at Buffalo Sabres",
       "short_name": "UTA @ BUF",
-      "status": "Scheduled",
-      "status_short": "10/10 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "20:00 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "20:00",
       "home_team": "Buffalo Sabres",
       "away_team": "Utah Mammoth",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "1",
       "home_record": "2-2-0",
       "away_record": "3-2-0",
       "venue": "KeyBank Center",
@@ -231,7 +231,7 @@
         "MSGB",
         "Utah 16"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892472/mammoth-sabres"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892472"
     },
     {
       "sport": "nhl",
@@ -239,11 +239,11 @@
       "date_utc": "2026-10-10T23:00Z",
       "name": "Detroit Red Wings at Montreal Canadiens",
       "short_name": "DET @ MTL",
-      "status": "Scheduled",
-      "status_short": "10/10 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:02 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "0:02",
       "home_team": "Montreal Canadiens",
       "away_team": "Detroit Red Wings",
       "home_score": "0",
@@ -255,7 +255,7 @@
         "ESPN+",
         "DSN"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892473/red-wings-canadiens"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892473"
     },
     {
       "sport": "nhl",
@@ -263,15 +263,15 @@
       "date_utc": "2026-10-10T23:00Z",
       "name": "Nashville Predators at Ottawa Senators",
       "short_name": "NSH @ OTT",
-      "status": "Scheduled",
-      "status_short": "10/10 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 1st",
+      "state": "in",
+      "period": 1,
       "clock": "0:00",
       "home_team": "Ottawa Senators",
       "away_team": "Nashville Predators",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "2",
       "home_record": "3-1-0",
       "away_record": "2-1-1",
       "venue": "Canadian Tire Centre",
@@ -279,7 +279,7 @@
         "ESPN+",
         "Scripps Sports"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892474/predators-senators"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892474"
     },
     {
       "sport": "nhl",
@@ -287,10 +287,10 @@
       "date_utc": "2026-10-10T23:00Z",
       "name": "Dallas Stars at Pittsburgh Penguins",
       "short_name": "DAL @ PIT",
-      "status": "Scheduled",
-      "status_short": "10/10 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 1st",
+      "state": "in",
+      "period": 1,
       "clock": "0:00",
       "home_team": "Pittsburgh Penguins",
       "away_team": "Dallas Stars",
@@ -303,7 +303,7 @@
         "ESPN+",
         "Prime Video (Local)"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892475/stars-penguins"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892475"
     },
     {
       "sport": "nhl",
@@ -311,15 +311,15 @@
       "date_utc": "2026-10-10T23:00Z",
       "name": "Carolina Hurricanes at Chicago Blackhawks",
       "short_name": "CAR @ CHI",
-      "status": "Scheduled",
-      "status_short": "10/10 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 1st",
+      "state": "in",
+      "period": 1,
       "clock": "0:00",
       "home_team": "Chicago Blackhawks",
       "away_team": "Carolina Hurricanes",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "1-4-0",
       "away_record": "3-1-1",
       "venue": "United Center",
@@ -328,7 +328,7 @@
         "CHSN",
         "CARNHL"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892476/hurricanes-blackhawks"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892476"
     },
     {
       "sport": "nhl",
@@ -336,15 +336,15 @@
       "date_utc": "2026-10-10T23:00Z",
       "name": "Columbus Blue Jackets at St. Louis Blues",
       "short_name": "CBJ @ STL",
-      "status": "Scheduled",
-      "status_short": "10/10 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 1st",
+      "state": "in",
+      "period": 1,
       "clock": "0:00",
       "home_team": "St. Louis Blues",
       "away_team": "Columbus Blue Jackets",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "2",
       "home_record": "1-2-1",
       "away_record": "2-1-0",
       "venue": "Enterprise Center",
@@ -354,7 +354,7 @@
         "Blues App",
         "BN+"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892477/blue-jackets-blues"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892477"
     },
     {
       "sport": "nhl",
@@ -362,15 +362,15 @@
       "date_utc": "2026-10-10T23:00Z",
       "name": "Toronto Maple Leafs at Colorado Avalanche",
       "short_name": "TOR @ COL",
-      "status": "Scheduled",
-      "status_short": "10/10 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 1st",
+      "state": "in",
+      "period": 1,
       "clock": "0:00",
       "home_team": "Colorado Avalanche",
       "away_team": "Toronto Maple Leafs",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "2",
+      "away_score": "1",
       "home_record": "3-1-0",
       "away_record": "2-2-1",
       "venue": "Ball Arena",
@@ -378,7 +378,7 @@
         "NHL Net",
         "Altitude Sports"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892478/maple-leafs-avalanche"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892478"
     },
     {
       "sport": "nhl",
@@ -386,15 +386,15 @@
       "date_utc": "2026-10-10T23:30Z",
       "name": "Tampa Bay Lightning at New York Islanders",
       "short_name": "TB @ NYI",
-      "status": "Scheduled",
-      "status_short": "10/10 - 7:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "8:21 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "8:21",
       "home_team": "New York Islanders",
       "away_team": "Tampa Bay Lightning",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "2-2-0",
       "away_record": "3-1-0",
       "venue": "UBS Arena",
@@ -403,7 +403,7 @@
         "MSGSN",
         "The Spot - MTN"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892479/lightning-islanders"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892479"
     },
     {
       "sport": "nhl",
@@ -498,7 +498,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "4-2-0",
-      "away_record": "2-3-0",
+      "away_record": "2-4-0",
       "venue": "Madison Square Garden",
       "broadcasts": [
         "ESPN+",
