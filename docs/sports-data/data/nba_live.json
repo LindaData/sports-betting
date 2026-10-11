@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-11T10:55:55.094975Z",
+  "refreshed_at_utc": "2026-10-11T16:28:09.625509Z",
   "dates_requested": [
     "20261010",
     "20261011",
@@ -167,22 +167,22 @@
       "date_utc": "2026-10-11T10:00Z",
       "name": "Dallas Mavericks at Houston Rockets",
       "short_name": "DAL VS HOU",
-      "status": "In Progress",
-      "status_short": "7:47 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "7:47",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0.0",
       "home_team": "Houston Rockets",
       "away_team": "Dallas Mavericks",
-      "home_score": "31",
-      "away_score": "37",
-      "home_record": "1-0",
-      "away_record": "0-1",
+      "home_score": "115",
+      "away_score": "132",
+      "home_record": "1-1",
+      "away_record": "1-1",
       "venue": "Venetian Arena",
       "broadcasts": [
         "NBA TV"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401898400"
+      "link": "https://www.espn.com/nba/game/_/gameId/401898400/mavericks-rockets"
     },
     {
       "sport": "nba",

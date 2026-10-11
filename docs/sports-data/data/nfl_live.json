@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-11T10:55:55.094975Z",
+  "refreshed_at_utc": "2026-10-11T16:28:09.625509Z",
   "dates_requested": [
     "20261010",
     "20261011",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-11T13:30Z",
       "name": "Philadelphia Eagles at Jacksonville Jaguars",
       "short_name": "PHI VS JAX",
-      "status": "Scheduled",
-      "status_short": "10/11 - 9:30 AM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:19 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "13:19",
       "home_team": "Jacksonville Jaguars",
       "away_team": "Philadelphia Eagles",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "10",
+      "away_score": "14",
       "home_record": "3-1",
       "away_record": "2-2",
       "venue": "Tottenham Hotspur Stadium",
       "broadcasts": [
         "NFL Net"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872981/eagles-jaguars"
+      "link": "https://www.espn.com/nfl/game?gameId=401872981"
     },
     {
       "sport": "nfl",
