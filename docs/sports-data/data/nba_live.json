@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-11T20:28:16.422052Z",
+  "refreshed_at_utc": "2026-10-11T23:50:01.524329Z",
   "dates_requested": [
     "20261010",
     "20261011",
@@ -190,22 +190,22 @@
       "date_utc": "2026-10-11T22:30Z",
       "name": "Orlando Magic at Cleveland Cavaliers",
       "short_name": "ORL @ CLE",
-      "status": "Scheduled",
-      "status_short": "10/11 - 6:30 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0.0",
       "home_team": "Cleveland Cavaliers",
       "away_team": "Orlando Magic",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "61",
+      "away_score": "50",
       "home_record": "0-1",
       "away_record": "1-0",
       "venue": "Rocket Arena",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/nba/game/_/gameId/401898401/magic-cavaliers"
+      "link": "https://www.espn.com/nba/game?gameId=401898401"
     },
     {
       "sport": "nba",
@@ -213,20 +213,20 @@
       "date_utc": "2026-10-11T23:00Z",
       "name": "Milwaukee Bucks at Charlotte Hornets",
       "short_name": "MIL @ CHA",
-      "status": "Scheduled",
-      "status_short": "10/11 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0.0",
+      "status": "In Progress",
+      "status_short": "5:29 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "5:29",
       "home_team": "Charlotte Hornets",
       "away_team": "Milwaukee Bucks",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "44",
+      "away_score": "37",
       "home_record": "0-1",
       "away_record": "1-1",
       "venue": "Spectrum Center",
       "broadcasts": [],
-      "link": "https://www.espn.com/nba/game/_/gameId/401901821/bucks-hornets"
+      "link": "https://www.espn.com/nba/game?gameId=401901821"
     },
     {
       "sport": "nba",
