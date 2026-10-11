@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-11T04:23:31.554403Z",
+  "refreshed_at_utc": "2026-10-11T10:55:55.094975Z",
   "dates_requested": [
     "20261010",
     "20261011",
@@ -144,22 +144,22 @@
       "date_utc": "2026-10-11T02:30Z",
       "name": "San Antonio Spurs at Phoenix Suns",
       "short_name": "SA @ PHX",
-      "status": "In Progress",
-      "status_short": "1:42 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "1:42",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0.0",
       "home_team": "Phoenix Suns",
       "away_team": "San Antonio Spurs",
-      "home_score": "82",
-      "away_score": "73",
-      "home_record": "0-2",
-      "away_record": "0-1",
+      "home_score": "102",
+      "away_score": "98",
+      "home_record": "1-2",
+      "away_record": "0-2",
       "venue": "Mortgage Matchup Center",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401898720"
+      "link": "https://www.espn.com/nba/game/_/gameId/401898720/spurs-suns"
     },
     {
       "sport": "nba",
@@ -167,22 +167,22 @@
       "date_utc": "2026-10-11T10:00Z",
       "name": "Dallas Mavericks at Houston Rockets",
       "short_name": "DAL VS HOU",
-      "status": "Scheduled",
-      "status_short": "10/11 - 6:00 AM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0.0",
+      "status": "In Progress",
+      "status_short": "7:47 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "7:47",
       "home_team": "Houston Rockets",
       "away_team": "Dallas Mavericks",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "31",
+      "away_score": "37",
       "home_record": "1-0",
       "away_record": "0-1",
       "venue": "Venetian Arena",
       "broadcasts": [
         "NBA TV"
       ],
-      "link": "https://www.espn.com/nba/game/_/gameId/401898400/mavericks-rockets"
+      "link": "https://www.espn.com/nba/game?gameId=401898400"
     },
     {
       "sport": "nba",
@@ -355,7 +355,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "1-1",
-      "away_record": "0-1",
+      "away_record": "0-2",
       "venue": "Delta Center",
       "broadcasts": [],
       "link": "https://www.espn.com/nba/game/_/gameId/401898721/spurs-jazz"

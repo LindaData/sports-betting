@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-11T04:23:31.554403Z",
+  "refreshed_at_utc": "2026-10-11T10:55:55.094975Z",
   "dates_requested": [
     "20261010",
     "20261011",
@@ -1028,22 +1028,22 @@
       "date_utc": "2026-10-11T02:30Z",
       "name": "Boise State Broncos at Fresno State Bulldogs",
       "short_name": "BOIS @ FRES",
-      "status": "In Progress",
-      "status_short": "3:32 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "3:32",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Fresno State Bulldogs",
       "away_team": "Boise State Broncos",
-      "home_score": "13",
-      "away_score": "22",
-      "home_record": "4-1",
-      "away_record": "4-1",
+      "home_score": "31",
+      "away_score": "38",
+      "home_record": "4-2",
+      "away_record": "5-1",
       "venue": "Valley Children's Stadium",
       "broadcasts": [
         "CW"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401860901"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401860901/boise-st-fresno-st"
     },
     {
       "sport": "cfb",
@@ -1051,22 +1051,22 @@
       "date_utc": "2026-10-11T02:30Z",
       "name": "Hawai'i Rainbow Warriors at Arizona State Sun Devils",
       "short_name": "HAW @ ASU",
-      "status": "Halftime",
-      "status_short": "Halftime",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Arizona State Sun Devils",
       "away_team": "Hawai'i Rainbow Warriors",
-      "home_score": "17",
-      "away_score": "6",
-      "home_record": "2-2",
-      "away_record": "1-4",
+      "home_score": "30",
+      "away_score": "12",
+      "home_record": "3-2",
+      "away_record": "1-5",
       "venue": "Mountain America Stadium",
       "broadcasts": [
         "FS1"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401856808"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856808/hawaii-arizona-st"
     }
   ],
   "errors": []

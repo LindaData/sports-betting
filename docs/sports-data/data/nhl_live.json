@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-11T04:23:31.554403Z",
+  "refreshed_at_utc": "2026-10-11T10:55:55.094975Z",
   "dates_requested": [
     "20261010",
     "20261011",
@@ -309,24 +309,24 @@
       "date_utc": "2026-10-11T02:00Z",
       "name": "Anaheim Ducks at Calgary Flames",
       "short_name": "ANA @ CGY",
-      "status": "In Progress",
-      "status_short": "14:25 - 3rd",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 3,
-      "clock": "14:25",
+      "clock": "0:00",
       "home_team": "Calgary Flames",
       "away_team": "Anaheim Ducks",
       "home_score": "2",
-      "away_score": "3",
-      "home_record": "0-4-0",
-      "away_record": "3-1-0",
+      "away_score": "4",
+      "home_record": "0-5-0",
+      "away_record": "4-1-0",
       "venue": "Scotiabank Saddledome",
       "broadcasts": [
         "ESPN+",
         "KCOP",
         "Prime Video (Local)"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892480"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892480/ducks-flames"
     },
     {
       "sport": "nhl",
@@ -334,24 +334,24 @@
       "date_utc": "2026-10-11T02:00Z",
       "name": "Los Angeles Kings at Vegas Golden Knights",
       "short_name": "LA @ VGK",
-      "status": "In Progress",
-      "status_short": "10:20 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "10:20",
+      "status": "Final",
+      "status_short": "Final/OT",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Vegas Golden Knights",
       "away_team": "Los Angeles Kings",
-      "home_score": "1",
+      "home_score": "2",
       "away_score": "1",
-      "home_record": "4-1-0",
-      "away_record": "0-2-1",
+      "home_record": "5-1-0",
+      "away_record": "0-2-2",
       "venue": "T-Mobile Arena",
       "broadcasts": [
         "ESPN+",
         "Scripps Sports",
         "ABTV"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892481"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892481/kings-golden-knights"
     },
     {
       "sport": "nhl",
@@ -494,7 +494,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "3-1-1",
-      "away_record": "4-1-0",
+      "away_record": "5-1-0",
       "venue": "Grand Casino Arena",
       "broadcasts": [
         "ESPN+",
