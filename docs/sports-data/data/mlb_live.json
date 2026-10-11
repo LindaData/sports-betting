@@ -1,12 +1,12 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-10T23:58:39.910616Z",
+  "refreshed_at_utc": "2026-10-11T04:23:31.554403Z",
   "dates_requested": [
-    "20261009",
     "20261010",
-    "20261011"
+    "20261011",
+    "20261012"
   ],
-  "event_count": 2,
+  "event_count": 4,
   "events": [
     {
       "sport": "mlb",
@@ -14,14 +14,14 @@
       "date_utc": "2026-10-11T00:00Z",
       "name": "Chicago White Sox at Cleveland Guardians",
       "short_name": "CHW @ CLE",
-      "status": "Scheduled",
-      "status_short": "10/10 - 8:00 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
       "away_team": "Chicago White Sox",
-      "home_score": "0",
+      "home_score": "2",
       "away_score": "0",
       "home_record": "85-77",
       "away_record": "84-78",
@@ -55,6 +55,54 @@
         "FS1"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401908030/dodgers-brewers"
+    },
+    {
+      "sport": "mlb",
+      "event_id": "401908031",
+      "date_utc": "2026-10-12T21:00Z",
+      "name": "Los Angeles Dodgers at Milwaukee Brewers",
+      "short_name": "LAD @ MIL",
+      "status": "Scheduled",
+      "status_short": "10/12 - 5:00 PM EDT",
+      "state": "pre",
+      "period": 1,
+      "clock": "0:00",
+      "home_team": "Milwaukee Brewers",
+      "away_team": "Los Angeles Dodgers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "103-59",
+      "away_record": "100-62",
+      "venue": "American Family Field",
+      "broadcasts": [
+        "Fox",
+        "FS1"
+      ],
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908031/dodgers-brewers"
+    },
+    {
+      "sport": "mlb",
+      "event_id": "401908023",
+      "date_utc": "2026-10-13T00:00Z",
+      "name": "Cleveland Guardians at Tampa Bay Rays",
+      "short_name": "CLE @ TB",
+      "status": "Scheduled",
+      "status_short": "10/12 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 1,
+      "clock": "0:00",
+      "home_team": "Tampa Bay Rays",
+      "away_team": "Cleveland Guardians",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "98-64",
+      "away_record": "85-77",
+      "venue": "Tropicana Field",
+      "broadcasts": [
+        "TBS",
+        "truTV"
+      ],
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908023/guardians-rays"
     }
   ],
   "errors": []
