@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-12T11:09:26.434296Z",
+  "refreshed_at_utc": "2026-10-12T20:21:59.567830Z",
   "dates_requested": [
     "20261011",
     "20261012",
@@ -104,20 +104,20 @@
       "date_utc": "2026-10-12T20:00Z",
       "name": "London Lions at Portland Trail Blazers",
       "short_name": "LON @ POR",
-      "status": "Scheduled",
-      "status_short": "10/12 - 4:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0.0",
+      "status": "In Progress",
+      "status_short": "6:41 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "6:41",
       "home_team": "Portland Trail Blazers",
       "away_team": "London Lions",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "18",
+      "away_score": "6",
       "home_record": "1-0",
       "away_record": "",
       "venue": "Moda Center",
       "broadcasts": [],
-      "link": "https://www.espn.com/nba/game/_/gameId/401914130/lions-trail-blazers"
+      "link": "https://www.espn.com/nba/game?gameId=401914130"
     },
     {
       "sport": "nba",
