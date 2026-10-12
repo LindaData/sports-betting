@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-12T03:20:31.320858Z",
+  "refreshed_at_utc": "2026-10-12T11:09:26.434296Z",
   "dates_requested": [
     "20261011",
     "20261012",
@@ -81,22 +81,22 @@
       "date_utc": "2026-10-12T01:00Z",
       "name": "Chicago Bulls at Denver Nuggets",
       "short_name": "CHI @ DEN",
-      "status": "In Progress",
-      "status_short": "8:51 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "8:51",
+      "clock": "0.0",
       "home_team": "Denver Nuggets",
       "away_team": "Chicago Bulls",
-      "home_score": "111",
-      "away_score": "104",
-      "home_record": "1-1",
-      "away_record": "1-1",
+      "home_score": "133",
+      "away_score": "128",
+      "home_record": "2-1",
+      "away_record": "1-2",
       "venue": "Ball Arena",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401908941"
+      "link": "https://www.espn.com/nba/game/_/gameId/401908941/bulls-nuggets"
     },
     {
       "sport": "nba",
