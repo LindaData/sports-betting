@@ -1,10 +1,10 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-11T23:50:01.524329Z",
+  "refreshed_at_utc": "2026-10-12T03:20:31.320858Z",
   "dates_requested": [
-    "20261010",
     "20261011",
-    "20261012"
+    "20261012",
+    "20261013"
   ],
   "event_count": 14,
   "events": [
@@ -290,22 +290,22 @@
       "date_utc": "2026-10-12T00:20Z",
       "name": "Baltimore Ravens at Atlanta Falcons",
       "short_name": "BAL @ ATL",
-      "status": "Scheduled",
-      "status_short": "10/11 - 8:20 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:34 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "0:34",
       "home_team": "Atlanta Falcons",
       "away_team": "Baltimore Ravens",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "23",
+      "away_score": "23",
       "home_record": "2-2",
       "away_record": "3-1",
       "venue": "Mercedes-Benz Stadium",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872993/ravens-falcons"
+      "link": "https://www.espn.com/nfl/game?gameId=401872993"
     },
     {
       "sport": "nfl",
