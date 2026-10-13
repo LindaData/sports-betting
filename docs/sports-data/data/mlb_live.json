@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-13T02:08:46.119442Z",
+  "refreshed_at_utc": "2026-10-13T09:36:15.378893Z",
   "dates_requested": [
     "20261012",
     "20261013",
@@ -38,15 +38,15 @@
       "date_utc": "2026-10-13T00:00Z",
       "name": "Cleveland Guardians at Tampa Bay Rays",
       "short_name": "CLE @ TB",
-      "status": "In Progress",
-      "status_short": "Bot 7th",
-      "state": "in",
-      "period": 7,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
       "away_team": "Cleveland Guardians",
-      "home_score": "2",
-      "away_score": "2",
+      "home_score": "3",
+      "away_score": "7",
       "home_record": "98-64",
       "away_record": "85-77",
       "venue": "Tropicana Field",
@@ -54,7 +54,7 @@
         "TBS",
         "truTV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908023"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908023/guardians-rays"
     },
     {
       "sport": "mlb",

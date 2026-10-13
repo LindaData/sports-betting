@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-13T02:08:46.119442Z",
+  "refreshed_at_utc": "2026-10-13T09:36:15.378893Z",
   "dates_requested": [
     "20261012",
     "20261013",
@@ -63,24 +63,24 @@
       "date_utc": "2026-10-13T00:00Z",
       "name": "Vegas Golden Knights at Minnesota Wild",
       "short_name": "VGK @ MIN",
-      "status": "In Progress",
-      "status_short": "14:57 - 3rd",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 3,
-      "clock": "14:57",
+      "clock": "0:00",
       "home_team": "Minnesota Wild",
       "away_team": "Vegas Golden Knights",
-      "home_score": "3",
-      "away_score": "1",
-      "home_record": "3-1-1",
-      "away_record": "5-1-0",
+      "home_score": "4",
+      "away_score": "2",
+      "home_record": "4-1-1",
+      "away_record": "5-2-0",
       "venue": "Grand Casino Arena",
       "broadcasts": [
         "ESPN+",
         "Scripps Sports",
         "MINNHL"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892487"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892487/golden-knights-wild"
     },
     {
       "sport": "nhl",
@@ -321,7 +321,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "3-1-1",
-      "away_record": "3-1-1",
+      "away_record": "4-1-1",
       "venue": "Canada Life Centre",
       "broadcasts": [
         "ESPN+",
@@ -368,7 +368,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "2-1-2",
-      "away_record": "5-1-0",
+      "away_record": "5-2-0",
       "venue": "Bridgestone Arena",
       "broadcasts": [
         "ESPN+",
