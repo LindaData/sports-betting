@@ -1,8 +1,8 @@
 {
-  "refreshed_at_utc": "2026-10-12T20:21:59.567830Z",
+  "refreshed_at_utc": "2026-10-13T02:08:46.119442Z",
   "feeds": {
     "nba": {
-      "event_count": 14,
+      "event_count": 17,
       "errors": 0
     },
     "mlb": {
@@ -14,15 +14,15 @@
       "errors": 0
     },
     "nfl": {
-      "event_count": 14,
+      "event_count": 1,
       "errors": 0
     },
     "nhl": {
-      "event_count": 22,
+      "event_count": 21,
       "errors": 0
     },
     "cfb": {
-      "event_count": 2,
+      "event_count": 4,
       "errors": 0
     }
   }

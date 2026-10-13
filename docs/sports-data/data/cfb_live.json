@@ -1,12 +1,12 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-12T20:21:59.567830Z",
+  "refreshed_at_utc": "2026-10-13T02:08:46.119442Z",
   "dates_requested": [
-    "20261011",
     "20261012",
-    "20261013"
+    "20261013",
+    "20261014"
   ],
-  "event_count": 2,
+  "event_count": 4,
   "events": [
     {
       "sport": "cfb",
@@ -53,6 +53,52 @@
         "ESPNU"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401871053/fiu-jax-state"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401871054",
+      "date_utc": "2026-10-14T23:30Z",
+      "name": "Kennesaw State Owls at Missouri State Bears",
+      "short_name": "KENN @ MOST",
+      "status": "Scheduled",
+      "status_short": "10/14 - 7:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Missouri State Bears",
+      "away_team": "Kennesaw State Owls",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-4",
+      "away_record": "1-4",
+      "venue": "Robert W. Plaster Stadium",
+      "broadcasts": [
+        "CBSSN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871054/kennesaw-st-missouri-st"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401871068",
+      "date_utc": "2026-10-15T00:00Z",
+      "name": "Western Kentucky Hilltoppers at Sam Houston Bearkats",
+      "short_name": "WKU @ SHSU",
+      "status": "Scheduled",
+      "status_short": "10/14 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Sam Houston Bearkats",
+      "away_team": "Western Kentucky Hilltoppers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-4",
+      "away_record": "2-4",
+      "venue": "Elliott T. Bowers Stadium",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871068/western-ky-sam-houston"
     }
   ],
   "errors": []
