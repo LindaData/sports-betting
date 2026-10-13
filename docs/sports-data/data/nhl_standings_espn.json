@@ -1,6 +1,6 @@
 {
   "league": "NHL",
-  "refreshed_at_utc": "2026-10-12T19:16:14.290576Z",
+  "refreshed_at_utc": "2026-10-13T17:06:02.625004Z",
   "sport": "nhl",
   "standings": [
     {
@@ -16,12 +16,24 @@
       "wins": 5
     },
     {
+      "form": "W3",
+      "group": "Eastern Conference",
+      "losses": 1,
+      "percentage": 0.8333333333333334,
+      "played": 6,
+      "position": 2,
+      "sport": "nhl",
+      "team": "Ottawa Senators",
+      "team_id": "14",
+      "wins": 5
+    },
+    {
       "form": "W1",
       "group": "Eastern Conference",
       "losses": 2,
       "percentage": 0.7142857142857143,
       "played": 7,
-      "position": 2,
+      "position": 3,
       "sport": "nhl",
       "team": "New York Rangers",
       "team_id": "13",
@@ -33,22 +45,10 @@
       "losses": 1,
       "percentage": 0.8,
       "played": 5,
-      "position": 3,
+      "position": 4,
       "sport": "nhl",
       "team": "Tampa Bay Lightning",
       "team_id": "20",
-      "wins": 4
-    },
-    {
-      "form": "W2",
-      "group": "Eastern Conference",
-      "losses": 1,
-      "percentage": 0.8,
-      "played": 5,
-      "position": 4,
-      "sport": "nhl",
-      "team": "Ottawa Senators",
-      "team_id": "14",
       "wins": 4
     },
     {
@@ -100,12 +100,24 @@
       "wins": 3
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "Eastern Conference",
-      "losses": 1,
-      "percentage": 0.4,
-      "played": 5,
+      "losses": 3,
+      "percentage": 0.5,
+      "played": 6,
       "position": 9,
+      "sport": "nhl",
+      "team": "Buffalo Sabres",
+      "team_id": "2",
+      "wins": 3
+    },
+    {
+      "form": "L2",
+      "group": "Eastern Conference",
+      "losses": 2,
+      "percentage": 0.3333333333333333,
+      "played": 6,
+      "position": 10,
       "sport": "nhl",
       "team": "Florida Panthers",
       "team_id": "26",
@@ -117,22 +129,10 @@
       "losses": 2,
       "percentage": 0.4,
       "played": 5,
-      "position": 10,
+      "position": 11,
       "sport": "nhl",
       "team": "Montreal Canadiens",
       "team_id": "10",
-      "wins": 2
-    },
-    {
-      "form": "W1",
-      "group": "Eastern Conference",
-      "losses": 2,
-      "percentage": 0.5,
-      "played": 4,
-      "position": 11,
-      "sport": "nhl",
-      "team": "New Jersey Devils",
-      "team_id": "11",
       "wins": 2
     },
     {
@@ -160,15 +160,15 @@
       "wins": 2
     },
     {
-      "form": "L2",
+      "form": "L1",
       "group": "Eastern Conference",
       "losses": 3,
       "percentage": 0.4,
       "played": 5,
       "position": 14,
       "sport": "nhl",
-      "team": "Buffalo Sabres",
-      "team_id": "2",
+      "team": "New Jersey Devils",
+      "team_id": "11",
       "wins": 2
     },
     {
@@ -196,11 +196,11 @@
       "wins": 0
     },
     {
-      "form": "W4",
+      "form": "L1",
       "group": "Western Conference",
-      "losses": 1,
-      "percentage": 0.8333333333333334,
-      "played": 6,
+      "losses": 2,
+      "percentage": 0.7142857142857143,
+      "played": 7,
       "position": 1,
       "sport": "nhl",
       "team": "Vegas Golden Knights",
@@ -223,9 +223,21 @@
       "form": "W2",
       "group": "Western Conference",
       "losses": 1,
+      "percentage": 0.6666666666666666,
+      "played": 6,
+      "position": 3,
+      "sport": "nhl",
+      "team": "Minnesota Wild",
+      "team_id": "30",
+      "wins": 4
+    },
+    {
+      "form": "W2",
+      "group": "Western Conference",
+      "losses": 1,
       "percentage": 0.8,
       "played": 5,
-      "position": 3,
+      "position": 4,
       "sport": "nhl",
       "team": "Anaheim Ducks",
       "team_id": "25",
@@ -237,7 +249,7 @@
       "losses": 2,
       "percentage": 0.6666666666666666,
       "played": 6,
-      "position": 4,
+      "position": 5,
       "sport": "nhl",
       "team": "Seattle Kraken",
       "team_id": "124292",
@@ -249,23 +261,11 @@
       "losses": 2,
       "percentage": 0.6666666666666666,
       "played": 6,
-      "position": 5,
+      "position": 6,
       "sport": "nhl",
       "team": "Utah Mammoth",
       "team_id": "129764",
       "wins": 4
-    },
-    {
-      "form": "W1",
-      "group": "Western Conference",
-      "losses": 1,
-      "percentage": 0.6,
-      "played": 5,
-      "position": 6,
-      "sport": "nhl",
-      "team": "Minnesota Wild",
-      "team_id": "30",
-      "wins": 3
     },
     {
       "form": "L1",

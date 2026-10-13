@@ -1,26 +1,8 @@
 {
-  "dates_requested": "20261005-20261026",
+  "dates_requested": "20261006-20261027",
   "errors": [],
-  "event_count": 44,
+  "event_count": 43,
   "events": [
-    {
-      "away_score": 45,
-      "away_team": "Atlanta Falcons",
-      "away_team_id": "1",
-      "city": "New Orleans",
-      "date_utc": "2026-10-06T00:15Z",
-      "game_id": "401872979",
-      "home_score": 24,
-      "home_team": "New Orleans Saints",
-      "home_team_id": "18",
-      "league": "National Football League",
-      "league_id": "nfl",
-      "season": "2026",
-      "sport": "nfl",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Caesars Superdome"
-    },
     {
       "away_score": 24,
       "away_team": "Tampa Bay Buccaneers",
@@ -274,21 +256,21 @@
       "venue": "Mercedes-Benz Stadium"
     },
     {
-      "away_score": null,
+      "away_score": 37,
       "away_team": "Buffalo Bills",
       "away_team_id": "2",
       "city": "Inglewood",
       "date_utc": "2026-10-13T00:15Z",
       "game_id": "401872994",
-      "home_score": null,
+      "home_score": 34,
       "home_team": "Los Angeles Rams",
       "home_team_id": "14",
       "league": "National Football League",
       "league_id": "nfl",
       "season": "2026",
       "sport": "nfl",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "SoFi Stadium"
     },
     {
@@ -798,8 +780,8 @@
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261005-20261026&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261006-20261027&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-12T19:16:14.290576Z",
+  "refreshed_at_utc": "2026-10-13T17:06:02.625004Z",
   "sport": "nfl"
 }
