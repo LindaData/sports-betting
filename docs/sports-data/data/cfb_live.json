@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-14T00:44:40.767637Z",
+  "refreshed_at_utc": "2026-10-14T05:37:30.868892Z",
   "dates_requested": [
     "20261013",
     "20261014",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-13T23:00Z",
       "name": "Delaware Blue Hens at Middle Tennessee Blue Raiders",
       "short_name": "DEL @ MTSU",
-      "status": "Halftime",
-      "status_short": "Halftime",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Middle Tennessee Blue Raiders",
       "away_team": "Delaware Blue Hens",
-      "home_score": "12",
-      "away_score": "16",
-      "home_record": "2-3",
-      "away_record": "2-3",
+      "home_score": "33",
+      "away_score": "30",
+      "home_record": "3-3",
+      "away_record": "2-4",
       "venue": "Johnny \"Red\" Floyd Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401871067"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871067/delaware-mtsu"
     },
     {
       "sport": "cfb",
@@ -37,22 +37,22 @@
       "date_utc": "2026-10-14T00:00Z",
       "name": "Florida International Panthers at Jacksonville State Gamecocks",
       "short_name": "FIU @ JXST",
-      "status": "In Progress",
-      "status_short": "0:04 - 1st",
-      "state": "in",
-      "period": 1,
-      "clock": "0:04",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Jacksonville State Gamecocks",
       "away_team": "Florida International Panthers",
-      "home_score": "14",
-      "away_score": "7",
-      "home_record": "4-2",
-      "away_record": "3-2",
+      "home_score": "27",
+      "away_score": "24",
+      "home_record": "5-2",
+      "away_record": "3-3",
       "venue": "AmFirst Stadium",
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401871053"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871053/fiu-jax-state"
     },
     {
       "sport": "cfb",
