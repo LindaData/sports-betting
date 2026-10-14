@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-14T15:37:58.750681Z",
+  "refreshed_at_utc": "2026-10-14T19:50:40.630943Z",
   "dates_requested": [
     "20261013",
     "20261014",
@@ -58,11 +58,11 @@
     {
       "sport": "mlb",
       "event_id": "401908025",
-      "date_utc": "2026-10-15T22:00Z",
+      "date_utc": "2026-10-15T17:00Z",
       "name": "Tampa Bay Rays at Cleveland Guardians",
       "short_name": "TB @ CLE",
       "status": "Scheduled",
-      "status_short": "10/15 - 6:00 PM EDT",
+      "status_short": "10/15 - 1:00 PM EDT",
       "state": "pre",
       "period": 1,
       "clock": "0:00",
@@ -82,11 +82,11 @@
     {
       "sport": "mlb",
       "event_id": "401908033",
-      "date_utc": "2026-10-16T01:00Z",
+      "date_utc": "2026-10-16T00:00Z",
       "name": "Milwaukee Brewers at Los Angeles Dodgers",
       "short_name": "MIL @ LAD",
       "status": "Scheduled",
-      "status_short": "10/15 - 9:00 PM EDT",
+      "status_short": "10/15 - 8:00 PM EDT",
       "state": "pre",
       "period": 1,
       "clock": "0:00",
