@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-14T05:37:30.868892Z",
+  "refreshed_at_utc": "2026-10-14T10:51:46.568918Z",
   "dates_requested": [
     "20261013",
     "20261014",
@@ -382,23 +382,23 @@
       "date_utc": "2026-10-14T03:15Z",
       "name": "Boston Bruins at San Jose Sharks",
       "short_name": "BOS @ SJ",
-      "status": "In Progress",
-      "status_short": "7:13 - 3rd",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 3,
-      "clock": "7:13",
+      "clock": "0:00",
       "home_team": "San Jose Sharks",
       "away_team": "Boston Bruins",
       "home_score": "3",
-      "away_score": "4",
-      "home_record": "3-2-0",
-      "away_record": "4-2-0",
+      "away_score": "6",
+      "home_record": "3-3-0",
+      "away_record": "5-2-0",
       "venue": "SAP Center at San Jose",
       "broadcasts": [
         "ESPN",
         "NESN"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892503"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892503/bruins-sharks"
     },
     {
       "sport": "nhl",
@@ -637,7 +637,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "2-2-2",
-      "away_record": "3-2-0",
+      "away_record": "3-3-0",
       "venue": "Bridgestone Arena",
       "broadcasts": [
         "ESPN+",
