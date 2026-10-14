@@ -1,12 +1,12 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-13T21:54:25.574749Z",
+  "refreshed_at_utc": "2026-10-14T00:44:40.767637Z",
   "dates_requested": [
-    "20261012",
     "20261013",
-    "20261014"
+    "20261014",
+    "20261015"
   ],
-  "event_count": 4,
+  "event_count": 7,
   "events": [
     {
       "sport": "cfb",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-13T23:00Z",
       "name": "Delaware Blue Hens at Middle Tennessee Blue Raiders",
       "short_name": "DEL @ MTSU",
-      "status": "Scheduled",
-      "status_short": "10/13 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Middle Tennessee Blue Raiders",
       "away_team": "Delaware Blue Hens",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "12",
+      "away_score": "16",
       "home_record": "2-3",
       "away_record": "2-3",
       "venue": "Johnny \"Red\" Floyd Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871067/delaware-mtsu"
+      "link": "https://www.espn.com/college-football/game?gameId=401871067"
     },
     {
       "sport": "cfb",
@@ -37,22 +37,22 @@
       "date_utc": "2026-10-14T00:00Z",
       "name": "Florida International Panthers at Jacksonville State Gamecocks",
       "short_name": "FIU @ JXST",
-      "status": "Scheduled",
-      "status_short": "10/13 - 8:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:04 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "0:04",
       "home_team": "Jacksonville State Gamecocks",
       "away_team": "Florida International Panthers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "14",
+      "away_score": "7",
       "home_record": "4-2",
       "away_record": "3-2",
       "venue": "AmFirst Stadium",
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871053/fiu-jax-state"
+      "link": "https://www.espn.com/college-football/game?gameId=401871053"
     },
     {
       "sport": "cfb",
@@ -99,6 +99,75 @@
         "ESPN"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401871068/western-ky-sam-houston"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401862800",
+      "date_utc": "2026-10-15T23:30Z",
+      "name": "East Carolina Pirates at UAB Blazers",
+      "short_name": "ECU @ UAB",
+      "status": "Scheduled",
+      "status_short": "10/15 - 7:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "UAB Blazers",
+      "away_team": "East Carolina Pirates",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "3-3",
+      "away_record": "3-2",
+      "venue": "Protective Stadium",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862800/east-carolina-uab"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401869950",
+      "date_utc": "2026-10-15T23:30Z",
+      "name": "Georgia Southern Eagles at Old Dominion Monarchs",
+      "short_name": "GASO @ ODU",
+      "status": "Scheduled",
+      "status_short": "10/15 - 7:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Old Dominion Monarchs",
+      "away_team": "Georgia Southern Eagles",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-4",
+      "away_record": "2-4",
+      "venue": "S.B. Ballard Stadium",
+      "broadcasts": [
+        "ESPN2"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401869950/ga-southern-old-dominion"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401860923",
+      "date_utc": "2026-10-16T00:00Z",
+      "name": "Colorado State Rams at Texas State Bobcats",
+      "short_name": "CSU @ TXST",
+      "status": "Scheduled",
+      "status_short": "10/15 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Texas State Bobcats",
+      "away_team": "Colorado State Rams",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-3",
+      "away_record": "2-3",
+      "venue": "UFCU Stadium",
+      "broadcasts": [
+        "CBSSN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401860923/colorado-st-texas-st"
     }
   ],
   "errors": []
