@@ -1,44 +1,8 @@
 {
-  "dates_requested": "20261006-20261027",
+  "dates_requested": "20261007-20261028",
   "errors": [],
-  "event_count": 26,
+  "event_count": 25,
   "events": [
-    {
-      "away_score": 3,
-      "away_team": "Los Angeles Dodgers",
-      "away_team_id": "19",
-      "city": "Atlanta",
-      "date_utc": "2026-10-06T22:00Z",
-      "game_id": "401908015",
-      "home_score": 1,
-      "home_team": "Atlanta Braves",
-      "home_team_id": "15",
-      "league": "Major League Baseball",
-      "league_id": "mlb",
-      "season": "2026",
-      "sport": "mlb",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Truist Park"
-    },
-    {
-      "away_score": 3,
-      "away_team": "Milwaukee Brewers",
-      "away_team_id": "8",
-      "city": "San Diego",
-      "date_utc": "2026-10-07T01:30Z",
-      "game_id": "401908004",
-      "home_score": 4,
-      "home_team": "San Diego Padres",
-      "home_team_id": "25",
-      "league": "Major League Baseball",
-      "league_id": "mlb",
-      "season": "2026",
-      "sport": "mlb",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Petco Park"
-    },
     {
       "away_score": 9,
       "away_team": "Cleveland Guardians",
@@ -202,21 +166,21 @@
       "venue": "Tropicana Field"
     },
     {
-      "away_score": null,
+      "away_score": 1,
       "away_team": "Cleveland Guardians",
       "away_team_id": "5",
       "city": "St. Petersburg",
       "date_utc": "2026-10-14T00:00Z",
       "game_id": "401908024",
-      "home_score": null,
+      "home_score": 3,
       "home_team": "Tampa Bay Rays",
       "home_team_id": "30",
       "league": "Major League Baseball",
       "league_id": "mlb",
       "season": "2026",
       "sport": "mlb",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "Tropicana Field"
     },
     {
@@ -470,12 +434,30 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": null
+    },
+    {
+      "away_score": null,
+      "away_team": "TBD",
+      "away_team_id": "-2",
+      "city": null,
+      "date_utc": "2026-10-28T04:00Z",
+      "game_id": "401908046",
+      "home_score": null,
+      "home_team": "TBD",
+      "home_team_id": "-1",
+      "league": "Major League Baseball",
+      "league_id": "mlb",
+      "season": "2026",
+      "sport": "mlb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": null
     }
   ],
   "league": "MLB",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261006-20261027&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261007-20261028&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-13T17:06:02.625004Z",
+  "refreshed_at_utc": "2026-10-14T14:38:05.852060Z",
   "sport": "mlb"
 }

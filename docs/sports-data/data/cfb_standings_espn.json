@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-10-13T17:06:02.625004Z",
+  "refreshed_at_utc": "2026-10-14T14:38:05.852060Z",
   "sport": "cfb",
   "standings": [
     {
@@ -796,7 +796,7 @@
       "wins": 5
     },
     {
-      "form": "W3",
+      "form": "W4",
       "group": "Conference USA",
       "losses": null,
       "percentage": 1.0,
@@ -805,13 +805,13 @@
       "sport": "cfb",
       "team": "Jacksonville State Gamecocks",
       "team_id": "55",
-      "wins": 4
+      "wins": 5
     },
     {
-      "form": "W2",
+      "form": "L1",
       "group": "Conference USA",
       "losses": null,
-      "percentage": 1.0,
+      "percentage": 0.5,
       "played": null,
       "position": 3,
       "sport": "cfb",
@@ -820,28 +820,16 @@
       "wins": 3
     },
     {
-      "form": "L2",
+      "form": "W1",
       "group": "Conference USA",
       "losses": null,
-      "percentage": 0.0,
+      "percentage": 0.5,
       "played": null,
       "position": 4,
       "sport": "cfb",
-      "team": "Delaware Blue Hens",
-      "team_id": "48",
-      "wins": 2
-    },
-    {
-      "form": "L2",
-      "group": "Conference USA",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 5,
-      "sport": "cfb",
       "team": "Middle Tennessee Blue Raiders",
       "team_id": "2393",
-      "wins": 2
+      "wins": 3
     },
     {
       "form": "L1",
@@ -849,7 +837,7 @@
       "losses": null,
       "percentage": 0.5,
       "played": null,
-      "position": 6,
+      "position": 5,
       "sport": "cfb",
       "team": "New Mexico State Aggies",
       "team_id": "166",
@@ -861,10 +849,22 @@
       "losses": null,
       "percentage": 0.5,
       "played": null,
-      "position": 7,
+      "position": 6,
       "sport": "cfb",
       "team": "Western Kentucky Hilltoppers",
       "team_id": "98",
+      "wins": 2
+    },
+    {
+      "form": "L3",
+      "group": "Conference USA",
+      "losses": null,
+      "percentage": 0.0,
+      "played": null,
+      "position": 7,
+      "sport": "cfb",
+      "team": "Delaware Blue Hens",
+      "team_id": "48",
       "wins": 2
     },
     {
