@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-15T01:06:40.946380Z",
+  "refreshed_at_utc": "2026-10-15T06:02:59.201476Z",
   "dates_requested": [
     "20261014",
     "20261015",
@@ -14,23 +14,23 @@
       "date_utc": "2026-10-14T23:30Z",
       "name": "Montreal Canadiens at Washington Capitals",
       "short_name": "MTL @ WSH",
-      "status": "In Progress",
-      "status_short": "7:53 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "7:53",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 3,
+      "clock": "0:00",
       "home_team": "Washington Capitals",
       "away_team": "Montreal Canadiens",
-      "home_score": "3",
-      "away_score": "2",
-      "home_record": "3-3-0",
-      "away_record": "3-2-1",
+      "home_score": "5",
+      "away_score": "4",
+      "home_record": "4-3-0",
+      "away_record": "3-3-1",
       "venue": "Capital One Arena",
       "broadcasts": [
         "ESPN+",
         "MNMT"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892504"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892504/canadiens-capitals"
     },
     {
       "sport": "nhl",
@@ -38,23 +38,23 @@
       "date_utc": "2026-10-15T00:30Z",
       "name": "Dallas Stars at Colorado Avalanche",
       "short_name": "DAL @ COL",
-      "status": "In Progress",
-      "status_short": "8:52 - 1st",
-      "state": "in",
-      "period": 1,
-      "clock": "8:52",
+      "status": "Final",
+      "status_short": "Final/SO",
+      "state": "post",
+      "period": 5,
+      "clock": "0:00",
       "home_team": "Colorado Avalanche",
       "away_team": "Dallas Stars",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "4-2-0",
-      "away_record": "2-3-1",
+      "home_score": "2",
+      "away_score": "3",
+      "home_record": "4-2-1",
+      "away_record": "3-3-1",
       "venue": "Ball Arena",
       "broadcasts": [
         "TNT",
         "truTV"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892505"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892505/stars-avalanche"
     },
     {
       "sport": "nhl",
@@ -343,7 +343,7 @@
       "away_team": "Pittsburgh Penguins",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "4-2-0",
+      "home_record": "4-2-1",
       "away_record": "3-3-1",
       "venue": "Ball Arena",
       "broadcasts": [

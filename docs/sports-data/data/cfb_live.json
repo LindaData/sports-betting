@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-15T01:06:40.946380Z",
+  "refreshed_at_utc": "2026-10-15T06:02:59.201476Z",
   "dates_requested": [
     "20261014",
     "20261015",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-14T23:30Z",
       "name": "Kennesaw State Owls at Missouri State Bears",
       "short_name": "KENN @ MOST",
-      "status": "Halftime",
-      "status_short": "Halftime",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Missouri State Bears",
       "away_team": "Kennesaw State Owls",
-      "home_score": "6",
-      "away_score": "7",
-      "home_record": "1-4",
-      "away_record": "1-4",
+      "home_score": "24",
+      "away_score": "21",
+      "home_record": "2-4",
+      "away_record": "1-5",
       "venue": "Robert W. Plaster Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401871054"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871054/kennesaw-st-missouri-st"
     },
     {
       "sport": "cfb",
@@ -37,22 +37,22 @@
       "date_utc": "2026-10-15T00:00Z",
       "name": "Western Kentucky Hilltoppers at Sam Houston Bearkats",
       "short_name": "WKU @ SHSU",
-      "status": "In Progress",
-      "status_short": "7:55 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "7:55",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Sam Houston Bearkats",
       "away_team": "Western Kentucky Hilltoppers",
-      "home_score": "0",
-      "away_score": "10",
-      "home_record": "1-4",
-      "away_record": "2-4",
+      "home_score": "3",
+      "away_score": "16",
+      "home_record": "1-5",
+      "away_record": "3-4",
       "venue": "Elliott T. Bowers Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401871068"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871068/western-ky-sam-houston"
     },
     {
       "sport": "cfb",

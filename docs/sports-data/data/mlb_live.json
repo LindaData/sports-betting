@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-15T01:06:40.946380Z",
+  "refreshed_at_utc": "2026-10-15T06:02:59.201476Z",
   "dates_requested": [
     "20261014",
     "20261015",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-15T00:00Z",
       "name": "Milwaukee Brewers at Los Angeles Dodgers",
       "short_name": "MIL @ LAD",
-      "status": "In Progress",
-      "status_short": "Bot 4th",
-      "state": "in",
-      "period": 4,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Milwaukee Brewers",
-      "home_score": "0",
-      "away_score": "1",
+      "home_score": "2",
+      "away_score": "6",
       "home_record": "100-62",
       "away_record": "103-59",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "FS1"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908032"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908032/brewers-dodgers"
     },
     {
       "sport": "mlb",
