@@ -1,59 +1,35 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-14T22:51:03.424064Z",
+  "refreshed_at_utc": "2026-10-15T01:06:40.946380Z",
   "dates_requested": [
-    "20261013",
     "20261014",
-    "20261015"
+    "20261015",
+    "20261016"
   ],
-  "event_count": 4,
+  "event_count": 5,
   "events": [
-    {
-      "sport": "mlb",
-      "event_id": "401908024",
-      "date_utc": "2026-10-14T00:00Z",
-      "name": "Cleveland Guardians at Tampa Bay Rays",
-      "short_name": "CLE @ TB",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 9,
-      "clock": "0:00",
-      "home_team": "Tampa Bay Rays",
-      "away_team": "Cleveland Guardians",
-      "home_score": "3",
-      "away_score": "1",
-      "home_record": "98-64",
-      "away_record": "85-77",
-      "venue": "Tropicana Field",
-      "broadcasts": [
-        "TBS",
-        "truTV"
-      ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908024/guardians-rays"
-    },
     {
       "sport": "mlb",
       "event_id": "401908032",
       "date_utc": "2026-10-15T00:00Z",
       "name": "Milwaukee Brewers at Los Angeles Dodgers",
       "short_name": "MIL @ LAD",
-      "status": "Scheduled",
-      "status_short": "10/14 - 8:00 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 4th",
+      "state": "in",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Milwaukee Brewers",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "100-62",
       "away_record": "103-59",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "FS1"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908032/brewers-dodgers"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908032"
     },
     {
       "sport": "mlb",
@@ -101,6 +77,53 @@
         "FS1"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401908033/brewers-dodgers"
+    },
+    {
+      "sport": "mlb",
+      "event_id": "401908026",
+      "date_utc": "2026-10-16T22:00Z",
+      "name": "Tampa Bay Rays at Cleveland Guardians",
+      "short_name": "TB @ CLE",
+      "status": "Scheduled",
+      "status_short": "10/16 - 6:00 PM EDT",
+      "state": "pre",
+      "period": 1,
+      "clock": "0:00",
+      "home_team": "Cleveland Guardians",
+      "away_team": "Tampa Bay Rays",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "85-77",
+      "away_record": "98-64",
+      "venue": "Progressive Field",
+      "broadcasts": [
+        "TBS",
+        "truTV"
+      ],
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908026/rays-guardians"
+    },
+    {
+      "sport": "mlb",
+      "event_id": "401908034",
+      "date_utc": "2026-10-17T01:00Z",
+      "name": "Milwaukee Brewers at Los Angeles Dodgers",
+      "short_name": "MIL @ LAD",
+      "status": "Scheduled",
+      "status_short": "10/16 - 9:00 PM EDT",
+      "state": "pre",
+      "period": 1,
+      "clock": "0:00",
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "Milwaukee Brewers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "100-62",
+      "away_record": "103-59",
+      "venue": "Dodger Stadium",
+      "broadcasts": [
+        "FS1"
+      ],
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908034/brewers-dodgers"
     }
   ],
   "errors": []

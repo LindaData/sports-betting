@@ -1,81 +1,35 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-14T22:51:03.424064Z",
+  "refreshed_at_utc": "2026-10-15T01:06:40.946380Z",
   "dates_requested": [
-    "20261013",
     "20261014",
-    "20261015"
+    "20261015",
+    "20261016"
   ],
-  "event_count": 7,
+  "event_count": 8,
   "events": [
-    {
-      "sport": "cfb",
-      "event_id": "401871067",
-      "date_utc": "2026-10-13T23:00Z",
-      "name": "Delaware Blue Hens at Middle Tennessee Blue Raiders",
-      "short_name": "DEL @ MTSU",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Middle Tennessee Blue Raiders",
-      "away_team": "Delaware Blue Hens",
-      "home_score": "33",
-      "away_score": "30",
-      "home_record": "3-3",
-      "away_record": "2-4",
-      "venue": "Johnny \"Red\" Floyd Stadium",
-      "broadcasts": [
-        "CBSSN"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871067/delaware-mtsu"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401871053",
-      "date_utc": "2026-10-14T00:00Z",
-      "name": "Florida International Panthers at Jacksonville State Gamecocks",
-      "short_name": "FIU @ JXST",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Jacksonville State Gamecocks",
-      "away_team": "Florida International Panthers",
-      "home_score": "27",
-      "away_score": "24",
-      "home_record": "5-2",
-      "away_record": "3-3",
-      "venue": "AmFirst Stadium",
-      "broadcasts": [
-        "ESPNU"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871053/fiu-jax-state"
-    },
     {
       "sport": "cfb",
       "event_id": "401871054",
       "date_utc": "2026-10-14T23:30Z",
       "name": "Kennesaw State Owls at Missouri State Bears",
       "short_name": "KENN @ MOST",
-      "status": "Scheduled",
-      "status_short": "10/14 - 7:30 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Missouri State Bears",
       "away_team": "Kennesaw State Owls",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "6",
+      "away_score": "7",
       "home_record": "1-4",
       "away_record": "1-4",
       "venue": "Robert W. Plaster Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871054/kennesaw-st-missouri-st"
+      "link": "https://www.espn.com/college-football/game?gameId=401871054"
     },
     {
       "sport": "cfb",
@@ -83,22 +37,22 @@
       "date_utc": "2026-10-15T00:00Z",
       "name": "Western Kentucky Hilltoppers at Sam Houston Bearkats",
       "short_name": "WKU @ SHSU",
-      "status": "Scheduled",
-      "status_short": "10/14 - 8:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "7:55 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "7:55",
       "home_team": "Sam Houston Bearkats",
       "away_team": "Western Kentucky Hilltoppers",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "10",
       "home_record": "1-4",
       "away_record": "2-4",
       "venue": "Elliott T. Bowers Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871068/western-ky-sam-houston"
+      "link": "https://www.espn.com/college-football/game?gameId=401871068"
     },
     {
       "sport": "cfb",
@@ -168,6 +122,75 @@
         "CBSSN"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401860923/colorado-st-texas-st"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401862801",
+      "date_utc": "2026-10-16T23:30Z",
+      "name": "Memphis Tigers at Tulane Green Wave",
+      "short_name": "MEM @ TULN",
+      "status": "Scheduled",
+      "status_short": "10/16 - 7:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Tulane Green Wave",
+      "away_team": "Memphis Tigers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-3",
+      "away_record": "5-1",
+      "venue": "Yulman Stadium",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862801/memphis-tulane"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858493",
+      "date_utc": "2026-10-17T00:00Z",
+      "name": "Washington Huskies at Purdue Boilermakers",
+      "short_name": "WASH @ PUR",
+      "status": "Scheduled",
+      "status_short": "10/16 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Purdue Boilermakers",
+      "away_team": "Washington Huskies",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "3-3",
+      "away_record": "3-3",
+      "venue": "Ross-Ade Stadium",
+      "broadcasts": [
+        "Fox"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858493/washington-purdue"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401869844",
+      "date_utc": "2026-10-17T00:00Z",
+      "name": "App State Mountaineers at Coastal Carolina Chanticleers",
+      "short_name": "APP @ CCU",
+      "status": "Scheduled",
+      "status_short": "10/16 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Coastal Carolina Chanticleers",
+      "away_team": "App State Mountaineers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-4",
+      "away_record": "3-2",
+      "venue": "Brooks Stadium (SC)",
+      "broadcasts": [
+        "ESPN2"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401869844/app-state-coastal"
     }
   ],
   "errors": []
