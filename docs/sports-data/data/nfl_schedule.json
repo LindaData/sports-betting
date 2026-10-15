@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20261007-20261028",
+  "dates_requested": "20261008-20261029",
   "errors": [],
-  "event_count": 43,
+  "event_count": 44,
   "events": [
     {
       "away_score": 24,
@@ -776,12 +776,30 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Lincoln Financial Field"
+    },
+    {
+      "away_score": null,
+      "away_team": "Carolina Panthers",
+      "away_team_id": "29",
+      "city": "Green Bay",
+      "date_utc": "2026-10-30T00:15Z",
+      "game_id": "401873023",
+      "home_score": null,
+      "home_team": "Green Bay Packers",
+      "home_team_id": "9",
+      "league": "National Football League",
+      "league_id": "nfl",
+      "season": "2026",
+      "sport": "nfl",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Lambeau Field"
     }
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261007-20261028&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261008-20261029&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-14T14:38:05.852060Z",
+  "refreshed_at_utc": "2026-10-15T14:21:37.308352Z",
   "sport": "nfl"
 }

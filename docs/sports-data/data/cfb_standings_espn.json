@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-10-14T14:38:05.852060Z",
+  "refreshed_at_utc": "2026-10-15T14:21:37.308352Z",
   "sport": "cfb",
   "standings": [
     {
@@ -832,16 +832,16 @@
       "wins": 3
     },
     {
-      "form": "L1",
+      "form": "W2",
       "group": "Conference USA",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.6666667,
       "played": null,
       "position": 5,
       "sport": "cfb",
-      "team": "New Mexico State Aggies",
-      "team_id": "166",
-      "wins": 2
+      "team": "Western Kentucky Hilltoppers",
+      "team_id": "98",
+      "wins": 3
     },
     {
       "form": "W1",
@@ -851,8 +851,20 @@
       "played": null,
       "position": 6,
       "sport": "cfb",
-      "team": "Western Kentucky Hilltoppers",
-      "team_id": "98",
+      "team": "Missouri State Bears",
+      "team_id": "2623",
+      "wins": 2
+    },
+    {
+      "form": "L1",
+      "group": "Conference USA",
+      "losses": null,
+      "percentage": 0.5,
+      "played": null,
+      "position": 7,
+      "sport": "cfb",
+      "team": "New Mexico State Aggies",
+      "team_id": "166",
       "wins": 2
     },
     {
@@ -861,19 +873,19 @@
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 7,
+      "position": 8,
       "sport": "cfb",
       "team": "Delaware Blue Hens",
       "team_id": "48",
       "wins": 2
     },
     {
-      "form": "L4",
+      "form": "L5",
       "group": "Conference USA",
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 8,
+      "position": 9,
       "sport": "cfb",
       "team": "Kennesaw State Owls",
       "team_id": "338",
@@ -881,18 +893,6 @@
     },
     {
       "form": "L3",
-      "group": "Conference USA",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 9,
-      "sport": "cfb",
-      "team": "Missouri State Bears",
-      "team_id": "2623",
-      "wins": 1
-    },
-    {
-      "form": "L2",
       "group": "Conference USA",
       "losses": null,
       "percentage": 0.0,
