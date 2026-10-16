@@ -1,19 +1,19 @@
 {
   "league": "NBA",
-  "refreshed_at_utc": "2026-10-15T14:21:37.308352Z",
+  "refreshed_at_utc": "2026-10-16T14:10:34.620277Z",
   "sport": "nba",
   "standings": [
     {
-      "form": "L4",
+      "form": "W1",
       "group": "Eastern Conference",
       "losses": 4,
-      "percentage": 0.0,
-      "played": 4,
+      "percentage": 0.2,
+      "played": 5,
       "position": 1,
       "sport": "nba",
       "team": "New York Knicks",
       "team_id": "18",
-      "wins": 0
+      "wins": 1
     },
     {
       "form": "L2",
@@ -88,12 +88,24 @@
       "wins": 2
     },
     {
+      "form": "L1",
+      "group": "Eastern Conference",
+      "losses": 2,
+      "percentage": 0.5,
+      "played": 4,
+      "position": 8,
+      "sport": "nba",
+      "team": "Toronto Raptors",
+      "team_id": "28",
+      "wins": 2
+    },
+    {
       "form": "W1",
       "group": "Eastern Conference",
       "losses": 1,
       "percentage": 0.6666667,
       "played": 3,
-      "position": 8,
+      "position": 9,
       "sport": "nba",
       "team": "Detroit Pistons",
       "team_id": "8",
@@ -105,22 +117,10 @@
       "losses": 1,
       "percentage": 0.6666667,
       "played": 3,
-      "position": 9,
+      "position": 10,
       "sport": "nba",
       "team": "Washington Wizards",
       "team_id": "27",
-      "wins": 2
-    },
-    {
-      "form": "W2",
-      "group": "Eastern Conference",
-      "losses": 1,
-      "percentage": 0.6666667,
-      "played": 3,
-      "position": 10,
-      "sport": "nba",
-      "team": "Toronto Raptors",
-      "team_id": "28",
       "wins": 2
     },
     {
@@ -198,10 +198,22 @@
     {
       "form": "L1",
       "group": "Western Conference",
+      "losses": 4,
+      "percentage": 0.2,
+      "played": 5,
+      "position": 2,
+      "sport": "nba",
+      "team": "Oklahoma City Thunder",
+      "team_id": "25",
+      "wins": 1
+    },
+    {
+      "form": "L1",
+      "group": "Western Conference",
       "losses": 3,
       "percentage": 0.25,
       "played": 4,
-      "position": 2,
+      "position": 3,
       "sport": "nba",
       "team": "Phoenix Suns",
       "team_id": "21",
@@ -213,22 +225,10 @@
       "losses": 3,
       "percentage": 0.25,
       "played": 4,
-      "position": 3,
+      "position": 4,
       "sport": "nba",
       "team": "San Antonio Spurs",
       "team_id": "24",
-      "wins": 1
-    },
-    {
-      "form": "W1",
-      "group": "Western Conference",
-      "losses": 3,
-      "percentage": 0.25,
-      "played": 4,
-      "position": 4,
-      "sport": "nba",
-      "team": "Oklahoma City Thunder",
-      "team_id": "25",
       "wins": 1
     },
     {
@@ -268,24 +268,12 @@
       "wins": 2
     },
     {
-      "form": "L1",
-      "group": "Western Conference",
-      "losses": 1,
-      "percentage": 0.5,
-      "played": 2,
-      "position": 8,
-      "sport": "nba",
-      "team": "Houston Rockets",
-      "team_id": "10",
-      "wins": 1
-    },
-    {
       "form": "W1",
       "group": "Western Conference",
       "losses": 1,
       "percentage": 0.6666667,
       "played": 3,
-      "position": 9,
+      "position": 8,
       "sport": "nba",
       "team": "Memphis Grizzlies",
       "team_id": "29",
@@ -297,7 +285,7 @@
       "losses": 1,
       "percentage": 0.6666667,
       "played": 3,
-      "position": 10,
+      "position": 9,
       "sport": "nba",
       "team": "LA Clippers",
       "team_id": "12",
@@ -309,10 +297,22 @@
       "losses": 1,
       "percentage": 0.6666667,
       "played": 3,
+      "position": 10,
+      "sport": "nba",
+      "team": "Houston Rockets",
+      "team_id": "10",
+      "wins": 2
+    },
+    {
+      "form": "W1",
+      "group": "Western Conference",
+      "losses": 1,
+      "percentage": 0.6666667,
+      "played": 3,
       "position": 11,
       "sport": "nba",
-      "team": "New Orleans Pelicans",
-      "team_id": "3",
+      "team": "Utah Jazz",
+      "team_id": "26",
       "wins": 2
     },
     {
@@ -323,8 +323,8 @@
       "played": 3,
       "position": 12,
       "sport": "nba",
-      "team": "Utah Jazz",
-      "team_id": "26",
+      "team": "New Orleans Pelicans",
+      "team_id": "3",
       "wins": 2
     },
     {

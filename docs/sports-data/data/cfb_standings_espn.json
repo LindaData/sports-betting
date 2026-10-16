@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-10-15T14:21:37.308352Z",
+  "refreshed_at_utc": "2026-10-16T14:10:34.620277Z",
   "sport": "cfb",
   "standings": [
     {
@@ -64,15 +64,15 @@
       "wins": 4
     },
     {
-      "form": "W3",
+      "form": "W1",
       "group": "American Conference",
       "losses": null,
-      "percentage": 1.0,
+      "percentage": 0.6666667,
       "played": null,
       "position": 6,
       "sport": "cfb",
-      "team": "East Carolina Pirates",
-      "team_id": "151",
+      "team": "Army Black Knights",
+      "team_id": "349",
       "wins": 3
     },
     {
@@ -83,9 +83,9 @@
       "played": null,
       "position": 7,
       "sport": "cfb",
-      "team": "Army Black Knights",
-      "team_id": "349",
-      "wins": 3
+      "team": "UAB Blazers",
+      "team_id": "5",
+      "wins": 4
     },
     {
       "form": "L1",
@@ -95,8 +95,8 @@
       "played": null,
       "position": 8,
       "sport": "cfb",
-      "team": "UAB Blazers",
-      "team_id": "5",
+      "team": "East Carolina Pirates",
+      "team_id": "151",
       "wins": 3
     },
     {
@@ -1240,28 +1240,16 @@
       "wins": 4
     },
     {
-      "form": "L3",
+      "form": "W1",
       "group": "Pac-12 Conference",
       "losses": null,
-      "percentage": 0.0,
+      "percentage": 0.5,
       "played": null,
       "position": 4,
       "sport": "cfb",
-      "team": "Colorado State Rams",
-      "team_id": "36",
-      "wins": 2
-    },
-    {
-      "form": "L1",
-      "group": "Pac-12 Conference",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 5,
-      "sport": "cfb",
       "team": "Texas State Bobcats",
       "team_id": "326",
-      "wins": 2
+      "wins": 3
     },
     {
       "form": "L1",
@@ -1269,7 +1257,7 @@
       "losses": null,
       "percentage": 0.5,
       "played": null,
-      "position": 6,
+      "position": 5,
       "sport": "cfb",
       "team": "San Diego State Aztecs",
       "team_id": "21",
@@ -1281,10 +1269,22 @@
       "losses": null,
       "percentage": 0.5,
       "played": null,
-      "position": 7,
+      "position": 6,
       "sport": "cfb",
       "team": "Utah State Aggies",
       "team_id": "328",
+      "wins": 2
+    },
+    {
+      "form": "L4",
+      "group": "Pac-12 Conference",
+      "losses": null,
+      "percentage": 0.0,
+      "played": null,
+      "position": 7,
+      "sport": "cfb",
+      "team": "Colorado State Rams",
+      "team_id": "36",
       "wins": 2
     },
     {
@@ -1540,16 +1540,16 @@
       "wins": 3
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "Sun Belt Conference - Sun Belt - East",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.6666667,
       "played": null,
       "position": 5,
       "sport": "cfb",
       "team": "Georgia Southern Eagles",
       "team_id": "290",
-      "wins": 2
+      "wins": 3
     },
     {
       "form": "W1",
@@ -1564,10 +1564,10 @@
       "wins": 2
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "Sun Belt Conference - Sun Belt - East",
       "losses": null,
-      "percentage": 0.33333334,
+      "percentage": 0.25,
       "played": null,
       "position": 7,
       "sport": "cfb",

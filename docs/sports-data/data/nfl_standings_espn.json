@@ -1,6 +1,6 @@
 {
   "league": "NFL",
-  "refreshed_at_utc": "2026-10-15T14:21:37.308352Z",
+  "refreshed_at_utc": "2026-10-16T14:10:34.620277Z",
   "sport": "nfl",
   "standings": [
     {
@@ -55,24 +55,24 @@
       "form": "W2",
       "group": "American Football Conference",
       "losses": 2,
-      "percentage": 0.6,
-      "played": 5,
+      "percentage": 0.6666667,
+      "played": 6,
       "position": 5,
       "sport": "nfl",
-      "team": "New England Patriots",
-      "team_id": "17",
-      "wins": 3
+      "team": "Denver Broncos",
+      "team_id": "7",
+      "wins": 4
     },
     {
-      "form": "W1",
+      "form": "W2",
       "group": "American Football Conference",
       "losses": 2,
       "percentage": 0.6,
       "played": 5,
       "position": 6,
       "sport": "nfl",
-      "team": "Denver Broncos",
-      "team_id": "7",
+      "team": "New England Patriots",
+      "team_id": "17",
       "wins": 3
     },
     {
@@ -268,28 +268,28 @@
       "wins": 3
     },
     {
-      "form": "L1",
-      "group": "National Football Conference",
-      "losses": 2,
-      "percentage": 0.6,
-      "played": 5,
-      "position": 7,
-      "sport": "nfl",
-      "team": "Seattle Seahawks",
-      "team_id": "26",
-      "wins": 3
-    },
-    {
       "form": "W1",
       "group": "National Football Conference",
       "losses": 2,
       "percentage": 0.5,
       "played": 4,
-      "position": 8,
+      "position": 7,
       "sport": "nfl",
       "team": "Carolina Panthers",
       "team_id": "29",
       "wins": 2
+    },
+    {
+      "form": "L2",
+      "group": "National Football Conference",
+      "losses": 3,
+      "percentage": 0.5,
+      "played": 6,
+      "position": 8,
+      "sport": "nfl",
+      "team": "Seattle Seahawks",
+      "team_id": "26",
+      "wins": 3
     },
     {
       "form": "L1",
