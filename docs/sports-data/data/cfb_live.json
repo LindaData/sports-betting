@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-16T00:53:56.866611Z",
+  "refreshed_at_utc": "2026-10-16T05:17:00.785665Z",
   "dates_requested": [
     "20261015",
     "20261016",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-15T23:30Z",
       "name": "East Carolina Pirates at UAB Blazers",
       "short_name": "ECU @ UAB",
-      "status": "In Progress",
-      "status_short": "2:00 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "2:00",
+      "status": "Final",
+      "status_short": "Final/OT",
+      "state": "post",
+      "period": 5,
+      "clock": "0:00",
       "home_team": "UAB Blazers",
       "away_team": "East Carolina Pirates",
-      "home_score": "3",
-      "away_score": "14",
-      "home_record": "3-3",
-      "away_record": "3-2",
+      "home_score": "30",
+      "away_score": "17",
+      "home_record": "4-3",
+      "away_record": "3-3",
       "venue": "Protective Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401862800"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862800/east-carolina-uab"
     },
     {
       "sport": "cfb",
@@ -37,22 +37,22 @@
       "date_utc": "2026-10-15T23:30Z",
       "name": "Georgia Southern Eagles at Old Dominion Monarchs",
       "short_name": "GASO @ ODU",
-      "status": "In Progress",
-      "status_short": "2:55 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "2:55",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Old Dominion Monarchs",
       "away_team": "Georgia Southern Eagles",
-      "home_score": "7",
-      "away_score": "13",
-      "home_record": "2-4",
-      "away_record": "2-4",
+      "home_score": "15",
+      "away_score": "23",
+      "home_record": "2-5",
+      "away_record": "3-4",
       "venue": "S.B. Ballard Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401869950"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401869950/ga-southern-old-dominion"
     },
     {
       "sport": "cfb",
@@ -60,22 +60,22 @@
       "date_utc": "2026-10-16T00:00Z",
       "name": "Colorado State Rams at Texas State Bobcats",
       "short_name": "CSU @ TXST",
-      "status": "In Progress",
-      "status_short": "11:50 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "11:50",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Texas State Bobcats",
       "away_team": "Colorado State Rams",
-      "home_score": "28",
-      "away_score": "0",
-      "home_record": "2-3",
-      "away_record": "2-3",
+      "home_score": "66",
+      "away_score": "27",
+      "home_record": "3-3",
+      "away_record": "2-4",
       "venue": "UFCU Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401860923"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401860923/colorado-st-texas-st"
     },
     {
       "sport": "cfb",

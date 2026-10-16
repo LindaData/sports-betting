@@ -1,12 +1,12 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-16T00:53:56.866611Z",
+  "refreshed_at_utc": "2026-10-16T05:17:00.785665Z",
   "dates_requested": [
     "20261015",
     "20261016",
     "20261017"
   ],
-  "event_count": 5,
+  "event_count": 4,
   "events": [
     {
       "sport": "mlb",
@@ -38,31 +38,31 @@
       "date_utc": "2026-10-16T00:00Z",
       "name": "Milwaukee Brewers at Los Angeles Dodgers",
       "short_name": "MIL @ LAD",
-      "status": "In Progress",
-      "status_short": "Top 3rd",
-      "state": "in",
-      "period": 3,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Milwaukee Brewers",
       "home_score": "4",
-      "away_score": "0",
+      "away_score": "6",
       "home_record": "100-62",
       "away_record": "103-59",
       "venue": "Dodger Stadium",
       "broadcasts": [
         "FS1"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908033"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908033/brewers-dodgers"
     },
     {
       "sport": "mlb",
       "event_id": "401908026",
-      "date_utc": "2026-10-16T22:00Z",
+      "date_utc": "2026-10-17T00:00Z",
       "name": "Tampa Bay Rays at Cleveland Guardians",
       "short_name": "TB @ CLE",
       "status": "Scheduled",
-      "status_short": "10/16 - 6:00 PM EDT",
+      "status_short": "10/16 - 8:00 PM EDT",
       "state": "pre",
       "period": 1,
       "clock": "0:00",
@@ -78,29 +78,6 @@
         "truTV"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401908026/rays-guardians"
-    },
-    {
-      "sport": "mlb",
-      "event_id": "401908034",
-      "date_utc": "2026-10-17T01:00Z",
-      "name": "Milwaukee Brewers at Los Angeles Dodgers",
-      "short_name": "MIL @ LAD",
-      "status": "Scheduled",
-      "status_short": "10/16 - 9:00 PM EDT",
-      "state": "pre",
-      "period": 1,
-      "clock": "0:00",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Milwaukee Brewers",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "100-62",
-      "away_record": "103-59",
-      "venue": "Dodger Stadium",
-      "broadcasts": [
-        "FS1"
-      ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908034/brewers-dodgers"
     },
     {
       "sport": "mlb",
