@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-17T18:38:55.836911Z",
+  "refreshed_at_utc": "2026-10-17T21:09:12.226143Z",
   "dates_requested": [
     "20261016",
     "20261017",
@@ -66,24 +66,24 @@
       "date_utc": "2026-10-17T17:00Z",
       "name": "New Jersey Devils at Washington Capitals",
       "short_name": "NJ @ WSH",
-      "status": "End of Period",
-      "status_short": "End of 2nd",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Washington Capitals",
       "away_team": "New Jersey Devils",
       "home_score": "4",
-      "away_score": "1",
-      "home_record": "4-3-0",
-      "away_record": "4-3-0",
+      "away_score": "2",
+      "home_record": "5-3-0",
+      "away_record": "4-4-0",
       "venue": "Capital One Arena",
       "broadcasts": [
         "NHL Net",
         "MNMT",
         "MSGSN"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892519"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892519/devils-capitals"
     },
     {
       "sport": "nhl",
@@ -91,15 +91,15 @@
       "date_utc": "2026-10-17T19:30Z",
       "name": "Carolina Hurricanes at Winnipeg Jets",
       "short_name": "CAR @ WPG",
-      "status": "Scheduled",
-      "status_short": "10/17 - 3:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "8:43 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "8:43",
       "home_team": "Winnipeg Jets",
       "away_team": "Carolina Hurricanes",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "2",
+      "away_score": "1",
       "home_record": "4-1-2",
       "away_record": "6-1-1",
       "venue": "Canada Life Centre",
@@ -107,7 +107,7 @@
         "ESPN+",
         "CARNHL"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892520/hurricanes-jets"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892520"
     },
     {
       "sport": "nhl",
@@ -115,15 +115,15 @@
       "date_utc": "2026-10-17T20:00Z",
       "name": "Vancouver Canucks at Tampa Bay Lightning",
       "short_name": "VAN @ TB",
-      "status": "Scheduled",
-      "status_short": "10/17 - 4:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:47 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "14:47",
       "home_team": "Tampa Bay Lightning",
       "away_team": "Vancouver Canucks",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "2",
       "home_record": "5-2-0",
       "away_record": "2-6-1",
       "venue": "Benchmark International Arena",
@@ -131,7 +131,7 @@
         "ESPN+",
         "The Spot - MTN"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892521/canucks-lightning"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892521"
     },
     {
       "sport": "nhl",
