@@ -1,104 +1,35 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-16T21:49:47.800929Z",
+  "refreshed_at_utc": "2026-10-17T00:03:23.324481Z",
   "dates_requested": [
-    "20261015",
     "20261016",
-    "20261017"
+    "20261017",
+    "20261018"
   ],
-  "event_count": 58,
+  "event_count": 55,
   "events": [
-    {
-      "sport": "cfb",
-      "event_id": "401862800",
-      "date_utc": "2026-10-15T23:30Z",
-      "name": "East Carolina Pirates at UAB Blazers",
-      "short_name": "ECU @ UAB",
-      "status": "Final",
-      "status_short": "Final/OT",
-      "state": "post",
-      "period": 5,
-      "clock": "0:00",
-      "home_team": "UAB Blazers",
-      "away_team": "East Carolina Pirates",
-      "home_score": "30",
-      "away_score": "17",
-      "home_record": "4-3",
-      "away_record": "3-3",
-      "venue": "Protective Stadium",
-      "broadcasts": [
-        "ESPN"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862800/east-carolina-uab"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401869950",
-      "date_utc": "2026-10-15T23:30Z",
-      "name": "Georgia Southern Eagles at Old Dominion Monarchs",
-      "short_name": "GASO @ ODU",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Old Dominion Monarchs",
-      "away_team": "Georgia Southern Eagles",
-      "home_score": "15",
-      "away_score": "23",
-      "home_record": "2-5",
-      "away_record": "3-4",
-      "venue": "S.B. Ballard Stadium",
-      "broadcasts": [
-        "ESPN2"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401869950/ga-southern-old-dominion"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401860923",
-      "date_utc": "2026-10-16T00:00Z",
-      "name": "Colorado State Rams at Texas State Bobcats",
-      "short_name": "CSU @ TXST",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Texas State Bobcats",
-      "away_team": "Colorado State Rams",
-      "home_score": "66",
-      "away_score": "27",
-      "home_record": "3-3",
-      "away_record": "2-4",
-      "venue": "UFCU Stadium",
-      "broadcasts": [
-        "CBSSN"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401860923/colorado-st-texas-st"
-    },
     {
       "sport": "cfb",
       "event_id": "401862801",
       "date_utc": "2026-10-16T23:30Z",
       "name": "Memphis Tigers at Tulane Green Wave",
       "short_name": "MEM @ TULN",
-      "status": "Scheduled",
-      "status_short": "10/16 - 7:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "6:20 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "6:20",
       "home_team": "Tulane Green Wave",
       "away_team": "Memphis Tigers",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "3",
       "home_record": "2-3",
       "away_record": "5-1",
       "venue": "Yulman Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862801/memphis-tulane"
+      "link": "https://www.espn.com/college-football/game?gameId=401862801"
     },
     {
       "sport": "cfb",
