@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-17T04:44:48.121615Z",
+  "refreshed_at_utc": "2026-10-17T08:55:45.387395Z",
   "dates_requested": [
     "20261016",
     "20261017",
@@ -249,22 +249,22 @@
       "date_utc": "2026-10-17T02:30Z",
       "name": "Denver Nuggets at Los Angeles Lakers",
       "short_name": "DEN @ LAL",
-      "status": "In Progress",
-      "status_short": "6:43 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "6:43",
+      "clock": "12:00",
       "home_team": "Los Angeles Lakers",
       "away_team": "Denver Nuggets",
-      "home_score": "95",
-      "away_score": "106",
-      "home_record": "2-2",
-      "away_record": "2-2",
+      "home_score": "106",
+      "away_score": "121",
+      "home_record": "2-3",
+      "away_record": "3-2",
       "venue": "crypto.com Arena",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401898719"
+      "link": "https://www.espn.com/nba/game/_/gameId/401898719/nuggets-lakers"
     }
   ],
   "errors": []
