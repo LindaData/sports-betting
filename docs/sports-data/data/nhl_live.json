@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-17T16:02:11.201414Z",
+  "refreshed_at_utc": "2026-10-17T18:38:55.836911Z",
   "dates_requested": [
     "20261016",
     "20261017",
@@ -66,15 +66,15 @@
       "date_utc": "2026-10-17T17:00Z",
       "name": "New Jersey Devils at Washington Capitals",
       "short_name": "NJ @ WSH",
-      "status": "Scheduled",
-      "status_short": "10/17 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Washington Capitals",
       "away_team": "New Jersey Devils",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "4",
+      "away_score": "1",
       "home_record": "4-3-0",
       "away_record": "4-3-0",
       "venue": "Capital One Arena",
@@ -83,7 +83,7 @@
         "MNMT",
         "MSGSN"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892519/devils-capitals"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892519"
     },
     {
       "sport": "nhl",

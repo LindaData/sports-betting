@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-17T16:02:11.201414Z",
+  "refreshed_at_utc": "2026-10-17T18:38:55.836911Z",
   "dates_requested": [
     "20261016",
     "20261017",
@@ -83,22 +83,22 @@
       "date_utc": "2026-10-17T16:00Z",
       "name": "Ohio State Buckeyes at Indiana Hoosiers",
       "short_name": "OSU @ IU",
-      "status": "Scheduled",
-      "status_short": "10/17 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "7:11 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "7:11",
       "home_team": "Indiana Hoosiers",
       "away_team": "Ohio State Buckeyes",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "13",
       "home_record": "6-0",
       "away_record": "5-1",
       "venue": "Memorial Stadium (Bloomington, IN)",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858488/ohio-state-indiana"
+      "link": "https://www.espn.com/college-football/game?gameId=401858488"
     },
     {
       "sport": "cfb",
@@ -106,22 +106,22 @@
       "date_utc": "2026-10-17T16:00Z",
       "name": "Florida Gators at Texas Longhorns",
       "short_name": "FLA @ TEX",
-      "status": "Scheduled",
-      "status_short": "10/17 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:47 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "13:47",
       "home_team": "Texas Longhorns",
       "away_team": "Florida Gators",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "17",
+      "away_score": "17",
       "home_record": "4-1",
       "away_record": "4-2",
       "venue": "DKR-Texas Memorial Stadium",
       "broadcasts": [
         "ABC"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856724/florida-texas"
+      "link": "https://www.espn.com/college-football/game?gameId=401856724"
     },
     {
       "sport": "cfb",
@@ -129,14 +129,14 @@
       "date_utc": "2026-10-17T16:00Z",
       "name": "Mississippi State Bulldogs at LSU Tigers",
       "short_name": "MSST @ LSU",
-      "status": "Scheduled",
-      "status_short": "10/17 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:23 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "0:23",
       "home_team": "LSU Tigers",
       "away_team": "Mississippi State Bulldogs",
-      "home_score": "0",
+      "home_score": "31",
       "away_score": "0",
       "home_record": "4-2",
       "away_record": "4-1",
@@ -145,7 +145,7 @@
         "ESPN",
         "Disney+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856720/mississippi-st-lsu"
+      "link": "https://www.espn.com/college-football/game?gameId=401856720"
     },
     {
       "sport": "cfb",
@@ -153,22 +153,22 @@
       "date_utc": "2026-10-17T16:00Z",
       "name": "Virginia Cavaliers at SMU Mustangs",
       "short_name": "UVA @ SMU",
-      "status": "Scheduled",
-      "status_short": "10/17 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:30 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "13:30",
       "home_team": "SMU Mustangs",
       "away_team": "Virginia Cavaliers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "16",
+      "away_score": "13",
       "home_record": "4-1",
       "away_record": "4-2",
       "venue": "Gerald J. Ford Stadium",
       "broadcasts": [
         "CW"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858268/virginia-smu"
+      "link": "https://www.espn.com/college-football/game?gameId=401858268"
     },
     {
       "sport": "cfb",
@@ -176,22 +176,22 @@
       "date_utc": "2026-10-17T16:00Z",
       "name": "Northwestern Wildcats at Michigan State Spartans",
       "short_name": "NU @ MSU",
-      "status": "Scheduled",
-      "status_short": "10/17 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "12:48 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "12:48",
       "home_team": "Michigan State Spartans",
       "away_team": "Northwestern Wildcats",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "14",
+      "away_score": "13",
       "home_record": "2-4",
       "away_record": "4-1",
       "venue": "Spartan Stadium",
       "broadcasts": [
         "Peacock"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858491/northwestern-michigan-st"
+      "link": "https://www.espn.com/college-football/game?gameId=401858491"
     },
     {
       "sport": "cfb",
@@ -199,22 +199,22 @@
       "date_utc": "2026-10-17T16:00Z",
       "name": "Cincinnati Bearcats at West Virginia Mountaineers",
       "short_name": "CIN @ WVU",
-      "status": "Scheduled",
-      "status_short": "10/17 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:24 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "0:24",
       "home_team": "West Virginia Mountaineers",
       "away_team": "Cincinnati Bearcats",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "21",
+      "away_score": "28",
       "home_record": "3-3",
       "away_record": "4-1",
       "venue": "Milan Puskar Stadium",
       "broadcasts": [
         "TNT"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856829/cincinnati-west-virginia"
+      "link": "https://www.espn.com/college-football/game?gameId=401856829"
     },
     {
       "sport": "cfb",
@@ -222,22 +222,22 @@
       "date_utc": "2026-10-17T16:00Z",
       "name": "Kansas Jayhawks at Kansas State Wildcats",
       "short_name": "KU @ KSU",
-      "status": "Scheduled",
-      "status_short": "10/17 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "In Progress",
+      "status_short": "End of 3rd",
+      "state": "in",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Kansas State Wildcats",
       "away_team": "Kansas Jayhawks",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "25",
+      "away_score": "24",
       "home_record": "3-2",
       "away_record": "2-3",
       "venue": "Bill Snyder Family Stadium",
       "broadcasts": [
         "FS1"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856830/kansas-kansas-st"
+      "link": "https://www.espn.com/college-football/game?gameId=401856830"
     },
     {
       "sport": "cfb",
@@ -245,14 +245,14 @@
       "date_utc": "2026-10-17T16:00Z",
       "name": "Charleston Southern Buccaneers at Clemson Tigers",
       "short_name": "CHSO @ CLEM",
-      "status": "Scheduled",
-      "status_short": "10/17 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:06 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "13:06",
       "home_team": "Clemson Tigers",
       "away_team": "Charleston Southern Buccaneers",
-      "home_score": "0",
+      "home_score": "37",
       "away_score": "0",
       "home_record": "3-2",
       "away_record": "3-3",
@@ -260,7 +260,7 @@
       "broadcasts": [
         "ACC Network"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858261/charleston-so-clemson"
+      "link": "https://www.espn.com/college-football/game?gameId=401858261"
     },
     {
       "sport": "cfb",
@@ -268,22 +268,22 @@
       "date_utc": "2026-10-17T16:00Z",
       "name": "Pittsburgh Panthers at Boston College Eagles",
       "short_name": "PITT @ BC",
-      "status": "Scheduled",
-      "status_short": "10/17 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:26 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "0:26",
       "home_team": "Boston College Eagles",
       "away_team": "Pittsburgh Panthers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "21",
+      "away_score": "15",
       "home_record": "2-3",
       "away_record": "5-1",
       "venue": "Alumni Stadium (Chestnut Hill, MA)",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858267/pitt-boston-college"
+      "link": "https://www.espn.com/college-football/game?gameId=401858267"
     },
     {
       "sport": "cfb",
@@ -291,22 +291,22 @@
       "date_utc": "2026-10-17T16:00Z",
       "name": "Florida Atlantic Owls at Army Black Knights",
       "short_name": "FAU @ ARMY",
-      "status": "Scheduled",
-      "status_short": "10/17 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "12:29 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "12:29",
       "home_team": "Army Black Knights",
       "away_team": "Florida Atlantic Owls",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "48",
+      "away_score": "17",
       "home_record": "3-2",
       "away_record": "4-1",
       "venue": "Michie Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862802/fau-army"
+      "link": "https://www.espn.com/college-football/game?gameId=401862802"
     },
     {
       "sport": "cfb",
@@ -314,22 +314,22 @@
       "date_utc": "2026-10-17T16:00Z",
       "name": "Ball State Cardinals at Bowling Green Falcons",
       "short_name": "BALL @ BGSU",
-      "status": "Scheduled",
-      "status_short": "10/17 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "3:23 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "3:23",
       "home_team": "Bowling Green Falcons",
       "away_team": "Ball State Cardinals",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "10",
+      "away_score": "17",
       "home_record": "2-4",
       "away_record": "1-5",
       "venue": "Doyt L. Perry Stadium",
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866441/ball-state-bowling-green"
+      "link": "https://www.espn.com/college-football/game?gameId=401866441"
     },
     {
       "sport": "cfb",
@@ -337,22 +337,22 @@
       "date_utc": "2026-10-17T16:00Z",
       "name": "Georgia State Panthers at James Madison Dukes",
       "short_name": "GAST @ JMU",
-      "status": "Scheduled",
-      "status_short": "10/17 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "5:46 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "5:46",
       "home_team": "James Madison Dukes",
       "away_team": "Georgia State Panthers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "42",
+      "away_score": "16",
       "home_record": "6-0",
       "away_record": "4-1",
       "venue": "Bridgeforth Stadium",
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401869957/georgia-st-james-madison"
+      "link": "https://www.espn.com/college-football/game?gameId=401869957"
     },
     {
       "sport": "cfb",
@@ -360,22 +360,22 @@
       "date_utc": "2026-10-17T16:30Z",
       "name": "Rutgers Scarlet Knights at Maryland Terrapins",
       "short_name": "RUTG @ MD",
-      "status": "Scheduled",
-      "status_short": "10/17 - 12:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "10:35 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "10:35",
       "home_team": "Maryland Terrapins",
       "away_team": "Rutgers Scarlet Knights",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "23",
+      "away_score": "16",
       "home_record": "2-4",
       "away_record": "1-4",
       "venue": "SECU Stadium",
       "broadcasts": [
         "BTN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858489/rutgers-maryland"
+      "link": "https://www.espn.com/college-football/game?gameId=401858489"
     },
     {
       "sport": "cfb",
@@ -383,14 +383,14 @@
       "date_utc": "2026-10-17T17:00Z",
       "name": "The Citadel Bulldogs at Texas A&M Aggies",
       "short_name": "CIT @ TA&M",
-      "status": "Scheduled",
-      "status_short": "10/17 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Texas A&M Aggies",
       "away_team": "The Citadel Bulldogs",
-      "home_score": "0",
+      "home_score": "28",
       "away_score": "0",
       "home_record": "3-3",
       "away_record": "2-4",
@@ -398,7 +398,7 @@
       "broadcasts": [
         "SECN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856725/the-citadel-texas-am"
+      "link": "https://www.espn.com/college-football/game?gameId=401856725"
     },
     {
       "sport": "cfb",
@@ -406,22 +406,22 @@
       "date_utc": "2026-10-17T17:00Z",
       "name": "Charlotte 49ers at Temple Owls",
       "short_name": "CLT @ TEM",
-      "status": "Scheduled",
-      "status_short": "10/17 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Temple Owls",
       "away_team": "Charlotte 49ers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "14",
+      "away_score": "7",
       "home_record": "2-4",
       "away_record": "0-6",
       "venue": "Lincoln Financial Field",
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862803/charlotte-temple"
+      "link": "https://www.espn.com/college-football/game?gameId=401862803"
     },
     {
       "sport": "cfb",
@@ -429,22 +429,22 @@
       "date_utc": "2026-10-17T17:00Z",
       "name": "Massachusetts Minutemen at Buffalo Bulls",
       "short_name": "MASS @ BUFF",
-      "status": "Scheduled",
-      "status_short": "10/17 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Buffalo Bulls",
       "away_team": "Massachusetts Minutemen",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "8",
+      "away_score": "15",
       "home_record": "3-3",
       "away_record": "4-2",
       "venue": "Broadview Stadium",
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866442/umass-buffalo"
+      "link": "https://www.espn.com/college-football/game?gameId=401866442"
     },
     {
       "sport": "cfb",
@@ -452,22 +452,22 @@
       "date_utc": "2026-10-17T17:30Z",
       "name": "Western Michigan Broncos at Central Michigan Chippewas",
       "short_name": "WMU @ CMU",
-      "status": "Scheduled",
-      "status_short": "10/17 - 1:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "1:05 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "1:05",
       "home_team": "Central Michigan Chippewas",
       "away_team": "Western Michigan Broncos",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "14",
       "home_record": "3-3",
       "away_record": "4-2",
       "venue": "Kelly/Shorts Stadium",
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866443/w-michigan-c-michigan"
+      "link": "https://www.espn.com/college-football/game?gameId=401866443"
     },
     {
       "sport": "cfb",
