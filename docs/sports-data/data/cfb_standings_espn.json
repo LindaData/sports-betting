@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-10-16T14:10:34.620277Z",
+  "refreshed_at_utc": "2026-10-17T13:08:01.200232Z",
   "sport": "cfb",
   "standings": [
     {
@@ -10,18 +10,6 @@
       "percentage": 1.0,
       "played": null,
       "position": 1,
-      "sport": "cfb",
-      "team": "Memphis Tigers",
-      "team_id": "235",
-      "wins": 5
-    },
-    {
-      "form": "W3",
-      "group": "American Conference",
-      "losses": null,
-      "percentage": 1.0,
-      "played": null,
-      "position": 2,
       "sport": "cfb",
       "team": "UTSA Roadrunners",
       "team_id": "2636",
@@ -33,11 +21,23 @@
       "losses": null,
       "percentage": 1.0,
       "played": null,
-      "position": 3,
+      "position": 2,
       "sport": "cfb",
       "team": "Florida Atlantic Owls",
       "team_id": "2226",
       "wins": 4
+    },
+    {
+      "form": "L1",
+      "group": "American Conference",
+      "losses": null,
+      "percentage": 0.6666667,
+      "played": null,
+      "position": 3,
+      "sport": "cfb",
+      "team": "Memphis Tigers",
+      "team_id": "235",
+      "wins": 5
     },
     {
       "form": "W3",
@@ -100,12 +100,24 @@
       "wins": 3
     },
     {
+      "form": "W1",
+      "group": "American Conference",
+      "losses": null,
+      "percentage": 0.5,
+      "played": null,
+      "position": 9,
+      "sport": "cfb",
+      "team": "Tulane Green Wave",
+      "team_id": "2655",
+      "wins": 3
+    },
+    {
       "form": "L3",
       "group": "American Conference",
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 9,
+      "position": 10,
       "sport": "cfb",
       "team": "Tulsa Golden Hurricane",
       "team_id": "202",
@@ -117,22 +129,10 @@
       "losses": null,
       "percentage": 0.33333334,
       "played": null,
-      "position": 10,
+      "position": 11,
       "sport": "cfb",
       "team": "Navy Midshipmen",
       "team_id": "2426",
-      "wins": 2
-    },
-    {
-      "form": "L1",
-      "group": "American Conference",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 11,
-      "sport": "cfb",
-      "team": "Tulane Green Wave",
-      "team_id": "2655",
       "wins": 2
     },
     {
@@ -700,16 +700,16 @@
       "wins": 3
     },
     {
-      "form": "W2",
+      "form": "W1",
       "group": "Big Ten Conference",
       "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.25,
       "played": null,
       "position": 12,
       "sport": "cfb",
-      "team": "Purdue Boilermakers",
-      "team_id": "2509",
-      "wins": 3
+      "team": "Washington Huskies",
+      "team_id": "264",
+      "wins": 4
     },
     {
       "form": "W1",
@@ -736,15 +736,15 @@
       "wins": 3
     },
     {
-      "form": "L3",
+      "form": "L1",
       "group": "Big Ten Conference",
       "losses": null,
-      "percentage": 0.0,
+      "percentage": 0.5,
       "played": null,
       "position": 15,
       "sport": "cfb",
-      "team": "Washington Huskies",
-      "team_id": "264",
+      "team": "Purdue Boilermakers",
+      "team_id": "2509",
       "wins": 3
     },
     {
@@ -1516,16 +1516,16 @@
       "wins": 4
     },
     {
-      "form": "L2",
+      "form": "W1",
       "group": "Sun Belt Conference - Sun Belt - East",
       "losses": null,
-      "percentage": 0.0,
+      "percentage": 0.5,
       "played": null,
       "position": 3,
       "sport": "cfb",
       "team": "App State Mountaineers",
       "team_id": "2026",
-      "wins": 3
+      "wins": 4
     },
     {
       "form": "L2",
@@ -1552,10 +1552,10 @@
       "wins": 3
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "Sun Belt Conference - Sun Belt - East",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.33333334,
       "played": null,
       "position": 6,
       "sport": "cfb",
