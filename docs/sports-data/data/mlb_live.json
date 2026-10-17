@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-17T21:09:12.226143Z",
+  "refreshed_at_utc": "2026-10-17T23:14:39.810372Z",
   "dates_requested": [
     "20261016",
     "20261017",
@@ -62,9 +62,9 @@
       "date_utc": "2026-10-18T21:00Z",
       "name": "Tampa Bay Rays at Cleveland Guardians",
       "short_name": "TB @ CLE",
-      "status": "Scheduled",
-      "status_short": "10/18 - 5:00 PM EDT",
-      "state": "pre",
+      "status": "Delayed",
+      "status_short": "Delayed, Top 1st",
+      "state": "in",
       "period": 1,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
@@ -78,7 +78,7 @@
         "TBS",
         "truTV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401930515/rays-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401930515"
     }
   ],
   "errors": []
