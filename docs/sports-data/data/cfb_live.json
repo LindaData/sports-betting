@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-18T06:10:14.330241Z",
+  "refreshed_at_utc": "2026-10-18T11:27:43.540783Z",
   "dates_requested": [
     "20261017",
     "20261018",
@@ -1097,22 +1097,22 @@
       "date_utc": "2026-10-18T02:15Z",
       "name": "Utah Utes at Colorado Buffaloes",
       "short_name": "UTAH @ COLO",
-      "status": "In Progress",
-      "status_short": "End of 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
       "clock": "0:00",
       "home_team": "Colorado Buffaloes",
       "away_team": "Utah Utes",
       "home_score": "24",
       "away_score": "27",
-      "home_record": "2-3",
-      "away_record": "5-0",
+      "home_record": "2-4",
+      "away_record": "6-0",
       "venue": "Folsom Field",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401856833"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856833/utah-colorado"
     },
     {
       "sport": "cfb",
@@ -1139,29 +1139,6 @@
     },
     {
       "sport": "cfb",
-      "event_id": "401864521",
-      "date_utc": "2026-10-18T02:30Z",
-      "name": "New Mexico Lobos at Hawai'i Rainbow Warriors",
-      "short_name": "UNM @ HAW",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Hawai'i Rainbow Warriors",
-      "away_team": "New Mexico Lobos",
-      "home_score": "10",
-      "away_score": "21",
-      "home_record": "1-6",
-      "away_record": "5-1",
-      "venue": "Clarence T.C. Ching Athletics Complex",
-      "broadcasts": [
-        "FS1"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401864521/new-mexico-hawaii"
-    },
-    {
-      "sport": "cfb",
       "event_id": "401860904",
       "date_utc": "2026-10-18T02:30Z",
       "name": "Fresno State Bulldogs at San Diego State Aztecs",
@@ -1185,26 +1162,49 @@
     },
     {
       "sport": "cfb",
+      "event_id": "401864521",
+      "date_utc": "2026-10-18T02:30Z",
+      "name": "New Mexico Lobos at Hawai'i Rainbow Warriors",
+      "short_name": "UNM @ HAW",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
+      "home_team": "Hawai'i Rainbow Warriors",
+      "away_team": "New Mexico Lobos",
+      "home_score": "10",
+      "away_score": "21",
+      "home_record": "1-6",
+      "away_record": "5-1",
+      "venue": "Clarence T.C. Ching Athletics Complex",
+      "broadcasts": [
+        "FS1"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401864521/new-mexico-hawaii"
+    },
+    {
+      "sport": "cfb",
       "event_id": "401858492",
       "date_utc": "2026-10-18T03:00Z",
       "name": "Nebraska Cornhuskers at Oregon Ducks",
       "short_name": "NEB @ ORE",
-      "status": "In Progress",
-      "status_short": "7:18 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "7:18",
+      "clock": "0:00",
       "home_team": "Oregon Ducks",
       "away_team": "Nebraska Cornhuskers",
-      "home_score": "9",
+      "home_score": "17",
       "away_score": "14",
-      "home_record": "3-2",
-      "away_record": "5-1",
+      "home_record": "4-2",
+      "away_record": "5-2",
       "venue": "Autzen Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401858492"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858492/nebraska-oregon"
     }
   ],
   "errors": []
