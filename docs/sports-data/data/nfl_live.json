@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-18T14:43:45.338020Z",
+  "refreshed_at_utc": "2026-10-18T17:40:14.293415Z",
   "dates_requested": [
     "20261017",
     "20261018",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-18T13:30Z",
       "name": "Houston Texans at Jacksonville Jaguars",
       "short_name": "HOU VS JAX",
-      "status": "In Progress",
-      "status_short": "4:16 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "4:16",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Jacksonville Jaguars",
       "away_team": "Houston Texans",
-      "home_score": "7",
-      "away_score": "10",
-      "home_record": "4-1",
-      "away_record": "1-4",
+      "home_score": "31",
+      "away_score": "34",
+      "home_record": "4-2",
+      "away_record": "2-4",
       "venue": "Wembley Stadium",
       "broadcasts": [
         "NFL Net"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401872996"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401872996/texans-jaguars"
     },
     {
       "sport": "nfl",
@@ -37,22 +37,22 @@
       "date_utc": "2026-10-18T17:00Z",
       "name": "Chicago Bears at Atlanta Falcons",
       "short_name": "CHI @ ATL",
-      "status": "Scheduled",
-      "status_short": "10/18 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "12:42 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "12:42",
       "home_team": "Atlanta Falcons",
       "away_team": "Chicago Bears",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "14",
       "home_record": "2-3",
       "away_record": "3-2",
       "venue": "Mercedes-Benz Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872999/bears-falcons"
+      "link": "https://www.espn.com/nfl/game?gameId=401872999"
     },
     {
       "sport": "nfl",
@@ -60,22 +60,22 @@
       "date_utc": "2026-10-18T17:00Z",
       "name": "Baltimore Ravens at Cleveland Browns",
       "short_name": "BAL @ CLE",
-      "status": "Scheduled",
-      "status_short": "10/18 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 1st",
+      "state": "in",
+      "period": 1,
       "clock": "0:00",
       "home_team": "Cleveland Browns",
       "away_team": "Baltimore Ravens",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "10",
       "home_record": "3-2",
       "away_record": "4-1",
       "venue": "Huntington Bank Field",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872997/ravens-browns"
+      "link": "https://www.espn.com/nfl/game?gameId=401872997"
     },
     {
       "sport": "nfl",
@@ -83,11 +83,11 @@
       "date_utc": "2026-10-18T17:00Z",
       "name": "Tennessee Titans at Indianapolis Colts",
       "short_name": "TEN @ IND",
-      "status": "Scheduled",
-      "status_short": "10/18 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:48 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "14:48",
       "home_team": "Indianapolis Colts",
       "away_team": "Tennessee Titans",
       "home_score": "0",
@@ -98,7 +98,7 @@
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873003/titans-colts"
+      "link": "https://www.espn.com/nfl/game?gameId=401873003"
     },
     {
       "sport": "nfl",
@@ -106,22 +106,22 @@
       "date_utc": "2026-10-18T17:00Z",
       "name": "New York Jets at New England Patriots",
       "short_name": "NYJ @ NE",
-      "status": "Scheduled",
-      "status_short": "10/18 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:35 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "0:35",
       "home_team": "New England Patriots",
       "away_team": "New York Jets",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "3",
       "home_record": "3-2",
       "away_record": "2-3",
       "venue": "Gillette Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873001/jets-patriots"
+      "link": "https://www.espn.com/nfl/game?gameId=401873001"
     },
     {
       "sport": "nfl",
@@ -129,14 +129,14 @@
       "date_utc": "2026-10-18T17:00Z",
       "name": "New Orleans Saints at New York Giants",
       "short_name": "NO @ NYG",
-      "status": "Scheduled",
-      "status_short": "10/18 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:23 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "14:23",
       "home_team": "New York Giants",
       "away_team": "New Orleans Saints",
-      "home_score": "0",
+      "home_score": "7",
       "away_score": "0",
       "home_record": "3-1-1",
       "away_record": "1-4",
@@ -144,7 +144,7 @@
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873000/saints-giants"
+      "link": "https://www.espn.com/nfl/game?gameId=401873000"
     },
     {
       "sport": "nfl",
@@ -152,22 +152,22 @@
       "date_utc": "2026-10-18T17:00Z",
       "name": "Carolina Panthers at Philadelphia Eagles",
       "short_name": "CAR @ PHI",
-      "status": "Scheduled",
-      "status_short": "10/18 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "3:17 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "3:17",
       "home_team": "Philadelphia Eagles",
       "away_team": "Carolina Panthers",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "3",
       "home_record": "2-3",
       "away_record": "2-2",
       "venue": "Lincoln Financial Field",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401872998/panthers-eagles"
+      "link": "https://www.espn.com/nfl/game?gameId=401872998"
     },
     {
       "sport": "nfl",
@@ -175,14 +175,14 @@
       "date_utc": "2026-10-18T17:00Z",
       "name": "Pittsburgh Steelers at Tampa Bay Buccaneers",
       "short_name": "PIT @ TB",
-      "status": "Scheduled",
-      "status_short": "10/18 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "15:00 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "15:00",
       "home_team": "Tampa Bay Buccaneers",
       "away_team": "Pittsburgh Steelers",
-      "home_score": "0",
+      "home_score": "3",
       "away_score": "0",
       "home_record": "1-4",
       "away_record": "3-2",
@@ -190,7 +190,7 @@
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873002/steelers-buccaneers"
+      "link": "https://www.espn.com/nfl/game?gameId=401873002"
     },
     {
       "sport": "nfl",
