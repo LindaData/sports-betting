@@ -1,10 +1,10 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-10-17T13:08:01.200232Z",
+  "refreshed_at_utc": "2026-10-18T13:30:05.145028Z",
   "sport": "cfb",
   "standings": [
     {
-      "form": "W3",
+      "form": "W4",
       "group": "American Conference",
       "losses": null,
       "percentage": 1.0,
@@ -13,19 +13,7 @@
       "sport": "cfb",
       "team": "UTSA Roadrunners",
       "team_id": "2636",
-      "wins": 5
-    },
-    {
-      "form": "W4",
-      "group": "American Conference",
-      "losses": null,
-      "percentage": 1.0,
-      "played": null,
-      "position": 2,
-      "sport": "cfb",
-      "team": "Florida Atlantic Owls",
-      "team_id": "2226",
-      "wins": 4
+      "wins": 6
     },
     {
       "form": "L1",
@@ -33,10 +21,22 @@
       "losses": null,
       "percentage": 0.6666667,
       "played": null,
-      "position": 3,
+      "position": 2,
       "sport": "cfb",
       "team": "Memphis Tigers",
       "team_id": "235",
+      "wins": 5
+    },
+    {
+      "form": "W1",
+      "group": "American Conference",
+      "losses": null,
+      "percentage": 0.33333334,
+      "played": null,
+      "position": 3,
+      "sport": "cfb",
+      "team": "South Florida Bulls",
+      "team_id": "58",
       "wins": 5
     },
     {
@@ -52,28 +52,28 @@
       "wins": 4
     },
     {
-      "form": "L2",
+      "form": "W2",
       "group": "American Conference",
       "losses": null,
-      "percentage": 0.33333334,
+      "percentage": 0.75,
       "played": null,
       "position": 5,
       "sport": "cfb",
-      "team": "South Florida Bulls",
-      "team_id": "58",
+      "team": "Army Black Knights",
+      "team_id": "349",
       "wins": 4
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "American Conference",
       "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.5,
       "played": null,
       "position": 6,
       "sport": "cfb",
-      "team": "Army Black Knights",
-      "team_id": "349",
-      "wins": 3
+      "team": "Florida Atlantic Owls",
+      "team_id": "2226",
+      "wins": 4
     },
     {
       "form": "W1",
@@ -88,12 +88,24 @@
       "wins": 4
     },
     {
+      "form": "W1",
+      "group": "American Conference",
+      "losses": null,
+      "percentage": 0.33333334,
+      "played": null,
+      "position": 8,
+      "sport": "cfb",
+      "team": "Tulsa Golden Hurricane",
+      "team_id": "202",
+      "wins": 4
+    },
+    {
       "form": "L1",
       "group": "American Conference",
       "losses": null,
       "percentage": 0.5,
       "played": null,
-      "position": 8,
+      "position": 9,
       "sport": "cfb",
       "team": "East Carolina Pirates",
       "team_id": "151",
@@ -105,29 +117,17 @@
       "losses": null,
       "percentage": 0.5,
       "played": null,
-      "position": 9,
+      "position": 10,
       "sport": "cfb",
       "team": "Tulane Green Wave",
       "team_id": "2655",
       "wins": 3
     },
     {
-      "form": "L3",
+      "form": "L1",
       "group": "American Conference",
       "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 10,
-      "sport": "cfb",
-      "team": "Tulsa Golden Hurricane",
-      "team_id": "202",
-      "wins": 3
-    },
-    {
-      "form": "W1",
-      "group": "American Conference",
-      "losses": null,
-      "percentage": 0.33333334,
+      "percentage": 0.25,
       "played": null,
       "position": 11,
       "sport": "cfb",
@@ -136,10 +136,10 @@
       "wins": 2
     },
     {
-      "form": "L1",
+      "form": "L2",
       "group": "American Conference",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.33333334,
       "played": null,
       "position": 12,
       "sport": "cfb",
@@ -148,15 +148,15 @@
       "wins": 2
     },
     {
-      "form": "L5",
+      "form": "W1",
       "group": "American Conference",
       "losses": null,
-      "percentage": 0.0,
+      "percentage": 0.33333334,
       "played": null,
       "position": 13,
       "sport": "cfb",
-      "team": "Rice Owls",
-      "team_id": "242",
+      "team": "Charlotte 49ers",
+      "team_id": "2429",
       "wins": 1
     },
     {
@@ -167,12 +167,12 @@
       "played": null,
       "position": 14,
       "sport": "cfb",
-      "team": "Charlotte 49ers",
-      "team_id": "2429",
-      "wins": 0
+      "team": "Rice Owls",
+      "team_id": "242",
+      "wins": 1
     },
     {
-      "form": "W5",
+      "form": "W6",
       "group": "Atlantic Coast Conference",
       "losses": null,
       "percentage": 1.0,
@@ -181,7 +181,19 @@
       "sport": "cfb",
       "team": "Miami Hurricanes",
       "team_id": "2390",
-      "wins": 5
+      "wins": 6
+    },
+    {
+      "form": "W4",
+      "group": "Atlantic Coast Conference",
+      "losses": null,
+      "percentage": 0.8,
+      "played": null,
+      "position": 2,
+      "sport": "cfb",
+      "team": "Wake Forest Demon Deacons",
+      "team_id": "154",
+      "wins": 6
     },
     {
       "form": "W3",
@@ -189,47 +201,35 @@
       "losses": null,
       "percentage": 0.75,
       "played": null,
-      "position": 2,
+      "position": 3,
       "sport": "cfb",
-      "team": "Wake Forest Demon Deacons",
-      "team_id": "154",
+      "team": "SMU Mustangs",
+      "team_id": "2567",
       "wins": 5
     },
     {
-      "form": "L1",
+      "form": "L2",
       "group": "Atlantic Coast Conference",
       "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.5,
       "played": null,
-      "position": 3,
+      "position": 4,
       "sport": "cfb",
       "team": "Pittsburgh Panthers",
       "team_id": "221",
       "wins": 5
     },
     {
-      "form": "W2",
-      "group": "Atlantic Coast Conference",
-      "losses": null,
-      "percentage": 0.6666667,
-      "played": null,
-      "position": 4,
-      "sport": "cfb",
-      "team": "SMU Mustangs",
-      "team_id": "2567",
-      "wins": 4
-    },
-    {
-      "form": "L1",
+      "form": "W1",
       "group": "Atlantic Coast Conference",
       "losses": null,
       "percentage": 0.5,
       "played": null,
       "position": 5,
       "sport": "cfb",
-      "team": "Duke Blue Devils",
-      "team_id": "150",
-      "wins": 4
+      "team": "Virginia Tech Hokies",
+      "team_id": "259",
+      "wins": 5
     },
     {
       "form": "W1",
@@ -239,8 +239,20 @@
       "played": null,
       "position": 6,
       "sport": "cfb",
-      "team": "Virginia Cavaliers",
-      "team_id": "258",
+      "team": "Clemson Tigers",
+      "team_id": "228",
+      "wins": 4
+    },
+    {
+      "form": "W2",
+      "group": "Atlantic Coast Conference",
+      "losses": null,
+      "percentage": 0.6666667,
+      "played": null,
+      "position": 7,
+      "sport": "cfb",
+      "team": "North Carolina Tar Heels",
+      "team_id": "153",
       "wins": 4
     },
     {
@@ -249,58 +261,46 @@
       "losses": null,
       "percentage": 0.33333334,
       "played": null,
-      "position": 7,
+      "position": 8,
       "sport": "cfb",
-      "team": "Virginia Tech Hokies",
-      "team_id": "259",
+      "team": "Duke Blue Devils",
+      "team_id": "150",
+      "wins": 4
+    },
+    {
+      "form": "W2",
+      "group": "Atlantic Coast Conference",
+      "losses": null,
+      "percentage": 0.6,
+      "played": null,
+      "position": 9,
+      "sport": "cfb",
+      "team": "Louisville Cardinals",
+      "team_id": "97",
       "wins": 4
     },
     {
       "form": "L1",
       "group": "Atlantic Coast Conference",
       "losses": null,
-      "percentage": 0.6666667,
-      "played": null,
-      "position": 8,
-      "sport": "cfb",
-      "team": "Clemson Tigers",
-      "team_id": "228",
-      "wins": 3
-    },
-    {
-      "form": "W1",
-      "group": "Atlantic Coast Conference",
-      "losses": null,
       "percentage": 0.5,
-      "played": null,
-      "position": 9,
-      "sport": "cfb",
-      "team": "North Carolina Tar Heels",
-      "team_id": "153",
-      "wins": 3
-    },
-    {
-      "form": "W1",
-      "group": "Atlantic Coast Conference",
-      "losses": null,
-      "percentage": 0.6666667,
       "played": null,
       "position": 10,
       "sport": "cfb",
-      "team": "California Golden Bears",
-      "team_id": "25",
-      "wins": 3
+      "team": "Virginia Cavaliers",
+      "team_id": "258",
+      "wins": 4
     },
     {
       "form": "W1",
       "group": "Atlantic Coast Conference",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.33333334,
       "played": null,
       "position": 11,
       "sport": "cfb",
-      "team": "Louisville Cardinals",
-      "team_id": "97",
+      "team": "Boston College Eagles",
+      "team_id": "103",
       "wins": 3
     },
     {
@@ -311,8 +311,44 @@
       "played": null,
       "position": 12,
       "sport": "cfb",
+      "team": "NC State Wolfpack",
+      "team_id": "152",
+      "wins": 3
+    },
+    {
+      "form": "L1",
+      "group": "Atlantic Coast Conference",
+      "losses": null,
+      "percentage": 0.5,
+      "played": null,
+      "position": 13,
+      "sport": "cfb",
+      "team": "California Golden Bears",
+      "team_id": "25",
+      "wins": 3
+    },
+    {
+      "form": "L2",
+      "group": "Atlantic Coast Conference",
+      "losses": null,
+      "percentage": 0.25,
+      "played": null,
+      "position": 14,
+      "sport": "cfb",
       "team": "Florida State Seminoles",
       "team_id": "52",
+      "wins": 3
+    },
+    {
+      "form": "W1",
+      "group": "Atlantic Coast Conference",
+      "losses": null,
+      "percentage": 0.25,
+      "played": null,
+      "position": 15,
+      "sport": "cfb",
+      "team": "Stanford Cardinal",
+      "team_id": "24",
       "wins": 3
     },
     {
@@ -321,19 +357,7 @@
       "losses": null,
       "percentage": 0.33333334,
       "played": null,
-      "position": 13,
-      "sport": "cfb",
-      "team": "NC State Wolfpack",
-      "team_id": "152",
-      "wins": 3
-    },
-    {
-      "form": "W1",
-      "group": "Atlantic Coast Conference",
-      "losses": null,
-      "percentage": 0.5,
-      "played": null,
-      "position": 14,
+      "position": 16,
       "sport": "cfb",
       "team": "Georgia Tech Yellow Jackets",
       "team_id": "59",
@@ -345,38 +369,14 @@
       "losses": null,
       "percentage": 0.0,
       "played": null,
-      "position": 15,
-      "sport": "cfb",
-      "team": "Boston College Eagles",
-      "team_id": "103",
-      "wins": 2
-    },
-    {
-      "form": "L1",
-      "group": "Atlantic Coast Conference",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 16,
+      "position": 17,
       "sport": "cfb",
       "team": "Syracuse Orange",
       "team_id": "183",
       "wins": 2
     },
     {
-      "form": "L2",
-      "group": "Atlantic Coast Conference",
-      "losses": null,
-      "percentage": 0.25,
-      "played": null,
-      "position": 17,
-      "sport": "cfb",
-      "team": "Stanford Cardinal",
-      "team_id": "24",
-      "wins": 2
-    },
-    {
-      "form": "W5",
+      "form": "W6",
       "group": "Big 12 Conference",
       "losses": null,
       "percentage": 1.0,
@@ -385,10 +385,10 @@
       "sport": "cfb",
       "team": "BYU Cougars",
       "team_id": "252",
-      "wins": 5
+      "wins": 6
     },
     {
-      "form": "W5",
+      "form": "W6",
       "group": "Big 12 Conference",
       "losses": null,
       "percentage": 1.0,
@@ -397,10 +397,10 @@
       "sport": "cfb",
       "team": "Texas Tech Red Raiders",
       "team_id": "2641",
-      "wins": 5
+      "wins": 6
     },
     {
-      "form": "W5",
+      "form": "W6",
       "group": "Big 12 Conference",
       "losses": null,
       "percentage": 1.0,
@@ -409,37 +409,37 @@
       "sport": "cfb",
       "team": "Utah Utes",
       "team_id": "254",
-      "wins": 5
+      "wins": 6
     },
     {
       "form": "W4",
       "group": "Big 12 Conference",
       "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.75,
       "played": null,
       "position": 4,
       "sport": "cfb",
-      "team": "Arizona Wildcats",
-      "team_id": "12",
-      "wins": 5
+      "team": "Houston Cougars",
+      "team_id": "248",
+      "wins": 6
     },
     {
-      "form": "W3",
+      "form": "W4",
       "group": "Big 12 Conference",
       "losses": null,
       "percentage": 0.6666667,
       "played": null,
       "position": 5,
       "sport": "cfb",
-      "team": "Houston Cougars",
-      "team_id": "248",
+      "team": "Arizona Wildcats",
+      "team_id": "12",
       "wins": 5
     },
     {
-      "form": "W4",
+      "form": "L1",
       "group": "Big 12 Conference",
       "losses": null,
-      "percentage": 1.0,
+      "percentage": 0.6666667,
       "played": null,
       "position": 6,
       "sport": "cfb",
@@ -448,10 +448,10 @@
       "wins": 4
     },
     {
-      "form": "W4",
+      "form": "L1",
       "group": "Big 12 Conference",
       "losses": null,
-      "percentage": 1.0,
+      "percentage": 0.6666667,
       "played": null,
       "position": 7,
       "sport": "cfb",
@@ -460,10 +460,10 @@
       "wins": 4
     },
     {
-      "form": "L1",
+      "form": "L2",
       "group": "Big 12 Conference",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.33333334,
       "played": null,
       "position": 8,
       "sport": "cfb",
@@ -475,84 +475,84 @@
       "form": "W1",
       "group": "Big 12 Conference",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.33333334,
       "played": null,
       "position": 9,
       "sport": "cfb",
-      "team": "Arizona State Sun Devils",
-      "team_id": "9",
-      "wins": 3
+      "team": "Kansas State Wildcats",
+      "team_id": "2306",
+      "wins": 4
     },
     {
-      "form": "L2",
+      "form": "W1",
       "group": "Big 12 Conference",
       "losses": null,
-      "percentage": 0.0,
+      "percentage": 0.25,
       "played": null,
       "position": 10,
       "sport": "cfb",
-      "team": "Kansas State Wildcats",
-      "team_id": "2306",
-      "wins": 3
+      "team": "West Virginia Mountaineers",
+      "team_id": "277",
+      "wins": 4
     },
     {
-      "form": "L1",
+      "form": "L2",
       "group": "Big 12 Conference",
       "losses": null,
       "percentage": 0.33333334,
       "played": null,
       "position": 11,
       "sport": "cfb",
-      "team": "Iowa State Cyclones",
-      "team_id": "66",
+      "team": "UCF Knights",
+      "team_id": "2116",
       "wins": 3
     },
     {
-      "form": "L2",
+      "form": "L1",
       "group": "Big 12 Conference",
       "losses": null,
       "percentage": 0.33333334,
       "played": null,
       "position": 12,
       "sport": "cfb",
-      "team": "UCF Knights",
-      "team_id": "2116",
+      "team": "Arizona State Sun Devils",
+      "team_id": "9",
       "wins": 3
-    },
-    {
-      "form": "L3",
-      "group": "Big 12 Conference",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 13,
-      "sport": "cfb",
-      "team": "West Virginia Mountaineers",
-      "team_id": "277",
-      "wins": 3
-    },
-    {
-      "form": "L3",
-      "group": "Big 12 Conference",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 14,
-      "sport": "cfb",
-      "team": "Colorado Buffaloes",
-      "team_id": "38",
-      "wins": 2
     },
     {
       "form": "L1",
+      "group": "Big 12 Conference",
+      "losses": null,
+      "percentage": 0.33333334,
+      "played": null,
+      "position": 13,
+      "sport": "cfb",
+      "team": "Iowa State Cyclones",
+      "team_id": "66",
+      "wins": 3
+    },
+    {
+      "form": "W1",
+      "group": "Big 12 Conference",
+      "losses": null,
+      "percentage": 0.33333334,
+      "played": null,
+      "position": 14,
+      "sport": "cfb",
+      "team": "TCU Horned Frogs",
+      "team_id": "2628",
+      "wins": 3
+    },
+    {
+      "form": "L4",
       "group": "Big 12 Conference",
       "losses": null,
       "percentage": 0.0,
       "played": null,
       "position": 15,
       "sport": "cfb",
-      "team": "Kansas Jayhawks",
-      "team_id": "2305",
+      "team": "Colorado Buffaloes",
+      "team_id": "38",
       "wins": 2
     },
     {
@@ -563,8 +563,8 @@
       "played": null,
       "position": 16,
       "sport": "cfb",
-      "team": "TCU Horned Frogs",
-      "team_id": "2628",
+      "team": "Kansas Jayhawks",
+      "team_id": "2305",
       "wins": 2
     },
     {
@@ -575,8 +575,8 @@
       "played": null,
       "position": 1,
       "sport": "cfb",
-      "team": "Indiana Hoosiers",
-      "team_id": "84",
+      "team": "UCLA Bruins",
+      "team_id": "26",
       "wins": 6
     },
     {
@@ -587,9 +587,21 @@
       "played": null,
       "position": 2,
       "sport": "cfb",
-      "team": "UCLA Bruins",
-      "team_id": "26",
-      "wins": 5
+      "team": "Ohio State Buckeyes",
+      "team_id": "194",
+      "wins": 6
+    },
+    {
+      "form": "L1",
+      "group": "Big Ten Conference",
+      "losses": null,
+      "percentage": 0.75,
+      "played": null,
+      "position": 3,
+      "sport": "cfb",
+      "team": "Indiana Hoosiers",
+      "team_id": "84",
+      "wins": 6
     },
     {
       "form": "W2",
@@ -597,23 +609,11 @@
       "losses": null,
       "percentage": 0.75,
       "played": null,
-      "position": 3,
+      "position": 4,
       "sport": "cfb",
       "team": "USC Trojans",
       "team_id": "30",
       "wins": 6
-    },
-    {
-      "form": "W4",
-      "group": "Big Ten Conference",
-      "losses": null,
-      "percentage": 1.0,
-      "played": null,
-      "position": 4,
-      "sport": "cfb",
-      "team": "Ohio State Buckeyes",
-      "team_id": "194",
-      "wins": 5
     },
     {
       "form": "W1",
@@ -628,39 +628,51 @@
       "wins": 5
     },
     {
-      "form": "L1",
+      "form": "W3",
       "group": "Big Ten Conference",
       "losses": null,
       "percentage": 0.6666667,
       "played": null,
       "position": 6,
       "sport": "cfb",
+      "team": "Northwestern Wildcats",
+      "team_id": "77",
+      "wins": 5
+    },
+    {
+      "form": "L2",
+      "group": "Big Ten Conference",
+      "losses": null,
+      "percentage": 0.5,
+      "played": null,
+      "position": 7,
+      "sport": "cfb",
       "team": "Nebraska Cornhuskers",
       "team_id": "158",
       "wins": 5
     },
     {
-      "form": "W4",
+      "form": "L1",
       "group": "Big Ten Conference",
       "losses": null,
-      "percentage": 1.0,
-      "played": null,
-      "position": 7,
-      "sport": "cfb",
-      "team": "Wisconsin Badgers",
-      "team_id": "275",
-      "wins": 4
-    },
-    {
-      "form": "W2",
-      "group": "Big Ten Conference",
-      "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.6666667,
       "played": null,
       "position": 8,
       "sport": "cfb",
-      "team": "Northwestern Wildcats",
-      "team_id": "77",
+      "team": "Minnesota Golden Gophers",
+      "team_id": "135",
+      "wins": 4
+    },
+    {
+      "form": "W1",
+      "group": "Big Ten Conference",
+      "losses": null,
+      "percentage": 0.6666667,
+      "played": null,
+      "position": 9,
+      "sport": "cfb",
+      "team": "Oregon Ducks",
+      "team_id": "2483",
       "wins": 4
     },
     {
@@ -669,35 +681,23 @@
       "losses": null,
       "percentage": 0.6666667,
       "played": null,
-      "position": 9,
+      "position": 10,
       "sport": "cfb",
-      "team": "Minnesota Golden Gophers",
-      "team_id": "135",
+      "team": "Wisconsin Badgers",
+      "team_id": "275",
       "wins": 4
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "Big Ten Conference",
       "losses": null,
-      "percentage": 0.5,
-      "played": null,
-      "position": 10,
-      "sport": "cfb",
-      "team": "Oregon Ducks",
-      "team_id": "2483",
-      "wins": 3
-    },
-    {
-      "form": "L2",
-      "group": "Big Ten Conference",
-      "losses": null,
-      "percentage": 0.0,
+      "percentage": 0.33333334,
       "played": null,
       "position": 11,
       "sport": "cfb",
       "team": "Michigan Wolverines",
       "team_id": "130",
-      "wins": 3
+      "wins": 4
     },
     {
       "form": "W1",
@@ -724,24 +724,12 @@
       "wins": 3
     },
     {
-      "form": "L3",
-      "group": "Big Ten Conference",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 14,
-      "sport": "cfb",
-      "team": "Penn State Nittany Lions",
-      "team_id": "213",
-      "wins": 3
-    },
-    {
       "form": "L1",
       "group": "Big Ten Conference",
       "losses": null,
       "percentage": 0.5,
       "played": null,
-      "position": 15,
+      "position": 14,
       "sport": "cfb",
       "team": "Purdue Boilermakers",
       "team_id": "2509",
@@ -753,35 +741,47 @@
       "losses": null,
       "percentage": 0.0,
       "played": null,
+      "position": 15,
+      "sport": "cfb",
+      "team": "Penn State Nittany Lions",
+      "team_id": "213",
+      "wins": 3
+    },
+    {
+      "form": "W1",
+      "group": "Big Ten Conference",
+      "losses": null,
+      "percentage": 0.33333334,
+      "played": null,
       "position": 16,
       "sport": "cfb",
-      "team": "Maryland Terrapins",
-      "team_id": "120",
+      "team": "Rutgers Scarlet Knights",
+      "team_id": "164",
       "wins": 2
     },
     {
-      "form": "L4",
+      "form": "L5",
       "group": "Big Ten Conference",
       "losses": null,
       "percentage": 0.0,
       "played": null,
       "position": 17,
       "sport": "cfb",
-      "team": "Michigan State Spartans",
-      "team_id": "127",
+      "team": "Maryland Terrapins",
+      "team_id": "120",
       "wins": 2
     },
     {
-      "form": "L1",
+      "form": "L5",
       "group": "Big Ten Conference",
       "losses": null,
       "percentage": 0.0,
       "played": null,
       "position": 18,
       "sport": "cfb",
-      "team": "Rutgers Scarlet Knights",
-      "team_id": "164",
-      "wins": 1
+      "team": "Michigan State Spartans",
+      "team_id": "127",
+      "wins": 2
     },
     {
       "form": "W5",
@@ -904,7 +904,7 @@
       "wins": 1
     },
     {
-      "form": "W6",
+      "form": "L1",
       "group": "FBS Independents",
       "losses": null,
       "percentage": 0.0,
@@ -928,7 +928,7 @@
       "wins": 3
     },
     {
-      "form": "W3",
+      "form": "W4",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 1.0,
@@ -937,10 +937,10 @@
       "sport": "cfb",
       "team": "Ohio Bobcats",
       "team_id": "195",
-      "wins": 4
+      "wins": 5
     },
     {
-      "form": "W2",
+      "form": "W3",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 1.0,
@@ -949,18 +949,66 @@
       "sport": "cfb",
       "team": "Western Michigan Broncos",
       "team_id": "2711",
+      "wins": 5
+    },
+    {
+      "form": "W1",
+      "group": "Mid-American Conference",
+      "losses": null,
+      "percentage": 0.6666667,
+      "played": null,
+      "position": 3,
+      "sport": "cfb",
+      "team": "Toledo Rockets",
+      "team_id": "2649",
+      "wins": 5
+    },
+    {
+      "form": "W2",
+      "group": "Mid-American Conference",
+      "losses": null,
+      "percentage": 0.6666667,
+      "played": null,
+      "position": 4,
+      "sport": "cfb",
+      "team": "Buffalo Bulls",
+      "team_id": "2084",
+      "wins": 4
+    },
+    {
+      "form": "W2",
+      "group": "Mid-American Conference",
+      "losses": null,
+      "percentage": 0.6666667,
+      "played": null,
+      "position": 5,
+      "sport": "cfb",
+      "team": "Miami (OH) RedHawks",
+      "team_id": "193",
+      "wins": 4
+    },
+    {
+      "form": "L3",
+      "group": "Mid-American Conference",
+      "losses": null,
+      "percentage": 0.25,
+      "played": null,
+      "position": 6,
+      "sport": "cfb",
+      "team": "Massachusetts Minutemen",
+      "team_id": "113",
       "wins": 4
     },
     {
       "form": "L1",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.75,
       "played": null,
-      "position": 3,
+      "position": 7,
       "sport": "cfb",
-      "team": "Toledo Rockets",
-      "team_id": "2649",
+      "team": "Eastern Michigan Eagles",
+      "team_id": "2199",
       "wins": 4
     },
     {
@@ -969,65 +1017,17 @@
       "losses": null,
       "percentage": 0.33333334,
       "played": null,
-      "position": 4,
-      "sport": "cfb",
-      "team": "Massachusetts Minutemen",
-      "team_id": "113",
-      "wins": 4
-    },
-    {
-      "form": "W3",
-      "group": "Mid-American Conference",
-      "losses": null,
-      "percentage": 1.0,
-      "played": null,
-      "position": 5,
-      "sport": "cfb",
-      "team": "Eastern Michigan Eagles",
-      "team_id": "2199",
-      "wins": 4
-    },
-    {
-      "form": "W1",
-      "group": "Mid-American Conference",
-      "losses": null,
-      "percentage": 0.5,
-      "played": null,
-      "position": 6,
-      "sport": "cfb",
-      "team": "Buffalo Bulls",
-      "team_id": "2084",
-      "wins": 3
-    },
-    {
-      "form": "L1",
-      "group": "Mid-American Conference",
-      "losses": null,
-      "percentage": 0.5,
-      "played": null,
-      "position": 7,
+      "position": 8,
       "sport": "cfb",
       "team": "Central Michigan Chippewas",
       "team_id": "2117",
       "wins": 3
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.5,
-      "played": null,
-      "position": 8,
-      "sport": "cfb",
-      "team": "Miami (OH) RedHawks",
-      "team_id": "193",
-      "wins": 3
-    },
-    {
-      "form": "W2",
-      "group": "Mid-American Conference",
-      "losses": null,
-      "percentage": 1.0,
+      "percentage": 0.6666667,
       "played": null,
       "position": 9,
       "sport": "cfb",
@@ -1036,7 +1036,7 @@
       "wins": 2
     },
     {
-      "form": "L2",
+      "form": "L3",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 0.33333334,
@@ -1048,31 +1048,31 @@
       "wins": 2
     },
     {
-      "form": "L4",
+      "form": "W1",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.0,
+      "percentage": 0.33333334,
       "played": null,
       "position": 11,
       "sport": "cfb",
-      "team": "Akron Zips",
-      "team_id": "2006",
-      "wins": 1
+      "team": "Ball State Cardinals",
+      "team_id": "2050",
+      "wins": 2
     },
     {
-      "form": "L4",
+      "form": "L5",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 0.0,
       "played": null,
       "position": 12,
       "sport": "cfb",
-      "team": "Ball State Cardinals",
-      "team_id": "2050",
+      "team": "Akron Zips",
+      "team_id": "2006",
       "wins": 1
     },
     {
-      "form": "L4",
+      "form": "L5",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 0.0,
@@ -1084,19 +1084,19 @@
       "wins": 1
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "Mountain West Conference",
       "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.75,
       "played": null,
       "position": 1,
       "sport": "cfb",
       "team": "North Dakota State Bison",
       "team_id": "2449",
-      "wins": 5
+      "wins": 6
     },
     {
-      "form": "W2",
+      "form": "W3",
       "group": "Mountain West Conference",
       "losses": null,
       "percentage": 1.0,
@@ -1105,30 +1105,30 @@
       "sport": "cfb",
       "team": "New Mexico Lobos",
       "team_id": "167",
-      "wins": 4
+      "wins": 5
     },
     {
-      "form": "W3",
+      "form": "W4",
       "group": "Mountain West Conference",
       "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.75,
       "played": null,
       "position": 3,
       "sport": "cfb",
       "team": "Air Force Falcons",
       "team_id": "2005",
-      "wins": 4
+      "wins": 5
     },
     {
-      "form": "W3",
+      "form": "W2",
       "group": "Mountain West Conference",
       "losses": null,
-      "percentage": 1.0,
+      "percentage": 0.75,
       "played": null,
       "position": 4,
       "sport": "cfb",
-      "team": "UNLV Rebels",
-      "team_id": "2439",
+      "team": "Wyoming Cowboys",
+      "team_id": "2751",
       "wins": 4
     },
     {
@@ -1139,27 +1139,27 @@
       "played": null,
       "position": 5,
       "sport": "cfb",
-      "team": "Wyoming Cowboys",
-      "team_id": "2751",
-      "wins": 3
+      "team": "San Jos\u00e9 State Spartans",
+      "team_id": "23",
+      "wins": 4
     },
     {
       "form": "L1",
       "group": "Mountain West Conference",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.6666667,
       "played": null,
       "position": 6,
       "sport": "cfb",
-      "team": "San Jos\u00e9 State Spartans",
-      "team_id": "23",
-      "wins": 3
+      "team": "UNLV Rebels",
+      "team_id": "2439",
+      "wins": 4
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "Mountain West Conference",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.33333334,
       "played": null,
       "position": 7,
       "sport": "cfb",
@@ -1168,7 +1168,7 @@
       "wins": 2
     },
     {
-      "form": "L4",
+      "form": "L5",
       "group": "Mountain West Conference",
       "losses": null,
       "percentage": 0.0,
@@ -1180,7 +1180,7 @@
       "wins": 1
     },
     {
-      "form": "L3",
+      "form": "L4",
       "group": "Mountain West Conference",
       "losses": null,
       "percentage": 0.0,
@@ -1192,7 +1192,7 @@
       "wins": 1
     },
     {
-      "form": "L5",
+      "form": "L6",
       "group": "Mountain West Conference",
       "losses": null,
       "percentage": 0.0,
@@ -1216,7 +1216,7 @@
       "wins": 5
     },
     {
-      "form": "W4",
+      "form": "W5",
       "group": "Pac-12 Conference",
       "losses": null,
       "percentage": 1.0,
@@ -1225,13 +1225,13 @@
       "sport": "cfb",
       "team": "Oregon State Beavers",
       "team_id": "204",
-      "wins": 4
+      "wins": 5
     },
     {
-      "form": "L1",
+      "form": "L2",
       "group": "Pac-12 Conference",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.33333334,
       "played": null,
       "position": 3,
       "sport": "cfb",
@@ -1252,16 +1252,16 @@
       "wins": 3
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "Pac-12 Conference",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.6666667,
       "played": null,
       "position": 5,
       "sport": "cfb",
       "team": "San Diego State Aztecs",
       "team_id": "21",
-      "wins": 2
+      "wins": 3
     },
     {
       "form": "W1",
@@ -1288,7 +1288,7 @@
       "wins": 2
     },
     {
-      "form": "L3",
+      "form": "L4",
       "group": "Pac-12 Conference",
       "losses": null,
       "percentage": 0.0,
@@ -1300,10 +1300,10 @@
       "wins": 1
     },
     {
-      "form": "W6",
+      "form": "L1",
       "group": "Southeastern Conference",
       "losses": null,
-      "percentage": 1.0,
+      "percentage": 0.8,
       "played": null,
       "position": 1,
       "sport": "cfb",
@@ -1312,76 +1312,76 @@
       "wins": 6
     },
     {
-      "form": "L1",
+      "form": "W5",
       "group": "Southeastern Conference",
       "losses": null,
-      "percentage": 0.75,
+      "percentage": 0.8,
       "played": null,
       "position": 2,
       "sport": "cfb",
-      "team": "Alabama Crimson Tide",
-      "team_id": "333",
-      "wins": 5
+      "team": "Kentucky Wildcats",
+      "team_id": "96",
+      "wins": 6
     },
     {
-      "form": "W4",
+      "form": "W3",
       "group": "Southeastern Conference",
       "losses": null,
       "percentage": 0.75,
       "played": null,
       "position": 3,
       "sport": "cfb",
-      "team": "Kentucky Wildcats",
-      "team_id": "96",
-      "wins": 5
+      "team": "Tennessee Volunteers",
+      "team_id": "2633",
+      "wins": 6
     },
     {
       "form": "W2",
       "group": "Southeastern Conference",
       "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.75,
       "played": null,
       "position": 4,
       "sport": "cfb",
-      "team": "Missouri Tigers",
-      "team_id": "142",
+      "team": "Ole Miss Rebels",
+      "team_id": "145",
       "wins": 5
     },
     {
-      "form": "W2",
+      "form": "L2",
       "group": "Southeastern Conference",
       "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.6,
       "played": null,
       "position": 5,
       "sport": "cfb",
-      "team": "Tennessee Volunteers",
-      "team_id": "2633",
+      "team": "Alabama Crimson Tide",
+      "team_id": "333",
       "wins": 5
-    },
-    {
-      "form": "L1",
-      "group": "Southeastern Conference",
-      "losses": null,
-      "percentage": 0.6666667,
-      "played": null,
-      "position": 6,
-      "sport": "cfb",
-      "team": "Mississippi State Bulldogs",
-      "team_id": "344",
-      "wins": 4
     },
     {
       "form": "W1",
       "group": "Southeastern Conference",
       "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.6,
+      "played": null,
+      "position": 6,
+      "sport": "cfb",
+      "team": "Florida Gators",
+      "team_id": "57",
+      "wins": 5
+    },
+    {
+      "form": "W1",
+      "group": "Southeastern Conference",
+      "losses": null,
+      "percentage": 0.5,
       "played": null,
       "position": 7,
       "sport": "cfb",
-      "team": "Ole Miss Rebels",
-      "team_id": "145",
-      "wins": 4
+      "team": "LSU Tigers",
+      "team_id": "99",
+      "wins": 5
     },
     {
       "form": "L1",
@@ -1391,9 +1391,9 @@
       "played": null,
       "position": 8,
       "sport": "cfb",
-      "team": "Texas Longhorns",
-      "team_id": "251",
-      "wins": 4
+      "team": "Missouri Tigers",
+      "team_id": "142",
+      "wins": 5
     },
     {
       "form": "L2",
@@ -1403,20 +1403,8 @@
       "played": null,
       "position": 9,
       "sport": "cfb",
-      "team": "Florida Gators",
-      "team_id": "57",
-      "wins": 4
-    },
-    {
-      "form": "L1",
-      "group": "Southeastern Conference",
-      "losses": null,
-      "percentage": 0.33333334,
-      "played": null,
-      "position": 10,
-      "sport": "cfb",
-      "team": "LSU Tigers",
-      "team_id": "99",
+      "team": "Mississippi State Bulldogs",
+      "team_id": "344",
       "wins": 4
     },
     {
@@ -1425,11 +1413,35 @@
       "losses": null,
       "percentage": 0.5,
       "played": null,
+      "position": 10,
+      "sport": "cfb",
+      "team": "Auburn Tigers",
+      "team_id": "2",
+      "wins": 4
+    },
+    {
+      "form": "L2",
+      "group": "Southeastern Conference",
+      "losses": null,
+      "percentage": 0.33333334,
+      "played": null,
       "position": 11,
       "sport": "cfb",
-      "team": "Oklahoma Sooners",
-      "team_id": "201",
-      "wins": 3
+      "team": "Texas Longhorns",
+      "team_id": "251",
+      "wins": 4
+    },
+    {
+      "form": "W1",
+      "group": "Southeastern Conference",
+      "losses": null,
+      "percentage": 0.25,
+      "played": null,
+      "position": 12,
+      "sport": "cfb",
+      "team": "Texas A&M Aggies",
+      "team_id": "245",
+      "wins": 4
     },
     {
       "form": "L1",
@@ -1437,10 +1449,10 @@
       "losses": null,
       "percentage": 0.33333334,
       "played": null,
-      "position": 12,
+      "position": 13,
       "sport": "cfb",
-      "team": "Auburn Tigers",
-      "team_id": "2",
+      "team": "Oklahoma Sooners",
+      "team_id": "201",
       "wins": 3
     },
     {
@@ -1449,50 +1461,38 @@
       "losses": null,
       "percentage": 0.25,
       "played": null,
-      "position": 13,
+      "position": 14,
       "sport": "cfb",
       "team": "South Carolina Gamecocks",
       "team_id": "2579",
       "wins": 3
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "Southeastern Conference",
       "losses": null,
       "percentage": 0.25,
       "played": null,
-      "position": 14,
-      "sport": "cfb",
-      "team": "Texas A&M Aggies",
-      "team_id": "245",
-      "wins": 3
-    },
-    {
-      "form": "L3",
-      "group": "Southeastern Conference",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
       "position": 15,
       "sport": "cfb",
-      "team": "Vanderbilt Commodores",
-      "team_id": "238",
+      "team": "Arkansas Razorbacks",
+      "team_id": "8",
       "wins": 3
     },
     {
-      "form": "L2",
+      "form": "L4",
       "group": "Southeastern Conference",
       "losses": null,
       "percentage": 0.0,
       "played": null,
       "position": 16,
       "sport": "cfb",
-      "team": "Arkansas Razorbacks",
-      "team_id": "8",
-      "wins": 2
+      "team": "Vanderbilt Commodores",
+      "team_id": "238",
+      "wins": 3
     },
     {
-      "form": "W6",
+      "form": "W7",
       "group": "Sun Belt Conference - Sun Belt - East",
       "losses": null,
       "percentage": 1.0,
@@ -1501,19 +1501,7 @@
       "sport": "cfb",
       "team": "James Madison Dukes",
       "team_id": "256",
-      "wins": 6
-    },
-    {
-      "form": "W2",
-      "group": "Sun Belt Conference - Sun Belt - East",
-      "losses": null,
-      "percentage": 1.0,
-      "played": null,
-      "position": 2,
-      "sport": "cfb",
-      "team": "Georgia State Panthers",
-      "team_id": "2247",
-      "wins": 4
+      "wins": 7
     },
     {
       "form": "W1",
@@ -1521,10 +1509,22 @@
       "losses": null,
       "percentage": 0.5,
       "played": null,
-      "position": 3,
+      "position": 2,
       "sport": "cfb",
       "team": "App State Mountaineers",
       "team_id": "2026",
+      "wins": 4
+    },
+    {
+      "form": "L1",
+      "group": "Sun Belt Conference - Sun Belt - East",
+      "losses": null,
+      "percentage": 0.5,
+      "played": null,
+      "position": 3,
+      "sport": "cfb",
+      "team": "Georgia State Panthers",
+      "team_id": "2247",
       "wins": 4
     },
     {
@@ -1576,12 +1576,36 @@
       "wins": 2
     },
     {
+      "form": "W1",
+      "group": "Sun Belt Conference - Sun Belt - West",
+      "losses": null,
+      "percentage": 0.6666667,
+      "played": null,
+      "position": 1,
+      "sport": "cfb",
+      "team": "Louisiana Ragin' Cajuns",
+      "team_id": "309",
+      "wins": 5
+    },
+    {
+      "form": "W3",
+      "group": "Sun Belt Conference - Sun Belt - West",
+      "losses": null,
+      "percentage": 1.0,
+      "played": null,
+      "position": 2,
+      "sport": "cfb",
+      "team": "Louisiana Tech Bulldogs",
+      "team_id": "2348",
+      "wins": 4
+    },
+    {
       "form": "W2",
       "group": "Sun Belt Conference - Sun Belt - West",
       "losses": null,
       "percentage": 1.0,
       "played": null,
-      "position": 1,
+      "position": 3,
       "sport": "cfb",
       "team": "South Alabama Jaguars",
       "team_id": "6",
@@ -1593,30 +1617,6 @@
       "losses": null,
       "percentage": 0.5,
       "played": null,
-      "position": 2,
-      "sport": "cfb",
-      "team": "Louisiana Ragin' Cajuns",
-      "team_id": "309",
-      "wins": 4
-    },
-    {
-      "form": "W2",
-      "group": "Sun Belt Conference - Sun Belt - West",
-      "losses": null,
-      "percentage": 1.0,
-      "played": null,
-      "position": 3,
-      "sport": "cfb",
-      "team": "Louisiana Tech Bulldogs",
-      "team_id": "2348",
-      "wins": 3
-    },
-    {
-      "form": "W1",
-      "group": "Sun Belt Conference - Sun Belt - West",
-      "losses": null,
-      "percentage": 1.0,
-      "played": null,
       "position": 4,
       "sport": "cfb",
       "team": "Troy Trojans",
@@ -1624,19 +1624,19 @@
       "wins": 3
     },
     {
-      "form": "L2",
+      "form": "W1",
       "group": "Sun Belt Conference - Sun Belt - West",
       "losses": null,
-      "percentage": 0.0,
+      "percentage": 0.33333334,
       "played": null,
       "position": 5,
       "sport": "cfb",
       "team": "Arkansas State Red Wolves",
       "team_id": "2032",
-      "wins": 2
+      "wins": 3
     },
     {
-      "form": "L4",
+      "form": "L5",
       "group": "Sun Belt Conference - Sun Belt - West",
       "losses": null,
       "percentage": 0.0,
@@ -1648,7 +1648,7 @@
       "wins": 1
     },
     {
-      "form": "L5",
+      "form": "L6",
       "group": "Sun Belt Conference - Sun Belt - West",
       "losses": null,
       "percentage": 0.0,
