@@ -1,28 +1,28 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-17T23:14:39.810372Z",
+  "refreshed_at_utc": "2026-10-18T01:17:08.112141Z",
   "dates_requested": [
-    "20261016",
     "20261017",
-    "20261018"
+    "20261018",
+    "20261019"
   ],
   "event_count": 3,
   "events": [
     {
       "sport": "mlb",
-      "event_id": "401908026",
-      "date_utc": "2026-10-17T00:00Z",
+      "event_id": "401908027",
+      "date_utc": "2026-10-18T00:00Z",
       "name": "Tampa Bay Rays at Cleveland Guardians",
       "short_name": "TB @ CLE",
-      "status": "Postponed",
-      "status_short": "Postponed",
-      "state": "post",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Top 5th",
+      "state": "in",
+      "period": 5,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
       "away_team": "Tampa Bay Rays",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "1",
       "home_record": "85-77",
       "away_record": "98-64",
       "venue": "Progressive Field",
@@ -30,16 +30,16 @@
         "TBS",
         "truTV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908026/rays-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908027"
     },
     {
       "sport": "mlb",
-      "event_id": "401908027",
-      "date_utc": "2026-10-18T00:00Z",
+      "event_id": "401930515",
+      "date_utc": "2026-10-18T21:00Z",
       "name": "Tampa Bay Rays at Cleveland Guardians",
       "short_name": "TB @ CLE",
       "status": "Scheduled",
-      "status_short": "10/17 - 8:00 PM EDT",
+      "status_short": "10/18 - 5:00 PM EDT",
       "state": "pre",
       "period": 1,
       "clock": "0:00",
@@ -54,31 +54,31 @@
         "TBS",
         "truTV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908027/rays-guardians"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401930515/rays-guardians"
     },
     {
       "sport": "mlb",
-      "event_id": "401930515",
-      "date_utc": "2026-10-18T21:00Z",
-      "name": "Tampa Bay Rays at Cleveland Guardians",
-      "short_name": "TB @ CLE",
-      "status": "Delayed",
-      "status_short": "Delayed, Top 1st",
-      "state": "in",
+      "event_id": "401908028",
+      "date_utc": "2026-10-20T00:00Z",
+      "name": "Cleveland Guardians at Tampa Bay Rays",
+      "short_name": "CLE @ TB",
+      "status": "Scheduled",
+      "status_short": "10/19 - 8:00 PM EDT",
+      "state": "pre",
       "period": 1,
       "clock": "0:00",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Tampa Bay Rays",
+      "home_team": "Tampa Bay Rays",
+      "away_team": "Cleveland Guardians",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "85-77",
-      "away_record": "98-64",
-      "venue": "Progressive Field",
+      "home_record": "98-64",
+      "away_record": "85-77",
+      "venue": "Tropicana Field",
       "broadcasts": [
         "TBS",
         "truTV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401930515"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908028/guardians-rays"
     }
   ],
   "errors": []
