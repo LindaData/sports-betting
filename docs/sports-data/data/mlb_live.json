@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-18T01:17:08.112141Z",
+  "refreshed_at_utc": "2026-10-18T06:10:14.330241Z",
   "dates_requested": [
     "20261017",
     "20261018",
@@ -14,15 +14,15 @@
       "date_utc": "2026-10-18T00:00Z",
       "name": "Tampa Bay Rays at Cleveland Guardians",
       "short_name": "TB @ CLE",
-      "status": "In Progress",
-      "status_short": "Top 5th",
-      "state": "in",
-      "period": 5,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Cleveland Guardians",
       "away_team": "Tampa Bay Rays",
-      "home_score": "1",
-      "away_score": "1",
+      "home_score": "3",
+      "away_score": "7",
       "home_record": "85-77",
       "away_record": "98-64",
       "venue": "Progressive Field",
@@ -30,7 +30,7 @@
         "TBS",
         "truTV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908027"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908027/rays-guardians"
     },
     {
       "sport": "mlb",
