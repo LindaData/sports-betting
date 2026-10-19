@@ -1,12 +1,82 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-18T22:03:35.081133Z",
+  "refreshed_at_utc": "2026-10-19T00:17:36.315174Z",
   "dates_requested": [
-    "20261017",
     "20261018",
-    "20261019"
+    "20261019",
+    "20261020"
   ],
-  "event_count": 0,
-  "events": [],
+  "event_count": 3,
+  "events": [
+    {
+      "sport": "nba",
+      "event_id": "401909088",
+      "date_utc": "2026-10-20T19:00Z",
+      "name": "Boston Celtics at Detroit Pistons",
+      "short_name": "BOS @ DET",
+      "status": "Scheduled",
+      "status_short": "10/20 - 3:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "Detroit Pistons",
+      "away_team": "Boston Celtics",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Little Caesars Arena",
+      "broadcasts": [
+        "NBC"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909088/celtics-pistons"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401909089",
+      "date_utc": "2026-10-20T23:00Z",
+      "name": "Philadelphia 76ers at New York Knicks",
+      "short_name": "PHI @ NY",
+      "status": "Scheduled",
+      "status_short": "10/20 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "New York Knicks",
+      "away_team": "Philadelphia 76ers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Madison Square Garden",
+      "broadcasts": [
+        "NBC"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909089/76ers-knicks"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401909090",
+      "date_utc": "2026-10-21T01:30Z",
+      "name": "Oklahoma City Thunder at San Antonio Spurs",
+      "short_name": "OKC @ SA",
+      "status": "Scheduled",
+      "status_short": "10/20 - 9:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Oklahoma City Thunder",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Frost Bank Center",
+      "broadcasts": [
+        "NBC"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909090/thunder-spurs"
+    }
+  ],
   "errors": []
 }

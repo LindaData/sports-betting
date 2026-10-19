@@ -1,10 +1,10 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-18T22:03:35.081133Z",
+  "refreshed_at_utc": "2026-10-19T00:17:36.315174Z",
   "dates_requested": [
-    "20261017",
     "20261018",
-    "20261019"
+    "20261019",
+    "20261020"
   ],
   "event_count": 13,
   "events": [
@@ -198,22 +198,22 @@
       "date_utc": "2026-10-18T20:05Z",
       "name": "Arizona Cardinals at Los Angeles Rams",
       "short_name": "ARI @ LAR",
-      "status": "In Progress",
-      "status_short": "1:44 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "1:44",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Los Angeles Rams",
       "away_team": "Arizona Cardinals",
-      "home_score": "9",
-      "away_score": "12",
-      "home_record": "2-3",
-      "away_record": "1-4",
+      "home_score": "16",
+      "away_score": "18",
+      "home_record": "2-4",
+      "away_record": "2-4",
       "venue": "SoFi Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873004"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873004/cardinals-rams"
     },
     {
       "sport": "nfl",
@@ -221,22 +221,22 @@
       "date_utc": "2026-10-18T20:25Z",
       "name": "Los Angeles Chargers at Kansas City Chiefs",
       "short_name": "LAC @ KC",
-      "status": "In Progress",
-      "status_short": "14:55 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "14:55",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Kansas City Chiefs",
       "away_team": "Los Angeles Chargers",
-      "home_score": "19",
-      "away_score": "3",
-      "home_record": "4-0",
-      "away_record": "0-5",
+      "home_score": "22",
+      "away_score": "6",
+      "home_record": "5-0",
+      "away_record": "0-6",
       "venue": "Arrowhead Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873006"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873006/chargers-chiefs"
     },
     {
       "sport": "nfl",
@@ -244,22 +244,22 @@
       "date_utc": "2026-10-18T20:25Z",
       "name": "Buffalo Bills at Las Vegas Raiders",
       "short_name": "BUF @ LV",
-      "status": "In Progress",
-      "status_short": "14:25 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "14:25",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Las Vegas Raiders",
       "away_team": "Buffalo Bills",
-      "home_score": "13",
-      "away_score": "13",
-      "home_record": "3-2",
-      "away_record": "4-1",
+      "home_score": "30",
+      "away_score": "33",
+      "home_record": "3-3",
+      "away_record": "5-1",
       "venue": "Allegiant Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873005"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873005/bills-raiders"
     },
     {
       "sport": "nfl",
