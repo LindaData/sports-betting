@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-19T00:17:36.315174Z",
+  "refreshed_at_utc": "2026-10-19T04:59:07.309688Z",
   "dates_requested": [
     "20261018",
     "20261019",
@@ -267,17 +267,17 @@
       "date_utc": "2026-10-19T00:20Z",
       "name": "Dallas Cowboys at Green Bay Packers",
       "short_name": "DAL @ GB",
-      "status": "Scheduled",
-      "status_short": "10/18 - 8:20 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Green Bay Packers",
       "away_team": "Dallas Cowboys",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "3-2",
-      "away_record": "2-3",
+      "home_score": "23",
+      "away_score": "13",
+      "home_record": "4-2",
+      "away_record": "2-4",
       "venue": "Lambeau Field",
       "broadcasts": [
         "NBC"

@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-19T00:17:36.315174Z",
+  "refreshed_at_utc": "2026-10-19T04:59:07.309688Z",
   "dates_requested": [
     "20261018",
     "20261019",
@@ -14,24 +14,24 @@
       "date_utc": "2026-10-18T22:00Z",
       "name": "Columbus Blue Jackets at Minnesota Wild",
       "short_name": "CBJ @ MIN",
-      "status": "In Progress",
-      "status_short": "6:22 - 3rd",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 3,
-      "clock": "6:22",
+      "clock": "0:00",
       "home_team": "Minnesota Wild",
       "away_team": "Columbus Blue Jackets",
       "home_score": "2",
       "away_score": "1",
-      "home_record": "5-2-1",
-      "away_record": "3-3-0",
+      "home_record": "6-2-1",
+      "away_record": "3-4-0",
       "venue": "Grand Casino Arena",
       "broadcasts": [
         "ESPN+",
         "CBJNHL",
         "MINNHL"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892533"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892533/blue-jackets-wild"
     },
     {
       "sport": "nhl",
@@ -39,23 +39,23 @@
       "date_utc": "2026-10-19T00:00Z",
       "name": "Carolina Hurricanes at Calgary Flames",
       "short_name": "CAR @ CGY",
-      "status": "In Progress",
-      "status_short": "14:04 - 1st",
-      "state": "in",
-      "period": 1,
-      "clock": "14:04",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 3,
+      "clock": "0:00",
       "home_team": "Calgary Flames",
       "away_team": "Carolina Hurricanes",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "1-6-0",
-      "away_record": "7-1-1",
+      "home_score": "3",
+      "away_score": "2",
+      "home_record": "2-6-0",
+      "away_record": "7-2-1",
       "venue": "Scotiabank Saddledome",
       "broadcasts": [
         "ESPN+",
         "CARNHL"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892534"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892534/hurricanes-flames"
     },
     {
       "sport": "nhl",
@@ -273,7 +273,7 @@
       "away_team": "Toronto Maple Leafs",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "3-3-0",
+      "home_record": "3-4-0",
       "away_record": "3-4-2",
       "venue": "Nationwide Arena",
       "broadcasts": [
@@ -346,7 +346,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "6-1-1",
-      "away_record": "5-2-1",
+      "away_record": "6-2-1",
       "venue": "Rogers Place",
       "broadcasts": [
         "ESPN+",
@@ -397,7 +397,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "2-7-1",
-      "away_record": "7-1-1",
+      "away_record": "7-2-1",
       "venue": "Rogers Arena",
       "broadcasts": [
         "ESPN+",
