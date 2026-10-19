@@ -1,14 +1,14 @@
 {
   "league": "NHL",
-  "refreshed_at_utc": "2026-10-18T13:30:05.145028Z",
+  "refreshed_at_utc": "2026-10-19T16:36:31.158421Z",
   "sport": "nhl",
   "standings": [
     {
-      "form": "W7",
+      "form": "L1",
       "group": "Eastern Conference",
-      "losses": 1,
-      "percentage": 0.7777777777777778,
-      "played": 9,
+      "losses": 2,
+      "percentage": 0.7,
+      "played": 10,
       "position": 1,
       "sport": "nhl",
       "team": "Carolina Hurricanes",
@@ -172,11 +172,11 @@
       "wins": 3
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "Eastern Conference",
-      "losses": 3,
-      "percentage": 0.5,
-      "played": 6,
+      "losses": 4,
+      "percentage": 0.42857142857142855,
+      "played": 7,
       "position": 15,
       "sport": "nhl",
       "team": "Columbus Blue Jackets",
@@ -220,12 +220,24 @@
       "wins": 6
     },
     {
+      "form": "W2",
+      "group": "Western Conference",
+      "losses": 2,
+      "percentage": 0.6666666666666666,
+      "played": 9,
+      "position": 3,
+      "sport": "nhl",
+      "team": "Minnesota Wild",
+      "team_id": "30",
+      "wins": 6
+    },
+    {
       "form": "L1",
       "group": "Western Conference",
       "losses": 3,
       "percentage": 0.6666666666666666,
       "played": 9,
-      "position": 3,
+      "position": 4,
       "sport": "nhl",
       "team": "Utah Mammoth",
       "team_id": "129764",
@@ -237,22 +249,10 @@
       "losses": 2,
       "percentage": 0.625,
       "played": 8,
-      "position": 4,
+      "position": 5,
       "sport": "nhl",
       "team": "Colorado Avalanche",
       "team_id": "17",
-      "wins": 5
-    },
-    {
-      "form": "W1",
-      "group": "Western Conference",
-      "losses": 2,
-      "percentage": 0.625,
-      "played": 8,
-      "position": 5,
-      "sport": "nhl",
-      "team": "Minnesota Wild",
-      "team_id": "30",
       "wins": 5
     },
     {
@@ -364,28 +364,28 @@
       "wins": 2
     },
     {
+      "form": "W1",
+      "group": "Western Conference",
+      "losses": 6,
+      "percentage": 0.25,
+      "played": 8,
+      "position": 15,
+      "sport": "nhl",
+      "team": "Calgary Flames",
+      "team_id": "3",
+      "wins": 2
+    },
+    {
       "form": "L6",
       "group": "Western Conference",
       "losses": 4,
       "percentage": 0.0,
       "played": 6,
-      "position": 15,
+      "position": 16,
       "sport": "nhl",
       "team": "Los Angeles Kings",
       "team_id": "8",
       "wins": 0
-    },
-    {
-      "form": "L1",
-      "group": "Western Conference",
-      "losses": 6,
-      "percentage": 0.14285714285714285,
-      "played": 7,
-      "position": 16,
-      "sport": "nhl",
-      "team": "Calgary Flames",
-      "team_id": "3",
-      "wins": 1
     }
   ],
   "standings_rows": 32
