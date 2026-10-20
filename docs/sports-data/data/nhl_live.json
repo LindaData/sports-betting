@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-20T19:29:01.942396Z",
+  "refreshed_at_utc": "2026-10-20T22:31:02.614012Z",
   "dates_requested": [
     "20261019",
     "20261020",
@@ -182,7 +182,8 @@
         "ESPN+",
         "MSGSN",
         "KCOP",
-        "Prime Video (Local)"
+        "Prime Video (Local)",
+        "Fox 11 Plus"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401892541/ducks-islanders"
     },
