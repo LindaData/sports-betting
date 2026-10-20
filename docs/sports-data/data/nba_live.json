@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-20T15:28:40.311995Z",
+  "refreshed_at_utc": "2026-10-20T19:29:01.942396Z",
   "dates_requested": [
     "20261019",
     "20261020",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-20T19:00Z",
       "name": "Boston Celtics at Detroit Pistons",
       "short_name": "BOS @ DET",
-      "status": "Scheduled",
-      "status_short": "10/20 - 3:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0.0",
+      "status": "In Progress",
+      "status_short": "1:57 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "1:57",
       "home_team": "Detroit Pistons",
       "away_team": "Boston Celtics",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "24",
+      "away_score": "21",
       "home_record": "0-0",
       "away_record": "0-0",
       "venue": "Little Caesars Arena",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/nba/game/_/gameId/401909088/celtics-pistons"
+      "link": "https://www.espn.com/nba/game?gameId=401909088"
     },
     {
       "sport": "nba",
