@@ -1,51 +1,27 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-19T21:37:28.866559Z",
+  "refreshed_at_utc": "2026-10-20T00:49:09.426074Z",
   "dates_requested": [
-    "20261018",
     "20261019",
-    "20261020"
+    "20261020",
+    "20261021"
   ],
-  "event_count": 3,
+  "event_count": 2,
   "events": [
-    {
-      "sport": "mlb",
-      "event_id": "401930515",
-      "date_utc": "2026-10-18T21:00Z",
-      "name": "Tampa Bay Rays at Cleveland Guardians",
-      "short_name": "TB @ CLE",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 9,
-      "clock": "0:00",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Tampa Bay Rays",
-      "home_score": "1",
-      "away_score": "3",
-      "home_record": "85-77",
-      "away_record": "98-64",
-      "venue": "Progressive Field",
-      "broadcasts": [
-        "TBS",
-        "truTV"
-      ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401930515/rays-guardians"
-    },
     {
       "sport": "mlb",
       "event_id": "401908028",
       "date_utc": "2026-10-20T00:00Z",
       "name": "Cleveland Guardians at Tampa Bay Rays",
       "short_name": "CLE @ TB",
-      "status": "Scheduled",
-      "status_short": "10/19 - 8:00 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Bot 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
       "away_team": "Cleveland Guardians",
-      "home_score": "0",
+      "home_score": "2",
       "away_score": "0",
       "home_record": "98-64",
       "away_record": "85-77",
@@ -54,7 +30,7 @@
         "TBS",
         "truTV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908028/guardians-rays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908028"
     },
     {
       "sport": "mlb",

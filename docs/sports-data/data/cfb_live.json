@@ -1,12 +1,12 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-19T21:37:28.866559Z",
+  "refreshed_at_utc": "2026-10-20T00:49:09.426074Z",
   "dates_requested": [
-    "20261018",
     "20261019",
-    "20261020"
+    "20261020",
+    "20261021"
   ],
-  "event_count": 3,
+  "event_count": 4,
   "events": [
     {
       "sport": "cfb",
@@ -76,6 +76,29 @@
         "ESPN2"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401871092/south-alabama-marshall"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401871070",
+      "date_utc": "2026-10-22T00:00Z",
+      "name": "New Mexico State Aggies at Sam Houston Bearkats",
+      "short_name": "NMSU @ SHSU",
+      "status": "Scheduled",
+      "status_short": "10/21 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Sam Houston Bearkats",
+      "away_team": "New Mexico State Aggies",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-5",
+      "away_record": "2-4",
+      "venue": "Elliott T. Bowers Stadium",
+      "broadcasts": [
+        "ESPN2"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871070/new-mexico-st-sam-houston"
     }
   ],
   "errors": []

@@ -1,12 +1,12 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-19T21:37:28.866559Z",
+  "refreshed_at_utc": "2026-10-20T00:49:09.426074Z",
   "dates_requested": [
-    "20261018",
     "20261019",
-    "20261020"
+    "20261020",
+    "20261021"
   ],
-  "event_count": 3,
+  "event_count": 14,
   "events": [
     {
       "sport": "nba",
@@ -76,6 +76,260 @@
         "NBC"
       ],
       "link": "https://www.espn.com/nba/game/_/gameId/401909090/thunder-spurs"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401909834",
+      "date_utc": "2026-10-21T23:00Z",
+      "name": "Atlanta Hawks at Orlando Magic",
+      "short_name": "ATL @ ORL",
+      "status": "Scheduled",
+      "status_short": "10/21 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "Orlando Magic",
+      "away_team": "Atlanta Hawks",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Kia Center",
+      "broadcasts": [
+        "NBA League Pass"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909834/hawks-magic"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401909835",
+      "date_utc": "2026-10-21T23:00Z",
+      "name": "Milwaukee Bucks at Washington Wizards",
+      "short_name": "MIL @ WSH",
+      "status": "Scheduled",
+      "status_short": "10/21 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "Washington Wizards",
+      "away_team": "Milwaukee Bucks",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Capital One Arena",
+      "broadcasts": [
+        "MNMT",
+        "NBA League Pass"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909835/bucks-wizards"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401909091",
+      "date_utc": "2026-10-21T23:30Z",
+      "name": "Minnesota Timberwolves at Miami Heat",
+      "short_name": "MIN @ MIA",
+      "status": "Scheduled",
+      "status_short": "10/21 - 7:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "Miami Heat",
+      "away_team": "Minnesota Timberwolves",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Kaseya Center",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909091/timberwolves-heat"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401909836",
+      "date_utc": "2026-10-21T23:30Z",
+      "name": "Charlotte Hornets at Brooklyn Nets",
+      "short_name": "CHA @ BKN",
+      "status": "Scheduled",
+      "status_short": "10/21 - 7:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "Brooklyn Nets",
+      "away_team": "Charlotte Hornets",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Barclays Center",
+      "broadcasts": [
+        "NBA League Pass"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909836/hornets-nets"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401909837",
+      "date_utc": "2026-10-21T23:30Z",
+      "name": "Chicago Bulls at Toronto Raptors",
+      "short_name": "CHI @ TOR",
+      "status": "Scheduled",
+      "status_short": "10/21 - 7:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "Toronto Raptors",
+      "away_team": "Chicago Bulls",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Scotiabank Arena",
+      "broadcasts": [
+        "NBA League Pass"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909837/bulls-raptors"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401909838",
+      "date_utc": "2026-10-22T00:00Z",
+      "name": "Utah Jazz at Memphis Grizzlies",
+      "short_name": "UTAH @ MEM",
+      "status": "Scheduled",
+      "status_short": "10/21 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Utah Jazz",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "FedExForum",
+      "broadcasts": [
+        "NBA League Pass"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909838/jazz-grizzlies"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401909839",
+      "date_utc": "2026-10-22T00:00Z",
+      "name": "Indiana Pacers at New Orleans Pelicans",
+      "short_name": "IND @ NO",
+      "status": "Scheduled",
+      "status_short": "10/21 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Indiana Pacers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Smoothie King Center",
+      "broadcasts": [
+        "NBA League Pass"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909839/pacers-pelicans"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401909840",
+      "date_utc": "2026-10-22T00:30Z",
+      "name": "Dallas Mavericks at Houston Rockets",
+      "short_name": "DAL @ HOU",
+      "status": "Scheduled",
+      "status_short": "10/21 - 8:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "Houston Rockets",
+      "away_team": "Dallas Mavericks",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Toyota Center (Houston)",
+      "broadcasts": [
+        "NBA League Pass"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909840/mavericks-rockets"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401909092",
+      "date_utc": "2026-10-22T02:00Z",
+      "name": "Golden State Warriors at Los Angeles Lakers",
+      "short_name": "GS @ LAL",
+      "status": "Scheduled",
+      "status_short": "10/21 - 10:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Golden State Warriors",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "crypto.com Arena",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909092/warriors-lakers"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401909841",
+      "date_utc": "2026-10-22T02:00Z",
+      "name": "Phoenix Suns at Portland Trail Blazers",
+      "short_name": "PHX @ POR",
+      "status": "Scheduled",
+      "status_short": "10/21 - 10:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "Portland Trail Blazers",
+      "away_team": "Phoenix Suns",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Moda Center",
+      "broadcasts": [
+        "NBA League Pass"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909841/suns-trail-blazers"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401909842",
+      "date_utc": "2026-10-22T02:30Z",
+      "name": "Sacramento Kings at LA Clippers",
+      "short_name": "SAC @ LAC",
+      "status": "Scheduled",
+      "status_short": "10/21 - 10:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "LA Clippers",
+      "away_team": "Sacramento Kings",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Intuit Dome",
+      "broadcasts": [
+        "NBA League Pass"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909842/kings-clippers"
     }
   ],
   "errors": []
