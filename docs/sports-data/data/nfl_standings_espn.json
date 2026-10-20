@@ -1,6 +1,6 @@
 {
   "league": "NFL",
-  "refreshed_at_utc": "2026-10-19T16:36:31.158421Z",
+  "refreshed_at_utc": "2026-10-20T14:27:14.741076Z",
   "sport": "nfl",
   "standings": [
     {
@@ -196,16 +196,16 @@
       "wins": 0
     },
     {
-      "form": "W5",
+      "form": "W6",
       "group": "National Football Conference",
       "losses": 0,
       "percentage": 1.0,
-      "played": 5,
+      "played": 6,
       "position": 1,
       "sport": "nfl",
-      "team": "Minnesota Vikings",
-      "team_id": "16",
-      "wins": 5
+      "team": "San Francisco 49ers",
+      "team_id": "25",
+      "wins": 6
     },
     {
       "form": "W5",
@@ -215,8 +215,8 @@
       "played": 5,
       "position": 2,
       "sport": "nfl",
-      "team": "San Francisco 49ers",
-      "team_id": "25",
+      "team": "Minnesota Vikings",
+      "team_id": "16",
       "wins": 5
     },
     {
@@ -364,11 +364,11 @@
       "wins": 2
     },
     {
-      "form": "-",
+      "form": "L1",
       "group": "National Football Conference",
-      "losses": 3,
-      "percentage": 0.3,
-      "played": 5,
+      "losses": 4,
+      "percentage": 0.25,
+      "played": 6,
       "position": 15,
       "sport": "nfl",
       "team": "Washington Commanders",
