@@ -1,12 +1,12 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-20T00:49:09.426074Z",
+  "refreshed_at_utc": "2026-10-20T05:33:18.383148Z",
   "dates_requested": [
     "20261019",
     "20261020",
     "20261021"
   ],
-  "event_count": 2,
+  "event_count": 1,
   "events": [
     {
       "sport": "mlb",
@@ -14,15 +14,15 @@
       "date_utc": "2026-10-20T00:00Z",
       "name": "Cleveland Guardians at Tampa Bay Rays",
       "short_name": "CLE @ TB",
-      "status": "In Progress",
-      "status_short": "Bot 2nd",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
       "away_team": "Cleveland Guardians",
-      "home_score": "2",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "3",
       "home_record": "98-64",
       "away_record": "85-77",
       "venue": "Tropicana Field",
@@ -30,31 +30,7 @@
         "TBS",
         "truTV"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908028"
-    },
-    {
-      "sport": "mlb",
-      "event_id": "401908029",
-      "date_utc": "2026-10-21T00:00Z",
-      "name": "Cleveland Guardians at Tampa Bay Rays",
-      "short_name": "CLE @ TB",
-      "status": "Scheduled",
-      "status_short": "10/20 - 8:00 PM EDT",
-      "state": "pre",
-      "period": 1,
-      "clock": "0:00",
-      "home_team": "Tampa Bay Rays",
-      "away_team": "Cleveland Guardians",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "98-64",
-      "away_record": "85-77",
-      "venue": "Tropicana Field",
-      "broadcasts": [
-        "TBS",
-        "truTV"
-      ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908029/guardians-rays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908028/guardians-rays"
     }
   ],
   "errors": []
