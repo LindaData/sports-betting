@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-10-20T14:27:14.741076Z",
+  "refreshed_at_utc": "2026-10-21T14:36:39.971965Z",
   "sport": "cfb",
   "standings": [
     {
@@ -808,28 +808,16 @@
       "wins": 5
     },
     {
-      "form": "L1",
+      "form": "W2",
       "group": "Conference USA",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.6666667,
       "played": null,
       "position": 3,
       "sport": "cfb",
-      "team": "Florida International Panthers",
-      "team_id": "2229",
-      "wins": 3
-    },
-    {
-      "form": "W1",
-      "group": "Conference USA",
-      "losses": null,
-      "percentage": 0.5,
-      "played": null,
-      "position": 4,
-      "sport": "cfb",
       "team": "Middle Tennessee Blue Raiders",
       "team_id": "2393",
-      "wins": 3
+      "wins": 4
     },
     {
       "form": "W2",
@@ -837,7 +825,7 @@
       "losses": null,
       "percentage": 0.6666667,
       "played": null,
-      "position": 5,
+      "position": 4,
       "sport": "cfb",
       "team": "Western Kentucky Hilltoppers",
       "team_id": "98",
@@ -847,13 +835,25 @@
       "form": "W1",
       "group": "Conference USA",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.33333334,
+      "played": null,
+      "position": 5,
+      "sport": "cfb",
+      "team": "Delaware Blue Hens",
+      "team_id": "48",
+      "wins": 3
+    },
+    {
+      "form": "L2",
+      "group": "Conference USA",
+      "losses": null,
+      "percentage": 0.33333334,
       "played": null,
       "position": 6,
       "sport": "cfb",
-      "team": "Missouri State Bears",
-      "team_id": "2623",
-      "wins": 2
+      "team": "Florida International Panthers",
+      "team_id": "2229",
+      "wins": 3
     },
     {
       "form": "L1",
@@ -868,15 +868,15 @@
       "wins": 2
     },
     {
-      "form": "L3",
+      "form": "L1",
       "group": "Conference USA",
       "losses": null,
-      "percentage": 0.0,
+      "percentage": 0.33333334,
       "played": null,
       "position": 8,
       "sport": "cfb",
-      "team": "Delaware Blue Hens",
-      "team_id": "48",
+      "team": "Missouri State Bears",
+      "team_id": "2623",
       "wins": 2
     },
     {
@@ -1528,16 +1528,16 @@
       "wins": 4
     },
     {
-      "form": "L2",
+      "form": "W1",
       "group": "Sun Belt Conference - Sun Belt - East",
       "losses": null,
-      "percentage": 0.0,
+      "percentage": 0.33333334,
       "played": null,
       "position": 4,
       "sport": "cfb",
       "team": "Marshall Thundering Herd",
       "team_id": "276",
-      "wins": 3
+      "wins": 4
     },
     {
       "form": "W1",
@@ -1600,10 +1600,10 @@
       "wins": 4
     },
     {
-      "form": "W2",
+      "form": "L1",
       "group": "Sun Belt Conference - Sun Belt - West",
       "losses": null,
-      "percentage": 1.0,
+      "percentage": 0.6666667,
       "played": null,
       "position": 3,
       "sport": "cfb",

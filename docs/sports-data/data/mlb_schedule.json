@@ -1,26 +1,8 @@
 {
-  "dates_requested": "20261013-20261103",
+  "dates_requested": "20261014-20261104",
   "errors": [],
-  "event_count": 15,
+  "event_count": 14,
   "events": [
-    {
-      "away_score": 1,
-      "away_team": "Cleveland Guardians",
-      "away_team_id": "5",
-      "city": "St. Petersburg",
-      "date_utc": "2026-10-14T00:00Z",
-      "game_id": "401908024",
-      "home_score": 3,
-      "home_team": "Tampa Bay Rays",
-      "home_team_id": "30",
-      "league": "Major League Baseball",
-      "league_id": "mlb",
-      "season": "2026",
-      "sport": "mlb",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Tropicana Field"
-    },
     {
       "away_score": 6,
       "away_team": "Milwaukee Brewers",
@@ -276,8 +258,8 @@
   ],
   "league": "MLB",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261013-20261103&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261014-20261104&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-20T14:27:14.741076Z",
+  "refreshed_at_utc": "2026-10-21T14:36:39.971965Z",
   "sport": "mlb"
 }
