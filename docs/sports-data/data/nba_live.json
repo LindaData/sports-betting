@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-21T20:46:22.636828Z",
+  "refreshed_at_utc": "2026-10-21T23:48:11.946860Z",
   "dates_requested": [
     "20261020",
     "20261021",
@@ -83,22 +83,22 @@
       "date_utc": "2026-10-21T23:00Z",
       "name": "Atlanta Hawks at Orlando Magic",
       "short_name": "ATL @ ORL",
-      "status": "Scheduled",
-      "status_short": "10/21 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 1st",
+      "state": "in",
+      "period": 1,
       "clock": "0.0",
       "home_team": "Orlando Magic",
       "away_team": "Atlanta Hawks",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "33",
+      "away_score": "28",
       "home_record": "0-0",
       "away_record": "0-0",
       "venue": "Kia Center",
       "broadcasts": [
         "NBA League Pass"
       ],
-      "link": "https://www.espn.com/nba/game/_/gameId/401909834/hawks-magic"
+      "link": "https://www.espn.com/nba/game?gameId=401909834"
     },
     {
       "sport": "nba",
@@ -106,15 +106,15 @@
       "date_utc": "2026-10-21T23:00Z",
       "name": "Milwaukee Bucks at Washington Wizards",
       "short_name": "MIL @ WSH",
-      "status": "Scheduled",
-      "status_short": "10/21 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0.0",
+      "status": "In Progress",
+      "status_short": "10:30 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "10:30",
       "home_team": "Washington Wizards",
       "away_team": "Milwaukee Bucks",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "25",
+      "away_score": "25",
       "home_record": "0-0",
       "away_record": "0-0",
       "venue": "Capital One Arena",
@@ -124,7 +124,7 @@
         "MyMi",
         "Bucks App"
       ],
-      "link": "https://www.espn.com/nba/game/_/gameId/401909835/bucks-wizards"
+      "link": "https://www.espn.com/nba/game?gameId=401909835"
     },
     {
       "sport": "nba",
@@ -132,22 +132,22 @@
       "date_utc": "2026-10-21T23:30Z",
       "name": "Minnesota Timberwolves at Miami Heat",
       "short_name": "MIN @ MIA",
-      "status": "Scheduled",
-      "status_short": "10/21 - 7:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0.0",
+      "status": "In Progress",
+      "status_short": "9:31 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "9:31",
       "home_team": "Miami Heat",
       "away_team": "Minnesota Timberwolves",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "8",
+      "away_score": "11",
       "home_record": "0-0",
       "away_record": "0-0",
       "venue": "Kaseya Center",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/nba/game/_/gameId/401909091/timberwolves-heat"
+      "link": "https://www.espn.com/nba/game?gameId=401909091"
     },
     {
       "sport": "nba",
@@ -155,15 +155,15 @@
       "date_utc": "2026-10-21T23:30Z",
       "name": "Charlotte Hornets at Brooklyn Nets",
       "short_name": "CHA @ BKN",
-      "status": "Scheduled",
-      "status_short": "10/21 - 7:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0.0",
+      "status": "In Progress",
+      "status_short": "9:10 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "9:10",
       "home_team": "Brooklyn Nets",
       "away_team": "Charlotte Hornets",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "11",
+      "away_score": "5",
       "home_record": "0-0",
       "away_record": "0-0",
       "venue": "Barclays Center",
@@ -171,7 +171,7 @@
         "NBA League Pass",
         "DAZN (YES)"
       ],
-      "link": "https://www.espn.com/nba/game/_/gameId/401909836/hornets-nets"
+      "link": "https://www.espn.com/nba/game?gameId=401909836"
     },
     {
       "sport": "nba",
@@ -179,14 +179,14 @@
       "date_utc": "2026-10-21T23:30Z",
       "name": "Chicago Bulls at Toronto Raptors",
       "short_name": "CHI @ TOR",
-      "status": "Scheduled",
-      "status_short": "10/21 - 7:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0.0",
+      "status": "In Progress",
+      "status_short": "10:41 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "10:41",
       "home_team": "Toronto Raptors",
       "away_team": "Chicago Bulls",
-      "home_score": "0",
+      "home_score": "7",
       "away_score": "0",
       "home_record": "0-0",
       "away_record": "0-0",
@@ -195,7 +195,7 @@
         "NBA League Pass",
         "CHSN"
       ],
-      "link": "https://www.espn.com/nba/game/_/gameId/401909837/bulls-raptors"
+      "link": "https://www.espn.com/nba/game?gameId=401909837"
     },
     {
       "sport": "nba",
@@ -318,6 +318,7 @@
       "broadcasts": [
         "NBA League Pass",
         "Suns Live",
+        "Arizona's Family 3TV",
         "KUNP 16",
         "BlazerVision"
       ],

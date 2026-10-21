@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-21T20:46:22.636828Z",
+  "refreshed_at_utc": "2026-10-21T23:48:11.946860Z",
   "dates_requested": [
     "20261020",
     "20261021",
@@ -287,11 +287,11 @@
       "date_utc": "2026-10-21T23:30Z",
       "name": "Philadelphia Flyers at Buffalo Sabres",
       "short_name": "PHI @ BUF",
-      "status": "Scheduled",
-      "status_short": "10/21 - 7:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:32 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "13:32",
       "home_team": "Buffalo Sabres",
       "away_team": "Philadelphia Flyers",
       "home_score": "0",
@@ -303,7 +303,7 @@
         "TNT",
         "truTV"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892550/flyers-sabres"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892550"
     },
     {
       "sport": "nhl",
@@ -311,11 +311,11 @@
       "date_utc": "2026-10-21T23:30Z",
       "name": "Florida Panthers at Ottawa Senators",
       "short_name": "FLA @ OTT",
-      "status": "Scheduled",
-      "status_short": "10/21 - 7:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "19:08 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "19:08",
       "home_team": "Ottawa Senators",
       "away_team": "Florida Panthers",
       "home_score": "0",
@@ -327,7 +327,7 @@
         "ESPN+",
         "Scripps Sports"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892551/panthers-senators"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892551"
     },
     {
       "sport": "nhl",
