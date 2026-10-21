@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-21T01:08:03.049185Z",
+  "refreshed_at_utc": "2026-10-21T06:11:30.118494Z",
   "dates_requested": [
     "20261020",
     "20261021",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-20T23:00Z",
       "name": "Middle Tennessee Blue Raiders at Florida International Panthers",
       "short_name": "MTSU @ FIU",
-      "status": "In Progress",
-      "status_short": "13:51 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "13:51",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Florida International Panthers",
       "away_team": "Middle Tennessee Blue Raiders",
-      "home_score": "8",
-      "away_score": "13",
-      "home_record": "3-3",
-      "away_record": "3-3",
+      "home_score": "23",
+      "away_score": "26",
+      "home_record": "3-4",
+      "away_record": "4-3",
       "venue": "Pitbull Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401871055"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871055/mtsu-fiu"
     },
     {
       "sport": "cfb",
@@ -37,22 +37,22 @@
       "date_utc": "2026-10-20T23:00Z",
       "name": "Missouri State Bears at Delaware Blue Hens",
       "short_name": "MOST @ DEL",
-      "status": "In Progress",
-      "status_short": "11:55 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "11:55",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Delaware Blue Hens",
       "away_team": "Missouri State Bears",
-      "home_score": "31",
-      "away_score": "28",
-      "home_record": "2-4",
-      "away_record": "2-4",
+      "home_score": "61",
+      "away_score": "38",
+      "home_record": "3-4",
+      "away_record": "2-5",
       "venue": "Delaware Stadium",
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401871069"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871069/missouri-st-delaware"
     },
     {
       "sport": "cfb",
@@ -60,22 +60,22 @@
       "date_utc": "2026-10-20T23:30Z",
       "name": "South Alabama Jaguars at Marshall Thundering Herd",
       "short_name": "USA @ MRSH",
-      "status": "In Progress",
-      "status_short": "End of 2nd",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Marshall Thundering Herd",
       "away_team": "South Alabama Jaguars",
-      "home_score": "6",
-      "away_score": "6",
-      "home_record": "3-3",
-      "away_record": "4-2",
+      "home_score": "20",
+      "away_score": "13",
+      "home_record": "4-3",
+      "away_record": "4-3",
       "venue": "Joan C. Edwards Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401871092"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871092/south-alabama-marshall"
     },
     {
       "sport": "cfb",
