@@ -1,36 +1,35 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-20T22:31:02.614012Z",
+  "refreshed_at_utc": "2026-10-21T01:08:03.049185Z",
   "dates_requested": [
-    "20261019",
     "20261020",
-    "20261021"
+    "20261021",
+    "20261022"
   ],
   "event_count": 1,
   "events": [
     {
       "sport": "nfl",
-      "event_id": "401873008",
-      "date_utc": "2026-10-20T00:15Z",
-      "name": "Washington Commanders at San Francisco 49ers",
-      "short_name": "WSH @ SF",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
+      "event_id": "401873010",
+      "date_utc": "2026-10-23T00:15Z",
+      "name": "New England Patriots at Chicago Bears",
+      "short_name": "NE @ CHI",
+      "status": "Scheduled",
+      "status_short": "10/22 - 8:15 PM EDT",
+      "state": "pre",
+      "period": 0,
       "clock": "0:00",
-      "home_team": "San Francisco 49ers",
-      "away_team": "Washington Commanders",
-      "home_score": "23",
-      "away_score": "17",
-      "home_record": "6-0",
-      "away_record": "1-4-1",
-      "venue": "Levi's Stadium",
+      "home_team": "Chicago Bears",
+      "away_team": "New England Patriots",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "4-2",
+      "away_record": "4-2",
+      "venue": "Soldier Field",
       "broadcasts": [
-        "ESPN",
-        "ABC"
+        "Prime Video"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873008/commanders-49ers"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873010/patriots-bears"
     }
   ],
   "errors": []

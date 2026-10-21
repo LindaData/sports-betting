@@ -1,12 +1,12 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-20T22:31:02.614012Z",
+  "refreshed_at_utc": "2026-10-21T01:08:03.049185Z",
   "dates_requested": [
-    "20261019",
     "20261020",
-    "20261021"
+    "20261021",
+    "20261022"
   ],
-  "event_count": 4,
+  "event_count": 7,
   "events": [
     {
       "sport": "cfb",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-20T23:00Z",
       "name": "Middle Tennessee Blue Raiders at Florida International Panthers",
       "short_name": "MTSU @ FIU",
-      "status": "Scheduled",
-      "status_short": "10/20 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:51 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "13:51",
       "home_team": "Florida International Panthers",
       "away_team": "Middle Tennessee Blue Raiders",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "8",
+      "away_score": "13",
       "home_record": "3-3",
       "away_record": "3-3",
       "venue": "Pitbull Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871055/mtsu-fiu"
+      "link": "https://www.espn.com/college-football/game?gameId=401871055"
     },
     {
       "sport": "cfb",
@@ -37,22 +37,22 @@
       "date_utc": "2026-10-20T23:00Z",
       "name": "Missouri State Bears at Delaware Blue Hens",
       "short_name": "MOST @ DEL",
-      "status": "Scheduled",
-      "status_short": "10/20 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "11:55 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "11:55",
       "home_team": "Delaware Blue Hens",
       "away_team": "Missouri State Bears",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "31",
+      "away_score": "28",
       "home_record": "2-4",
       "away_record": "2-4",
       "venue": "Delaware Stadium",
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871069/missouri-st-delaware"
+      "link": "https://www.espn.com/college-football/game?gameId=401871069"
     },
     {
       "sport": "cfb",
@@ -60,22 +60,22 @@
       "date_utc": "2026-10-20T23:30Z",
       "name": "South Alabama Jaguars at Marshall Thundering Herd",
       "short_name": "USA @ MRSH",
-      "status": "Scheduled",
-      "status_short": "10/20 - 7:30 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "In Progress",
+      "status_short": "End of 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Marshall Thundering Herd",
       "away_team": "South Alabama Jaguars",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "6",
+      "away_score": "6",
       "home_record": "3-3",
       "away_record": "4-2",
       "venue": "Joan C. Edwards Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871092/south-alabama-marshall"
+      "link": "https://www.espn.com/college-football/game?gameId=401871092"
     },
     {
       "sport": "cfb",
@@ -99,6 +99,75 @@
         "ESPN2"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401871070/new-mexico-st-sam-houston"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401869845",
+      "date_utc": "2026-10-22T23:00Z",
+      "name": "James Madison Dukes at App State Mountaineers",
+      "short_name": "JMU @ APP",
+      "status": "Scheduled",
+      "status_short": "10/22 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "App State Mountaineers",
+      "away_team": "James Madison Dukes",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "4-2",
+      "away_record": "7-0",
+      "venue": "Kidd Brewer Stadium",
+      "broadcasts": [
+        "ESPNU"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401869845/james-madison-app-state"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401871056",
+      "date_utc": "2026-10-22T23:00Z",
+      "name": "Liberty Flames at Kennesaw State Owls",
+      "short_name": "LIB @ KENN",
+      "status": "Scheduled",
+      "status_short": "10/22 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Kennesaw State Owls",
+      "away_team": "Liberty Flames",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "1-5",
+      "away_record": "5-1",
+      "venue": "Walens Family Field at Fifth Third Stadium",
+      "broadcasts": [
+        "CBSSN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871056/liberty-kennesaw-st"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401862807",
+      "date_utc": "2026-10-22T23:30Z",
+      "name": "East Carolina Pirates at Memphis Tigers",
+      "short_name": "ECU @ MEM",
+      "status": "Scheduled",
+      "status_short": "10/22 - 7:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Memphis Tigers",
+      "away_team": "East Carolina Pirates",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "5-2",
+      "away_record": "3-3",
+      "venue": "Simmons Bank Liberty Stadium",
+      "broadcasts": [
+        "ESPN2"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862807/east-carolina-memphis"
     }
   ],
   "errors": []

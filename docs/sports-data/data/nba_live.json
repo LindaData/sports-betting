@@ -1,12 +1,12 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-20T22:31:02.614012Z",
+  "refreshed_at_utc": "2026-10-21T01:08:03.049185Z",
   "dates_requested": [
-    "20261019",
     "20261020",
-    "20261021"
+    "20261021",
+    "20261022"
   ],
-  "event_count": 14,
+  "event_count": 16,
   "events": [
     {
       "sport": "nba",
@@ -37,22 +37,22 @@
       "date_utc": "2026-10-20T23:00Z",
       "name": "Philadelphia 76ers at New York Knicks",
       "short_name": "PHI @ NY",
-      "status": "Scheduled",
-      "status_short": "10/20 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0.0",
+      "status": "In Progress",
+      "status_short": "4:37 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "4:37",
       "home_team": "New York Knicks",
       "away_team": "Philadelphia 76ers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "72",
+      "away_score": "66",
       "home_record": "0-0",
       "away_record": "0-0",
       "venue": "Madison Square Garden",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/nba/game/_/gameId/401909089/76ers-knicks"
+      "link": "https://www.espn.com/nba/game?gameId=401909089"
     },
     {
       "sport": "nba",
@@ -330,6 +330,52 @@
         "NBA League Pass"
       ],
       "link": "https://www.espn.com/nba/game/_/gameId/401909842/kings-clippers"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401909093",
+      "date_utc": "2026-10-22T23:00Z",
+      "name": "Cleveland Cavaliers at Philadelphia 76ers",
+      "short_name": "CLE @ PHI",
+      "status": "Scheduled",
+      "status_short": "10/22 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Cleveland Cavaliers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Xfinity Mobile Arena",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909093/cavaliers-76ers"
+    },
+    {
+      "sport": "nba",
+      "event_id": "401909094",
+      "date_utc": "2026-10-23T01:30Z",
+      "name": "Denver Nuggets at Oklahoma City Thunder",
+      "short_name": "DEN @ OKC",
+      "status": "Scheduled",
+      "status_short": "10/22 - 9:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0.0",
+      "home_team": "Oklahoma City Thunder",
+      "away_team": "Denver Nuggets",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "0-0",
+      "away_record": "0-0",
+      "venue": "Paycom Center",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/nba/game/_/gameId/401909094/nuggets-thunder"
     }
   ],
   "errors": []
