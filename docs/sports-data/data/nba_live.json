@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-21T12:06:14.215696Z",
+  "refreshed_at_utc": "2026-10-21T17:26:36.020732Z",
   "dates_requested": [
     "20261020",
     "20261021",
@@ -120,7 +120,9 @@
       "venue": "Capital One Arena",
       "broadcasts": [
         "MNMT",
-        "NBA League Pass"
+        "NBA League Pass",
+        "MyMi",
+        "Bucks App"
       ],
       "link": "https://www.espn.com/nba/game/_/gameId/401909835/bucks-wizards"
     },
@@ -166,7 +168,8 @@
       "away_record": "0-0",
       "venue": "Barclays Center",
       "broadcasts": [
-        "NBA League Pass"
+        "NBA League Pass",
+        "DAZN (YES)"
       ],
       "link": "https://www.espn.com/nba/game/_/gameId/401909836/hornets-nets"
     },
@@ -189,7 +192,8 @@
       "away_record": "0-0",
       "venue": "Scotiabank Arena",
       "broadcasts": [
-        "NBA League Pass"
+        "NBA League Pass",
+        "CHSN"
       ],
       "link": "https://www.espn.com/nba/game/_/gameId/401909837/bulls-raptors"
     },
@@ -212,7 +216,10 @@
       "away_record": "0-0",
       "venue": "FedExForum",
       "broadcasts": [
-        "NBA League Pass"
+        "NBA League Pass",
+        "KJZZ-TV",
+        "Jazz+",
+        "DAZN MEM"
       ],
       "link": "https://www.espn.com/nba/game/_/gameId/401909838/jazz-grizzlies"
     },
@@ -235,7 +242,10 @@
       "away_record": "0-0",
       "venue": "Smoothie King Center",
       "broadcasts": [
-        "NBA League Pass"
+        "NBA League Pass",
+        "DAZN IND",
+        "GCSEN",
+        "Pelicans.com"
       ],
       "link": "https://www.espn.com/nba/game/_/gameId/401909839/pacers-pelicans"
     },
@@ -258,7 +268,9 @@
       "away_record": "0-0",
       "venue": "Toyota Center (Houston)",
       "broadcasts": [
-        "NBA League Pass"
+        "NBA League Pass",
+        "KFAA-TV",
+        "MavsTV"
       ],
       "link": "https://www.espn.com/nba/game/_/gameId/401909840/mavericks-rockets"
     },
@@ -304,7 +316,10 @@
       "away_record": "0-0",
       "venue": "Moda Center",
       "broadcasts": [
-        "NBA League Pass"
+        "NBA League Pass",
+        "Suns Live",
+        "KUNP 16",
+        "BlazerVision"
       ],
       "link": "https://www.espn.com/nba/game/_/gameId/401909841/suns-trail-blazers"
     },
@@ -327,7 +342,8 @@
       "away_record": "0-0",
       "venue": "Intuit Dome",
       "broadcasts": [
-        "NBA League Pass"
+        "NBA League Pass",
+        "NBC Sports CA"
       ],
       "link": "https://www.espn.com/nba/game/_/gameId/401909842/kings-clippers"
     },
