@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-21T17:26:36.020732Z",
+  "refreshed_at_utc": "2026-10-21T20:46:22.636828Z",
   "dates_requested": [
     "20261020",
     "20261021",
@@ -343,7 +343,8 @@
       "venue": "Intuit Dome",
       "broadcasts": [
         "NBA League Pass",
-        "NBC Sports CA"
+        "KTLA",
+        "ClipperVision"
       ],
       "link": "https://www.espn.com/nba/game/_/gameId/401909842/kings-clippers"
     },
