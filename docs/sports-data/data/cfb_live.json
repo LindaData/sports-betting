@@ -1,104 +1,35 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-21T23:48:11.946860Z",
+  "refreshed_at_utc": "2026-10-22T02:30:14.223268Z",
   "dates_requested": [
-    "20261020",
     "20261021",
-    "20261022"
+    "20261022",
+    "20261023"
   ],
-  "event_count": 7,
+  "event_count": 9,
   "events": [
-    {
-      "sport": "cfb",
-      "event_id": "401871055",
-      "date_utc": "2026-10-20T23:00Z",
-      "name": "Middle Tennessee Blue Raiders at Florida International Panthers",
-      "short_name": "MTSU @ FIU",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Florida International Panthers",
-      "away_team": "Middle Tennessee Blue Raiders",
-      "home_score": "23",
-      "away_score": "26",
-      "home_record": "3-4",
-      "away_record": "4-3",
-      "venue": "Pitbull Stadium",
-      "broadcasts": [
-        "CBSSN"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871055/mtsu-fiu"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401871069",
-      "date_utc": "2026-10-20T23:00Z",
-      "name": "Missouri State Bears at Delaware Blue Hens",
-      "short_name": "MOST @ DEL",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Delaware Blue Hens",
-      "away_team": "Missouri State Bears",
-      "home_score": "61",
-      "away_score": "38",
-      "home_record": "3-4",
-      "away_record": "2-5",
-      "venue": "Delaware Stadium",
-      "broadcasts": [
-        "ESPNU"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871069/missouri-st-delaware"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401871092",
-      "date_utc": "2026-10-20T23:30Z",
-      "name": "South Alabama Jaguars at Marshall Thundering Herd",
-      "short_name": "USA @ MRSH",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Marshall Thundering Herd",
-      "away_team": "South Alabama Jaguars",
-      "home_score": "20",
-      "away_score": "13",
-      "home_record": "4-3",
-      "away_record": "4-3",
-      "venue": "Joan C. Edwards Stadium",
-      "broadcasts": [
-        "ESPN2"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871092/south-alabama-marshall"
-    },
     {
       "sport": "cfb",
       "event_id": "401871070",
       "date_utc": "2026-10-22T00:00Z",
       "name": "New Mexico State Aggies at Sam Houston Bearkats",
       "short_name": "NMSU @ SHSU",
-      "status": "Scheduled",
-      "status_short": "10/21 - 8:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "6:24 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "6:24",
       "home_team": "Sam Houston Bearkats",
       "away_team": "New Mexico State Aggies",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "17",
+      "away_score": "21",
       "home_record": "1-5",
       "away_record": "2-4",
       "venue": "Elliott T. Bowers Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871070/new-mexico-st-sam-houston"
+      "link": "https://www.espn.com/college-football/game?gameId=401871070"
     },
     {
       "sport": "cfb",
@@ -168,6 +99,121 @@
         "ESPN2"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401862807/east-carolina-memphis"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858271",
+      "date_utc": "2026-10-23T23:00Z",
+      "name": "Duke Blue Devils at Virginia Cavaliers",
+      "short_name": "DUKE @ UVA",
+      "status": "Scheduled",
+      "status_short": "10/23 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Virginia Cavaliers",
+      "away_team": "Duke Blue Devils",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "4-3",
+      "away_record": "4-2",
+      "venue": "Scott Stadium",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858271/duke-virginia"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401861965",
+      "date_utc": "2026-10-23T23:00Z",
+      "name": "Massachusetts Minutemen at UConn Huskies",
+      "short_name": "MASS @ CONN",
+      "status": "Scheduled",
+      "status_short": "10/23 - 7:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "UConn Huskies",
+      "away_team": "Massachusetts Minutemen",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "3-3",
+      "away_record": "4-3",
+      "venue": "Pratt & Whitney Stadium",
+      "broadcasts": [
+        "CBSSN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401861965/umass-uconn"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401862808",
+      "date_utc": "2026-10-24T00:30Z",
+      "name": "Army Black Knights at Tulsa Golden Hurricane",
+      "short_name": "ARMY @ TLSA",
+      "status": "Scheduled",
+      "status_short": "10/23 - 8:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Tulsa Golden Hurricane",
+      "away_team": "Army Black Knights",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "4-3",
+      "away_record": "4-2",
+      "venue": "H. A. Chapman Stadium",
+      "broadcasts": [
+        "ESPN2"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862808/army-tulsa"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401864525",
+      "date_utc": "2026-10-24T01:00Z",
+      "name": "Air Force Falcons at Wyoming Cowboys",
+      "short_name": "AFA @ WYO",
+      "status": "Scheduled",
+      "status_short": "10/23 - 9:00 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Wyoming Cowboys",
+      "away_team": "Air Force Falcons",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "4-3",
+      "away_record": "5-1",
+      "venue": "War Memorial Stadium",
+      "broadcasts": [
+        "CW"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401864525/air-force-wyoming"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858272",
+      "date_utc": "2026-10-24T02:30Z",
+      "name": "NC State Wolfpack at Stanford Cardinal",
+      "short_name": "NCSU @ STAN",
+      "status": "Scheduled",
+      "status_short": "10/23 - 10:30 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Stanford Cardinal",
+      "away_team": "NC State Wolfpack",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "3-4",
+      "away_record": "3-3",
+      "venue": "Stanford Stadium",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858272/nc-state-stanford"
     }
   ],
   "errors": []
