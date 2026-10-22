@@ -1,44 +1,8 @@
 {
-  "dates_requested": "20261014-20261104",
+  "dates_requested": "20261015-20261105",
   "errors": [],
   "event_count": 177,
   "events": [
-    {
-      "away_score": 21,
-      "away_team": "Kennesaw State Owls",
-      "away_team_id": "338",
-      "city": "Springfield",
-      "date_utc": "2026-10-14T23:30Z",
-      "game_id": "401871054",
-      "home_score": 24,
-      "home_team": "Missouri State Bears",
-      "home_team_id": "2623",
-      "league": "NCAA - Football",
-      "league_id": "college-football",
-      "season": "2026",
-      "sport": "cfb",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Robert W. Plaster Stadium"
-    },
-    {
-      "away_score": 16,
-      "away_team": "Western Kentucky Hilltoppers",
-      "away_team_id": "98",
-      "city": "Huntsville",
-      "date_utc": "2026-10-15T00:00Z",
-      "game_id": "401871068",
-      "home_score": 3,
-      "home_team": "Sam Houston Bearkats",
-      "home_team_id": "2534",
-      "league": "NCAA - Football",
-      "league_id": "college-football",
-      "season": "2026",
-      "sport": "cfb",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Elliott T. Bowers Stadium"
-    },
     {
       "away_score": 17,
       "away_team": "East Carolina Pirates",
@@ -1138,21 +1102,21 @@
       "venue": "Joan C. Edwards Stadium"
     },
     {
-      "away_score": null,
+      "away_score": 30,
       "away_team": "New Mexico State Aggies",
       "away_team_id": "166",
       "city": "Huntsville",
       "date_utc": "2026-10-22T00:00Z",
       "game_id": "401871070",
-      "home_score": null,
+      "home_score": 24,
       "home_team": "Sam Houston Bearkats",
       "home_team_id": "2534",
       "league": "NCAA - Football",
       "league_id": "college-football",
       "season": "2026",
       "sport": "cfb",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "Elliott T. Bowers Stadium"
     },
     {
@@ -3188,12 +3152,48 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Hornet Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "UTSA Roadrunners",
+      "away_team_id": "2636",
+      "city": "Boca Raton",
+      "date_utc": "2026-11-06T01:00Z",
+      "game_id": "401862817",
+      "home_score": null,
+      "home_team": "Florida Atlantic Owls",
+      "home_team_id": "2226",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Flagler Credit Union Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "James Madison Dukes",
+      "away_team_id": "256",
+      "city": "Hattiesburg",
+      "date_utc": "2026-11-06T01:00Z",
+      "game_id": "401869964",
+      "home_score": null,
+      "home_team": "Southern Miss Golden Eagles",
+      "home_team_id": "2572",
+      "league": "NCAA - Football",
+      "league_id": "college-football",
+      "season": "2026",
+      "sport": "cfb",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "M. M. Roberts Stadium"
     }
   ],
   "league": "College Football",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261014-20261104&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261015-20261105&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-21T14:36:39.971965Z",
+  "refreshed_at_utc": "2026-10-22T14:37:19.098047Z",
   "sport": "cfb"
 }

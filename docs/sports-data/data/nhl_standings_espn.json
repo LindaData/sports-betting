@@ -1,6 +1,6 @@
 {
   "league": "NHL",
-  "refreshed_at_utc": "2026-10-21T14:36:39.971965Z",
+  "refreshed_at_utc": "2026-10-22T14:37:19.098047Z",
   "sport": "nhl",
   "standings": [
     {
@@ -52,23 +52,23 @@
       "wins": 7
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "Eastern Conference",
       "losses": 3,
-      "percentage": 0.6666666666666666,
-      "played": 9,
+      "percentage": 0.7,
+      "played": 10,
       "position": 5,
       "sport": "nhl",
       "team": "Ottawa Senators",
       "team_id": "14",
-      "wins": 6
+      "wins": 7
     },
     {
-      "form": "W3",
+      "form": "L1",
       "group": "Eastern Conference",
-      "losses": 2,
-      "percentage": 0.5555555555555556,
-      "played": 9,
+      "losses": 3,
+      "percentage": 0.5,
+      "played": 10,
       "position": 6,
       "sport": "nhl",
       "team": "Florida Panthers",
@@ -131,20 +131,20 @@
       "played": 9,
       "position": 11,
       "sport": "nhl",
-      "team": "Buffalo Sabres",
-      "team_id": "2",
+      "team": "Montreal Canadiens",
+      "team_id": "10",
       "wins": 4
     },
     {
-      "form": "L1",
+      "form": "L2",
       "group": "Eastern Conference",
-      "losses": 3,
-      "percentage": 0.4444444444444444,
-      "played": 9,
+      "losses": 4,
+      "percentage": 0.4,
+      "played": 10,
       "position": 12,
       "sport": "nhl",
-      "team": "Montreal Canadiens",
-      "team_id": "10",
+      "team": "Buffalo Sabres",
+      "team_id": "2",
       "wins": 4
     },
     {
@@ -160,28 +160,28 @@
       "wins": 3
     },
     {
+      "form": "W3",
+      "group": "Eastern Conference",
+      "losses": 6,
+      "percentage": 0.25,
+      "played": 12,
+      "position": 14,
+      "sport": "nhl",
+      "team": "Philadelphia Flyers",
+      "team_id": "15",
+      "wins": 3
+    },
+    {
       "form": "L4",
       "group": "Eastern Conference",
       "losses": 6,
       "percentage": 0.3,
       "played": 10,
-      "position": 14,
+      "position": 15,
       "sport": "nhl",
       "team": "Pittsburgh Penguins",
       "team_id": "16",
       "wins": 3
-    },
-    {
-      "form": "W2",
-      "group": "Eastern Conference",
-      "losses": 6,
-      "percentage": 0.18181818181818182,
-      "played": 11,
-      "position": 15,
-      "sport": "nhl",
-      "team": "Philadelphia Flyers",
-      "team_id": "15",
-      "wins": 2
     },
     {
       "form": "L2",

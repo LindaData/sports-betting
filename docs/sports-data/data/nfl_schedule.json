@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20261014-20261104",
+  "dates_requested": "20261015-20261105",
   "errors": [],
-  "event_count": 42,
+  "event_count": 43,
   "events": [
     {
       "away_score": 14,
@@ -758,12 +758,30 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Lumen Field"
+    },
+    {
+      "away_score": null,
+      "away_team": "Jacksonville Jaguars",
+      "away_team_id": "30",
+      "city": "Baltimore",
+      "date_utc": "2026-11-06T01:15Z",
+      "game_id": "401873037",
+      "home_score": null,
+      "home_team": "Baltimore Ravens",
+      "home_team_id": "33",
+      "league": "National Football League",
+      "league_id": "nfl",
+      "season": "2026",
+      "sport": "nfl",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "M&T Bank Stadium"
     }
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261014-20261104&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261015-20261105&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-21T14:36:39.971965Z",
+  "refreshed_at_utc": "2026-10-22T14:37:19.098047Z",
   "sport": "nfl"
 }
