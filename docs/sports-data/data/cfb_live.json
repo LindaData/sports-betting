@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-22T02:30:14.223268Z",
+  "refreshed_at_utc": "2026-10-22T08:06:30.447075Z",
   "dates_requested": [
     "20261021",
     "20261022",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-22T00:00Z",
       "name": "New Mexico State Aggies at Sam Houston Bearkats",
       "short_name": "NMSU @ SHSU",
-      "status": "In Progress",
-      "status_short": "6:24 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "6:24",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Sam Houston Bearkats",
       "away_team": "New Mexico State Aggies",
-      "home_score": "17",
-      "away_score": "21",
-      "home_record": "1-5",
-      "away_record": "2-4",
+      "home_score": "24",
+      "away_score": "30",
+      "home_record": "1-6",
+      "away_record": "3-4",
       "venue": "Elliott T. Bowers Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401871070"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871070/new-mexico-st-sam-houston"
     },
     {
       "sport": "cfb",
