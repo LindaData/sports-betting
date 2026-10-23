@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-23T00:14:49.105987Z",
+  "refreshed_at_utc": "2026-10-23T05:06:13.070025Z",
   "dates_requested": [
     "20261022",
     "20261023",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-22T23:00Z",
       "name": "James Madison Dukes at App State Mountaineers",
       "short_name": "JMU @ APP",
-      "status": "In Progress",
-      "status_short": "5:01 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "5:01",
+      "status": "Final",
+      "status_short": "Final/OT",
+      "state": "post",
+      "period": 5,
+      "clock": "0:00",
       "home_team": "App State Mountaineers",
       "away_team": "James Madison Dukes",
-      "home_score": "3",
-      "away_score": "7",
-      "home_record": "4-2",
-      "away_record": "7-0",
+      "home_score": "34",
+      "away_score": "31",
+      "home_record": "5-2",
+      "away_record": "7-1",
       "venue": "Kidd Brewer Stadium",
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401869845"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401869845/james-madison-app-state"
     },
     {
       "sport": "cfb",
@@ -37,22 +37,22 @@
       "date_utc": "2026-10-22T23:00Z",
       "name": "Liberty Flames at Kennesaw State Owls",
       "short_name": "LIB @ KENN",
-      "status": "In Progress",
-      "status_short": "3:40 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "3:40",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Kennesaw State Owls",
       "away_team": "Liberty Flames",
-      "home_score": "0",
-      "away_score": "14",
-      "home_record": "1-5",
-      "away_record": "5-1",
+      "home_score": "6",
+      "away_score": "34",
+      "home_record": "1-6",
+      "away_record": "6-1",
       "venue": "Walens Family Field at Fifth Third Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401871056"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871056/liberty-kennesaw-st"
     },
     {
       "sport": "cfb",
@@ -60,22 +60,22 @@
       "date_utc": "2026-10-22T23:30Z",
       "name": "East Carolina Pirates at Memphis Tigers",
       "short_name": "ECU @ MEM",
-      "status": "In Progress",
-      "status_short": "2:51 - 1st",
-      "state": "in",
-      "period": 1,
-      "clock": "2:51",
+      "status": "Final",
+      "status_short": "Final/OT",
+      "state": "post",
+      "period": 5,
+      "clock": "0:00",
       "home_team": "Memphis Tigers",
       "away_team": "East Carolina Pirates",
-      "home_score": "0",
-      "away_score": "3",
-      "home_record": "5-2",
-      "away_record": "3-3",
+      "home_score": "41",
+      "away_score": "34",
+      "home_record": "6-2",
+      "away_record": "3-4",
       "venue": "Simmons Bank Liberty Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401862807"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862807/east-carolina-memphis"
     },
     {
       "sport": "cfb",

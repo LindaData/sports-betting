@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-23T00:14:49.105987Z",
+  "refreshed_at_utc": "2026-10-23T05:06:13.070025Z",
   "dates_requested": [
     "20261022",
     "20261023",
@@ -14,17 +14,17 @@
       "date_utc": "2026-10-23T00:15Z",
       "name": "New England Patriots at Chicago Bears",
       "short_name": "NE @ CHI",
-      "status": "Scheduled",
-      "status_short": "10/22 - 8:15 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Chicago Bears",
       "away_team": "New England Patriots",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "4-2",
-      "away_record": "4-2",
+      "home_score": "30",
+      "away_score": "24",
+      "home_record": "5-2",
+      "away_record": "4-3",
       "venue": "Soldier Field",
       "broadcasts": [
         "Prime Video"
