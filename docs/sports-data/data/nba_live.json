@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-23T19:22:21.827896Z",
+  "refreshed_at_utc": "2026-10-23T22:25:35.059881Z",
   "dates_requested": [
     "20261022",
     "20261023",
@@ -60,15 +60,15 @@
       "date_utc": "2026-10-23T20:00Z",
       "name": "Chicago Bulls at Milwaukee Bucks",
       "short_name": "CHI @ MIL",
-      "status": "Scheduled",
-      "status_short": "10/23 - 4:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0.0",
+      "status": "In Progress",
+      "status_short": "3:44 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "3:44",
       "home_team": "Milwaukee Bucks",
       "away_team": "Chicago Bulls",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "121",
+      "away_score": "118",
       "home_record": "0-1",
       "away_record": "0-1",
       "venue": "Fiserv Forum",
@@ -77,7 +77,7 @@
         "MyMi",
         "Bucks App"
       ],
-      "link": "https://www.espn.com/nba/game/_/gameId/401909848/bulls-bucks"
+      "link": "https://www.espn.com/nba/game?gameId=401909848"
     },
     {
       "sport": "nba",
