@@ -1,44 +1,8 @@
 {
-  "dates_requested": "20261015-20261105",
+  "dates_requested": "20261016-20261106",
   "errors": [],
-  "event_count": 13,
+  "event_count": 11,
   "events": [
-    {
-      "away_score": 2,
-      "away_team": "Tampa Bay Rays",
-      "away_team_id": "30",
-      "city": "Cleveland",
-      "date_utc": "2026-10-15T17:00Z",
-      "game_id": "401908025",
-      "home_score": 3,
-      "home_team": "Cleveland Guardians",
-      "home_team_id": "5",
-      "league": "Major League Baseball",
-      "league_id": "mlb",
-      "season": "2026",
-      "sport": "mlb",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Progressive Field"
-    },
-    {
-      "away_score": 6,
-      "away_team": "Milwaukee Brewers",
-      "away_team_id": "8",
-      "city": "Los Angeles",
-      "date_utc": "2026-10-16T00:00Z",
-      "game_id": "401908033",
-      "home_score": 4,
-      "home_team": "Los Angeles Dodgers",
-      "home_team_id": "19",
-      "league": "Major League Baseball",
-      "league_id": "mlb",
-      "season": "2026",
-      "sport": "mlb",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Dodger Stadium"
-    },
     {
       "away_score": 0,
       "away_team": "Tampa Bay Rays",
@@ -240,8 +204,8 @@
   ],
   "league": "MLB",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261015-20261105&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261016-20261106&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-22T14:37:19.098047Z",
+  "refreshed_at_utc": "2026-10-23T14:21:49.105437Z",
   "sport": "mlb"
 }

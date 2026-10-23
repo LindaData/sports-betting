@@ -1,26 +1,8 @@
 {
-  "dates_requested": "20261015-20261105",
+  "dates_requested": "20261016-20261106",
   "errors": [],
-  "event_count": 43,
+  "event_count": 42,
   "events": [
-    {
-      "away_score": 14,
-      "away_team": "Seattle Seahawks",
-      "away_team_id": "26",
-      "city": "Denver",
-      "date_utc": "2026-10-16T00:15Z",
-      "game_id": "401872995",
-      "home_score": 17,
-      "home_team": "Denver Broncos",
-      "home_team_id": "7",
-      "league": "National Football League",
-      "league_id": "nfl",
-      "season": "2026",
-      "sport": "nfl",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Empower Field at Mile High"
-    },
     {
       "away_score": 34,
       "away_team": "Houston Texans",
@@ -256,21 +238,21 @@
       "venue": "Levi's Stadium"
     },
     {
-      "away_score": null,
+      "away_score": 24,
       "away_team": "New England Patriots",
       "away_team_id": "17",
       "city": "Chicago",
       "date_utc": "2026-10-23T00:15Z",
       "game_id": "401873010",
-      "home_score": null,
+      "home_score": 30,
       "home_team": "Chicago Bears",
       "home_team_id": "3",
       "league": "National Football League",
       "league_id": "nfl",
       "season": "2026",
       "sport": "nfl",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "Soldier Field"
     },
     {
@@ -780,8 +762,8 @@
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261015-20261105&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261016-20261106&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-22T14:37:19.098047Z",
+  "refreshed_at_utc": "2026-10-23T14:21:49.105437Z",
   "sport": "nfl"
 }

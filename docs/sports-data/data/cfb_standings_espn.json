@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-10-22T14:37:19.098047Z",
+  "refreshed_at_utc": "2026-10-23T14:21:49.105437Z",
   "sport": "cfb",
   "standings": [
     {
@@ -16,16 +16,16 @@
       "wins": 6
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "American Conference",
       "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.75,
       "played": null,
       "position": 2,
       "sport": "cfb",
       "team": "Memphis Tigers",
       "team_id": "235",
-      "wins": 5
+      "wins": 6
     },
     {
       "form": "W1",
@@ -100,27 +100,27 @@
       "wins": 4
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "American Conference",
       "losses": null,
       "percentage": 0.5,
       "played": null,
       "position": 9,
       "sport": "cfb",
-      "team": "East Carolina Pirates",
-      "team_id": "151",
+      "team": "Tulane Green Wave",
+      "team_id": "2655",
       "wins": 3
     },
     {
-      "form": "W1",
+      "form": "L2",
       "group": "American Conference",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.33333334,
       "played": null,
       "position": 10,
       "sport": "cfb",
-      "team": "Tulane Green Wave",
-      "team_id": "2655",
+      "team": "East Carolina Pirates",
+      "team_id": "151",
       "wins": 3
     },
     {
@@ -784,7 +784,7 @@
       "wins": 2
     },
     {
-      "form": "W5",
+      "form": "W6",
       "group": "Conference USA",
       "losses": null,
       "percentage": 1.0,
@@ -793,7 +793,7 @@
       "sport": "cfb",
       "team": "Liberty Flames",
       "team_id": "2335",
-      "wins": 5
+      "wins": 6
     },
     {
       "form": "W4",
@@ -880,7 +880,7 @@
       "wins": 2
     },
     {
-      "form": "L5",
+      "form": "L6",
       "group": "Conference USA",
       "losses": null,
       "percentage": 0.0,
@@ -1492,10 +1492,10 @@
       "wins": 3
     },
     {
-      "form": "W7",
+      "form": "L1",
       "group": "Sun Belt Conference - Sun Belt - East",
       "losses": null,
-      "percentage": 1.0,
+      "percentage": 0.8,
       "played": null,
       "position": 1,
       "sport": "cfb",
@@ -1504,16 +1504,16 @@
       "wins": 7
     },
     {
-      "form": "W1",
+      "form": "W2",
       "group": "Sun Belt Conference - Sun Belt - East",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.6666667,
       "played": null,
       "position": 2,
       "sport": "cfb",
       "team": "App State Mountaineers",
       "team_id": "2026",
-      "wins": 4
+      "wins": 5
     },
     {
       "form": "L1",
