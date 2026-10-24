@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-24T13:43:15.060858Z",
+  "refreshed_at_utc": "2026-10-24T17:05:28.116891Z",
   "dates_requested": [
     "20261023",
     "20261024",
@@ -129,14 +129,14 @@
       "date_utc": "2026-10-24T16:00Z",
       "name": "Pittsburgh Panthers at Miami Hurricanes",
       "short_name": "PITT @ MIA",
-      "status": "Scheduled",
-      "status_short": "10/24 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "10:05 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "10:05",
       "home_team": "Miami Hurricanes",
       "away_team": "Pittsburgh Panthers",
-      "home_score": "0",
+      "home_score": "17",
       "away_score": "0",
       "home_record": "6-0",
       "away_record": "5-2",
@@ -145,7 +145,7 @@
         "ESPN",
         "Disney+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami"
+      "link": "https://www.espn.com/college-football/game?gameId=401858274"
     },
     {
       "sport": "cfb",
@@ -153,22 +153,22 @@
       "date_utc": "2026-10-24T16:00Z",
       "name": "Indiana Hoosiers at Michigan Wolverines",
       "short_name": "IU @ MICH",
-      "status": "Scheduled",
-      "status_short": "10/24 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "11:00 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "11:00",
       "home_team": "Michigan Wolverines",
       "away_team": "Indiana Hoosiers",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "3",
       "home_record": "4-2",
       "away_record": "6-1",
       "venue": "Michigan Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858496/indiana-michigan"
+      "link": "https://www.espn.com/college-football/game?gameId=401858496"
     },
     {
       "sport": "cfb",
@@ -176,22 +176,22 @@
       "date_utc": "2026-10-24T16:00Z",
       "name": "Texas Tech Red Raiders at Cincinnati Bearcats",
       "short_name": "TTU @ CIN",
-      "status": "Scheduled",
-      "status_short": "10/24 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "9:07 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "9:07",
       "home_team": "Cincinnati Bearcats",
       "away_team": "Texas Tech Red Raiders",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "3",
+      "away_score": "6",
       "home_record": "4-2",
       "away_record": "6-0",
       "venue": "Nippert Stadium",
       "broadcasts": [
         "FS1"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856840/texas-tech-cincinnati"
+      "link": "https://www.espn.com/college-football/game?gameId=401856840"
     },
     {
       "sport": "cfb",
@@ -199,22 +199,22 @@
       "date_utc": "2026-10-24T16:00Z",
       "name": "LSU Tigers at Auburn Tigers",
       "short_name": "LSU @ AUB",
-      "status": "Scheduled",
-      "status_short": "10/24 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "9:48 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "9:48",
       "home_team": "Auburn Tigers",
       "away_team": "LSU Tigers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "3",
+      "away_score": "16",
       "home_record": "4-2",
       "away_record": "5-2",
       "venue": "Jordan-Hare Stadium",
       "broadcasts": [
         "ABC"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856728/lsu-auburn"
+      "link": "https://www.espn.com/college-football/game?gameId=401856728"
     },
     {
       "sport": "cfb",
@@ -222,22 +222,22 @@
       "date_utc": "2026-10-24T16:00Z",
       "name": "California Golden Bears at SMU Mustangs",
       "short_name": "CAL @ SMU",
-      "status": "Scheduled",
-      "status_short": "10/24 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "10:46 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "10:46",
       "home_team": "SMU Mustangs",
       "away_team": "California Golden Bears",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "10",
+      "away_score": "13",
       "home_record": "5-1",
       "away_record": "3-4",
       "venue": "Gerald J. Ford Stadium",
       "broadcasts": [
         "CW"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858270/california-smu"
+      "link": "https://www.espn.com/college-football/game?gameId=401858270"
     },
     {
       "sport": "cfb",
@@ -245,22 +245,22 @@
       "date_utc": "2026-10-24T16:00Z",
       "name": "Rutgers Scarlet Knights at Northwestern Wildcats",
       "short_name": "RUTG @ NU",
-      "status": "Scheduled",
-      "status_short": "10/24 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "9:44 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "9:44",
       "home_team": "Northwestern Wildcats",
       "away_team": "Rutgers Scarlet Knights",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "21",
+      "away_score": "3",
       "home_record": "5-1",
       "away_record": "2-4",
       "venue": "Ryan Field",
       "broadcasts": [
         "Peacock"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858498/rutgers-northwestern"
+      "link": "https://www.espn.com/college-football/game?gameId=401858498"
     },
     {
       "sport": "cfb",
@@ -268,22 +268,22 @@
       "date_utc": "2026-10-24T16:00Z",
       "name": "West Virginia Mountaineers at TCU Horned Frogs",
       "short_name": "WVU @ TCU",
-      "status": "Scheduled",
-      "status_short": "10/24 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "6:02 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "6:02",
       "home_team": "TCU Horned Frogs",
       "away_team": "West Virginia Mountaineers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "10",
+      "away_score": "10",
       "home_record": "3-3",
       "away_record": "4-3",
       "venue": "Amon G. Carter Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856841/west-virginia-tcu"
+      "link": "https://www.espn.com/college-football/game?gameId=401856841"
     },
     {
       "sport": "cfb",
@@ -291,22 +291,22 @@
       "date_utc": "2026-10-24T16:00Z",
       "name": "Rice Owls at Florida Atlantic Owls",
       "short_name": "RICE @ FAU",
-      "status": "Scheduled",
-      "status_short": "10/24 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "9:19 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "9:19",
       "home_team": "Florida Atlantic Owls",
       "away_team": "Rice Owls",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "16",
+      "away_score": "14",
       "home_record": "4-2",
       "away_record": "1-6",
       "venue": "Flagler Credit Union Stadium",
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862809/rice-fau"
+      "link": "https://www.espn.com/college-football/game?gameId=401862809"
     },
     {
       "sport": "cfb",
@@ -314,22 +314,22 @@
       "date_utc": "2026-10-24T16:00Z",
       "name": "Western Michigan Broncos at Toledo Rockets",
       "short_name": "WMU @ TOL",
-      "status": "Scheduled",
-      "status_short": "10/24 - 12:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "8:37 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "8:37",
       "home_team": "Toledo Rockets",
       "away_team": "Western Michigan Broncos",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "17",
+      "away_score": "7",
       "home_record": "5-2",
       "away_record": "5-2",
       "venue": "Glass Bowl",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866450/w-michigan-toledo"
+      "link": "https://www.espn.com/college-football/game?gameId=401866450"
     },
     {
       "sport": "cfb",
@@ -337,11 +337,11 @@
       "date_utc": "2026-10-24T17:00Z",
       "name": "Baylor Bears at Kansas Jayhawks",
       "short_name": "BAY @ KU",
-      "status": "Scheduled",
-      "status_short": "10/24 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:21 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "13:21",
       "home_team": "Kansas Jayhawks",
       "away_team": "Baylor Bears",
       "home_score": "0",
@@ -352,7 +352,7 @@
       "broadcasts": [
         "TNT"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856834/baylor-kansas"
+      "link": "https://www.espn.com/college-football/game?gameId=401856834"
     },
     {
       "sport": "cfb",
@@ -360,11 +360,11 @@
       "date_utc": "2026-10-24T17:00Z",
       "name": "Akron Zips at Kent State Golden Flashes",
       "short_name": "AKR @ KENT",
-      "status": "Scheduled",
-      "status_short": "10/24 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:08 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "14:08",
       "home_team": "Kent State Golden Flashes",
       "away_team": "Akron Zips",
       "home_score": "0",
@@ -375,7 +375,7 @@
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866446/akron-kent-state"
+      "link": "https://www.espn.com/college-football/game?gameId=401866446"
     },
     {
       "sport": "cfb",
@@ -383,11 +383,11 @@
       "date_utc": "2026-10-24T17:00Z",
       "name": "Miami (OH) RedHawks at Central Michigan Chippewas",
       "short_name": "M-OH @ CMU",
-      "status": "Scheduled",
-      "status_short": "10/24 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:10 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "13:10",
       "home_team": "Central Michigan Chippewas",
       "away_team": "Miami (OH) RedHawks",
       "home_score": "0",
@@ -398,7 +398,7 @@
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866476/miami-oh-c-michigan"
+      "link": "https://www.espn.com/college-football/game?gameId=401866476"
     },
     {
       "sport": "cfb",
