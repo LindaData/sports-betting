@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-10-23T14:21:49.105437Z",
+  "refreshed_at_utc": "2026-10-24T13:32:39.620799Z",
   "sport": "cfb",
   "standings": [
     {
@@ -28,12 +28,24 @@
       "wins": 6
     },
     {
+      "form": "W3",
+      "group": "American Conference",
+      "losses": null,
+      "percentage": 0.8,
+      "played": null,
+      "position": 3,
+      "sport": "cfb",
+      "team": "Army Black Knights",
+      "team_id": "349",
+      "wins": 5
+    },
+    {
       "form": "W1",
       "group": "American Conference",
       "losses": null,
       "percentage": 0.33333334,
       "played": null,
-      "position": 3,
+      "position": 4,
       "sport": "cfb",
       "team": "South Florida Bulls",
       "team_id": "58",
@@ -45,22 +57,10 @@
       "losses": null,
       "percentage": 1.0,
       "played": null,
-      "position": 4,
+      "position": 5,
       "sport": "cfb",
       "team": "North Texas Mean Green",
       "team_id": "249",
-      "wins": 4
-    },
-    {
-      "form": "W2",
-      "group": "American Conference",
-      "losses": null,
-      "percentage": 0.75,
-      "played": null,
-      "position": 5,
-      "sport": "cfb",
-      "team": "Army Black Knights",
-      "team_id": "349",
       "wins": 4
     },
     {
@@ -91,25 +91,25 @@
       "form": "W1",
       "group": "American Conference",
       "losses": null,
-      "percentage": 0.33333334,
-      "played": null,
-      "position": 8,
-      "sport": "cfb",
-      "team": "Tulsa Golden Hurricane",
-      "team_id": "202",
-      "wins": 4
-    },
-    {
-      "form": "W1",
-      "group": "American Conference",
-      "losses": null,
       "percentage": 0.5,
       "played": null,
-      "position": 9,
+      "position": 8,
       "sport": "cfb",
       "team": "Tulane Green Wave",
       "team_id": "2655",
       "wins": 3
+    },
+    {
+      "form": "L1",
+      "group": "American Conference",
+      "losses": null,
+      "percentage": 0.25,
+      "played": null,
+      "position": 9,
+      "sport": "cfb",
+      "team": "Tulsa Golden Hurricane",
+      "team_id": "202",
+      "wins": 4
     },
     {
       "form": "L2",
@@ -227,6 +227,18 @@
       "played": null,
       "position": 5,
       "sport": "cfb",
+      "team": "Duke Blue Devils",
+      "team_id": "150",
+      "wins": 5
+    },
+    {
+      "form": "W1",
+      "group": "Atlantic Coast Conference",
+      "losses": null,
+      "percentage": 0.5,
+      "played": null,
+      "position": 6,
+      "sport": "cfb",
       "team": "Virginia Tech Hokies",
       "team_id": "259",
       "wins": 5
@@ -237,7 +249,7 @@
       "losses": null,
       "percentage": 0.6666667,
       "played": null,
-      "position": 6,
+      "position": 7,
       "sport": "cfb",
       "team": "Clemson Tigers",
       "team_id": "228",
@@ -249,22 +261,10 @@
       "losses": null,
       "percentage": 0.6666667,
       "played": null,
-      "position": 7,
+      "position": 8,
       "sport": "cfb",
       "team": "North Carolina Tar Heels",
       "team_id": "153",
-      "wins": 4
-    },
-    {
-      "form": "L2",
-      "group": "Atlantic Coast Conference",
-      "losses": null,
-      "percentage": 0.33333334,
-      "played": null,
-      "position": 8,
-      "sport": "cfb",
-      "team": "Duke Blue Devils",
-      "team_id": "150",
       "wins": 4
     },
     {
@@ -280,12 +280,24 @@
       "wins": 4
     },
     {
-      "form": "L1",
+      "form": "W2",
       "group": "Atlantic Coast Conference",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.4,
       "played": null,
       "position": 10,
+      "sport": "cfb",
+      "team": "Stanford Cardinal",
+      "team_id": "24",
+      "wins": 4
+    },
+    {
+      "form": "L2",
+      "group": "Atlantic Coast Conference",
+      "losses": null,
+      "percentage": 0.4,
+      "played": null,
+      "position": 11,
       "sport": "cfb",
       "team": "Virginia Cavaliers",
       "team_id": "258",
@@ -297,22 +309,10 @@
       "losses": null,
       "percentage": 0.33333334,
       "played": null,
-      "position": 11,
+      "position": 12,
       "sport": "cfb",
       "team": "Boston College Eagles",
       "team_id": "103",
-      "wins": 3
-    },
-    {
-      "form": "L1",
-      "group": "Atlantic Coast Conference",
-      "losses": null,
-      "percentage": 0.33333334,
-      "played": null,
-      "position": 12,
-      "sport": "cfb",
-      "team": "NC State Wolfpack",
-      "team_id": "152",
       "wins": 3
     },
     {
@@ -340,15 +340,15 @@
       "wins": 3
     },
     {
-      "form": "W1",
+      "form": "L2",
       "group": "Atlantic Coast Conference",
       "losses": null,
       "percentage": 0.25,
       "played": null,
       "position": 15,
       "sport": "cfb",
-      "team": "Stanford Cardinal",
-      "team_id": "24",
+      "team": "NC State Wolfpack",
+      "team_id": "152",
       "wins": 3
     },
     {
@@ -916,7 +916,7 @@
       "wins": 6
     },
     {
-      "form": "W1",
+      "form": "W2",
       "group": "FBS Independents",
       "losses": null,
       "percentage": 0.0,
@@ -925,7 +925,7 @@
       "sport": "cfb",
       "team": "UConn Huskies",
       "team_id": "41",
-      "wins": 3
+      "wins": 4
     },
     {
       "form": "W4",
@@ -988,27 +988,27 @@
       "wins": 4
     },
     {
-      "form": "L3",
-      "group": "Mid-American Conference",
-      "losses": null,
-      "percentage": 0.25,
-      "played": null,
-      "position": 6,
-      "sport": "cfb",
-      "team": "Massachusetts Minutemen",
-      "team_id": "113",
-      "wins": 4
-    },
-    {
       "form": "L1",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 0.75,
       "played": null,
-      "position": 7,
+      "position": 6,
       "sport": "cfb",
       "team": "Eastern Michigan Eagles",
       "team_id": "2199",
+      "wins": 4
+    },
+    {
+      "form": "L4",
+      "group": "Mid-American Conference",
+      "losses": null,
+      "percentage": 0.25,
+      "played": null,
+      "position": 7,
+      "sport": "cfb",
+      "team": "Massachusetts Minutemen",
+      "team_id": "113",
       "wins": 4
     },
     {
@@ -1108,10 +1108,10 @@
       "wins": 5
     },
     {
-      "form": "W4",
+      "form": "L1",
       "group": "Mountain West Conference",
       "losses": null,
-      "percentage": 0.75,
+      "percentage": 0.6,
       "played": null,
       "position": 3,
       "sport": "cfb",
@@ -1120,16 +1120,16 @@
       "wins": 5
     },
     {
-      "form": "W2",
+      "form": "W3",
       "group": "Mountain West Conference",
       "losses": null,
-      "percentage": 0.75,
+      "percentage": 0.8,
       "played": null,
       "position": 4,
       "sport": "cfb",
       "team": "Wyoming Cowboys",
       "team_id": "2751",
-      "wins": 4
+      "wins": 5
     },
     {
       "form": "W1",
