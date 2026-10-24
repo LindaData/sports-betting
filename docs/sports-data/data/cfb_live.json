@@ -1,104 +1,35 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-23T22:25:35.059881Z",
+  "refreshed_at_utc": "2026-10-24T00:52:33.585614Z",
   "dates_requested": [
-    "20261022",
     "20261023",
-    "20261024"
+    "20261024",
+    "20261025"
   ],
-  "event_count": 52,
+  "event_count": 49,
   "events": [
-    {
-      "sport": "cfb",
-      "event_id": "401869845",
-      "date_utc": "2026-10-22T23:00Z",
-      "name": "James Madison Dukes at App State Mountaineers",
-      "short_name": "JMU @ APP",
-      "status": "Final",
-      "status_short": "Final/OT",
-      "state": "post",
-      "period": 5,
-      "clock": "0:00",
-      "home_team": "App State Mountaineers",
-      "away_team": "James Madison Dukes",
-      "home_score": "34",
-      "away_score": "31",
-      "home_record": "5-2",
-      "away_record": "7-1",
-      "venue": "Kidd Brewer Stadium",
-      "broadcasts": [
-        "ESPNU"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401869845/james-madison-app-state"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401871056",
-      "date_utc": "2026-10-22T23:00Z",
-      "name": "Liberty Flames at Kennesaw State Owls",
-      "short_name": "LIB @ KENN",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Kennesaw State Owls",
-      "away_team": "Liberty Flames",
-      "home_score": "6",
-      "away_score": "34",
-      "home_record": "1-6",
-      "away_record": "6-1",
-      "venue": "Walens Family Field at Fifth Third Stadium",
-      "broadcasts": [
-        "CBSSN"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401871056/liberty-kennesaw-st"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401862807",
-      "date_utc": "2026-10-22T23:30Z",
-      "name": "East Carolina Pirates at Memphis Tigers",
-      "short_name": "ECU @ MEM",
-      "status": "Final",
-      "status_short": "Final/OT",
-      "state": "post",
-      "period": 5,
-      "clock": "0:00",
-      "home_team": "Memphis Tigers",
-      "away_team": "East Carolina Pirates",
-      "home_score": "41",
-      "away_score": "34",
-      "home_record": "6-2",
-      "away_record": "3-4",
-      "venue": "Simmons Bank Liberty Stadium",
-      "broadcasts": [
-        "ESPN2"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862807/east-carolina-memphis"
-    },
     {
       "sport": "cfb",
       "event_id": "401858271",
       "date_utc": "2026-10-23T23:00Z",
       "name": "Duke Blue Devils at Virginia Cavaliers",
       "short_name": "DUKE @ UVA",
-      "status": "Scheduled",
-      "status_short": "10/23 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:13 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "13:13",
       "home_team": "Virginia Cavaliers",
       "away_team": "Duke Blue Devils",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "13",
+      "away_score": "7",
       "home_record": "4-3",
       "away_record": "4-2",
       "venue": "Scott Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858271/duke-virginia"
+      "link": "https://www.espn.com/college-football/game?gameId=401858271"
     },
     {
       "sport": "cfb",
@@ -106,22 +37,22 @@
       "date_utc": "2026-10-23T23:00Z",
       "name": "Massachusetts Minutemen at UConn Huskies",
       "short_name": "MASS @ CONN",
-      "status": "Scheduled",
-      "status_short": "10/23 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "UConn Huskies",
       "away_team": "Massachusetts Minutemen",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "21",
+      "away_score": "3",
       "home_record": "3-3",
       "away_record": "4-3",
       "venue": "Pratt & Whitney Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401861965/umass-uconn"
+      "link": "https://www.espn.com/college-football/game?gameId=401861965"
     },
     {
       "sport": "cfb",
@@ -129,22 +60,22 @@
       "date_utc": "2026-10-24T00:30Z",
       "name": "Army Black Knights at Tulsa Golden Hurricane",
       "short_name": "ARMY @ TLSA",
-      "status": "Scheduled",
-      "status_short": "10/23 - 8:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "6:38 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "6:38",
       "home_team": "Tulsa Golden Hurricane",
       "away_team": "Army Black Knights",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "7",
       "home_record": "4-3",
       "away_record": "4-2",
       "venue": "H. A. Chapman Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862808/army-tulsa"
+      "link": "https://www.espn.com/college-football/game?gameId=401862808"
     },
     {
       "sport": "cfb",
