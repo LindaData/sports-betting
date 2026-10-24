@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-24T17:05:28.116891Z",
+  "refreshed_at_utc": "2026-10-24T19:35:53.228039Z",
   "dates_requested": [
     "20261023",
     "20261024",
@@ -63,15 +63,15 @@
       "date_utc": "2026-10-24T17:00Z",
       "name": "Anaheim Ducks at Philadelphia Flyers",
       "short_name": "ANA @ PHI",
-      "status": "Scheduled",
-      "status_short": "10/24 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "8:08 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "8:08",
       "home_team": "Philadelphia Flyers",
       "away_team": "Anaheim Ducks",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "4",
+      "away_score": "5",
       "home_record": "3-6-3",
       "away_record": "4-6-0",
       "venue": "Xfinity Mobile Arena",
@@ -82,7 +82,7 @@
         "Prime Video (Local)",
         "Fox 11 Plus"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892566/ducks-flyers"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892566"
     },
     {
       "sport": "nhl",
