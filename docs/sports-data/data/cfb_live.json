@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-24T05:13:04.799533Z",
+  "refreshed_at_utc": "2026-10-24T09:39:11.161259Z",
   "dates_requested": [
     "20261023",
     "20261024",
@@ -106,22 +106,22 @@
       "date_utc": "2026-10-24T02:30Z",
       "name": "NC State Wolfpack at Stanford Cardinal",
       "short_name": "NCSU @ STAN",
-      "status": "In Progress",
-      "status_short": "14:10 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "14:10",
+      "clock": "0:00",
       "home_team": "Stanford Cardinal",
       "away_team": "NC State Wolfpack",
-      "home_score": "28",
-      "away_score": "21",
-      "home_record": "3-4",
-      "away_record": "3-3",
+      "home_score": "31",
+      "away_score": "28",
+      "home_record": "4-4",
+      "away_record": "3-4",
       "venue": "Stanford Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401858272"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858272/nc-state-stanford"
     },
     {
       "sport": "cfb",
