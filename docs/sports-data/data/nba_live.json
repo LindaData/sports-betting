@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-25T05:00:00.584452Z",
+  "refreshed_at_utc": "2026-10-25T09:38:06.255258Z",
   "dates_requested": [
     "20261024",
     "20261025",
@@ -164,7 +164,7 @@
       "status_short": "Final/OT",
       "state": "post",
       "period": 5,
-      "clock": "5:00",
+      "clock": "0.0",
       "home_team": "Denver Nuggets",
       "away_team": "New Orleans Pelicans",
       "home_score": "141",

@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-25T05:00:00.584452Z",
+  "refreshed_at_utc": "2026-10-25T09:38:06.255258Z",
   "dates_requested": [
     "20261024",
     "20261025",
@@ -982,22 +982,22 @@
       "date_utc": "2026-10-25T02:15Z",
       "name": "Houston Cougars at Utah Utes",
       "short_name": "HOU @ UTAH",
-      "status": "In Progress",
-      "status_short": "11:57 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "11:57",
+      "clock": "0:00",
       "home_team": "Utah Utes",
       "away_team": "Houston Cougars",
-      "home_score": "14",
+      "home_score": "21",
       "away_score": "13",
-      "home_record": "6-0",
-      "away_record": "6-1",
+      "home_record": "7-0",
+      "away_record": "6-2",
       "venue": "Rice-Eccles Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401856837"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856837/houston-utah"
     },
     {
       "sport": "cfb",
@@ -1005,22 +1005,22 @@
       "date_utc": "2026-10-25T02:20Z",
       "name": "North Dakota State Bison at New Mexico Lobos",
       "short_name": "NDSU @ UNM",
-      "status": "In Progress",
-      "status_short": "11:53 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "11:53",
+      "clock": "0:00",
       "home_team": "New Mexico Lobos",
       "away_team": "North Dakota State Bison",
-      "home_score": "14",
-      "away_score": "9",
-      "home_record": "5-1",
-      "away_record": "6-1",
+      "home_score": "21",
+      "away_score": "16",
+      "home_record": "6-1",
+      "away_record": "6-2",
       "venue": "University Stadium (NM)",
       "broadcasts": [
         "CW"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401864527"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401864527/n-dakota-st-new-mexico"
     }
   ],
   "errors": []
