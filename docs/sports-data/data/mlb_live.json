@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-25T00:24:08.133843Z",
+  "refreshed_at_utc": "2026-10-25T05:00:00.584452Z",
   "dates_requested": [
     "20261024",
     "20261025",
@@ -14,14 +14,14 @@
       "date_utc": "2026-10-25T00:00Z",
       "name": "Tampa Bay Rays at Milwaukee Brewers",
       "short_name": "TB @ MIL",
-      "status": "In Progress",
-      "status_short": "Top 1st",
-      "state": "in",
-      "period": 1,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 9,
       "clock": "0:00",
       "home_team": "Milwaukee Brewers",
       "away_team": "Tampa Bay Rays",
-      "home_score": "0",
+      "home_score": "5",
       "away_score": "4",
       "home_record": "103-59",
       "away_record": "98-64",
@@ -29,7 +29,7 @@
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908043"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908043/rays-brewers"
     },
     {
       "sport": "mlb",
