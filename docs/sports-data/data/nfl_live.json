@@ -1,12 +1,12 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-24T22:07:01.742271Z",
+  "refreshed_at_utc": "2026-10-25T00:24:08.133843Z",
   "dates_requested": [
-    "20261023",
     "20261024",
-    "20261025"
+    "20261025",
+    "20261026"
   ],
-  "event_count": 12,
+  "event_count": 13,
   "events": [
     {
       "sport": "nfl",
@@ -283,6 +283,31 @@
         "NBC"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401873022/chiefs-seahawks"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873009",
+      "date_utc": "2026-10-27T00:15Z",
+      "name": "Dallas Cowboys at Philadelphia Eagles",
+      "short_name": "DAL @ PHI",
+      "status": "Scheduled",
+      "status_short": "10/26 - 8:15 PM EDT",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Philadelphia Eagles",
+      "away_team": "Dallas Cowboys",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-4",
+      "away_record": "2-4",
+      "venue": "Lincoln Financial Field",
+      "broadcasts": [
+        "ESPN",
+        "ABC",
+        "Disney+"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles"
     }
   ],
   "errors": []
