@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-25T20:09:05.870198Z",
+  "refreshed_at_utc": "2026-10-25T22:41:13.995880Z",
   "dates_requested": [
     "20261024",
     "20261025",
@@ -210,15 +210,15 @@
       "date_utc": "2026-10-25T21:00Z",
       "name": "Los Angeles Lakers at Utah Jazz",
       "short_name": "LAL @ UTAH",
-      "status": "Scheduled",
-      "status_short": "10/25 - 5:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0.0",
+      "status": "In Progress",
+      "status_short": "6:42 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "6:42",
       "home_team": "Utah Jazz",
       "away_team": "Los Angeles Lakers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "85",
+      "away_score": "88",
       "home_record": "1-1",
       "away_record": "2-0",
       "venue": "Delta Center",
@@ -229,7 +229,7 @@
         "KJZZ-TV",
         "Jazz+"
       ],
-      "link": "https://www.espn.com/nba/game/_/gameId/401909861/lakers-jazz"
+      "link": "https://www.espn.com/nba/game?gameId=401909861"
     },
     {
       "sport": "nba",
@@ -237,15 +237,15 @@
       "date_utc": "2026-10-25T22:00Z",
       "name": "Indiana Pacers at Brooklyn Nets",
       "short_name": "IND @ BKN",
-      "status": "Scheduled",
-      "status_short": "10/25 - 6:00 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 1st",
+      "state": "in",
+      "period": 1,
       "clock": "0.0",
       "home_team": "Brooklyn Nets",
       "away_team": "Indiana Pacers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "26",
+      "away_score": "24",
       "home_record": "0-2",
       "away_record": "1-1",
       "venue": "Barclays Center",
@@ -254,7 +254,7 @@
         "DAZN IND",
         "DAZN (YES)"
       ],
-      "link": "https://www.espn.com/nba/game/_/gameId/401909862/pacers-nets"
+      "link": "https://www.espn.com/nba/game?gameId=401909862"
     },
     {
       "sport": "nba",
