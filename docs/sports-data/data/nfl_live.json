@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-25T14:00:55.534193Z",
+  "refreshed_at_utc": "2026-10-25T17:43:09.345410Z",
   "dates_requested": [
     "20261024",
     "20261025",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-25T13:30Z",
       "name": "Pittsburgh Steelers at New Orleans Saints",
       "short_name": "PIT VS NO",
-      "status": "In Progress",
-      "status_short": "0:30 - 1st",
-      "state": "in",
-      "period": 1,
-      "clock": "0:30",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "New Orleans Saints",
       "away_team": "Pittsburgh Steelers",
-      "home_score": "0",
-      "away_score": "3",
-      "home_record": "2-4",
-      "away_record": "4-2",
+      "home_score": "10",
+      "away_score": "16",
+      "home_record": "2-5",
+      "away_record": "5-2",
       "venue": "Stade de France",
       "broadcasts": [
         "NFL Net"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873011"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873011/steelers-saints"
     },
     {
       "sport": "nfl",
@@ -37,22 +37,22 @@
       "date_utc": "2026-10-25T17:00Z",
       "name": "San Francisco 49ers at Atlanta Falcons",
       "short_name": "SF @ ATL",
-      "status": "Scheduled",
-      "status_short": "10/25 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:47 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "14:47",
       "home_team": "Atlanta Falcons",
       "away_team": "San Francisco 49ers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "3",
+      "away_score": "14",
       "home_record": "2-4",
       "away_record": "6-0",
       "venue": "Mercedes-Benz Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873017/49ers-falcons"
+      "link": "https://www.espn.com/nfl/game?gameId=401873017"
     },
     {
       "sport": "nfl",
@@ -60,22 +60,22 @@
       "date_utc": "2026-10-25T17:00Z",
       "name": "Cleveland Browns at Tennessee Titans",
       "short_name": "CLE @ TEN",
-      "status": "Scheduled",
-      "status_short": "10/25 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "2:30 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "2:30",
       "home_team": "Tennessee Titans",
       "away_team": "Cleveland Browns",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "14",
+      "away_score": "7",
       "home_record": "1-5",
       "away_record": "4-2",
       "venue": "Nissan Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873013/browns-titans"
+      "link": "https://www.espn.com/nfl/game?gameId=401873013"
     },
     {
       "sport": "nfl",
@@ -83,22 +83,22 @@
       "date_utc": "2026-10-25T17:00Z",
       "name": "Indianapolis Colts at Minnesota Vikings",
       "short_name": "IND @ MIN",
-      "status": "Scheduled",
-      "status_short": "10/25 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:52 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "14:52",
       "home_team": "Minnesota Vikings",
       "away_team": "Indianapolis Colts",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "3",
+      "away_score": "7",
       "home_record": "5-0",
       "away_record": "2-4",
       "venue": "U.S. Bank Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873014/colts-vikings"
+      "link": "https://www.espn.com/nfl/game?gameId=401873014"
     },
     {
       "sport": "nfl",
@@ -106,22 +106,22 @@
       "date_utc": "2026-10-25T17:00Z",
       "name": "Miami Dolphins at New York Jets",
       "short_name": "MIA @ NYJ",
-      "status": "Scheduled",
-      "status_short": "10/25 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "11:59 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "11:59",
       "home_team": "New York Jets",
       "away_team": "Miami Dolphins",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "14",
       "home_record": "2-4",
       "away_record": "0-5",
       "venue": "MetLife Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873015/dolphins-jets"
+      "link": "https://www.espn.com/nfl/game?gameId=401873015"
     },
     {
       "sport": "nfl",
@@ -129,22 +129,22 @@
       "date_utc": "2026-10-25T17:00Z",
       "name": "Tampa Bay Buccaneers at Carolina Panthers",
       "short_name": "TB @ CAR",
-      "status": "Scheduled",
-      "status_short": "10/25 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "11:54 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "11:54",
       "home_team": "Carolina Panthers",
       "away_team": "Tampa Bay Buccaneers",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "10",
       "home_record": "3-2",
       "away_record": "1-5",
       "venue": "Bank of America Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873018/buccaneers-panthers"
+      "link": "https://www.espn.com/nfl/game?gameId=401873018"
     },
     {
       "sport": "nfl",
@@ -152,14 +152,14 @@
       "date_utc": "2026-10-25T17:00Z",
       "name": "Cincinnati Bengals at Baltimore Ravens",
       "short_name": "CIN @ BAL",
-      "status": "Scheduled",
-      "status_short": "10/25 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:19 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "13:19",
       "home_team": "Baltimore Ravens",
       "away_team": "Cincinnati Bengals",
-      "home_score": "0",
+      "home_score": "7",
       "away_score": "0",
       "home_record": "4-2",
       "away_record": "3-2",
@@ -167,7 +167,7 @@
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873012/bengals-ravens"
+      "link": "https://www.espn.com/nfl/game?gameId=401873012"
     },
     {
       "sport": "nfl",
@@ -175,22 +175,22 @@
       "date_utc": "2026-10-25T17:00Z",
       "name": "New York Giants at Houston Texans",
       "short_name": "NYG @ HOU",
-      "status": "Scheduled",
-      "status_short": "10/25 - 1:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:18 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "0:18",
       "home_team": "Houston Texans",
       "away_team": "New York Giants",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "3",
+      "away_score": "7",
       "home_record": "2-4",
       "away_record": "3-2-1",
       "venue": "Reliant Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873016/giants-texans"
+      "link": "https://www.espn.com/nfl/game?gameId=401873016"
     },
     {
       "sport": "nfl",
