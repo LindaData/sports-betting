@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-25T09:38:06.255258Z",
+  "refreshed_at_utc": "2026-10-25T14:00:55.534193Z",
   "dates_requested": [
     "20261024",
     "20261025",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-25T13:30Z",
       "name": "Pittsburgh Steelers at New Orleans Saints",
       "short_name": "PIT VS NO",
-      "status": "Scheduled",
-      "status_short": "10/25 - 9:30 AM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:30 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "0:30",
       "home_team": "New Orleans Saints",
       "away_team": "Pittsburgh Steelers",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "3",
       "home_record": "2-4",
       "away_record": "4-2",
       "venue": "Stade de France",
       "broadcasts": [
         "NFL Net"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873011/steelers-saints"
+      "link": "https://www.espn.com/nfl/game?gameId=401873011"
     },
     {
       "sport": "nfl",
