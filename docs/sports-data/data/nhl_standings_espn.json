@@ -1,6 +1,6 @@
 {
   "league": "NHL",
-  "refreshed_at_utc": "2026-10-25T13:53:01.682894Z",
+  "refreshed_at_utc": "2026-10-26T16:16:48.962919Z",
   "sport": "nhl",
   "standings": [
     {
@@ -88,40 +88,40 @@
       "wins": 7
     },
     {
+      "form": "W2",
+      "group": "Eastern Conference",
+      "losses": 3,
+      "percentage": 0.5454545454545454,
+      "played": 11,
+      "position": 8,
+      "sport": "nhl",
+      "team": "Montreal Canadiens",
+      "team_id": "10",
+      "wins": 6
+    },
+    {
+      "form": "W1",
+      "group": "Eastern Conference",
+      "losses": 4,
+      "percentage": 0.5,
+      "played": 12,
+      "position": 9,
+      "sport": "nhl",
+      "team": "Florida Panthers",
+      "team_id": "26",
+      "wins": 6
+    },
+    {
       "form": "W1",
       "group": "Eastern Conference",
       "losses": 4,
       "percentage": 0.6,
       "played": 10,
-      "position": 8,
+      "position": 10,
       "sport": "nhl",
       "team": "Washington Capitals",
       "team_id": "23",
       "wins": 6
-    },
-    {
-      "form": "L1",
-      "group": "Eastern Conference",
-      "losses": 3,
-      "percentage": 0.5,
-      "played": 10,
-      "position": 9,
-      "sport": "nhl",
-      "team": "New York Islanders",
-      "team_id": "12",
-      "wins": 5
-    },
-    {
-      "form": "W1",
-      "group": "Eastern Conference",
-      "losses": 3,
-      "percentage": 0.5,
-      "played": 10,
-      "position": 10,
-      "sport": "nhl",
-      "team": "Montreal Canadiens",
-      "team_id": "10",
-      "wins": 5
     },
     {
       "form": "L2",
@@ -131,8 +131,8 @@
       "played": 11,
       "position": 11,
       "sport": "nhl",
-      "team": "Florida Panthers",
-      "team_id": "26",
+      "team": "New York Islanders",
+      "team_id": "12",
       "wins": 5
     },
     {
@@ -196,12 +196,24 @@
       "wins": 4
     },
     {
+      "form": "W2",
+      "group": "Western Conference",
+      "losses": 3,
+      "percentage": 0.6153846153846154,
+      "played": 13,
+      "position": 1,
+      "sport": "nhl",
+      "team": "Minnesota Wild",
+      "team_id": "30",
+      "wins": 8
+    },
+    {
       "form": "L1",
       "group": "Western Conference",
       "losses": 2,
       "percentage": 0.7272727272727273,
       "played": 11,
-      "position": 1,
+      "position": 2,
       "sport": "nhl",
       "team": "Edmonton Oilers",
       "team_id": "6",
@@ -213,7 +225,7 @@
       "losses": 4,
       "percentage": 0.6153846153846154,
       "played": 13,
-      "position": 2,
+      "position": 3,
       "sport": "nhl",
       "team": "Vegas Golden Knights",
       "team_id": "37",
@@ -225,22 +237,22 @@
       "losses": 4,
       "percentage": 0.6666666666666666,
       "played": 12,
-      "position": 3,
+      "position": 4,
       "sport": "nhl",
       "team": "Utah Mammoth",
       "team_id": "129764",
       "wins": 8
     },
     {
-      "form": "W1",
+      "form": "W5",
       "group": "Western Conference",
       "losses": 3,
-      "percentage": 0.5833333333333334,
-      "played": 12,
-      "position": 4,
+      "percentage": 0.6363636363636364,
+      "played": 11,
+      "position": 5,
       "sport": "nhl",
-      "team": "Minnesota Wild",
-      "team_id": "30",
+      "team": "Dallas Stars",
+      "team_id": "9",
       "wins": 7
     },
     {
@@ -249,30 +261,18 @@
       "losses": 4,
       "percentage": 0.5833333333333334,
       "played": 12,
-      "position": 5,
+      "position": 6,
       "sport": "nhl",
       "team": "Seattle Kraken",
       "team_id": "124292",
       "wins": 7
     },
     {
-      "form": "W4",
+      "form": "L1",
       "group": "Western Conference",
-      "losses": 3,
-      "percentage": 0.6,
-      "played": 10,
-      "position": 6,
-      "sport": "nhl",
-      "team": "Dallas Stars",
-      "team_id": "9",
-      "wins": 6
-    },
-    {
-      "form": "W1",
-      "group": "Western Conference",
-      "losses": 4,
-      "percentage": 0.5454545454545454,
-      "played": 11,
+      "losses": 5,
+      "percentage": 0.5,
+      "played": 12,
       "position": 7,
       "sport": "nhl",
       "team": "Colorado Avalanche",
@@ -292,15 +292,15 @@
       "wins": 6
     },
     {
-      "form": "L4",
+      "form": "W1",
       "group": "Western Conference",
       "losses": 3,
-      "percentage": 0.4,
-      "played": 10,
+      "percentage": 0.36363636363636365,
+      "played": 11,
       "position": 9,
       "sport": "nhl",
-      "team": "Winnipeg Jets",
-      "team_id": "28",
+      "team": "Nashville Predators",
+      "team_id": "27",
       "wins": 4
     },
     {
@@ -316,16 +316,16 @@
       "wins": 5
     },
     {
-      "form": "L2",
+      "form": "L5",
       "group": "Western Conference",
-      "losses": 3,
-      "percentage": 0.3,
-      "played": 10,
+      "losses": 4,
+      "percentage": 0.36363636363636365,
+      "played": 11,
       "position": 11,
       "sport": "nhl",
-      "team": "Nashville Predators",
-      "team_id": "27",
-      "wins": 3
+      "team": "Winnipeg Jets",
+      "team_id": "28",
+      "wins": 4
     },
     {
       "form": "W1",
@@ -364,11 +364,11 @@
       "wins": 2
     },
     {
-      "form": "L2",
+      "form": "L3",
       "group": "Western Conference",
-      "losses": 7,
-      "percentage": 0.3,
-      "played": 10,
+      "losses": 8,
+      "percentage": 0.2727272727272727,
+      "played": 11,
       "position": 15,
       "sport": "nhl",
       "team": "Chicago Blackhawks",
@@ -376,11 +376,11 @@
       "wins": 3
     },
     {
-      "form": "L9",
+      "form": "L10",
       "group": "Western Conference",
-      "losses": 9,
-      "percentage": 0.16666666666666666,
-      "played": 12,
+      "losses": 10,
+      "percentage": 0.15384615384615385,
+      "played": 13,
       "position": 16,
       "sport": "nhl",
       "team": "Vancouver Canucks",
