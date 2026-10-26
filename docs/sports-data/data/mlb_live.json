@@ -1,36 +1,13 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-25T22:41:13.995880Z",
+  "refreshed_at_utc": "2026-10-26T00:51:43.383157Z",
   "dates_requested": [
-    "20261024",
     "20261025",
-    "20261026"
+    "20261026",
+    "20261027"
   ],
   "event_count": 2,
   "events": [
-    {
-      "sport": "mlb",
-      "event_id": "401908043",
-      "date_utc": "2026-10-25T00:00Z",
-      "name": "Tampa Bay Rays at Milwaukee Brewers",
-      "short_name": "TB @ MIL",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 9,
-      "clock": "0:00",
-      "home_team": "Milwaukee Brewers",
-      "away_team": "Tampa Bay Rays",
-      "home_score": "5",
-      "away_score": "4",
-      "home_record": "103-59",
-      "away_record": "98-64",
-      "venue": "American Family Field",
-      "broadcasts": [
-        "Fox"
-      ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908043/rays-brewers"
-    },
     {
       "sport": "mlb",
       "event_id": "401908044",
@@ -53,6 +30,29 @@
         "Fox"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401908044/brewers-rays"
+    },
+    {
+      "sport": "mlb",
+      "event_id": "401908045",
+      "date_utc": "2026-10-28T00:00Z",
+      "name": "Milwaukee Brewers at Tampa Bay Rays",
+      "short_name": "MIL @ TB",
+      "status": "Scheduled",
+      "status_short": "10/27 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 1,
+      "clock": "0:00",
+      "home_team": "Tampa Bay Rays",
+      "away_team": "Milwaukee Brewers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "98-64",
+      "away_record": "103-59",
+      "venue": "Tropicana Field",
+      "broadcasts": [
+        "Fox"
+      ],
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908045/brewers-rays"
     }
   ],
   "errors": []

@@ -1,10 +1,10 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-25T22:41:13.995880Z",
+  "refreshed_at_utc": "2026-10-26T00:51:43.383157Z",
   "dates_requested": [
-    "20261024",
     "20261025",
-    "20261026"
+    "20261026",
+    "20261027"
   ],
   "event_count": 13,
   "events": [
@@ -198,22 +198,22 @@
       "date_utc": "2026-10-25T20:05Z",
       "name": "Denver Broncos at Arizona Cardinals",
       "short_name": "DEN @ ARI",
-      "status": "In Progress",
-      "status_short": "12:50 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "12:50",
+      "clock": "0:00",
       "home_team": "Arizona Cardinals",
       "away_team": "Denver Broncos",
-      "home_score": "13",
-      "away_score": "27",
-      "home_record": "2-4",
-      "away_record": "4-2",
+      "home_score": "16",
+      "away_score": "30",
+      "home_record": "2-5",
+      "away_record": "5-2",
       "venue": "State Farm Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873019"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873019/broncos-cardinals"
     },
     {
       "sport": "nfl",
@@ -221,22 +221,22 @@
       "date_utc": "2026-10-25T20:25Z",
       "name": "Green Bay Packers at Detroit Lions",
       "short_name": "GB @ DET",
-      "status": "In Progress",
-      "status_short": "1:04 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "1:04",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Detroit Lions",
       "away_team": "Green Bay Packers",
-      "home_score": "17",
-      "away_score": "14",
-      "home_record": "3-2",
-      "away_record": "4-2",
+      "home_score": "20",
+      "away_score": "17",
+      "home_record": "4-2",
+      "away_record": "4-3",
       "venue": "Ford Field",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873020"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873020/packers-lions"
     },
     {
       "sport": "nfl",
@@ -244,22 +244,22 @@
       "date_utc": "2026-10-25T20:25Z",
       "name": "Los Angeles Rams at Las Vegas Raiders",
       "short_name": "LAR @ LV",
-      "status": "In Progress",
-      "status_short": "2:26 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "2:26",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Las Vegas Raiders",
       "away_team": "Los Angeles Rams",
-      "home_score": "6",
-      "away_score": "28",
-      "home_record": "3-3",
-      "away_record": "2-4",
+      "home_score": "21",
+      "away_score": "35",
+      "home_record": "3-4",
+      "away_record": "3-4",
       "venue": "Allegiant Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873021"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873021/rams-raiders"
     },
     {
       "sport": "nfl",
@@ -267,11 +267,11 @@
       "date_utc": "2026-10-26T00:20Z",
       "name": "Kansas City Chiefs at Seattle Seahawks",
       "short_name": "KC @ SEA",
-      "status": "Scheduled",
-      "status_short": "10/25 - 8:20 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "15:00 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "15:00",
       "home_team": "Seattle Seahawks",
       "away_team": "Kansas City Chiefs",
       "home_score": "0",
@@ -282,7 +282,7 @@
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873022/chiefs-seahawks"
+      "link": "https://www.espn.com/nfl/game?gameId=401873022"
     },
     {
       "sport": "nfl",
