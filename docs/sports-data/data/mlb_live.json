@@ -1,12 +1,12 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-26T22:06:34.186662Z",
+  "refreshed_at_utc": "2026-10-27T01:32:35.244292Z",
   "dates_requested": [
-    "20261025",
     "20261026",
-    "20261027"
+    "20261027",
+    "20261028"
   ],
-  "event_count": 2,
+  "event_count": 3,
   "events": [
     {
       "sport": "mlb",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-27T00:00Z",
       "name": "Milwaukee Brewers at Tampa Bay Rays",
       "short_name": "MIL @ TB",
-      "status": "Scheduled",
-      "status_short": "10/26 - 8:00 PM EDT",
-      "state": "pre",
-      "period": 1,
+      "status": "In Progress",
+      "status_short": "Mid 5th",
+      "state": "in",
+      "period": 5,
       "clock": "0:00",
       "home_team": "Tampa Bay Rays",
       "away_team": "Milwaukee Brewers",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "2",
       "home_record": "98-64",
       "away_record": "103-59",
       "venue": "Tropicana Field",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908044/brewers-rays"
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908044"
     },
     {
       "sport": "mlb",
@@ -53,6 +53,29 @@
         "Fox"
       ],
       "link": "https://www.espn.com/mlb/game/_/gameId/401908045/brewers-rays"
+    },
+    {
+      "sport": "mlb",
+      "event_id": "401908046",
+      "date_utc": "2026-10-29T00:00Z",
+      "name": "Milwaukee Brewers at Tampa Bay Rays",
+      "short_name": "MIL @ TB",
+      "status": "Scheduled",
+      "status_short": "10/28 - 8:00 PM EDT",
+      "state": "pre",
+      "period": 1,
+      "clock": "0:00",
+      "home_team": "Tampa Bay Rays",
+      "away_team": "Milwaukee Brewers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "98-64",
+      "away_record": "103-59",
+      "venue": "Tropicana Field",
+      "broadcasts": [
+        "Fox"
+      ],
+      "link": "https://www.espn.com/mlb/game/_/gameId/401908046/brewers-rays"
     }
   ],
   "errors": []
