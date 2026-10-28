@@ -1,37 +1,35 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-27T22:44:50.891164Z",
+  "refreshed_at_utc": "2026-10-28T01:55:15.987150Z",
   "dates_requested": [
-    "20261026",
     "20261027",
-    "20261028"
+    "20261028",
+    "20261029"
   ],
   "event_count": 1,
   "events": [
     {
       "sport": "nfl",
-      "event_id": "401873009",
-      "date_utc": "2026-10-27T00:15Z",
-      "name": "Dallas Cowboys at Philadelphia Eagles",
-      "short_name": "DAL @ PHI",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
+      "event_id": "401873023",
+      "date_utc": "2026-10-30T00:15Z",
+      "name": "Carolina Panthers at Green Bay Packers",
+      "short_name": "CAR @ GB",
+      "status": "Scheduled",
+      "status_short": "10/29 - 8:15 PM EDT",
+      "state": "pre",
+      "period": 0,
       "clock": "0:00",
-      "home_team": "Philadelphia Eagles",
-      "away_team": "Dallas Cowboys",
-      "home_score": "21",
-      "away_score": "38",
-      "home_record": "2-5",
-      "away_record": "3-4",
-      "venue": "Lincoln Financial Field",
+      "home_team": "Green Bay Packers",
+      "away_team": "Carolina Panthers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "4-3",
+      "away_record": "3-3",
+      "venue": "Lambeau Field",
       "broadcasts": [
-        "ESPN",
-        "ABC",
-        "Disney+"
+        "Prime Video"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873023/panthers-packers"
     }
   ],
   "errors": []

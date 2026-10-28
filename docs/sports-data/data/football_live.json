@@ -1,10 +1,10 @@
 {
   "sport": "football",
-  "refreshed_at_utc": "2026-10-27T22:44:50.891164Z",
+  "refreshed_at_utc": "2026-10-28T01:55:15.987150Z",
   "dates_requested": [
-    "20261026",
     "20261027",
-    "20261028"
+    "20261028",
+    "20261029"
   ],
   "event_count": 0,
   "events": [],
