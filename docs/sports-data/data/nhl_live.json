@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-28T19:58:49.839722Z",
+  "refreshed_at_utc": "2026-10-28T23:53:59.877126Z",
   "dates_requested": [
     "20261027",
     "20261028",
@@ -285,14 +285,14 @@
       "date_utc": "2026-10-28T23:30Z",
       "name": "Philadelphia Flyers at Washington Capitals",
       "short_name": "PHI @ WSH",
-      "status": "Scheduled",
-      "status_short": "10/28 - 7:30 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "11:39 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "11:39",
       "home_team": "Washington Capitals",
       "away_team": "Philadelphia Flyers",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_record": "6-4-0",
       "away_record": "3-7-4",
@@ -302,7 +302,7 @@
         "truTV",
         "NBC Sports Phil +"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892596/flyers-capitals"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892596"
     },
     {
       "sport": "nhl",
