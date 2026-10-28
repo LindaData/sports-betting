@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-10-27T15:30:20.916920Z",
+  "refreshed_at_utc": "2026-10-28T16:14:16.584153Z",
   "sport": "cfb",
   "standings": [
     {
@@ -820,39 +820,27 @@
       "wins": 4
     },
     {
-      "form": "W1",
+      "form": "W2",
       "group": "Conference USA",
       "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.5,
       "played": null,
       "position": 4,
       "sport": "cfb",
-      "team": "New Mexico State Aggies",
-      "team_id": "166",
-      "wins": 3
+      "team": "Delaware Blue Hens",
+      "team_id": "48",
+      "wins": 4
     },
     {
-      "form": "W2",
+      "form": "W1",
       "group": "Conference USA",
       "losses": null,
       "percentage": 0.6666667,
       "played": null,
       "position": 5,
       "sport": "cfb",
-      "team": "Western Kentucky Hilltoppers",
-      "team_id": "98",
-      "wins": 3
-    },
-    {
-      "form": "W1",
-      "group": "Conference USA",
-      "losses": null,
-      "percentage": 0.33333334,
-      "played": null,
-      "position": 6,
-      "sport": "cfb",
-      "team": "Delaware Blue Hens",
-      "team_id": "48",
+      "team": "New Mexico State Aggies",
+      "team_id": "166",
       "wins": 3
     },
     {
@@ -861,7 +849,7 @@
       "losses": null,
       "percentage": 0.33333334,
       "played": null,
-      "position": 7,
+      "position": 6,
       "sport": "cfb",
       "team": "Florida International Panthers",
       "team_id": "2229",
@@ -871,13 +859,25 @@
       "form": "L1",
       "group": "Conference USA",
       "losses": null,
-      "percentage": 0.33333334,
+      "percentage": 0.5,
+      "played": null,
+      "position": 7,
+      "sport": "cfb",
+      "team": "Western Kentucky Hilltoppers",
+      "team_id": "98",
+      "wins": 3
+    },
+    {
+      "form": "W1",
+      "group": "Conference USA",
+      "losses": null,
+      "percentage": 0.5,
       "played": null,
       "position": 8,
       "sport": "cfb",
       "team": "Missouri State Bears",
       "team_id": "2623",
-      "wins": 2
+      "wins": 3
     },
     {
       "form": "L6",
@@ -892,7 +892,7 @@
       "wins": 1
     },
     {
-      "form": "L4",
+      "form": "L5",
       "group": "Conference USA",
       "losses": null,
       "percentage": 0.0,
