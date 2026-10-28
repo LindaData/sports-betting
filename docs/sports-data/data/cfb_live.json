@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-28T01:55:15.987150Z",
+  "refreshed_at_utc": "2026-10-28T07:44:24.743379Z",
   "dates_requested": [
     "20261027",
     "20261028",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-27T23:00Z",
       "name": "Delaware Blue Hens at Western Kentucky Hilltoppers",
       "short_name": "DEL @ WKU",
-      "status": "In Progress",
-      "status_short": "3:04 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "3:04",
+      "clock": "0:00",
       "home_team": "Western Kentucky Hilltoppers",
       "away_team": "Delaware Blue Hens",
       "home_score": "21",
       "away_score": "35",
-      "home_record": "3-4",
-      "away_record": "3-4",
+      "home_record": "3-5",
+      "away_record": "4-4",
       "venue": "Houchens Industries-L.T. Smith Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401871071"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871071/delaware-western-ky"
     },
     {
       "sport": "cfb",
@@ -37,22 +37,22 @@
       "date_utc": "2026-10-28T00:00Z",
       "name": "Sam Houston Bearkats at Missouri State Bears",
       "short_name": "SHSU @ MOST",
-      "status": "Halftime",
-      "status_short": "Halftime",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Missouri State Bears",
       "away_team": "Sam Houston Bearkats",
-      "home_score": "10",
+      "home_score": "24",
       "away_score": "3",
-      "home_record": "2-5",
-      "away_record": "1-6",
+      "home_record": "3-5",
+      "away_record": "1-7",
       "venue": "Robert W. Plaster Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401871072"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871072/sam-houston-missouri-st"
     },
     {
       "sport": "cfb",
