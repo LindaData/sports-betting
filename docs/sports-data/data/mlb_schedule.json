@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20261021-20261111",
+  "dates_requested": "20261022-20261112",
   "errors": [],
-  "event_count": 7,
+  "event_count": 5,
   "events": [
     {
       "away_score": 2,
@@ -76,64 +76,28 @@
       "venue": "Tropicana Field"
     },
     {
-      "away_score": null,
+      "away_score": 4,
       "away_team": "Milwaukee Brewers",
       "away_team_id": "8",
       "city": "St. Petersburg",
       "date_utc": "2026-10-29T00:00Z",
       "game_id": "401908046",
-      "home_score": null,
+      "home_score": 1,
       "home_team": "Tampa Bay Rays",
       "home_team_id": "30",
       "league": "Major League Baseball",
       "league_id": "mlb",
       "season": "2026",
       "sport": "mlb",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "Tropicana Field"
-    },
-    {
-      "away_score": null,
-      "away_team": "Tampa Bay Rays",
-      "away_team_id": "30",
-      "city": "Milwaukee",
-      "date_utc": "2026-10-31T00:00Z",
-      "game_id": "401908047",
-      "home_score": null,
-      "home_team": "Milwaukee Brewers",
-      "home_team_id": "8",
-      "league": "Major League Baseball",
-      "league_id": "mlb",
-      "season": "2026",
-      "sport": "mlb",
-      "status": "Scheduled",
-      "status_code": "pre",
-      "venue": "American Family Field"
-    },
-    {
-      "away_score": null,
-      "away_team": "Tampa Bay Rays",
-      "away_team_id": "30",
-      "city": "Milwaukee",
-      "date_utc": "2026-11-01T00:00Z",
-      "game_id": "401908048",
-      "home_score": null,
-      "home_team": "Milwaukee Brewers",
-      "home_team_id": "8",
-      "league": "Major League Baseball",
-      "league_id": "mlb",
-      "season": "2026",
-      "sport": "mlb",
-      "status": "Scheduled",
-      "status_code": "pre",
-      "venue": "American Family Field"
     }
   ],
   "league": "MLB",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261021-20261111&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261022-20261112&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-28T16:14:16.584153Z",
+  "refreshed_at_utc": "2026-10-29T16:22:33.274434Z",
   "sport": "mlb"
 }

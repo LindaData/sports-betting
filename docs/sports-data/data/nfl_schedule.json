@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20261021-20261111",
+  "dates_requested": "20261022-20261112",
   "errors": [],
-  "event_count": 43,
+  "event_count": 44,
   "events": [
     {
       "away_score": 24,
@@ -776,12 +776,30 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "U.S. Bank Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "Washington Commanders",
+      "away_team_id": "28",
+      "city": "East Rutherford",
+      "date_utc": "2026-11-13T01:15Z",
+      "game_id": "401873052",
+      "home_score": null,
+      "home_team": "New York Giants",
+      "home_team_id": "19",
+      "league": "National Football League",
+      "league_id": "nfl",
+      "season": "2026",
+      "sport": "nfl",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "MetLife Stadium"
     }
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261021-20261111&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261022-20261112&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-10-28T16:14:16.584153Z",
+  "refreshed_at_utc": "2026-10-29T16:22:33.274434Z",
   "sport": "nfl"
 }
