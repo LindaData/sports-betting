@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-10-29T17:11:30.768948Z",
+  "refreshed_at_utc": "2026-10-29T21:53:34.395856Z",
   "dates_requested": [
     "20261028",
     "20261029",
@@ -152,7 +152,8 @@
       "venue": "PPG Paints Arena",
       "broadcasts": [
         "ESPN+",
-        "Utah 16"
+        "Utah 16",
+        "Mammoth+"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401892602/mammoth-penguins"
     },
