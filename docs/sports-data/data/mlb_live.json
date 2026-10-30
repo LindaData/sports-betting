@@ -1,36 +1,12 @@
 {
   "sport": "mlb",
-  "refreshed_at_utc": "2026-10-29T21:53:34.395856Z",
+  "refreshed_at_utc": "2026-10-30T01:26:04.514311Z",
   "dates_requested": [
-    "20261028",
     "20261029",
-    "20261030"
+    "20261030",
+    "20261031"
   ],
-  "event_count": 1,
-  "events": [
-    {
-      "sport": "mlb",
-      "event_id": "401908046",
-      "date_utc": "2026-10-29T00:00Z",
-      "name": "Milwaukee Brewers at Tampa Bay Rays",
-      "short_name": "MIL @ TB",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 9,
-      "clock": "0:00",
-      "home_team": "Tampa Bay Rays",
-      "away_team": "Milwaukee Brewers",
-      "home_score": "1",
-      "away_score": "4",
-      "home_record": "98-64",
-      "away_record": "103-59",
-      "venue": "Tropicana Field",
-      "broadcasts": [
-        "Fox"
-      ],
-      "link": "https://www.espn.com/mlb/game/_/gameId/401908046/brewers-rays"
-    }
-  ],
+  "event_count": 0,
+  "events": [],
   "errors": []
 }
