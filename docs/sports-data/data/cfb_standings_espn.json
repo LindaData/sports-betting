@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-10-29T16:22:33.274434Z",
+  "refreshed_at_utc": "2026-10-30T16:10:27.578037Z",
   "sport": "cfb",
   "standings": [
     {
@@ -16,28 +16,28 @@
       "wins": 7
     },
     {
+      "form": "W5",
+      "group": "American Conference",
+      "losses": null,
+      "percentage": 1.0,
+      "played": null,
+      "position": 2,
+      "sport": "cfb",
+      "team": "North Texas Mean Green",
+      "team_id": "249",
+      "wins": 6
+    },
+    {
       "form": "W1",
       "group": "American Conference",
       "losses": null,
       "percentage": 0.75,
       "played": null,
-      "position": 2,
+      "position": 3,
       "sport": "cfb",
       "team": "Memphis Tigers",
       "team_id": "235",
       "wins": 6
-    },
-    {
-      "form": "W4",
-      "group": "American Conference",
-      "losses": null,
-      "percentage": 1.0,
-      "played": null,
-      "position": 3,
-      "sport": "cfb",
-      "team": "North Texas Mean Green",
-      "team_id": "249",
-      "wins": 5
     },
     {
       "form": "W3",
@@ -55,24 +55,24 @@
       "form": "W1",
       "group": "American Conference",
       "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.33333334,
       "played": null,
       "position": 5,
       "sport": "cfb",
-      "team": "Florida Atlantic Owls",
-      "team_id": "2226",
+      "team": "South Florida Bulls",
+      "team_id": "58",
       "wins": 5
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "American Conference",
       "losses": null,
-      "percentage": 0.33333334,
+      "percentage": 0.5,
       "played": null,
       "position": 6,
       "sport": "cfb",
-      "team": "South Florida Bulls",
-      "team_id": "58",
+      "team": "Florida Atlantic Owls",
+      "team_id": "2226",
       "wins": 5
     },
     {
@@ -1492,10 +1492,10 @@
       "wins": 3
     },
     {
-      "form": "L1",
+      "form": "L2",
       "group": "Sun Belt Conference - Sun Belt - East",
       "losses": null,
-      "percentage": 0.8,
+      "percentage": 0.6666667,
       "played": null,
       "position": 1,
       "sport": "cfb",
@@ -1624,16 +1624,16 @@
       "wins": 4
     },
     {
-      "form": "L2",
+      "form": "W1",
       "group": "Sun Belt Conference - Sun Belt - West",
       "losses": null,
-      "percentage": 0.33333334,
+      "percentage": 0.5,
       "played": null,
       "position": 5,
       "sport": "cfb",
       "team": "Troy Trojans",
       "team_id": "2653",
-      "wins": 3
+      "wins": 4
     },
     {
       "form": "W1",

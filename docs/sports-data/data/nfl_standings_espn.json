@@ -1,6 +1,6 @@
 {
   "league": "NFL",
-  "refreshed_at_utc": "2026-10-29T16:22:33.274434Z",
+  "refreshed_at_utc": "2026-10-30T16:10:27.578037Z",
   "sport": "nfl",
   "standings": [
     {
@@ -246,25 +246,25 @@
     {
       "form": "W1",
       "group": "National Football Conference",
-      "losses": 2,
-      "percentage": 0.64285713,
-      "played": 7,
-      "position": 5,
-      "sport": "nfl",
-      "team": "New York Giants",
-      "team_id": "19",
-      "wins": 4
-    },
-    {
-      "form": "L1",
-      "group": "National Football Conference",
       "losses": 3,
-      "percentage": 0.5714286,
-      "played": 7,
-      "position": 6,
+      "percentage": 0.625,
+      "played": 8,
+      "position": 5,
       "sport": "nfl",
       "team": "Green Bay Packers",
       "team_id": "9",
+      "wins": 5
+    },
+    {
+      "form": "W1",
+      "group": "National Football Conference",
+      "losses": 2,
+      "percentage": 0.64285713,
+      "played": 7,
+      "position": 6,
+      "sport": "nfl",
+      "team": "New York Giants",
+      "team_id": "19",
       "wins": 4
     },
     {
@@ -280,11 +280,11 @@
       "wins": 4
     },
     {
-      "form": "L1",
+      "form": "L2",
       "group": "National Football Conference",
-      "losses": 3,
-      "percentage": 0.5,
-      "played": 6,
+      "losses": 4,
+      "percentage": 0.42857143,
+      "played": 7,
       "position": 8,
       "sport": "nfl",
       "team": "Carolina Panthers",
