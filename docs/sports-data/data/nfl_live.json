@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-10-30T01:26:04.514311Z",
+  "refreshed_at_utc": "2026-10-30T07:25:47.588696Z",
   "dates_requested": [
     "20261029",
     "20261030",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-30T00:15Z",
       "name": "Carolina Panthers at Green Bay Packers",
       "short_name": "CAR @ GB",
-      "status": "In Progress",
-      "status_short": "3:24 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "3:24",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Green Bay Packers",
       "away_team": "Carolina Panthers",
-      "home_score": "13",
-      "away_score": "10",
-      "home_record": "4-3",
-      "away_record": "3-3",
+      "home_score": "27",
+      "away_score": "19",
+      "home_record": "5-3",
+      "away_record": "3-4",
       "venue": "Lambeau Field",
       "broadcasts": [
         "Prime Video"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873023"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873023/panthers-packers"
     }
   ],
   "errors": []
