@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-30T19:31:53.209278Z",
+  "refreshed_at_utc": "2026-10-30T23:21:55.675547Z",
   "dates_requested": [
     "20261029",
     "20261030",
@@ -60,11 +60,11 @@
       "date_utc": "2026-10-30T23:00Z",
       "name": "Tulane Green Wave at Charlotte 49ers",
       "short_name": "TULN @ CLT",
-      "status": "Scheduled",
-      "status_short": "10/30 - 7:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "6:39 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "6:39",
       "home_team": "Charlotte 49ers",
       "away_team": "Tulane Green Wave",
       "home_score": "0",
@@ -75,7 +75,7 @@
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862813/tulane-charlotte"
+      "link": "https://www.espn.com/college-football/game?gameId=401862813"
     },
     {
       "sport": "cfb",
