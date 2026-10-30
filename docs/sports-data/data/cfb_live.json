@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-30T07:25:47.588696Z",
+  "refreshed_at_utc": "2026-10-30T19:31:53.209278Z",
   "dates_requested": [
     "20261029",
     "20261030",
@@ -556,7 +556,8 @@
       "away_record": "5-2",
       "venue": "Mercedes-Benz Stadium",
       "broadcasts": [
-        "ABC"
+        "ABC",
+        "Disney+"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401856734/florida-georgia"
     },
@@ -1039,7 +1040,8 @@
       "away_record": "4-3",
       "venue": "DKR-Texas Memorial Stadium",
       "broadcasts": [
-        "ESPN"
+        "ESPN",
+        "Disney+"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401856737/mississippi-st-texas"
     },
