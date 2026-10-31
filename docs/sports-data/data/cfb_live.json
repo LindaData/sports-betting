@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-10-31T02:34:12.225577Z",
+  "refreshed_at_utc": "2026-10-31T09:04:41.840718Z",
   "dates_requested": [
     "20261030",
     "20261031",
@@ -14,22 +14,22 @@
       "date_utc": "2026-10-30T23:00Z",
       "name": "Tulane Green Wave at Charlotte 49ers",
       "short_name": "TULN @ CLT",
-      "status": "In Progress",
-      "status_short": "0:07 - 4th",
-      "state": "in",
-      "period": 4,
-      "clock": "0:07",
+      "status": "Final",
+      "status_short": "Final/OT",
+      "state": "post",
+      "period": 5,
+      "clock": "0:00",
       "home_team": "Charlotte 49ers",
       "away_team": "Tulane Green Wave",
       "home_score": "31",
-      "away_score": "31",
-      "home_record": "1-6",
-      "away_record": "3-4",
+      "away_score": "38",
+      "home_record": "1-7",
+      "away_record": "4-4",
       "venue": "Jerry Richardson Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401862813"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862813/tulane-charlotte"
     },
     {
       "sport": "cfb",
@@ -37,22 +37,22 @@
       "date_utc": "2026-10-30T23:30Z",
       "name": "Baylor Bears at UCF Knights",
       "short_name": "BAY @ UCF",
-      "status": "In Progress",
-      "status_short": "12:33 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "12:33",
+      "clock": "0:00",
       "home_team": "UCF Knights",
       "away_team": "Baylor Bears",
       "home_score": "9",
       "away_score": "41",
-      "home_record": "4-3",
-      "away_record": "4-3",
+      "home_record": "4-4",
+      "away_record": "5-3",
       "venue": "Acrisure Bounce House",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401856844"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856844/baylor-ucf"
     },
     {
       "sport": "cfb",
@@ -60,20 +60,20 @@
       "date_utc": "2026-10-31T02:30Z",
       "name": "Kent State Golden Flashes at Sacramento State Hornets",
       "short_name": "KENT @ SAC",
-      "status": "Scheduled",
-      "status_short": "10/30 - 10:30 PM EDT",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Sacramento State Hornets",
       "away_team": "Kent State Golden Flashes",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "1-7",
-      "away_record": "3-5",
+      "home_score": "31",
+      "away_score": "10",
+      "home_record": "2-7",
+      "away_record": "3-6",
       "venue": "Hornet Stadium",
       "broadcasts": [
-        "ESPN2"
+        "ESPNU"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401866451/kent-state-sacramento-st"
     },
