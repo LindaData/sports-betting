@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-10-31T15:25:13.436548Z",
+  "refreshed_at_utc": "2026-10-31T19:24:19.091548Z",
   "dates_requested": [
     "20261030",
     "20261031",
@@ -252,15 +252,15 @@
       "date_utc": "2026-10-31T19:00Z",
       "name": "Portland Trail Blazers at Utah Jazz",
       "short_name": "POR @ UTAH",
-      "status": "Scheduled",
-      "status_short": "10/31 - 3:00 PM EDT",
-      "state": "pre",
-      "period": 0,
-      "clock": "0.0",
+      "status": "In Progress",
+      "status_short": "5:44 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "5:44",
       "home_team": "Utah Jazz",
       "away_team": "Portland Trail Blazers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "14",
       "home_record": "1-4",
       "away_record": "3-1",
       "venue": "Delta Center",
@@ -271,7 +271,7 @@
         "KJZZ-TV",
         "Jazz+"
       ],
-      "link": "https://www.espn.com/nba/game/_/gameId/401909896/trail-blazers-jazz"
+      "link": "https://www.espn.com/nba/game?gameId=401909896"
     },
     {
       "sport": "nba",
