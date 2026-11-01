@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-11-01T19:49:12.937720Z",
+  "refreshed_at_utc": "2026-11-01T23:13:51.210187Z",
   "dates_requested": [
     "20261031",
     "20261101",
@@ -188,17 +188,17 @@
       "date_utc": "2026-11-01T20:30Z",
       "name": "Boston Celtics at Orlando Magic",
       "short_name": "BOS @ ORL",
-      "status": "Scheduled",
-      "status_short": "11/1 - 3:30 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0.0",
       "home_team": "Orlando Magic",
       "away_team": "Boston Celtics",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "2-3",
-      "away_record": "4-1",
+      "home_score": "97",
+      "away_score": "108",
+      "home_record": "2-4",
+      "away_record": "5-1",
       "venue": "Kia Center",
       "broadcasts": [
         "NBA League Pass"
@@ -211,15 +211,15 @@
       "date_utc": "2026-11-01T22:00Z",
       "name": "Brooklyn Nets at Indiana Pacers",
       "short_name": "BKN @ IND",
-      "status": "Scheduled",
-      "status_short": "11/1 - 5:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0.0",
+      "status": "In Progress",
+      "status_short": "2:25 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "2:25",
       "home_team": "Indiana Pacers",
       "away_team": "Brooklyn Nets",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "33",
+      "away_score": "37",
       "home_record": "2-4",
       "away_record": "0-5",
       "venue": "Gainbridge Fieldhouse",
@@ -228,7 +228,7 @@
         "DAZN (YES)",
         "DAZN IND"
       ],
-      "link": "https://www.espn.com/nba/game/_/gameId/401909904/nets-pacers"
+      "link": "https://www.espn.com/nba/game?gameId=401909904"
     },
     {
       "sport": "nba",
@@ -388,7 +388,7 @@
       "away_team": "Washington Wizards",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "2-3",
+      "home_record": "2-4",
       "away_record": "3-3",
       "venue": "Kia Center",
       "broadcasts": [
@@ -512,7 +512,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "6-1",
-      "away_record": "4-1",
+      "away_record": "5-1",
       "venue": "Toyota Center (Houston)",
       "broadcasts": [
         "NBA League Pass"
