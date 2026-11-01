@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-01T15:21:03.326533Z",
+  "refreshed_at_utc": "2026-11-01T19:49:12.937720Z",
   "dates_requested": [
     "20261031",
     "20261101",
@@ -14,22 +14,22 @@
       "date_utc": "2026-11-01T18:00Z",
       "name": "Baltimore Ravens at Buffalo Bills",
       "short_name": "BAL @ BUF",
-      "status": "Scheduled",
-      "status_short": "11/1 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Buffalo Bills",
       "away_team": "Baltimore Ravens",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "16",
+      "away_score": "7",
       "home_record": "5-1",
       "away_record": "4-3",
       "venue": "Highmark Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873026/ravens-bills"
+      "link": "https://www.espn.com/nfl/game?gameId=401873026"
     },
     {
       "sport": "nfl",
@@ -37,22 +37,22 @@
       "date_utc": "2026-11-01T18:00Z",
       "name": "Tennessee Titans at Cincinnati Bengals",
       "short_name": "TEN @ CIN",
-      "status": "Scheduled",
-      "status_short": "11/1 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Cincinnati Bengals",
       "away_team": "Tennessee Titans",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "14",
+      "away_score": "13",
       "home_record": "4-2",
       "away_record": "1-6",
       "venue": "Paycor Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873031/titans-bengals"
+      "link": "https://www.espn.com/nfl/game?gameId=401873031"
     },
     {
       "sport": "nfl",
@@ -60,22 +60,22 @@
       "date_utc": "2026-11-01T18:00Z",
       "name": "Arizona Cardinals at Dallas Cowboys",
       "short_name": "ARI @ DAL",
-      "status": "Scheduled",
-      "status_short": "11/1 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "12:58 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "12:58",
       "home_team": "Dallas Cowboys",
       "away_team": "Arizona Cardinals",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "14",
+      "away_score": "3",
       "home_record": "3-4",
       "away_record": "2-5",
       "venue": "AT&T Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873024/cardinals-cowboys"
+      "link": "https://www.espn.com/nfl/game?gameId=401873024"
     },
     {
       "sport": "nfl",
@@ -83,22 +83,22 @@
       "date_utc": "2026-11-01T18:00Z",
       "name": "Minnesota Vikings at Detroit Lions",
       "short_name": "MIN @ DET",
-      "status": "Scheduled",
-      "status_short": "11/1 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Detroit Lions",
       "away_team": "Minnesota Vikings",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "6",
+      "away_score": "7",
       "home_record": "4-2",
       "away_record": "6-0",
       "venue": "Ford Field",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873030/vikings-lions"
+      "link": "https://www.espn.com/nfl/game?gameId=401873030"
     },
     {
       "sport": "nfl",
@@ -106,22 +106,22 @@
       "date_utc": "2026-11-01T18:00Z",
       "name": "Las Vegas Raiders at New York Jets",
       "short_name": "LV @ NYJ",
-      "status": "Scheduled",
-      "status_short": "11/1 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "9:59 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "9:59",
       "home_team": "New York Jets",
       "away_team": "Las Vegas Raiders",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "23",
+      "away_score": "21",
       "home_record": "2-5",
       "away_record": "3-4",
       "venue": "MetLife Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873029/raiders-jets"
+      "link": "https://www.espn.com/nfl/game?gameId=401873029"
     },
     {
       "sport": "nfl",
@@ -129,22 +129,22 @@
       "date_utc": "2026-11-01T18:00Z",
       "name": "Cleveland Browns at Pittsburgh Steelers",
       "short_name": "CLE @ PIT",
-      "status": "Scheduled",
-      "status_short": "11/1 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:55 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "14:55",
       "home_team": "Pittsburgh Steelers",
       "away_team": "Cleveland Browns",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "20",
+      "away_score": "6",
       "home_record": "5-2",
       "away_record": "5-2",
       "venue": "Acrisure Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873027/browns-steelers"
+      "link": "https://www.espn.com/nfl/game?gameId=401873027"
     },
     {
       "sport": "nfl",
@@ -152,14 +152,14 @@
       "date_utc": "2026-11-01T18:00Z",
       "name": "Atlanta Falcons at Tampa Bay Buccaneers",
       "short_name": "ATL @ TB",
-      "status": "Scheduled",
-      "status_short": "11/1 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "11:17 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "11:17",
       "home_team": "Tampa Bay Buccaneers",
       "away_team": "Atlanta Falcons",
-      "home_score": "0",
+      "home_score": "9",
       "away_score": "0",
       "home_record": "2-5",
       "away_record": "3-4",
@@ -167,7 +167,7 @@
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873025/falcons-buccaneers"
+      "link": "https://www.espn.com/nfl/game?gameId=401873025"
     },
     {
       "sport": "nfl",
@@ -175,14 +175,14 @@
       "date_utc": "2026-11-01T18:00Z",
       "name": "Indianapolis Colts at Jacksonville Jaguars",
       "short_name": "IND @ JAX",
-      "status": "Scheduled",
-      "status_short": "11/1 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:56 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "14:56",
       "home_team": "Jacksonville Jaguars",
       "away_team": "Indianapolis Colts",
-      "home_score": "0",
+      "home_score": "28",
       "away_score": "0",
       "home_record": "4-2",
       "away_record": "2-5",
@@ -190,7 +190,7 @@
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873028/colts-jaguars"
+      "link": "https://www.espn.com/nfl/game?gameId=401873028"
     },
     {
       "sport": "nfl",

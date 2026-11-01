@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-11-01T15:21:03.326533Z",
+  "refreshed_at_utc": "2026-11-01T19:49:12.937720Z",
   "dates_requested": [
     "20261031",
     "20261101",
@@ -258,14 +258,14 @@
       "date_utc": "2026-11-01T18:00Z",
       "name": "Winnipeg Jets at Carolina Hurricanes",
       "short_name": "WPG @ CAR",
-      "status": "Scheduled",
-      "status_short": "11/1 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 2nd",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Carolina Hurricanes",
       "away_team": "Winnipeg Jets",
-      "home_score": "0",
+      "home_score": "5",
       "away_score": "0",
       "home_record": "11-2-2",
       "away_record": "4-7-3",
@@ -274,7 +274,7 @@
         "NHL Net",
         "CARNHL"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892624/jets-hurricanes"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892624"
     },
     {
       "sport": "nhl",
@@ -322,7 +322,8 @@
       "broadcasts": [
         "ESPN+",
         "NBC Sports Phil",
-        "Utah 16"
+        "Utah 16",
+        "Mammoth+"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401892626/mammoth-flyers"
     },
