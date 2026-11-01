@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-11-01T01:39:47.191221Z",
+  "refreshed_at_utc": "2026-11-01T08:25:27.699637Z",
   "dates_requested": [
     "20261031",
     "20261101",
@@ -89,23 +89,23 @@
       "date_utc": "2026-11-01T00:00Z",
       "name": "Sacramento Kings at Memphis Grizzlies",
       "short_name": "SAC @ MEM",
-      "status": "In Progress",
-      "status_short": "7:48 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "7:48",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "12:00",
       "home_team": "Memphis Grizzlies",
       "away_team": "Sacramento Kings",
-      "home_score": "81",
-      "away_score": "60",
-      "home_record": "5-0",
-      "away_record": "0-5",
+      "home_score": "136",
+      "away_score": "105",
+      "home_record": "6-0",
+      "away_record": "0-6",
       "venue": "FedExForum",
       "broadcasts": [
         "NBA League Pass",
         "DAZN MEM"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401909899"
+      "link": "https://www.espn.com/nba/game/_/gameId/401909899/kings-grizzlies"
     },
     {
       "sport": "nba",
@@ -113,17 +113,17 @@
       "date_utc": "2026-11-01T00:00Z",
       "name": "Cleveland Cavaliers at Milwaukee Bucks",
       "short_name": "CLE @ MIL",
-      "status": "In Progress",
-      "status_short": "3:16 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "3:16",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "12:00",
       "home_team": "Milwaukee Bucks",
       "away_team": "Cleveland Cavaliers",
-      "home_score": "72",
-      "away_score": "97",
-      "home_record": "1-4",
-      "away_record": "3-2",
+      "home_score": "111",
+      "away_score": "136",
+      "home_record": "1-5",
+      "away_record": "4-2",
       "venue": "Fiserv Forum",
       "broadcasts": [
         "NBA League Pass",
@@ -131,7 +131,7 @@
         "MyMi",
         "Bucks App"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401909900"
+      "link": "https://www.espn.com/nba/game/_/gameId/401909900/cavaliers-bucks"
     },
     {
       "sport": "nba",
@@ -139,24 +139,24 @@
       "date_utc": "2026-11-01T00:00Z",
       "name": "Minnesota Timberwolves at San Antonio Spurs",
       "short_name": "MIN @ SA",
-      "status": "In Progress",
-      "status_short": "6:36 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "6:36",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "12:00",
       "home_team": "San Antonio Spurs",
       "away_team": "Minnesota Timberwolves",
-      "home_score": "73",
-      "away_score": "69",
-      "home_record": "3-2",
-      "away_record": "4-2",
+      "home_score": "121",
+      "away_score": "111",
+      "home_record": "4-2",
+      "away_record": "4-3",
       "venue": "Frost Bank Center",
       "broadcasts": [
         "NBA League Pass",
         "DAZN MIN",
         "DAZN SAS"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401909901"
+      "link": "https://www.espn.com/nba/game/_/gameId/401909901/timberwolves-spurs"
     },
     {
       "sport": "nba",
@@ -164,23 +164,23 @@
       "date_utc": "2026-11-01T00:30Z",
       "name": "Oklahoma City Thunder at Houston Rockets",
       "short_name": "OKC @ HOU",
-      "status": "Halftime",
-      "status_short": "Halftime",
-      "state": "in",
-      "period": 2,
-      "clock": "0.0",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "12:00",
       "home_team": "Houston Rockets",
       "away_team": "Oklahoma City Thunder",
-      "home_score": "62",
-      "away_score": "51",
-      "home_record": "5-1",
-      "away_record": "4-1",
+      "home_score": "119",
+      "away_score": "98",
+      "home_record": "6-1",
+      "away_record": "4-2",
       "venue": "Toyota Center (Houston)",
       "broadcasts": [
         "NBA TV",
         "Thunder App"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401909902"
+      "link": "https://www.espn.com/nba/game/_/gameId/401909902/thunder-rockets"
     },
     {
       "sport": "nba",
@@ -294,8 +294,8 @@
       "away_team": "Oklahoma City Thunder",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "3-2",
-      "away_record": "4-1",
+      "home_record": "4-2",
+      "away_record": "4-2",
       "venue": "Rocket Arena",
       "broadcasts": [
         "NBCSN"
@@ -436,7 +436,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "4-2",
-      "away_record": "0-5",
+      "away_record": "0-6",
       "venue": "American Airlines Center",
       "broadcasts": [
         "NBA League Pass",
@@ -460,7 +460,7 @@
       "away_team": "New Orleans Pelicans",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "5-0",
+      "home_record": "6-0",
       "away_record": "2-4",
       "venue": "FedExForum",
       "broadcasts": [
@@ -485,8 +485,8 @@
       "away_team": "Milwaukee Bucks",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "4-2",
-      "away_record": "1-4",
+      "home_record": "4-3",
+      "away_record": "1-5",
       "venue": "Target Center",
       "broadcasts": [
         "NBA League Pass",
@@ -511,7 +511,7 @@
       "away_team": "Boston Celtics",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "5-1",
+      "home_record": "6-1",
       "away_record": "4-1",
       "venue": "Toyota Center (Houston)",
       "broadcasts": [
@@ -534,7 +534,7 @@
       "away_team": "Utah Jazz",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "3-2",
+      "home_record": "4-2",
       "away_record": "1-5",
       "venue": "Frost Bank Center",
       "broadcasts": [
