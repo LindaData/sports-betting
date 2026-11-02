@@ -1,10 +1,10 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-01T23:13:51.210187Z",
+  "refreshed_at_utc": "2026-11-02T02:37:58.091211Z",
   "dates_requested": [
-    "20261031",
     "20261101",
-    "20261102"
+    "20261102",
+    "20261103"
   ],
   "event_count": 13,
   "events": [
@@ -198,22 +198,22 @@
       "date_utc": "2026-11-01T21:05Z",
       "name": "Los Angeles Chargers at Los Angeles Rams",
       "short_name": "LAC @ LAR",
-      "status": "In Progress",
-      "status_short": "3:41 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "3:41",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Los Angeles Rams",
       "away_team": "Los Angeles Chargers",
       "home_score": "24",
       "away_score": "9",
-      "home_record": "3-4",
-      "away_record": "0-6",
+      "home_record": "4-4",
+      "away_record": "0-7",
       "venue": "SoFi Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873032"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873032/chargers-rams"
     },
     {
       "sport": "nfl",
@@ -221,22 +221,22 @@
       "date_utc": "2026-11-01T21:25Z",
       "name": "Kansas City Chiefs at Denver Broncos",
       "short_name": "KC @ DEN",
-      "status": "In Progress",
-      "status_short": "15:00 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "15:00",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Denver Broncos",
       "away_team": "Kansas City Chiefs",
-      "home_score": "13",
-      "away_score": "17",
-      "home_record": "5-2",
-      "away_record": "5-1",
+      "home_score": "28",
+      "away_score": "24",
+      "home_record": "6-2",
+      "away_record": "5-2",
       "venue": "Empower Field at Mile High",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873033"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873033/chiefs-broncos"
     },
     {
       "sport": "nfl",
@@ -244,22 +244,22 @@
       "date_utc": "2026-11-01T21:25Z",
       "name": "New England Patriots at Miami Dolphins",
       "short_name": "NE @ MIA",
-      "status": "In Progress",
-      "status_short": "11:17 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "11:17",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Miami Dolphins",
       "away_team": "New England Patriots",
-      "home_score": "13",
-      "away_score": "3",
-      "home_record": "1-5",
-      "away_record": "4-3",
+      "home_score": "19",
+      "away_score": "24",
+      "home_record": "1-6",
+      "away_record": "5-3",
       "venue": "Hard Rock Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873034"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873034/patriots-dolphins"
     },
     {
       "sport": "nfl",
@@ -267,22 +267,22 @@
       "date_utc": "2026-11-02T01:20Z",
       "name": "Philadelphia Eagles at Washington Commanders",
       "short_name": "PHI @ WSH",
-      "status": "Scheduled",
-      "status_short": "11/1 - 8:20 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "2:31 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "2:31",
       "home_team": "Washington Commanders",
       "away_team": "Philadelphia Eagles",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "10",
+      "away_score": "10",
       "home_record": "1-4-1",
       "away_record": "2-5",
       "venue": "Northwest Stadium",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873035/eagles-commanders"
+      "link": "https://www.espn.com/nfl/game?gameId=401873035"
     },
     {
       "sport": "nfl",
