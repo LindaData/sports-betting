@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-02T02:37:58.091211Z",
+  "refreshed_at_utc": "2026-11-02T10:17:49.134408Z",
   "dates_requested": [
     "20261101",
     "20261102",
@@ -267,22 +267,22 @@
       "date_utc": "2026-11-02T01:20Z",
       "name": "Philadelphia Eagles at Washington Commanders",
       "short_name": "PHI @ WSH",
-      "status": "In Progress",
-      "status_short": "2:31 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "2:31",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Washington Commanders",
       "away_team": "Philadelphia Eagles",
-      "home_score": "10",
+      "home_score": "27",
       "away_score": "10",
-      "home_record": "1-4-1",
-      "away_record": "2-5",
+      "home_record": "2-4-1",
+      "away_record": "2-6",
       "venue": "Northwest Stadium",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873035"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873035/eagles-commanders"
     },
     {
       "sport": "nfl",
