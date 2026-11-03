@@ -1,12 +1,12 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-02T20:25:52.289293Z",
+  "refreshed_at_utc": "2026-11-03T02:29:48.076287Z",
   "dates_requested": [
-    "20261101",
     "20261102",
-    "20261103"
+    "20261103",
+    "20261104"
   ],
-  "event_count": 2,
+  "event_count": 5,
   "events": [
     {
       "sport": "cfb",
@@ -53,6 +53,75 @@
         "ESPN"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401866454/buffalo-miami-oh"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401866455",
+      "date_utc": "2026-11-05T00:00Z",
+      "name": "Ball State Cardinals at Massachusetts Minutemen",
+      "short_name": "BALL @ MASS",
+      "status": "Scheduled",
+      "status_short": "11/4 - 7:00 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Massachusetts Minutemen",
+      "away_team": "Ball State Cardinals",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "4-4",
+      "away_record": "3-5",
+      "venue": "Warren McGuirk Alumni Stadium",
+      "broadcasts": [
+        "ESPNU"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866455/ball-state-umass"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401866457",
+      "date_utc": "2026-11-05T00:00Z",
+      "name": "Toledo Rockets at Sacramento State Hornets",
+      "short_name": "TOL @ SAC",
+      "status": "Scheduled",
+      "status_short": "11/4 - 7:00 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Sacramento State Hornets",
+      "away_team": "Toledo Rockets",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-7",
+      "away_record": "6-2",
+      "venue": "Hornet Stadium",
+      "broadcasts": [
+        "CBSSN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866457/toledo-sacramento-st"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401866456",
+      "date_utc": "2026-11-05T00:30Z",
+      "name": "Central Michigan Chippewas at Eastern Michigan Eagles",
+      "short_name": "CMU VS EMU",
+      "status": "Scheduled",
+      "status_short": "11/4 - 7:30 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Eastern Michigan Eagles",
+      "away_team": "Central Michigan Chippewas",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "4-5",
+      "away_record": "3-5",
+      "venue": "Ford Field",
+      "broadcasts": [
+        "ESPN2"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866456/c-michigan-e-michigan"
     }
   ],
   "errors": []
