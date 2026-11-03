@@ -1,6 +1,6 @@
 {
   "league": "NFL",
-  "refreshed_at_utc": "2026-11-02T19:43:37.673535Z",
+  "refreshed_at_utc": "2026-11-03T17:17:00.079183Z",
   "sport": "nfl",
   "standings": [
     {
@@ -223,24 +223,24 @@
       "form": "W3",
       "group": "National Football Conference",
       "losses": 2,
-      "percentage": 0.71428573,
-      "played": 7,
+      "percentage": 0.75,
+      "played": 8,
       "position": 3,
       "sport": "nfl",
-      "team": "Detroit Lions",
-      "team_id": "8",
-      "wins": 5
+      "team": "Chicago Bears",
+      "team_id": "3",
+      "wins": 6
     },
     {
-      "form": "W2",
+      "form": "W3",
       "group": "National Football Conference",
       "losses": 2,
       "percentage": 0.71428573,
       "played": 7,
       "position": 4,
       "sport": "nfl",
-      "team": "Chicago Bears",
-      "team_id": "3",
+      "team": "Detroit Lions",
+      "team_id": "8",
       "wins": 5
     },
     {
@@ -268,11 +268,11 @@
       "wins": 4
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "National Football Conference",
-      "losses": 3,
-      "percentage": 0.5714286,
-      "played": 7,
+      "losses": 4,
+      "percentage": 0.5,
+      "played": 8,
       "position": 7,
       "sport": "nfl",
       "team": "Seattle Seahawks",
