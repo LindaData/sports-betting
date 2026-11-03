@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-11-03T17:25:49.512704Z",
+  "refreshed_at_utc": "2026-11-03T22:25:00.875638Z",
   "dates_requested": [
     "20261102",
     "20261103",
@@ -127,7 +127,8 @@
       "venue": "Scotiabank Arena",
       "broadcasts": [
         "ESPN+",
-        "Utah 16"
+        "Utah 16",
+        "Mammoth+"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401892633/mammoth-maple-leafs"
     },
