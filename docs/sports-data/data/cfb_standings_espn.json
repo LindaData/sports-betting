@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-11-03T17:17:00.079183Z",
+  "refreshed_at_utc": "2026-11-04T17:27:18.897165Z",
   "sport": "cfb",
   "standings": [
     {
@@ -928,7 +928,7 @@
       "wins": 4
     },
     {
-      "form": "W5",
+      "form": "W6",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 1.0,
@@ -937,7 +937,7 @@
       "sport": "cfb",
       "team": "Ohio Bobcats",
       "team_id": "195",
-      "wins": 6
+      "wins": 7
     },
     {
       "form": "W2",
@@ -964,22 +964,22 @@
       "wins": 6
     },
     {
-      "form": "W3",
+      "form": "W4",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.75,
+      "percentage": 0.8,
       "played": null,
       "position": 4,
       "sport": "cfb",
       "team": "Buffalo Bulls",
       "team_id": "2084",
-      "wins": 5
+      "wins": 6
     },
     {
-      "form": "W3",
+      "form": "L1",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.75,
+      "percentage": 0.6,
       "played": null,
       "position": 5,
       "sport": "cfb",
@@ -1072,7 +1072,7 @@
       "wins": 2
     },
     {
-      "form": "L6",
+      "form": "L7",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 0.0,
