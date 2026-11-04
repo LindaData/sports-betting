@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-04T02:29:51.163808Z",
+  "refreshed_at_utc": "2026-11-04T17:38:57.104710Z",
   "dates_requested": [
     "20261103",
     "20261104",
@@ -14,22 +14,22 @@
       "date_utc": "2026-11-04T00:00Z",
       "name": "Ohio Bobcats at Akron Zips",
       "short_name": "OHIO @ AKR",
-      "status": "In Progress",
-      "status_short": "1:43 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "1:43",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Akron Zips",
       "away_team": "Ohio Bobcats",
-      "home_score": "9",
-      "away_score": "14",
-      "home_record": "1-7",
-      "away_record": "6-2",
+      "home_score": "20",
+      "away_score": "28",
+      "home_record": "1-8",
+      "away_record": "7-2",
       "venue": "InfoCision Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401866453"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866453/ohio-akron"
     },
     {
       "sport": "cfb",
@@ -37,22 +37,22 @@
       "date_utc": "2026-11-04T01:00Z",
       "name": "Buffalo Bulls at Miami (OH) RedHawks",
       "short_name": "BUFF @ M-OH",
-      "status": "In Progress",
-      "status_short": "0:48 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "0:48",
+      "status": "Final",
+      "status_short": "Final/OT",
+      "state": "post",
+      "period": 5,
+      "clock": "0:00",
       "home_team": "Miami (OH) RedHawks",
       "away_team": "Buffalo Bulls",
-      "home_score": "14",
-      "away_score": "10",
-      "home_record": "5-3",
-      "away_record": "5-3",
+      "home_score": "31",
+      "away_score": "34",
+      "home_record": "5-4",
+      "away_record": "6-3",
       "venue": "Yager Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401866454"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866454/buffalo-miami-oh"
     },
     {
       "sport": "cfb",
