@@ -1,81 +1,35 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-04T22:59:27.642738Z",
+  "refreshed_at_utc": "2026-11-05T03:17:22.989562Z",
   "dates_requested": [
-    "20261103",
     "20261104",
-    "20261105"
+    "20261105",
+    "20261106"
   ],
-  "event_count": 7,
+  "event_count": 10,
   "events": [
-    {
-      "sport": "cfb",
-      "event_id": "401866453",
-      "date_utc": "2026-11-04T00:00Z",
-      "name": "Ohio Bobcats at Akron Zips",
-      "short_name": "OHIO @ AKR",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Akron Zips",
-      "away_team": "Ohio Bobcats",
-      "home_score": "20",
-      "away_score": "28",
-      "home_record": "1-8",
-      "away_record": "7-2",
-      "venue": "InfoCision Stadium",
-      "broadcasts": [
-        "ESPN2"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866453/ohio-akron"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401866454",
-      "date_utc": "2026-11-04T01:00Z",
-      "name": "Buffalo Bulls at Miami (OH) RedHawks",
-      "short_name": "BUFF @ M-OH",
-      "status": "Final",
-      "status_short": "Final/OT",
-      "state": "post",
-      "period": 5,
-      "clock": "0:00",
-      "home_team": "Miami (OH) RedHawks",
-      "away_team": "Buffalo Bulls",
-      "home_score": "31",
-      "away_score": "34",
-      "home_record": "5-4",
-      "away_record": "6-3",
-      "venue": "Yager Stadium",
-      "broadcasts": [
-        "ESPN"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866454/buffalo-miami-oh"
-    },
     {
       "sport": "cfb",
       "event_id": "401866455",
       "date_utc": "2026-11-05T00:00Z",
       "name": "Ball State Cardinals at Massachusetts Minutemen",
       "short_name": "BALL @ MASS",
-      "status": "Scheduled",
-      "status_short": "11/4 - 7:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "In Progress",
+      "status_short": "End of 4th",
+      "state": "in",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Massachusetts Minutemen",
       "away_team": "Ball State Cardinals",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "24",
+      "away_score": "24",
       "home_record": "4-4",
       "away_record": "3-5",
       "venue": "Warren McGuirk Alumni Stadium",
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866455/ball-state-umass"
+      "link": "https://www.espn.com/college-football/game?gameId=401866455"
     },
     {
       "sport": "cfb",
@@ -83,22 +37,22 @@
       "date_utc": "2026-11-05T00:00Z",
       "name": "Toledo Rockets at Sacramento State Hornets",
       "short_name": "TOL @ SAC",
-      "status": "Scheduled",
-      "status_short": "11/4 - 7:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:18 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "0:18",
       "home_team": "Sacramento State Hornets",
       "away_team": "Toledo Rockets",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "17",
+      "away_score": "20",
       "home_record": "2-7",
       "away_record": "6-2",
       "venue": "Hornet Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866457/toledo-sacramento-st"
+      "link": "https://www.espn.com/college-football/game?gameId=401866457"
     },
     {
       "sport": "cfb",
@@ -106,22 +60,22 @@
       "date_utc": "2026-11-05T00:30Z",
       "name": "Central Michigan Chippewas at Eastern Michigan Eagles",
       "short_name": "CMU VS EMU",
-      "status": "Scheduled",
-      "status_short": "11/4 - 7:30 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "11:07 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "11:07",
       "home_team": "Eastern Michigan Eagles",
       "away_team": "Central Michigan Chippewas",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "35",
       "home_record": "4-5",
       "away_record": "3-5",
       "venue": "Ford Field",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866456/c-michigan-e-michigan"
+      "link": "https://www.espn.com/college-football/game?gameId=401866456"
     },
     {
       "sport": "cfb",
@@ -168,6 +122,121 @@
         "ESPN2"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401869964/james-madison-southern-miss"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858288",
+      "date_utc": "2026-11-07T00:00Z",
+      "name": "Virginia Tech Hokies at SMU Mustangs",
+      "short_name": "VT @ SMU",
+      "status": "Scheduled",
+      "status_short": "11/6 - 7:00 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "SMU Mustangs",
+      "away_team": "Virginia Tech Hokies",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "6-2",
+      "away_record": "6-2",
+      "venue": "Gerald J. Ford Stadium",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858288/virginia-tech-smu"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401862818",
+      "date_utc": "2026-11-07T00:30Z",
+      "name": "South Florida Bulls at East Carolina Pirates",
+      "short_name": "USF @ ECU",
+      "status": "Scheduled",
+      "status_short": "11/6 - 7:30 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "East Carolina Pirates",
+      "away_team": "South Florida Bulls",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "4-4",
+      "away_record": "6-2",
+      "venue": "Dowdy-Ficklen Stadium",
+      "broadcasts": [
+        "ESPN2"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862818/south-florida-east-carolina"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858510",
+      "date_utc": "2026-11-07T01:00Z",
+      "name": "Nebraska Cornhuskers at Illinois Fighting Illini",
+      "short_name": "NEB @ ILL",
+      "status": "Scheduled",
+      "status_short": "11/6 - 8:00 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Illinois Fighting Illini",
+      "away_team": "Nebraska Cornhuskers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "5-3",
+      "away_record": "5-3",
+      "venue": "Gies Memorial Stadium",
+      "broadcasts": [
+        "Fox"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858510/nebraska-illinois"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401864533",
+      "date_utc": "2026-11-07T02:00Z",
+      "name": "New Mexico Lobos at Nevada Wolf Pack",
+      "short_name": "UNM @ NEV",
+      "status": "Scheduled",
+      "status_short": "11/6 - 9:00 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Nevada Wolf Pack",
+      "away_team": "New Mexico Lobos",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "3-5",
+      "away_record": "7-1",
+      "venue": "Mackay Stadium",
+      "broadcasts": [
+        "CBSSN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401864533/new-mexico-nevada"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401856855",
+      "date_utc": "2026-11-07T03:15Z",
+      "name": "TCU Horned Frogs at Arizona Wildcats",
+      "short_name": "TCU @ ARIZ",
+      "status": "Scheduled",
+      "status_short": "11/6 - 10:15 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Arizona Wildcats",
+      "away_team": "TCU Horned Frogs",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "6-2",
+      "away_record": "4-4",
+      "venue": "Casino Del Sol Stadium",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856855/tcu-arizona"
     }
   ],
   "errors": []
