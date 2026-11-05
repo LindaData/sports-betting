@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-11-04T17:27:18.897165Z",
+  "refreshed_at_utc": "2026-11-05T17:36:01.516843Z",
   "sport": "cfb",
   "standings": [
     {
@@ -940,16 +940,16 @@
       "wins": 7
     },
     {
-      "form": "W2",
+      "form": "W3",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.75,
+      "percentage": 0.8,
       "played": null,
       "position": 2,
       "sport": "cfb",
       "team": "Toledo Rockets",
       "team_id": "2649",
-      "wins": 6
+      "wins": 7
     },
     {
       "form": "W1",
@@ -988,51 +988,51 @@
       "wins": 5
     },
     {
-      "form": "L4",
+      "form": "W1",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.25,
+      "percentage": 0.4,
       "played": null,
       "position": 6,
       "sport": "cfb",
       "team": "Massachusetts Minutemen",
       "team_id": "113",
-      "wins": 4
+      "wins": 5
     },
     {
-      "form": "L2",
+      "form": "W1",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.6,
+      "percentage": 0.4,
       "played": null,
       "position": 7,
       "sport": "cfb",
-      "team": "Eastern Michigan Eagles",
-      "team_id": "2199",
+      "team": "Central Michigan Chippewas",
+      "team_id": "2117",
       "wins": 4
     },
     {
-      "form": "W2",
+      "form": "L3",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 0.5,
       "played": null,
       "position": 8,
       "sport": "cfb",
-      "team": "Ball State Cardinals",
-      "team_id": "2050",
-      "wins": 3
+      "team": "Eastern Michigan Eagles",
+      "team_id": "2199",
+      "wins": 4
     },
     {
-      "form": "L3",
+      "form": "L1",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.25,
+      "percentage": 0.4,
       "played": null,
       "position": 9,
       "sport": "cfb",
-      "team": "Central Michigan Chippewas",
-      "team_id": "2117",
+      "team": "Kent State Golden Flashes",
+      "team_id": "2309",
       "wins": 3
     },
     {
@@ -1043,8 +1043,8 @@
       "played": null,
       "position": 10,
       "sport": "cfb",
-      "team": "Kent State Golden Flashes",
-      "team_id": "2309",
+      "team": "Ball State Cardinals",
+      "team_id": "2050",
       "wins": 3
     },
     {
@@ -1060,10 +1060,10 @@
       "wins": 2
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.16666667,
+      "percentage": 0.14285715,
       "played": null,
       "position": 12,
       "sport": "cfb",

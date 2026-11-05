@@ -1,6 +1,6 @@
 {
   "league": "NHL",
-  "refreshed_at_utc": "2026-11-04T17:27:18.897165Z",
+  "refreshed_at_utc": "2026-11-05T17:36:01.516843Z",
   "sport": "nhl",
   "standings": [
     {
@@ -42,10 +42,22 @@
     {
       "form": "W1",
       "group": "Eastern Conference",
+      "losses": 6,
+      "percentage": 0.5882352941176471,
+      "played": 17,
+      "position": 4,
+      "sport": "nhl",
+      "team": "Ottawa Senators",
+      "team_id": "14",
+      "wins": 10
+    },
+    {
+      "form": "W1",
+      "group": "Eastern Conference",
       "losses": 3,
       "percentage": 0.6428571428571429,
       "played": 14,
-      "position": 4,
+      "position": 5,
       "sport": "nhl",
       "team": "Tampa Bay Lightning",
       "team_id": "20",
@@ -57,35 +69,23 @@
       "losses": 5,
       "percentage": 0.6666666666666666,
       "played": 15,
-      "position": 5,
+      "position": 6,
       "sport": "nhl",
       "team": "New Jersey Devils",
       "team_id": "11",
       "wins": 10
     },
     {
-      "form": "L1",
-      "group": "Eastern Conference",
-      "losses": 6,
-      "percentage": 0.5625,
-      "played": 16,
-      "position": 6,
-      "sport": "nhl",
-      "team": "Ottawa Senators",
-      "team_id": "14",
-      "wins": 9
-    },
-    {
-      "form": "L1",
+      "form": "W1",
       "group": "Eastern Conference",
       "losses": 5,
-      "percentage": 0.5333333333333333,
-      "played": 15,
+      "percentage": 0.5625,
+      "played": 16,
       "position": 7,
       "sport": "nhl",
       "team": "Florida Panthers",
       "team_id": "26",
-      "wins": 8
+      "wins": 9
     },
     {
       "form": "L1",
@@ -100,11 +100,11 @@
       "wins": 8
     },
     {
-      "form": "W3",
+      "form": "L1",
       "group": "Eastern Conference",
-      "losses": 4,
-      "percentage": 0.5,
-      "played": 14,
+      "losses": 5,
+      "percentage": 0.4666666666666667,
+      "played": 15,
       "position": 9,
       "sport": "nhl",
       "team": "Buffalo Sabres",
@@ -256,28 +256,28 @@
       "wins": 9
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "Western Conference",
-      "losses": 6,
-      "percentage": 0.5625,
-      "played": 16,
+      "losses": 5,
+      "percentage": 0.6,
+      "played": 15,
       "position": 6,
       "sport": "nhl",
-      "team": "Colorado Avalanche",
-      "team_id": "17",
+      "team": "Seattle Kraken",
+      "team_id": "124292",
       "wins": 9
     },
     {
       "form": "L1",
       "group": "Western Conference",
-      "losses": 5,
-      "percentage": 0.5714285714285714,
-      "played": 14,
+      "losses": 6,
+      "percentage": 0.5625,
+      "played": 16,
       "position": 7,
       "sport": "nhl",
-      "team": "Seattle Kraken",
-      "team_id": "124292",
-      "wins": 8
+      "team": "Colorado Avalanche",
+      "team_id": "17",
+      "wins": 9
     },
     {
       "form": "W2",
@@ -316,27 +316,27 @@
       "wins": 7
     },
     {
-      "form": "L2",
+      "form": "L1",
       "group": "Western Conference",
       "losses": 8,
       "percentage": 0.4375,
       "played": 16,
       "position": 11,
       "sport": "nhl",
-      "team": "San Jose Sharks",
-      "team_id": "18",
+      "team": "Calgary Flames",
+      "team_id": "3",
       "wins": 7
     },
     {
-      "form": "W1",
+      "form": "L3",
       "group": "Western Conference",
-      "losses": 8,
-      "percentage": 0.4666666666666667,
-      "played": 15,
+      "losses": 9,
+      "percentage": 0.4117647058823529,
+      "played": 17,
       "position": 12,
       "sport": "nhl",
-      "team": "Calgary Flames",
-      "team_id": "3",
+      "team": "San Jose Sharks",
+      "team_id": "18",
       "wins": 7
     },
     {
@@ -352,23 +352,23 @@
       "wins": 5
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "Western Conference",
       "losses": 7,
-      "percentage": 0.3076923076923077,
-      "played": 13,
+      "percentage": 0.35714285714285715,
+      "played": 14,
       "position": 14,
       "sport": "nhl",
       "team": "Los Angeles Kings",
       "team_id": "8",
-      "wins": 4
+      "wins": 5
     },
     {
-      "form": "L3",
+      "form": "L4",
       "group": "Western Conference",
-      "losses": 10,
-      "percentage": 0.26666666666666666,
-      "played": 15,
+      "losses": 11,
+      "percentage": 0.25,
+      "played": 16,
       "position": 15,
       "sport": "nhl",
       "team": "Chicago Blackhawks",
