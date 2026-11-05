@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-11-05T18:52:06.934203Z",
+  "refreshed_at_utc": "2026-11-05T23:52:51.053949Z",
   "dates_requested": [
     "20261104",
     "20261105",
@@ -125,7 +125,8 @@
       "venue": "Bell Centre",
       "broadcasts": [
         "ESPN+",
-        "Utah 16"
+        "Utah 16",
+        "Mammoth+"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401892648/mammoth-canadiens"
     },
@@ -201,7 +202,8 @@
         "ESPN+",
         "MSGSN",
         "Blues App",
-        "BN+"
+        "BN+",
+        "ABC32"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401892651/blues-devils"
     },
@@ -300,6 +302,7 @@
       "broadcasts": [
         "ESPN+",
         "CBJNHL",
+        "WWHO",
         "Prime Video (Local)"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401892655/stars-blue-jackets"
