@@ -1,30 +1,30 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-11-05T17:36:01.516843Z",
+  "refreshed_at_utc": "2026-11-06T16:54:13.410594Z",
   "sport": "cfb",
   "standings": [
-    {
-      "form": "W5",
-      "group": "American Conference",
-      "losses": null,
-      "percentage": 1.0,
-      "played": null,
-      "position": 1,
-      "sport": "cfb",
-      "team": "UTSA Roadrunners",
-      "team_id": "2636",
-      "wins": 7
-    },
     {
       "form": "W2",
       "group": "American Conference",
       "losses": null,
       "percentage": 0.8,
       "played": null,
-      "position": 2,
+      "position": 1,
       "sport": "cfb",
       "team": "Memphis Tigers",
       "team_id": "235",
+      "wins": 7
+    },
+    {
+      "form": "L1",
+      "group": "American Conference",
+      "losses": null,
+      "percentage": 0.8,
+      "played": null,
+      "position": 2,
+      "sport": "cfb",
+      "team": "UTSA Roadrunners",
+      "team_id": "2636",
       "wins": 7
     },
     {
@@ -52,27 +52,27 @@
       "wins": 6
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "American Conference",
       "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.6,
       "played": null,
       "position": 5,
       "sport": "cfb",
-      "team": "Army Black Knights",
-      "team_id": "349",
-      "wins": 5
+      "team": "Florida Atlantic Owls",
+      "team_id": "2226",
+      "wins": 6
     },
     {
       "form": "L1",
       "group": "American Conference",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.6666667,
       "played": null,
       "position": 6,
       "sport": "cfb",
-      "team": "Florida Atlantic Owls",
-      "team_id": "2226",
+      "team": "Army Black Knights",
+      "team_id": "349",
       "wins": 5
     },
     {
@@ -1492,16 +1492,16 @@
       "wins": 3
     },
     {
-      "form": "L2",
+      "form": "W1",
       "group": "Sun Belt Conference - Sun Belt - East",
       "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.71428573,
       "played": null,
       "position": 1,
       "sport": "cfb",
       "team": "James Madison Dukes",
       "team_id": "256",
-      "wins": 7
+      "wins": 8
     },
     {
       "form": "L1",
@@ -1636,10 +1636,10 @@
       "wins": 4
     },
     {
-      "form": "W2",
+      "form": "L1",
       "group": "Sun Belt Conference - Sun Belt - West",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.4,
       "played": null,
       "position": 6,
       "sport": "cfb",

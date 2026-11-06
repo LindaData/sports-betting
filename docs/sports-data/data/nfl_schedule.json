@@ -1,26 +1,8 @@
 {
-  "dates_requested": "20261029-20261119",
+  "dates_requested": "20261030-20261120",
   "errors": [],
-  "event_count": 44,
+  "event_count": 43,
   "events": [
-    {
-      "away_score": 19,
-      "away_team": "Carolina Panthers",
-      "away_team_id": "29",
-      "city": "Green Bay",
-      "date_utc": "2026-10-30T00:15Z",
-      "game_id": "401873023",
-      "home_score": 27,
-      "home_team": "Green Bay Packers",
-      "home_team_id": "9",
-      "league": "National Football League",
-      "league_id": "nfl",
-      "season": "2026",
-      "sport": "nfl",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Lambeau Field"
-    },
     {
       "away_score": 10,
       "away_team": "Baltimore Ravens",
@@ -256,21 +238,21 @@
       "venue": "Lumen Field"
     },
     {
-      "away_score": null,
+      "away_score": 33,
       "away_team": "Jacksonville Jaguars",
       "away_team_id": "30",
       "city": "Baltimore",
       "date_utc": "2026-11-06T01:15Z",
       "game_id": "401873037",
-      "home_score": null,
+      "home_score": 10,
       "home_team": "Baltimore Ravens",
       "home_team_id": "33",
       "league": "National Football League",
       "league_id": "nfl",
       "season": "2026",
       "sport": "nfl",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "M&T Bank Stadium"
     },
     {
@@ -798,8 +780,8 @@
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261029-20261119&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261030-20261120&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-11-05T17:36:01.516843Z",
+  "refreshed_at_utc": "2026-11-06T16:54:13.410594Z",
   "sport": "nfl"
 }
