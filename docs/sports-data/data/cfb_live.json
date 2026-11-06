@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-06T12:18:32.350611Z",
+  "refreshed_at_utc": "2026-11-06T19:35:26.344500Z",
   "dates_requested": [
     "20261105",
     "20261106",
@@ -211,7 +211,8 @@
       "away_record": "6-2",
       "venue": "Memorial Stadium",
       "broadcasts": [
-        "ESPN"
+        "ESPN",
+        "Disney+"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401856743/texas-missouri"
     },
@@ -579,7 +580,8 @@
       "away_record": "6-2",
       "venue": "Tiger Stadium (LA)",
       "broadcasts": [
-        "ABC"
+        "ABC",
+        "Disney+"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401856740/alabama-lsu"
     },
