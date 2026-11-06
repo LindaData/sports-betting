@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-06T04:14:46.924921Z",
+  "refreshed_at_utc": "2026-11-06T12:18:32.350611Z",
   "dates_requested": [
     "20261105",
     "20261106",
@@ -14,22 +14,22 @@
       "date_utc": "2026-11-06T00:30Z",
       "name": "UTSA Roadrunners at Florida Atlantic Owls",
       "short_name": "UTSA @ FAU",
-      "status": "In Progress",
-      "status_short": "7:28 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "7:28",
+      "clock": "0:00",
       "home_team": "Florida Atlantic Owls",
       "away_team": "UTSA Roadrunners",
-      "home_score": "57",
+      "home_score": "60",
       "away_score": "29",
-      "home_record": "5-3",
-      "away_record": "7-1",
+      "home_record": "6-3",
+      "away_record": "7-2",
       "venue": "Flagler Credit Union Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401862817"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862817/utsa-fau"
     },
     {
       "sport": "cfb",
@@ -37,22 +37,22 @@
       "date_utc": "2026-11-06T01:00Z",
       "name": "James Madison Dukes at Southern Miss Golden Eagles",
       "short_name": "JMU @ USM",
-      "status": "In Progress",
-      "status_short": "11:33 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "11:33",
+      "clock": "0:00",
       "home_team": "Southern Miss Golden Eagles",
       "away_team": "James Madison Dukes",
-      "home_score": "14",
-      "away_score": "44",
-      "home_record": "3-5",
-      "away_record": "7-2",
+      "home_score": "23",
+      "away_score": "54",
+      "home_record": "3-6",
+      "away_record": "8-2",
       "venue": "M. M. Roberts Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401869964"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401869964/james-madison-southern-miss"
     },
     {
       "sport": "cfb",

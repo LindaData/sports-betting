@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-11-06T04:14:46.924921Z",
+  "refreshed_at_utc": "2026-11-06T12:18:32.350611Z",
   "dates_requested": [
     "20261105",
     "20261106",
@@ -14,23 +14,23 @@
       "date_utc": "2026-11-06T02:00Z",
       "name": "Orlando Magic at Phoenix Suns",
       "short_name": "ORL @ PHX",
-      "status": "In Progress",
-      "status_short": "4:38 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "4:38",
+      "clock": "12:00",
       "home_team": "Phoenix Suns",
       "away_team": "Orlando Magic",
-      "home_score": "113",
-      "away_score": "94",
-      "home_record": "1-5",
-      "away_record": "2-5",
+      "home_score": "117",
+      "away_score": "104",
+      "home_record": "2-5",
+      "away_record": "2-6",
       "venue": "Mortgage Matchup Center",
       "broadcasts": [
         "Suns Live",
         "Arizona's Family 3TV"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401909936"
+      "link": "https://www.espn.com/nba/game/_/gameId/401909936/magic-suns"
     },
     {
       "sport": "nba",
@@ -38,22 +38,22 @@
       "date_utc": "2026-11-06T03:00Z",
       "name": "Miami Heat at Golden State Warriors",
       "short_name": "MIA @ GS",
-      "status": "Halftime",
-      "status_short": "Halftime",
-      "state": "in",
-      "period": 2,
-      "clock": "0.0",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "12:00",
       "home_team": "Golden State Warriors",
       "away_team": "Miami Heat",
-      "home_score": "53",
-      "away_score": "53",
-      "home_record": "5-3",
-      "away_record": "3-5",
+      "home_score": "120",
+      "away_score": "100",
+      "home_record": "6-3",
+      "away_record": "3-6",
       "venue": "Chase Center",
       "broadcasts": [
         "NBA TV"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401909937"
+      "link": "https://www.espn.com/nba/game/_/gameId/401909937/heat-warriors"
     },
     {
       "sport": "nba",
@@ -380,8 +380,8 @@
       "away_team": "Orlando Magic",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "5-3",
-      "away_record": "2-5",
+      "home_record": "6-3",
+      "away_record": "2-6",
       "venue": "Chase Center",
       "broadcasts": [],
       "link": "https://www.espn.com/nba/game/_/gameId/401909942/magic-warriors"
@@ -401,7 +401,7 @@
       "away_team": "Houston Rockets",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "1-5",
+      "home_record": "2-5",
       "away_record": "7-2",
       "venue": "Mortgage Matchup Center",
       "broadcasts": [

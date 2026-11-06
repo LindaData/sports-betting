@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-11-06T04:14:46.924921Z",
+  "refreshed_at_utc": "2026-11-06T12:18:32.350611Z",
   "dates_requested": [
     "20261105",
     "20261106",
@@ -263,24 +263,24 @@
       "date_utc": "2026-11-06T02:30Z",
       "name": "Nashville Predators at Colorado Avalanche",
       "short_name": "NSH @ COL",
-      "status": "End of Period",
-      "status_short": "End of 2nd",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final/OT",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Colorado Avalanche",
       "away_team": "Nashville Predators",
       "home_score": "2",
-      "away_score": "2",
-      "home_record": "9-6-1",
-      "away_record": "6-4-5",
+      "away_score": "3",
+      "home_record": "9-6-2",
+      "away_record": "7-4-5",
       "venue": "Ball Arena",
       "broadcasts": [
         "Disney+",
         "ESPN+",
         "Hulu"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892658"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892658/predators-avalanche"
     },
     {
       "sport": "nhl",
@@ -397,7 +397,7 @@
       "away_team": "St. Louis Blues",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "6-4-5",
+      "home_record": "7-4-5",
       "away_record": "7-7-2",
       "venue": "Bridgestone Arena",
       "broadcasts": [
@@ -598,7 +598,7 @@
       "away_team": "Detroit Red Wings",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "9-6-1",
+      "home_record": "9-6-2",
       "away_record": "7-7-3",
       "venue": "Ball Arena",
       "broadcasts": [
