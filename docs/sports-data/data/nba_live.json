@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-11-07T03:46:05.461025Z",
+  "refreshed_at_utc": "2026-11-07T10:47:16.792547Z",
   "dates_requested": [
     "20261106",
     "20261107",
@@ -180,24 +180,24 @@
       "date_utc": "2026-11-07T03:00Z",
       "name": "Portland Trail Blazers at Los Angeles Lakers",
       "short_name": "POR @ LAL",
-      "status": "End of Period",
-      "status_short": "End of 1st",
-      "state": "in",
-      "period": 1,
-      "clock": "0.0",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "12:00",
       "home_team": "Los Angeles Lakers",
       "away_team": "Portland Trail Blazers",
-      "home_score": "20",
-      "away_score": "29",
-      "home_record": "7-2",
-      "away_record": "6-1",
+      "home_score": "124",
+      "away_score": "118",
+      "home_record": "8-2",
+      "away_record": "6-2",
       "venue": "crypto.com Arena",
       "broadcasts": [
         "Prime Video",
         "Spectrum Sports Net",
         "Spectrum Sports Net +"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401909294"
+      "link": "https://www.espn.com/nba/game/_/gameId/401909294/trail-blazers-lakers"
     },
     {
       "sport": "nba",
@@ -205,22 +205,22 @@
       "date_utc": "2026-11-07T03:00Z",
       "name": "San Antonio Spurs at Sacramento Kings",
       "short_name": "SA @ SAC",
-      "status": "In Progress",
-      "status_short": "2:28 - 1st",
-      "state": "in",
-      "period": 1,
-      "clock": "2:28",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0.0",
       "home_team": "Sacramento Kings",
       "away_team": "San Antonio Spurs",
-      "home_score": "26",
-      "away_score": "30",
-      "home_record": "1-7",
-      "away_record": "6-2",
+      "home_score": "109",
+      "away_score": "124",
+      "home_record": "1-8",
+      "away_record": "7-2",
       "venue": "Golden 1 Center",
       "broadcasts": [
         "DAZN SAS"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401909295"
+      "link": "https://www.espn.com/nba/game/_/gameId/401909295/spurs-kings"
     },
     {
       "sport": "nba",
@@ -378,8 +378,8 @@
       "away_team": "San Antonio Spurs",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "6-1",
-      "away_record": "6-2",
+      "home_record": "6-2",
+      "away_record": "7-2",
       "venue": "Moda Center",
       "broadcasts": [
         "KUNP 16",
@@ -425,7 +425,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "6-2",
-      "away_record": "7-2",
+      "away_record": "8-2",
       "venue": "Little Caesars Arena",
       "broadcasts": [
         "NBA TV",
@@ -449,7 +449,7 @@
       "away_team": "Utah Jazz",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "6-3",
+      "home_record": "7-3",
       "away_record": "1-8",
       "venue": "Target Center",
       "broadcasts": [
@@ -524,7 +524,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "1-7",
-      "away_record": "4-4",
+      "away_record": "4-5",
       "venue": "Intuit Dome",
       "broadcasts": [
         "ClipperVision",
@@ -548,7 +548,7 @@
       "away_team": "Miami Heat",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "1-7",
+      "home_record": "1-8",
       "away_record": "3-6",
       "venue": "Golden 1 Center",
       "broadcasts": [],
