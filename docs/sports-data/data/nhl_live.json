@@ -1,88 +1,13 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-11-07T20:36:28.842935Z",
+  "refreshed_at_utc": "2026-11-08T00:04:15.162488Z",
   "dates_requested": [
-    "20261106",
     "20261107",
-    "20261108"
+    "20261108",
+    "20261109"
   ],
   "event_count": 21,
   "events": [
-    {
-      "sport": "nhl",
-      "event_id": "401892659",
-      "date_utc": "2026-11-07T00:00Z",
-      "name": "Columbus Blue Jackets at Buffalo Sabres",
-      "short_name": "CBJ @ BUF",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 3,
-      "clock": "0:00",
-      "home_team": "Buffalo Sabres",
-      "away_team": "Columbus Blue Jackets",
-      "home_score": "5",
-      "away_score": "2",
-      "home_record": "8-5-3",
-      "away_record": "7-8-0",
-      "venue": "KeyBank Center",
-      "broadcasts": [
-        "ESPN+",
-        "MSGB",
-        "CBJNHL"
-      ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892659/blue-jackets-sabres"
-    },
-    {
-      "sport": "nhl",
-      "event_id": "401892660",
-      "date_utc": "2026-11-07T01:00Z",
-      "name": "San Jose Sharks at Minnesota Wild",
-      "short_name": "SJ @ MIN",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 3,
-      "clock": "0:00",
-      "home_team": "Minnesota Wild",
-      "away_team": "San Jose Sharks",
-      "home_score": "4",
-      "away_score": "1",
-      "home_record": "12-3-3",
-      "away_record": "7-10-1",
-      "venue": "Grand Casino Arena",
-      "broadcasts": [
-        "NHL Net",
-        "NBC Sports BA",
-        "MINNHL",
-        "KSTP"
-      ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892660/sharks-wild"
-    },
-    {
-      "sport": "nhl",
-      "event_id": "401892661",
-      "date_utc": "2026-11-07T01:00Z",
-      "name": "Anaheim Ducks at Calgary Flames",
-      "short_name": "ANA @ CGY",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 3,
-      "clock": "0:00",
-      "home_team": "Calgary Flames",
-      "away_team": "Anaheim Ducks",
-      "home_score": "3",
-      "away_score": "5",
-      "home_record": "7-9-1",
-      "away_record": "9-7-1",
-      "venue": "Scotiabank Saddledome",
-      "broadcasts": [
-        "ESPN+",
-        "Prime Video (Local)"
-      ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892661/ducks-flames"
-    },
     {
       "sport": "nhl",
       "event_id": "401892662",
@@ -114,17 +39,17 @@
       "date_utc": "2026-11-07T18:00Z",
       "name": "St. Louis Blues at Nashville Predators",
       "short_name": "STL @ NSH",
-      "status": "In Progress",
-      "status_short": "0:42 - 3rd",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 3,
-      "clock": "0:42",
+      "clock": "0:00",
       "home_team": "Nashville Predators",
       "away_team": "St. Louis Blues",
       "home_score": "3",
       "away_score": "1",
-      "home_record": "7-4-5",
-      "away_record": "7-7-2",
+      "home_record": "8-4-5",
+      "away_record": "7-8-2",
       "venue": "Bridgestone Arena",
       "broadcasts": [
         "NHL Net",
@@ -132,7 +57,7 @@
         "Blues App",
         "BN+"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892663"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892663/blues-predators"
     },
     {
       "sport": "nhl",
@@ -140,15 +65,15 @@
       "date_utc": "2026-11-07T22:00Z",
       "name": "New York Rangers at Seattle Kraken",
       "short_name": "NYR @ SEA",
-      "status": "Scheduled",
-      "status_short": "11/7 - 5:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "16:42 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "16:42",
       "home_team": "Seattle Kraken",
       "away_team": "New York Rangers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "1",
+      "away_score": "4",
       "home_record": "9-5-1",
       "away_record": "9-7-1",
       "venue": "Climate Pledge Arena",
@@ -159,7 +84,7 @@
         "KONG",
         "Prime Video (Local)"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892664/rangers-kraken"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892664"
     },
     {
       "sport": "nhl",
@@ -526,6 +451,79 @@
         "Prime Video (Local)"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401892679/penguins-ducks"
+    },
+    {
+      "sport": "nhl",
+      "event_id": "401892680",
+      "date_utc": "2026-11-10T01:00Z",
+      "name": "New York Rangers at Edmonton Oilers",
+      "short_name": "NYR @ EDM",
+      "status": "Scheduled",
+      "status_short": "11/9 - 8:00 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Edmonton Oilers",
+      "away_team": "New York Rangers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "11-3-3",
+      "away_record": "9-7-1",
+      "venue": "Rogers Place",
+      "broadcasts": [
+        "ESPN+",
+        "MSG"
+      ],
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892680/rangers-oilers"
+    },
+    {
+      "sport": "nhl",
+      "event_id": "401892681",
+      "date_utc": "2026-11-10T02:30Z",
+      "name": "Philadelphia Flyers at Vancouver Canucks",
+      "short_name": "PHI @ VAN",
+      "status": "Scheduled",
+      "status_short": "11/9 - 9:30 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Vancouver Canucks",
+      "away_team": "Philadelphia Flyers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "3-14-1",
+      "away_record": "4-10-4",
+      "venue": "Rogers Arena",
+      "broadcasts": [
+        "ESPN+",
+        "NBC Sports Phil"
+      ],
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892681/flyers-canucks"
+    },
+    {
+      "sport": "nhl",
+      "event_id": "401892682",
+      "date_utc": "2026-11-10T03:00Z",
+      "name": "New York Islanders at San Jose Sharks",
+      "short_name": "NYI @ SJ",
+      "status": "Scheduled",
+      "status_short": "11/9 - 10:00 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "San Jose Sharks",
+      "away_team": "New York Islanders",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "7-10-1",
+      "away_record": "7-6-2",
+      "venue": "SAP Center at San Jose",
+      "broadcasts": [
+        "ESPN+",
+        "MSGSN",
+        "NBC Sports BA"
+      ],
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892682/islanders-sharks"
     }
   ],
   "errors": []
