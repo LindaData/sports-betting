@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-11-08T13:42:12.526178Z",
+  "refreshed_at_utc": "2026-11-08T18:34:41.664364Z",
   "dates_requested": [
     "20261107",
     "20261108",
@@ -312,14 +312,14 @@
       "date_utc": "2026-11-08T18:00Z",
       "name": "Florida Panthers at Boston Bruins",
       "short_name": "FLA @ BOS",
-      "status": "Scheduled",
-      "status_short": "11/8 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "10:42 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "10:42",
       "home_team": "Boston Bruins",
       "away_team": "Florida Panthers",
-      "home_score": "0",
+      "home_score": "2",
       "away_score": "0",
       "home_record": "12-4-1",
       "away_record": "9-6-2",
@@ -329,7 +329,7 @@
         "Scripps Sports",
         "NESN"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892674/panthers-bruins"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892674"
     },
     {
       "sport": "nhl",

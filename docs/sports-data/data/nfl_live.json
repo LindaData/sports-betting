@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-08T13:42:12.526178Z",
+  "refreshed_at_utc": "2026-11-08T18:34:41.664364Z",
   "dates_requested": [
     "20261107",
     "20261108",
@@ -14,17 +14,17 @@
       "date_utc": "2026-11-08T14:30Z",
       "name": "Cincinnati Bengals at Atlanta Falcons",
       "short_name": "CIN VS ATL",
-      "status": "Scheduled",
-      "status_short": "11/8 - 9:30 AM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Atlanta Falcons",
       "away_team": "Cincinnati Bengals",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "3-5",
-      "away_record": "5-2",
+      "home_score": "17",
+      "away_score": "34",
+      "home_record": "3-6",
+      "away_record": "6-2",
       "venue": "Santiago Bernab\u00e9u",
       "broadcasts": [
         "NFL Net"
@@ -37,22 +37,22 @@
       "date_utc": "2026-11-08T18:00Z",
       "name": "Dallas Cowboys at Indianapolis Colts",
       "short_name": "DAL @ IND",
-      "status": "Scheduled",
-      "status_short": "11/8 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "2:36 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "2:36",
       "home_team": "Indianapolis Colts",
       "away_team": "Dallas Cowboys",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "3",
       "home_record": "2-6",
       "away_record": "3-5",
       "venue": "Lucas Oil Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873040/cowboys-colts"
+      "link": "https://www.espn.com/nfl/game?gameId=401873040"
     },
     {
       "sport": "nfl",
@@ -60,22 +60,22 @@
       "date_utc": "2026-11-08T18:00Z",
       "name": "New York Jets at Kansas City Chiefs",
       "short_name": "NYJ @ KC",
-      "status": "Scheduled",
-      "status_short": "11/8 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "4:19 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "4:19",
       "home_team": "Kansas City Chiefs",
       "away_team": "New York Jets",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "6",
       "home_record": "5-2",
       "away_record": "2-6",
       "venue": "Arrowhead Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873045/jets-chiefs"
+      "link": "https://www.espn.com/nfl/game?gameId=401873045"
     },
     {
       "sport": "nfl",
@@ -83,22 +83,22 @@
       "date_utc": "2026-11-08T18:00Z",
       "name": "Detroit Lions at Miami Dolphins",
       "short_name": "DET @ MIA",
-      "status": "Scheduled",
-      "status_short": "11/8 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:57 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "0:57",
       "home_team": "Miami Dolphins",
       "away_team": "Detroit Lions",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "3",
+      "away_score": "3",
       "home_record": "1-6",
       "away_record": "5-2",
       "venue": "Hard Rock Stadium",
       "broadcasts": [
-        "Fox"
+        "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873042/lions-dolphins"
+      "link": "https://www.espn.com/nfl/game?gameId=401873042"
     },
     {
       "sport": "nfl",
@@ -106,14 +106,14 @@
       "date_utc": "2026-11-08T18:00Z",
       "name": "Cleveland Browns at New Orleans Saints",
       "short_name": "CLE @ NO",
-      "status": "Scheduled",
-      "status_short": "11/8 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:08 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "0:08",
       "home_team": "New Orleans Saints",
       "away_team": "Cleveland Browns",
-      "home_score": "0",
+      "home_score": "3",
       "away_score": "0",
       "home_record": "2-5",
       "away_record": "5-3",
@@ -121,7 +121,7 @@
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873039/browns-saints"
+      "link": "https://www.espn.com/nfl/game?gameId=401873039"
     },
     {
       "sport": "nfl",
@@ -129,22 +129,22 @@
       "date_utc": "2026-11-08T18:00Z",
       "name": "New York Giants at Philadelphia Eagles",
       "short_name": "NYG @ PHI",
-      "status": "Scheduled",
-      "status_short": "11/8 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "3:21 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "3:21",
       "home_team": "Philadelphia Eagles",
       "away_team": "New York Giants",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "6",
       "home_record": "2-6",
       "away_record": "4-2-1",
       "venue": "Lincoln Financial Field",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873044/giants-eagles"
+      "link": "https://www.espn.com/nfl/game?gameId=401873044"
     },
     {
       "sport": "nfl",
@@ -152,22 +152,22 @@
       "date_utc": "2026-11-08T18:00Z",
       "name": "Los Angeles Rams at Washington Commanders",
       "short_name": "LAR @ WSH",
-      "status": "Scheduled",
-      "status_short": "11/8 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 1st",
+      "state": "in",
+      "period": 1,
       "clock": "0:00",
       "home_team": "Washington Commanders",
       "away_team": "Los Angeles Rams",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "3",
+      "away_score": "3",
       "home_record": "2-4-1",
       "away_record": "4-4",
       "venue": "Northwest Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873043/rams-commanders"
+      "link": "https://www.espn.com/nfl/game?gameId=401873043"
     },
     {
       "sport": "nfl",
@@ -175,22 +175,22 @@
       "date_utc": "2026-11-08T18:00Z",
       "name": "Denver Broncos at Carolina Panthers",
       "short_name": "DEN @ CAR",
-      "status": "Scheduled",
-      "status_short": "11/8 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "1:23 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "1:23",
       "home_team": "Carolina Panthers",
       "away_team": "Denver Broncos",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "10",
       "home_record": "3-4",
       "away_record": "6-2",
       "venue": "Bank of America Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873041/broncos-panthers"
+      "link": "https://www.espn.com/nfl/game?gameId=401873041"
     },
     {
       "sport": "nfl",
