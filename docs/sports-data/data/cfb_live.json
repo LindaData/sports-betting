@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-08T06:24:01.444298Z",
+  "refreshed_at_utc": "2026-11-08T13:42:12.526178Z",
   "dates_requested": [
     "20261107",
     "20261108",
@@ -1143,22 +1143,22 @@
       "date_utc": "2026-11-08T03:30Z",
       "name": "Texas State Bobcats at Oregon State Beavers",
       "short_name": "TXST @ ORST",
-      "status": "In Progress",
-      "status_short": "0:33 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "0:33",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Oregon State Beavers",
       "away_team": "Texas State Bobcats",
-      "home_score": "7",
-      "away_score": "28",
-      "home_record": "5-3",
-      "away_record": "4-4",
+      "home_score": "21",
+      "away_score": "42",
+      "home_record": "5-4",
+      "away_record": "5-4",
       "venue": "Reser Stadium",
       "broadcasts": [
         "CW"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401860912"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401860912/texas-st-oregon-st"
     },
     {
       "sport": "cfb",
@@ -1166,22 +1166,22 @@
       "date_utc": "2026-11-08T03:30Z",
       "name": "Wyoming Cowboys at UNLV Rebels",
       "short_name": "WYO @ UNLV",
-      "status": "In Progress",
-      "status_short": "15:00 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "15:00",
+      "clock": "0:00",
       "home_team": "UNLV Rebels",
       "away_team": "Wyoming Cowboys",
-      "home_score": "28",
+      "home_score": "35",
       "away_score": "41",
-      "home_record": "5-3",
-      "away_record": "5-3",
+      "home_record": "5-4",
+      "away_record": "6-3",
       "venue": "Allegiant Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401864535"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401864535/wyoming-unlv"
     }
   ],
   "errors": []
