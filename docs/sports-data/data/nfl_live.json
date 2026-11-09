@@ -1,10 +1,10 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-08T22:35:39.988326Z",
+  "refreshed_at_utc": "2026-11-09T02:13:32.055651Z",
   "dates_requested": [
-    "20261107",
     "20261108",
-    "20261109"
+    "20261109",
+    "20261110"
   ],
   "event_count": 14,
   "events": [
@@ -198,22 +198,22 @@
       "date_utc": "2026-11-08T21:05Z",
       "name": "Houston Texans at Los Angeles Chargers",
       "short_name": "HOU @ LAC",
-      "status": "In Progress",
-      "status_short": "1:01 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "1:01",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Los Angeles Chargers",
       "away_team": "Houston Texans",
-      "home_score": "9",
-      "away_score": "17",
-      "home_record": "0-7",
-      "away_record": "2-5",
+      "home_score": "22",
+      "away_score": "44",
+      "home_record": "0-8",
+      "away_record": "3-5",
       "venue": "SoFi Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873046"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873046/texans-chargers"
     },
     {
       "sport": "nfl",
@@ -221,22 +221,22 @@
       "date_utc": "2026-11-08T21:25Z",
       "name": "Green Bay Packers at New England Patriots",
       "short_name": "GB @ NE",
-      "status": "In Progress",
-      "status_short": "6:24 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "6:24",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "New England Patriots",
       "away_team": "Green Bay Packers",
-      "home_score": "7",
-      "away_score": "17",
-      "home_record": "5-3",
-      "away_record": "5-3",
+      "home_score": "27",
+      "away_score": "45",
+      "home_record": "5-4",
+      "away_record": "6-3",
       "venue": "Gillette Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873049"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873049/packers-patriots"
     },
     {
       "sport": "nfl",
@@ -244,22 +244,22 @@
       "date_utc": "2026-11-08T21:25Z",
       "name": "Las Vegas Raiders at San Francisco 49ers",
       "short_name": "LV @ SF",
-      "status": "In Progress",
-      "status_short": "0:29 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "0:29",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "San Francisco 49ers",
       "away_team": "Las Vegas Raiders",
-      "home_score": "21",
-      "away_score": "10",
-      "home_record": "6-1",
-      "away_record": "4-4",
+      "home_score": "38",
+      "away_score": "17",
+      "home_record": "7-1",
+      "away_record": "4-5",
       "venue": "Levi's Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873047"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873047/raiders-49ers"
     },
     {
       "sport": "nfl",
@@ -267,22 +267,22 @@
       "date_utc": "2026-11-08T21:25Z",
       "name": "Arizona Cardinals at Seattle Seahawks",
       "short_name": "ARI @ SEA",
-      "status": "In Progress",
-      "status_short": "3:11 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "3:11",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Seattle Seahawks",
       "away_team": "Arizona Cardinals",
-      "home_score": "7",
+      "home_score": "17",
       "away_score": "3",
-      "home_record": "4-4",
-      "away_record": "3-5",
+      "home_record": "5-4",
+      "away_record": "3-6",
       "venue": "Lumen Field",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873048"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873048/cardinals-seahawks"
     },
     {
       "sport": "nfl",
@@ -290,22 +290,22 @@
       "date_utc": "2026-11-09T01:20Z",
       "name": "Tampa Bay Buccaneers at Chicago Bears",
       "short_name": "TB @ CHI",
-      "status": "Scheduled",
-      "status_short": "11/8 - 8:20 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "8:03 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "8:03",
       "home_team": "Chicago Bears",
       "away_team": "Tampa Bay Buccaneers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "14",
+      "away_score": "3",
       "home_record": "6-2",
       "away_record": "3-5",
       "venue": "Soldier Field",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873050/buccaneers-bears"
+      "link": "https://www.espn.com/nfl/game?gameId=401873050"
     },
     {
       "sport": "nfl",
