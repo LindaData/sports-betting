@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-09T02:13:32.055651Z",
+  "refreshed_at_utc": "2026-11-09T09:58:53.820539Z",
   "dates_requested": [
     "20261108",
     "20261109",
@@ -290,22 +290,22 @@
       "date_utc": "2026-11-09T01:20Z",
       "name": "Tampa Bay Buccaneers at Chicago Bears",
       "short_name": "TB @ CHI",
-      "status": "In Progress",
-      "status_short": "8:03 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "8:03",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Chicago Bears",
       "away_team": "Tampa Bay Buccaneers",
-      "home_score": "14",
-      "away_score": "3",
-      "home_record": "6-2",
-      "away_record": "3-5",
+      "home_score": "27",
+      "away_score": "24",
+      "home_record": "7-2",
+      "away_record": "3-6",
       "venue": "Soldier Field",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873050"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873050/buccaneers-bears"
     },
     {
       "sport": "nfl",
