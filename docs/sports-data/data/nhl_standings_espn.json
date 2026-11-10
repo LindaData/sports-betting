@@ -1,6 +1,6 @@
 {
   "league": "NHL",
-  "refreshed_at_utc": "2026-11-09T19:59:04.398070Z",
+  "refreshed_at_utc": "2026-11-10T17:14:39.207847Z",
   "sport": "nhl",
   "standings": [
     {
@@ -76,11 +76,11 @@
       "wins": 11
     },
     {
-      "form": "W3",
+      "form": "L1",
       "group": "Eastern Conference",
-      "losses": 7,
-      "percentage": 0.5555555555555556,
-      "played": 18,
+      "losses": 8,
+      "percentage": 0.5263157894736842,
+      "played": 19,
       "position": 7,
       "sport": "nhl",
       "team": "New York Rangers",
@@ -124,28 +124,28 @@
       "wins": 9
     },
     {
+      "form": "L4",
+      "group": "Eastern Conference",
+      "losses": 6,
+      "percentage": 0.4117647058823529,
+      "played": 17,
+      "position": 11,
+      "sport": "nhl",
+      "team": "New York Islanders",
+      "team_id": "12",
+      "wins": 7
+    },
+    {
       "form": "L3",
       "group": "Eastern Conference",
       "losses": 9,
       "percentage": 0.42105263157894735,
       "played": 19,
-      "position": 11,
+      "position": 12,
       "sport": "nhl",
       "team": "Toronto Maple Leafs",
       "team_id": "21",
       "wins": 8
-    },
-    {
-      "form": "L3",
-      "group": "Eastern Conference",
-      "losses": 6,
-      "percentage": 0.4375,
-      "played": 16,
-      "position": 12,
-      "sport": "nhl",
-      "team": "New York Islanders",
-      "team_id": "12",
-      "wins": 7
     },
     {
       "form": "L3",
@@ -160,12 +160,24 @@
       "wins": 7
     },
     {
+      "form": "W1",
+      "group": "Eastern Conference",
+      "losses": 10,
+      "percentage": 0.25,
+      "played": 20,
+      "position": 14,
+      "sport": "nhl",
+      "team": "Philadelphia Flyers",
+      "team_id": "15",
+      "wins": 5
+    },
+    {
       "form": "L1",
       "group": "Eastern Conference",
       "losses": 8,
       "percentage": 0.4666666666666667,
       "played": 15,
-      "position": 14,
+      "position": 15,
       "sport": "nhl",
       "team": "Columbus Blue Jackets",
       "team_id": "29",
@@ -177,23 +189,23 @@
       "losses": 10,
       "percentage": 0.3333333333333333,
       "played": 18,
-      "position": 15,
+      "position": 16,
       "sport": "nhl",
       "team": "Pittsburgh Penguins",
       "team_id": "16",
       "wins": 6
     },
     {
-      "form": "L3",
-      "group": "Eastern Conference",
-      "losses": 10,
-      "percentage": 0.21052631578947367,
+      "form": "W2",
+      "group": "Western Conference",
+      "losses": 3,
+      "percentage": 0.6842105263157895,
       "played": 19,
-      "position": 16,
+      "position": 1,
       "sport": "nhl",
-      "team": "Philadelphia Flyers",
-      "team_id": "15",
-      "wins": 4
+      "team": "Edmonton Oilers",
+      "team_id": "6",
+      "wins": 13
     },
     {
       "form": "L1",
@@ -201,22 +213,10 @@
       "losses": 3,
       "percentage": 0.631578947368421,
       "played": 19,
-      "position": 1,
+      "position": 2,
       "sport": "nhl",
       "team": "Minnesota Wild",
       "team_id": "30",
-      "wins": 12
-    },
-    {
-      "form": "W1",
-      "group": "Western Conference",
-      "losses": 3,
-      "percentage": 0.6666666666666666,
-      "played": 18,
-      "position": 2,
-      "sport": "nhl",
-      "team": "Edmonton Oilers",
-      "team_id": "6",
       "wins": 12
     },
     {
@@ -328,27 +328,27 @@
       "wins": 7
     },
     {
+      "form": "W1",
+      "group": "Western Conference",
+      "losses": 11,
+      "percentage": 0.4,
+      "played": 20,
+      "position": 12,
+      "sport": "nhl",
+      "team": "San Jose Sharks",
+      "team_id": "18",
+      "wins": 8
+    },
+    {
       "form": "L3",
       "group": "Western Conference",
       "losses": 8,
       "percentage": 0.4117647058823529,
       "played": 17,
-      "position": 12,
+      "position": 13,
       "sport": "nhl",
       "team": "St. Louis Blues",
       "team_id": "19",
-      "wins": 7
-    },
-    {
-      "form": "L5",
-      "group": "Western Conference",
-      "losses": 11,
-      "percentage": 0.3684210526315789,
-      "played": 19,
-      "position": 13,
-      "sport": "nhl",
-      "team": "San Jose Sharks",
-      "team_id": "18",
       "wins": 7
     },
     {
@@ -376,11 +376,11 @@
       "wins": 4
     },
     {
-      "form": "L5",
+      "form": "L6",
       "group": "Western Conference",
-      "losses": 15,
-      "percentage": 0.15789473684210525,
-      "played": 19,
+      "losses": 16,
+      "percentage": 0.15,
+      "played": 20,
       "position": 16,
       "sport": "nhl",
       "team": "Vancouver Canucks",

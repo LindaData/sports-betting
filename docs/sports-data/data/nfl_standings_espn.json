@@ -1,19 +1,19 @@
 {
   "league": "NFL",
-  "refreshed_at_utc": "2026-11-09T19:59:04.398070Z",
+  "refreshed_at_utc": "2026-11-10T17:14:39.207847Z",
   "sport": "nfl",
   "standings": [
     {
-      "form": "W3",
+      "form": "W4",
       "group": "American Football Conference",
       "losses": 1,
-      "percentage": 0.85714287,
-      "played": 7,
+      "percentage": 0.875,
+      "played": 8,
       "position": 1,
       "sport": "nfl",
       "team": "Buffalo Bills",
       "team_id": "2",
-      "wins": 6
+      "wins": 7
     },
     {
       "form": "W5",
@@ -208,24 +208,12 @@
       "wins": 7
     },
     {
-      "form": "L1",
-      "group": "National Football Conference",
-      "losses": 1,
-      "percentage": 0.85714287,
-      "played": 7,
-      "position": 2,
-      "sport": "nfl",
-      "team": "Minnesota Vikings",
-      "team_id": "16",
-      "wins": 6
-    },
-    {
       "form": "W4",
       "group": "National Football Conference",
       "losses": 2,
       "percentage": 0.7777778,
       "played": 9,
-      "position": 3,
+      "position": 2,
       "sport": "nfl",
       "team": "Chicago Bears",
       "team_id": "3",
@@ -237,10 +225,22 @@
       "losses": 2,
       "percentage": 0.75,
       "played": 8,
-      "position": 4,
+      "position": 3,
       "sport": "nfl",
       "team": "Detroit Lions",
       "team_id": "8",
+      "wins": 6
+    },
+    {
+      "form": "L2",
+      "group": "National Football Conference",
+      "losses": 2,
+      "percentage": 0.75,
+      "played": 8,
+      "position": 4,
+      "sport": "nfl",
+      "team": "Minnesota Vikings",
+      "team_id": "16",
       "wins": 6
     },
     {

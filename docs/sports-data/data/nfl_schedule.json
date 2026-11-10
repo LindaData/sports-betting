@@ -1,26 +1,8 @@
 {
-  "dates_requested": "20261102-20261123",
+  "dates_requested": "20261103-20261124",
   "errors": [],
-  "event_count": 43,
+  "event_count": 42,
   "events": [
-    {
-      "away_score": 34,
-      "away_team": "Chicago Bears",
-      "away_team_id": "3",
-      "city": "Seattle",
-      "date_utc": "2026-11-03T01:15Z",
-      "game_id": "401873036",
-      "home_score": 17,
-      "home_team": "Seattle Seahawks",
-      "home_team_id": "26",
-      "league": "National Football League",
-      "league_id": "nfl",
-      "season": "2026",
-      "sport": "nfl",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Lumen Field"
-    },
     {
       "away_score": 33,
       "away_team": "Jacksonville Jaguars",
@@ -274,21 +256,21 @@
       "venue": "Soldier Field"
     },
     {
-      "away_score": null,
+      "away_score": 23,
       "away_team": "Buffalo Bills",
       "away_team_id": "2",
       "city": "Minneapolis",
       "date_utc": "2026-11-10T01:15Z",
       "game_id": "401873051",
-      "home_score": null,
+      "home_score": 6,
       "home_team": "Minnesota Vikings",
       "home_team_id": "16",
       "league": "National Football League",
       "league_id": "nfl",
       "season": "2026",
       "sport": "nfl",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "U.S. Bank Stadium"
     },
     {
@@ -780,8 +762,8 @@
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261102-20261123&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261103-20261124&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-11-09T19:59:04.398070Z",
+  "refreshed_at_utc": "2026-11-10T17:14:39.207847Z",
   "sport": "nfl"
 }
