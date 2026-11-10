@@ -1,12 +1,12 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-09T20:28:20.922614Z",
+  "refreshed_at_utc": "2026-11-10T02:50:27.485544Z",
   "dates_requested": [
-    "20261108",
     "20261109",
-    "20261110"
+    "20261110",
+    "20261111"
   ],
-  "event_count": 3,
+  "event_count": 6,
   "events": [
     {
       "sport": "cfb",
@@ -76,6 +76,75 @@
         "ESPN2"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401866460/ohio-miami-oh"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401866461",
+      "date_utc": "2026-11-12T00:30Z",
+      "name": "Buffalo Bulls at Ball State Cardinals",
+      "short_name": "BUFF @ BALL",
+      "status": "Scheduled",
+      "status_short": "11/11 - 7:30 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Ball State Cardinals",
+      "away_team": "Buffalo Bulls",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "3-6",
+      "away_record": "6-3",
+      "venue": "Scheumann Stadium",
+      "broadcasts": [
+        "ESPN2"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866461/buffalo-ball-state"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401866462",
+      "date_utc": "2026-11-12T00:30Z",
+      "name": "Sacramento State Hornets at Central Michigan Chippewas",
+      "short_name": "SAC @ CMU",
+      "status": "Scheduled",
+      "status_short": "11/11 - 7:30 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Central Michigan Chippewas",
+      "away_team": "Sacramento State Hornets",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "4-5",
+      "away_record": "2-8",
+      "venue": "Kelly/Shorts Stadium",
+      "broadcasts": [
+        "ESPNU"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866462/sacramento-st-c-michigan"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401866463",
+      "date_utc": "2026-11-12T00:30Z",
+      "name": "Massachusetts Minutemen at Toledo Rockets",
+      "short_name": "MASS @ TOL",
+      "status": "Scheduled",
+      "status_short": "11/11 - 7:30 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Toledo Rockets",
+      "away_team": "Massachusetts Minutemen",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "7-2",
+      "away_record": "5-4",
+      "venue": "Glass Bowl",
+      "broadcasts": [
+        "CBSSN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866463/umass-toledo"
     }
   ],
   "errors": []
