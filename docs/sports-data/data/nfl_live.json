@@ -1,36 +1,35 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-10T23:36:13.840822Z",
+  "refreshed_at_utc": "2026-11-11T03:47:58.135202Z",
   "dates_requested": [
-    "20261109",
     "20261110",
-    "20261111"
+    "20261111",
+    "20261112"
   ],
   "event_count": 1,
   "events": [
     {
       "sport": "nfl",
-      "event_id": "401873051",
-      "date_utc": "2026-11-10T01:15Z",
-      "name": "Buffalo Bills at Minnesota Vikings",
-      "short_name": "BUF @ MIN",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
+      "event_id": "401873052",
+      "date_utc": "2026-11-13T01:15Z",
+      "name": "Washington Commanders at New York Giants",
+      "short_name": "WSH @ NYG",
+      "status": "Scheduled",
+      "status_short": "11/12 - 8:15 PM EST",
+      "state": "pre",
+      "period": 0,
       "clock": "0:00",
-      "home_team": "Minnesota Vikings",
-      "away_team": "Buffalo Bills",
-      "home_score": "6",
-      "away_score": "23",
-      "home_record": "6-2",
-      "away_record": "7-1",
-      "venue": "U.S. Bank Stadium",
+      "home_team": "New York Giants",
+      "away_team": "Washington Commanders",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "5-2-1",
+      "away_record": "2-5-1",
+      "venue": "MetLife Stadium",
       "broadcasts": [
-        "ESPN",
-        "ABC"
+        "Prime Video"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873051/bills-vikings"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873052/commanders-giants"
     }
   ],
   "errors": []
