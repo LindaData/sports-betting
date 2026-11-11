@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-11-11T11:34:30.984584Z",
+  "refreshed_at_utc": "2026-11-11T19:00:14.592457Z",
   "dates_requested": [
     "20261110",
     "20261111",
@@ -569,7 +569,8 @@
         "ESPN+",
         "Blues App",
         "BN+",
-        "Utah 16"
+        "Utah 16",
+        "Mammoth+"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401892704/blues-mammoth"
     },
