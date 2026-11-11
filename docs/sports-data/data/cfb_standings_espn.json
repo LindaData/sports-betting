@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-11-10T17:14:39.207847Z",
+  "refreshed_at_utc": "2026-11-11T17:24:02.788360Z",
   "sport": "cfb",
   "standings": [
     {
@@ -928,40 +928,40 @@
       "wins": 4
     },
     {
-      "form": "W6",
-      "group": "Mid-American Conference",
-      "losses": null,
-      "percentage": 1.0,
-      "played": null,
-      "position": 1,
-      "sport": "cfb",
-      "team": "Ohio Bobcats",
-      "team_id": "195",
-      "wins": 7
-    },
-    {
       "form": "W3",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 0.8,
       "played": null,
-      "position": 2,
+      "position": 1,
       "sport": "cfb",
       "team": "Toledo Rockets",
       "team_id": "2649",
       "wins": 7
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.8,
+      "percentage": 0.8333333,
+      "played": null,
+      "position": 2,
+      "sport": "cfb",
+      "team": "Ohio Bobcats",
+      "team_id": "195",
+      "wins": 7
+    },
+    {
+      "form": "W2",
+      "group": "Mid-American Conference",
+      "losses": null,
+      "percentage": 0.8333333,
       "played": null,
       "position": 3,
       "sport": "cfb",
       "team": "Western Michigan Broncos",
       "team_id": "2711",
-      "wins": 6
+      "wins": 7
     },
     {
       "form": "W4",
@@ -976,16 +976,16 @@
       "wins": 6
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.6,
+      "percentage": 0.6666667,
       "played": null,
       "position": 5,
       "sport": "cfb",
       "team": "Miami (OH) RedHawks",
       "team_id": "193",
-      "wins": 5
+      "wins": 6
     },
     {
       "form": "W1",
@@ -1031,33 +1031,33 @@
       "played": null,
       "position": 9,
       "sport": "cfb",
-      "team": "Kent State Golden Flashes",
-      "team_id": "2309",
-      "wins": 3
-    },
-    {
-      "form": "L1",
-      "group": "Mid-American Conference",
-      "losses": null,
-      "percentage": 0.4,
-      "played": null,
-      "position": 10,
-      "sport": "cfb",
       "team": "Ball State Cardinals",
       "team_id": "2050",
       "wins": 3
     },
     {
-      "form": "L3",
+      "form": "W1",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.4,
+      "percentage": 0.5,
       "played": null,
-      "position": 11,
+      "position": 10,
       "sport": "cfb",
       "team": "Bowling Green Falcons",
       "team_id": "189",
-      "wins": 2
+      "wins": 3
+    },
+    {
+      "form": "L2",
+      "group": "Mid-American Conference",
+      "losses": null,
+      "percentage": 0.33333334,
+      "played": null,
+      "position": 11,
+      "sport": "cfb",
+      "team": "Kent State Golden Flashes",
+      "team_id": "2309",
+      "wins": 3
     },
     {
       "form": "L1",
@@ -1072,7 +1072,7 @@
       "wins": 2
     },
     {
-      "form": "L7",
+      "form": "L8",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 0.0,

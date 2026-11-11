@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20261103-20261124",
+  "dates_requested": "20261104-20261125",
   "errors": [],
-  "event_count": 42,
+  "event_count": 43,
   "events": [
     {
       "away_score": 33,
@@ -758,12 +758,30 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Northwest Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "Green Bay Packers",
+      "away_team_id": "9",
+      "city": "Inglewood",
+      "date_utc": "2026-11-26T01:00Z",
+      "game_id": "401873079",
+      "home_score": null,
+      "home_team": "Los Angeles Rams",
+      "home_team_id": "14",
+      "league": "National Football League",
+      "league_id": "nfl",
+      "season": "2026",
+      "sport": "nfl",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "SoFi Stadium"
     }
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261103-20261124&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261104-20261125&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-11-10T17:14:39.207847Z",
+  "refreshed_at_utc": "2026-11-11T17:24:02.788360Z",
   "sport": "nfl"
 }
