@@ -1,96 +1,27 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-11T19:00:14.592457Z",
+  "refreshed_at_utc": "2026-11-12T01:35:34.232580Z",
   "dates_requested": [
-    "20261110",
     "20261111",
-    "20261112"
+    "20261112",
+    "20261113"
   ],
   "event_count": 8,
   "events": [
-    {
-      "sport": "cfb",
-      "event_id": "401866458",
-      "date_utc": "2026-11-11T00:00Z",
-      "name": "Western Michigan Broncos at Akron Zips",
-      "short_name": "WMU @ AKR",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Akron Zips",
-      "away_team": "Western Michigan Broncos",
-      "home_score": "14",
-      "away_score": "42",
-      "home_record": "1-9",
-      "away_record": "7-3",
-      "venue": "InfoCision Stadium",
-      "broadcasts": [
-        "CBSSN"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866458/w-michigan-akron"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401866459",
-      "date_utc": "2026-11-11T00:00Z",
-      "name": "Kent State Golden Flashes at Bowling Green Falcons",
-      "short_name": "KENT @ BGSU",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Bowling Green Falcons",
-      "away_team": "Kent State Golden Flashes",
-      "home_score": "33",
-      "away_score": "28",
-      "home_record": "3-7",
-      "away_record": "3-7",
-      "venue": "Doyt L. Perry Stadium",
-      "broadcasts": [
-        "ESPNU"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866459/kent-state-bowling-green"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401866460",
-      "date_utc": "2026-11-11T01:00Z",
-      "name": "Ohio Bobcats at Miami (OH) RedHawks",
-      "short_name": "OHIO @ M-OH",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Miami (OH) RedHawks",
-      "away_team": "Ohio Bobcats",
-      "home_score": "34",
-      "away_score": "17",
-      "home_record": "6-4",
-      "away_record": "7-3",
-      "venue": "Yager Stadium",
-      "broadcasts": [
-        "ESPN2"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866460/ohio-miami-oh"
-    },
     {
       "sport": "cfb",
       "event_id": "401866461",
       "date_utc": "2026-11-12T00:30Z",
       "name": "Buffalo Bulls at Ball State Cardinals",
       "short_name": "BUFF @ BALL",
-      "status": "Scheduled",
-      "status_short": "11/11 - 7:30 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "10:53 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "10:53",
       "home_team": "Ball State Cardinals",
       "away_team": "Buffalo Bulls",
-      "home_score": "0",
+      "home_score": "7",
       "away_score": "0",
       "home_record": "3-6",
       "away_record": "6-3",
@@ -98,7 +29,7 @@
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866461/buffalo-ball-state"
+      "link": "https://www.espn.com/college-football/game?gameId=401866461"
     },
     {
       "sport": "cfb",
@@ -106,22 +37,22 @@
       "date_utc": "2026-11-12T00:30Z",
       "name": "Sacramento State Hornets at Central Michigan Chippewas",
       "short_name": "SAC @ CMU",
-      "status": "Scheduled",
-      "status_short": "11/11 - 7:30 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "2:43 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "2:43",
       "home_team": "Central Michigan Chippewas",
       "away_team": "Sacramento State Hornets",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "7",
       "home_record": "4-5",
       "away_record": "2-8",
       "venue": "Kelly/Shorts Stadium",
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866462/sacramento-st-c-michigan"
+      "link": "https://www.espn.com/college-football/game?gameId=401866462"
     },
     {
       "sport": "cfb",
@@ -129,14 +60,14 @@
       "date_utc": "2026-11-12T00:30Z",
       "name": "Massachusetts Minutemen at Toledo Rockets",
       "short_name": "MASS @ TOL",
-      "status": "Scheduled",
-      "status_short": "11/11 - 7:30 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "10:32 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "10:32",
       "home_team": "Toledo Rockets",
       "away_team": "Massachusetts Minutemen",
-      "home_score": "0",
+      "home_score": "17",
       "away_score": "0",
       "home_record": "7-2",
       "away_record": "5-4",
@@ -144,7 +75,7 @@
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866463/umass-toledo"
+      "link": "https://www.espn.com/college-football/game?gameId=401866463"
     },
     {
       "sport": "cfb",
@@ -191,6 +122,75 @@
         "ESPN2"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401869969/louisiana-ul-monroe"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858293",
+      "date_utc": "2026-11-14T00:00Z",
+      "name": "Florida State Seminoles at Pittsburgh Panthers",
+      "short_name": "FSU @ PITT",
+      "status": "Scheduled",
+      "status_short": "11/13 - 7:00 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Pittsburgh Panthers",
+      "away_team": "Florida State Seminoles",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "6-3",
+      "away_record": "4-5",
+      "venue": "Acrisure Stadium",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858293/florida-st-pitt"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858526",
+      "date_utc": "2026-11-14T02:00Z",
+      "name": "Illinois Fighting Illini at UCLA Bruins",
+      "short_name": "ILL @ UCLA",
+      "status": "Scheduled",
+      "status_short": "11/13 - 9:00 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "UCLA Bruins",
+      "away_team": "Illinois Fighting Illini",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "9-0",
+      "away_record": "6-3",
+      "venue": "Rose Bowl",
+      "broadcasts": [
+        "Fox"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858526/illinois-ucla"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401856860",
+      "date_utc": "2026-11-14T03:15Z",
+      "name": "Houston Cougars at Colorado Buffaloes",
+      "short_name": "HOU @ COLO",
+      "status": "Scheduled",
+      "status_short": "11/13 - 10:15 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Colorado Buffaloes",
+      "away_team": "Houston Cougars",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "3-6",
+      "away_record": "7-2",
+      "venue": "Folsom Field",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856860/houston-colorado"
     }
   ],
   "errors": []
