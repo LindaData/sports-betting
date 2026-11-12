@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-11-12T08:57:47.510312Z",
+  "refreshed_at_utc": "2026-11-12T17:20:23.329923Z",
   "dates_requested": [
     "20261111",
     "20261112",
@@ -161,11 +161,11 @@
       "date_utc": "2026-11-12T17:00Z",
       "name": "Carolina Hurricanes at Seattle Kraken",
       "short_name": "CAR @ SEA",
-      "status": "Scheduled",
-      "status_short": "11/12 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "18:41 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "18:41",
       "home_team": "Seattle Kraken",
       "away_team": "Carolina Hurricanes",
       "home_score": "0",
@@ -179,7 +179,7 @@
         "KONG",
         "Prime Video (Local)"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401891808/hurricanes-kraken"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891808"
     },
     {
       "sport": "nhl",
