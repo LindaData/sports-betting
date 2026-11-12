@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-12T01:35:34.232580Z",
+  "refreshed_at_utc": "2026-11-12T08:57:47.510312Z",
   "dates_requested": [
     "20261111",
     "20261112",
@@ -14,22 +14,22 @@
       "date_utc": "2026-11-12T00:30Z",
       "name": "Buffalo Bulls at Ball State Cardinals",
       "short_name": "BUFF @ BALL",
-      "status": "In Progress",
-      "status_short": "10:53 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "10:53",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Ball State Cardinals",
       "away_team": "Buffalo Bulls",
       "home_score": "7",
-      "away_score": "0",
-      "home_record": "3-6",
-      "away_record": "6-3",
+      "away_score": "28",
+      "home_record": "3-7",
+      "away_record": "7-3",
       "venue": "Scheumann Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401866461"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866461/buffalo-ball-state"
     },
     {
       "sport": "cfb",
@@ -37,22 +37,22 @@
       "date_utc": "2026-11-12T00:30Z",
       "name": "Sacramento State Hornets at Central Michigan Chippewas",
       "short_name": "SAC @ CMU",
-      "status": "In Progress",
-      "status_short": "2:43 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "2:43",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Central Michigan Chippewas",
       "away_team": "Sacramento State Hornets",
-      "home_score": "7",
+      "home_score": "28",
       "away_score": "7",
-      "home_record": "4-5",
-      "away_record": "2-8",
+      "home_record": "5-5",
+      "away_record": "2-9",
       "venue": "Kelly/Shorts Stadium",
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401866462"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866462/sacramento-st-c-michigan"
     },
     {
       "sport": "cfb",
@@ -60,22 +60,22 @@
       "date_utc": "2026-11-12T00:30Z",
       "name": "Massachusetts Minutemen at Toledo Rockets",
       "short_name": "MASS @ TOL",
-      "status": "In Progress",
-      "status_short": "10:32 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "10:32",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Toledo Rockets",
       "away_team": "Massachusetts Minutemen",
-      "home_score": "17",
+      "home_score": "24",
       "away_score": "0",
-      "home_record": "7-2",
-      "away_record": "5-4",
+      "home_record": "8-2",
+      "away_record": "5-5",
       "venue": "Glass Bowl",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401866463"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866463/umass-toledo"
     },
     {
       "sport": "cfb",
