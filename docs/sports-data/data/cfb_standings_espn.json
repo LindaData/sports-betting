@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-11-11T17:24:02.788360Z",
+  "refreshed_at_utc": "2026-11-12T17:42:50.570922Z",
   "sport": "cfb",
   "standings": [
     {
@@ -928,15 +928,39 @@
       "wins": 4
     },
     {
-      "form": "W3",
+      "form": "W4",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.8,
+      "percentage": 0.8333333,
       "played": null,
       "position": 1,
       "sport": "cfb",
       "team": "Toledo Rockets",
       "team_id": "2649",
+      "wins": 8
+    },
+    {
+      "form": "W2",
+      "group": "Mid-American Conference",
+      "losses": null,
+      "percentage": 0.8333333,
+      "played": null,
+      "position": 2,
+      "sport": "cfb",
+      "team": "Western Michigan Broncos",
+      "team_id": "2711",
+      "wins": 7
+    },
+    {
+      "form": "W5",
+      "group": "Mid-American Conference",
+      "losses": null,
+      "percentage": 0.8333333,
+      "played": null,
+      "position": 3,
+      "sport": "cfb",
+      "team": "Buffalo Bulls",
+      "team_id": "2084",
       "wins": 7
     },
     {
@@ -945,35 +969,11 @@
       "losses": null,
       "percentage": 0.8333333,
       "played": null,
-      "position": 2,
+      "position": 4,
       "sport": "cfb",
       "team": "Ohio Bobcats",
       "team_id": "195",
       "wins": 7
-    },
-    {
-      "form": "W2",
-      "group": "Mid-American Conference",
-      "losses": null,
-      "percentage": 0.8333333,
-      "played": null,
-      "position": 3,
-      "sport": "cfb",
-      "team": "Western Michigan Broncos",
-      "team_id": "2711",
-      "wins": 7
-    },
-    {
-      "form": "W4",
-      "group": "Mid-American Conference",
-      "losses": null,
-      "percentage": 0.8,
-      "played": null,
-      "position": 4,
-      "sport": "cfb",
-      "team": "Buffalo Bulls",
-      "team_id": "2084",
-      "wins": 6
     },
     {
       "form": "W1",
@@ -988,28 +988,28 @@
       "wins": 6
     },
     {
-      "form": "W1",
+      "form": "W2",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.4,
+      "percentage": 0.5,
       "played": null,
       "position": 6,
+      "sport": "cfb",
+      "team": "Central Michigan Chippewas",
+      "team_id": "2117",
+      "wins": 5
+    },
+    {
+      "form": "L1",
+      "group": "Mid-American Conference",
+      "losses": null,
+      "percentage": 0.33333334,
+      "played": null,
+      "position": 7,
       "sport": "cfb",
       "team": "Massachusetts Minutemen",
       "team_id": "113",
       "wins": 5
-    },
-    {
-      "form": "W1",
-      "group": "Mid-American Conference",
-      "losses": null,
-      "percentage": 0.4,
-      "played": null,
-      "position": 7,
-      "sport": "cfb",
-      "team": "Central Michigan Chippewas",
-      "team_id": "2117",
-      "wins": 4
     },
     {
       "form": "L3",
@@ -1024,24 +1024,12 @@
       "wins": 4
     },
     {
-      "form": "L1",
-      "group": "Mid-American Conference",
-      "losses": null,
-      "percentage": 0.4,
-      "played": null,
-      "position": 9,
-      "sport": "cfb",
-      "team": "Ball State Cardinals",
-      "team_id": "2050",
-      "wins": 3
-    },
-    {
       "form": "W1",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 0.5,
       "played": null,
-      "position": 10,
+      "position": 9,
       "sport": "cfb",
       "team": "Bowling Green Falcons",
       "team_id": "189",
@@ -1053,17 +1041,29 @@
       "losses": null,
       "percentage": 0.33333334,
       "played": null,
-      "position": 11,
+      "position": 10,
       "sport": "cfb",
       "team": "Kent State Golden Flashes",
       "team_id": "2309",
       "wins": 3
     },
     {
-      "form": "L1",
+      "form": "L2",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.14285715,
+      "percentage": 0.33333334,
+      "played": null,
+      "position": 11,
+      "sport": "cfb",
+      "team": "Ball State Cardinals",
+      "team_id": "2050",
+      "wins": 3
+    },
+    {
+      "form": "L2",
+      "group": "Mid-American Conference",
+      "losses": null,
+      "percentage": 0.125,
       "played": null,
       "position": 12,
       "sport": "cfb",

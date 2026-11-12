@@ -1,12 +1,12 @@
 {
-  "dates_requested": "20261104-20261125",
+  "dates_requested": "20261105-20261126",
   "errors": [],
   "event_count": 0,
   "events": [],
   "league": "MLB",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261104-20261125&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261105-20261126&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-11-11T17:24:02.788360Z",
+  "refreshed_at_utc": "2026-11-12T17:42:50.570922Z",
   "sport": "mlb"
 }

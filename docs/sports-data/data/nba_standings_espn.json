@@ -1,14 +1,14 @@
 {
   "league": "NBA",
-  "refreshed_at_utc": "2026-11-11T17:24:02.788360Z",
+  "refreshed_at_utc": "2026-11-12T17:42:50.570922Z",
   "sport": "nba",
   "standings": [
     {
-      "form": "L7",
+      "form": "L8",
       "group": "Eastern Conference",
-      "losses": 10,
-      "percentage": 0.09090909,
-      "played": 11,
+      "losses": 11,
+      "percentage": 0.083333336,
+      "played": 12,
       "position": 1,
       "sport": "nba",
       "team": "Milwaukee Bucks",
@@ -16,11 +16,11 @@
       "wins": 1
     },
     {
-      "form": "L7",
+      "form": "L8",
       "group": "Eastern Conference",
-      "losses": 8,
-      "percentage": 0.11111111,
-      "played": 9,
+      "losses": 9,
+      "percentage": 0.1,
+      "played": 10,
       "position": 2,
       "sport": "nba",
       "team": "Chicago Bulls",
@@ -28,40 +28,40 @@
       "wins": 1
     },
     {
-      "form": "L2",
-      "group": "Eastern Conference",
-      "losses": 8,
-      "percentage": 0.2,
-      "played": 10,
-      "position": 3,
-      "sport": "nba",
-      "team": "Brooklyn Nets",
-      "team_id": "17",
-      "wins": 2
-    },
-    {
-      "form": "L2",
+      "form": "W1",
       "group": "Eastern Conference",
       "losses": 8,
       "percentage": 0.27272728,
       "played": 11,
-      "position": 4,
+      "position": 3,
       "sport": "nba",
-      "team": "Indiana Pacers",
-      "team_id": "11",
+      "team": "Brooklyn Nets",
+      "team_id": "17",
       "wins": 3
     },
     {
       "form": "W1",
       "group": "Eastern Conference",
-      "losses": 7,
-      "percentage": 0.3,
-      "played": 10,
+      "losses": 8,
+      "percentage": 0.33333334,
+      "played": 12,
+      "position": 4,
+      "sport": "nba",
+      "team": "Indiana Pacers",
+      "team_id": "11",
+      "wins": 4
+    },
+    {
+      "form": "L5",
+      "group": "Eastern Conference",
+      "losses": 8,
+      "percentage": 0.33333334,
+      "played": 12,
       "position": 5,
       "sport": "nba",
-      "team": "Orlando Magic",
-      "team_id": "19",
-      "wins": 3
+      "team": "Washington Wizards",
+      "team_id": "27",
+      "wins": 4
     },
     {
       "form": "W1",
@@ -76,28 +76,16 @@
       "wins": 4
     },
     {
-      "form": "L4",
+      "form": "W2",
       "group": "Eastern Conference",
       "losses": 7,
       "percentage": 0.36363637,
       "played": 11,
       "position": 7,
       "sport": "nba",
-      "team": "Washington Wizards",
-      "team_id": "27",
+      "team": "Orlando Magic",
+      "team_id": "19",
       "wins": 4
-    },
-    {
-      "form": "W2",
-      "group": "Eastern Conference",
-      "losses": 6,
-      "percentage": 0.45454547,
-      "played": 11,
-      "position": 8,
-      "sport": "nba",
-      "team": "Miami Heat",
-      "team_id": "14",
-      "wins": 5
     },
     {
       "form": "L2",
@@ -105,30 +93,42 @@
       "losses": 6,
       "percentage": 0.45454547,
       "played": 11,
-      "position": 9,
-      "sport": "nba",
-      "team": "Cleveland Cavaliers",
-      "team_id": "5",
-      "wins": 5
-    },
-    {
-      "form": "L1",
-      "group": "Eastern Conference",
-      "losses": 5,
-      "percentage": 0.5,
-      "played": 10,
-      "position": 10,
+      "position": 8,
       "sport": "nba",
       "team": "Toronto Raptors",
       "team_id": "28",
       "wins": 5
     },
     {
-      "form": "W4",
+      "form": "W2",
       "group": "Eastern Conference",
-      "losses": 4,
-      "percentage": 0.6,
-      "played": 10,
+      "losses": 6,
+      "percentage": 0.45454547,
+      "played": 11,
+      "position": 9,
+      "sport": "nba",
+      "team": "Miami Heat",
+      "team_id": "14",
+      "wins": 5
+    },
+    {
+      "form": "W1",
+      "group": "Eastern Conference",
+      "losses": 6,
+      "percentage": 0.5,
+      "played": 12,
+      "position": 10,
+      "sport": "nba",
+      "team": "Cleveland Cavaliers",
+      "team_id": "5",
+      "wins": 6
+    },
+    {
+      "form": "L1",
+      "group": "Eastern Conference",
+      "losses": 5,
+      "percentage": 0.54545456,
+      "played": 11,
       "position": 11,
       "sport": "nba",
       "team": "New York Knicks",
@@ -172,16 +172,28 @@
       "wins": 9
     },
     {
-      "form": "W4",
+      "form": "W5",
       "group": "Eastern Conference",
       "losses": 2,
-      "percentage": 0.8181818,
-      "played": 11,
+      "percentage": 0.8333333,
+      "played": 12,
       "position": 15,
       "sport": "nba",
       "team": "Boston Celtics",
       "team_id": "2",
-      "wins": 9
+      "wins": 10
+    },
+    {
+      "form": "L10",
+      "group": "Western Conference",
+      "losses": 11,
+      "percentage": 0.083333336,
+      "played": 12,
+      "position": 1,
+      "sport": "nba",
+      "team": "Utah Jazz",
+      "team_id": "26",
+      "wins": 1
     },
     {
       "form": "L4",
@@ -189,22 +201,10 @@
       "losses": 10,
       "percentage": 0.09090909,
       "played": 11,
-      "position": 1,
+      "position": 2,
       "sport": "nba",
       "team": "Sacramento Kings",
       "team_id": "23",
-      "wins": 1
-    },
-    {
-      "form": "L9",
-      "group": "Western Conference",
-      "losses": 10,
-      "percentage": 0.09090909,
-      "played": 11,
-      "position": 2,
-      "sport": "nba",
-      "team": "Utah Jazz",
-      "team_id": "26",
       "wins": 1
     },
     {
@@ -220,11 +220,11 @@
       "wins": 2
     },
     {
-      "form": "L3",
+      "form": "L4",
       "group": "Western Conference",
-      "losses": 7,
-      "percentage": 0.36363637,
-      "played": 11,
+      "losses": 8,
+      "percentage": 0.33333334,
+      "played": 12,
       "position": 4,
       "sport": "nba",
       "team": "New Orleans Pelicans",
@@ -244,16 +244,16 @@
       "wins": 4
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "Western Conference",
       "losses": 4,
-      "percentage": 0.5555556,
-      "played": 9,
+      "percentage": 0.6,
+      "played": 10,
       "position": 6,
       "sport": "nba",
       "team": "Denver Nuggets",
       "team_id": "7",
-      "wins": 5
+      "wins": 6
     },
     {
       "form": "W3",
@@ -268,11 +268,11 @@
       "wins": 7
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "Western Conference",
-      "losses": 3,
-      "percentage": 0.7,
-      "played": 10,
+      "losses": 4,
+      "percentage": 0.6363636,
+      "played": 11,
       "position": 8,
       "sport": "nba",
       "team": "Memphis Grizzlies",
@@ -280,16 +280,40 @@
       "wins": 7
     },
     {
-      "form": "W1",
+      "form": "L1",
+      "group": "Western Conference",
+      "losses": 4,
+      "percentage": 0.6666667,
+      "played": 12,
+      "position": 9,
+      "sport": "nba",
+      "team": "Golden State Warriors",
+      "team_id": "9",
+      "wins": 8
+    },
+    {
+      "form": "L2",
+      "group": "Western Conference",
+      "losses": 4,
+      "percentage": 0.6666667,
+      "played": 12,
+      "position": 10,
+      "sport": "nba",
+      "team": "Oklahoma City Thunder",
+      "team_id": "25",
+      "wins": 8
+    },
+    {
+      "form": "W2",
       "group": "Western Conference",
       "losses": 3,
-      "percentage": 0.7,
-      "played": 10,
-      "position": 9,
+      "percentage": 0.72727275,
+      "played": 11,
+      "position": 11,
       "sport": "nba",
       "team": "Portland Trail Blazers",
       "team_id": "22",
-      "wins": 7
+      "wins": 8
     },
     {
       "form": "W4",
@@ -297,71 +321,47 @@
       "losses": 3,
       "percentage": 0.72727275,
       "played": 11,
-      "position": 10,
+      "position": 12,
       "sport": "nba",
       "team": "Minnesota Timberwolves",
       "team_id": "16",
       "wins": 8
     },
     {
-      "form": "W1",
+      "form": "W2",
       "group": "Western Conference",
       "losses": 3,
-      "percentage": 0.72727275,
-      "played": 11,
-      "position": 11,
+      "percentage": 0.75,
+      "played": 12,
+      "position": 13,
       "sport": "nba",
       "team": "Houston Rockets",
       "team_id": "10",
-      "wins": 8
-    },
-    {
-      "form": "W8",
-      "group": "Western Conference",
-      "losses": 3,
-      "percentage": 0.72727275,
-      "played": 11,
-      "position": 12,
-      "sport": "nba",
-      "team": "Golden State Warriors",
-      "team_id": "9",
-      "wins": 8
-    },
-    {
-      "form": "L1",
-      "group": "Western Conference",
-      "losses": 3,
-      "percentage": 0.72727275,
-      "played": 11,
-      "position": 13,
-      "sport": "nba",
-      "team": "Oklahoma City Thunder",
-      "team_id": "25",
-      "wins": 8
-    },
-    {
-      "form": "W9",
-      "group": "Western Conference",
-      "losses": 2,
-      "percentage": 0.8181818,
-      "played": 11,
-      "position": 14,
-      "sport": "nba",
-      "team": "San Antonio Spurs",
-      "team_id": "24",
       "wins": 9
     },
     {
-      "form": "W6",
+      "form": "W10",
       "group": "Western Conference",
       "losses": 2,
       "percentage": 0.8333333,
       "played": 12,
+      "position": 14,
+      "sport": "nba",
+      "team": "San Antonio Spurs",
+      "team_id": "24",
+      "wins": 10
+    },
+    {
+      "form": "W7",
+      "group": "Western Conference",
+      "losses": 2,
+      "percentage": 0.84615386,
+      "played": 13,
       "position": 15,
       "sport": "nba",
       "team": "Los Angeles Lakers",
       "team_id": "13",
-      "wins": 10
+      "wins": 11
     }
   ],
   "standings_rows": 30

@@ -1,7 +1,7 @@
 {
-  "dates_requested": "20261104-20261125",
+  "dates_requested": "20261105-20261126",
   "errors": [],
-  "event_count": 43,
+  "event_count": 46,
   "events": [
     {
       "away_score": 33,
@@ -776,12 +776,66 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "SoFi Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "Chicago Bears",
+      "away_team_id": "3",
+      "city": "Detroit",
+      "date_utc": "2026-11-26T18:00Z",
+      "game_id": "401873081",
+      "home_score": null,
+      "home_team": "Detroit Lions",
+      "home_team_id": "8",
+      "league": "National Football League",
+      "league_id": "nfl",
+      "season": "2026",
+      "sport": "nfl",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Ford Field"
+    },
+    {
+      "away_score": null,
+      "away_team": "Philadelphia Eagles",
+      "away_team_id": "21",
+      "city": "Arlington",
+      "date_utc": "2026-11-26T21:30Z",
+      "game_id": "401873080",
+      "home_score": null,
+      "home_team": "Dallas Cowboys",
+      "home_team_id": "6",
+      "league": "National Football League",
+      "league_id": "nfl",
+      "season": "2026",
+      "sport": "nfl",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "AT&T Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "Kansas City Chiefs",
+      "away_team_id": "12",
+      "city": "Orchard Park",
+      "date_utc": "2026-11-27T01:20Z",
+      "game_id": "401873082",
+      "home_score": null,
+      "home_team": "Buffalo Bills",
+      "home_team_id": "2",
+      "league": "National Football League",
+      "league_id": "nfl",
+      "season": "2026",
+      "sport": "nfl",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Highmark Stadium"
     }
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261104-20261125&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261105-20261126&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-11-11T17:24:02.788360Z",
+  "refreshed_at_utc": "2026-11-12T17:42:50.570922Z",
   "sport": "nfl"
 }
