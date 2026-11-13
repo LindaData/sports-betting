@@ -1,10 +1,10 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-12T22:48:02.010268Z",
+  "refreshed_at_utc": "2026-11-13T03:01:45.396750Z",
   "dates_requested": [
-    "20261111",
     "20261112",
-    "20261113"
+    "20261113",
+    "20261114"
   ],
   "event_count": 1,
   "events": [
@@ -14,22 +14,22 @@
       "date_utc": "2026-11-13T01:15Z",
       "name": "Washington Commanders at New York Giants",
       "short_name": "WSH @ NYG",
-      "status": "Scheduled",
-      "status_short": "11/12 - 8:15 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "10:22 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "10:22",
       "home_team": "New York Giants",
       "away_team": "Washington Commanders",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "14",
+      "away_score": "10",
       "home_record": "5-2-1",
       "away_record": "2-5-1",
       "venue": "MetLife Stadium",
       "broadcasts": [
         "Prime Video"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873052/commanders-giants"
+      "link": "https://www.espn.com/nfl/game?gameId=401873052"
     }
   ],
   "errors": []
