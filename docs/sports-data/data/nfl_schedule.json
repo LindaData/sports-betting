@@ -1,26 +1,8 @@
 {
-  "dates_requested": "20261105-20261126",
+  "dates_requested": "20261106-20261127",
   "errors": [],
   "event_count": 46,
   "events": [
-    {
-      "away_score": 33,
-      "away_team": "Jacksonville Jaguars",
-      "away_team_id": "30",
-      "city": "Baltimore",
-      "date_utc": "2026-11-06T01:15Z",
-      "game_id": "401873037",
-      "home_score": 10,
-      "home_team": "Baltimore Ravens",
-      "home_team_id": "33",
-      "league": "National Football League",
-      "league_id": "nfl",
-      "season": "2026",
-      "sport": "nfl",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "M&T Bank Stadium"
-    },
     {
       "away_score": 34,
       "away_team": "Cincinnati Bengals",
@@ -274,21 +256,21 @@
       "venue": "U.S. Bank Stadium"
     },
     {
-      "away_score": null,
+      "away_score": 24,
       "away_team": "Washington Commanders",
       "away_team_id": "28",
       "city": "East Rutherford",
       "date_utc": "2026-11-13T01:15Z",
       "game_id": "401873052",
-      "home_score": null,
+      "home_score": 21,
       "home_team": "New York Giants",
       "home_team_id": "19",
       "league": "National Football League",
       "league_id": "nfl",
       "season": "2026",
       "sport": "nfl",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "MetLife Stadium"
     },
     {
@@ -830,12 +812,30 @@
       "status": "Scheduled",
       "status_code": "pre",
       "venue": "Highmark Stadium"
+    },
+    {
+      "away_score": null,
+      "away_team": "Denver Broncos",
+      "away_team_id": "7",
+      "city": "Pittsburgh",
+      "date_utc": "2026-11-27T20:00Z",
+      "game_id": "401873083",
+      "home_score": null,
+      "home_team": "Pittsburgh Steelers",
+      "home_team_id": "23",
+      "league": "National Football League",
+      "league_id": "nfl",
+      "season": "2026",
+      "sport": "nfl",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "Acrisure Stadium"
     }
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261105-20261126&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261106-20261127&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-11-12T17:42:50.570922Z",
+  "refreshed_at_utc": "2026-11-13T17:20:17.462249Z",
   "sport": "nfl"
 }

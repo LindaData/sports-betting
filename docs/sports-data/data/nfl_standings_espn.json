@@ -1,6 +1,6 @@
 {
   "league": "NFL",
-  "refreshed_at_utc": "2026-11-12T17:42:50.570922Z",
+  "refreshed_at_utc": "2026-11-13T17:20:17.462249Z",
   "sport": "nfl",
   "standings": [
     {
@@ -256,11 +256,11 @@
       "wins": 6
     },
     {
-      "form": "W2",
+      "form": "L1",
       "group": "National Football Conference",
-      "losses": 2,
-      "percentage": 0.6875,
-      "played": 8,
+      "losses": 3,
+      "percentage": 0.6111111,
+      "played": 9,
       "position": 6,
       "sport": "nfl",
       "team": "New York Giants",
@@ -328,12 +328,24 @@
       "wins": 3
     },
     {
+      "form": "W1",
+      "group": "National Football Conference",
+      "losses": 5,
+      "percentage": 0.3888889,
+      "played": 9,
+      "position": 12,
+      "sport": "nfl",
+      "team": "Washington Commanders",
+      "team_id": "28",
+      "wins": 3
+    },
+    {
       "form": "L1",
       "group": "National Football Conference",
       "losses": 6,
       "percentage": 0.33333334,
       "played": 9,
-      "position": 12,
+      "position": 13,
       "sport": "nfl",
       "team": "Tampa Bay Buccaneers",
       "team_id": "27",
@@ -345,7 +357,7 @@
       "losses": 6,
       "percentage": 0.33333334,
       "played": 9,
-      "position": 13,
+      "position": 14,
       "sport": "nfl",
       "team": "Atlanta Falcons",
       "team_id": "1",
@@ -357,23 +369,11 @@
       "losses": 6,
       "percentage": 0.33333334,
       "played": 9,
-      "position": 14,
+      "position": 15,
       "sport": "nfl",
       "team": "Arizona Cardinals",
       "team_id": "22",
       "wins": 3
-    },
-    {
-      "form": "L1",
-      "group": "National Football Conference",
-      "losses": 5,
-      "percentage": 0.3125,
-      "played": 8,
-      "position": 15,
-      "sport": "nfl",
-      "team": "Washington Commanders",
-      "team_id": "28",
-      "wins": 2
     },
     {
       "form": "L7",
