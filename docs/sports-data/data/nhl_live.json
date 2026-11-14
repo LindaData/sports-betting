@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-11-14T18:53:49.252119Z",
+  "refreshed_at_utc": "2026-11-14T22:48:33.623623Z",
   "dates_requested": [
     "20261113",
     "20261114",
@@ -62,17 +62,17 @@
       "date_utc": "2026-11-14T18:00Z",
       "name": "Seattle Kraken at Carolina Hurricanes",
       "short_name": "SEA @ CAR",
-      "status": "End of Period",
-      "status_short": "End of 1st",
-      "state": "in",
-      "period": 1,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Carolina Hurricanes",
       "away_team": "Seattle Kraken",
-      "home_score": "2",
-      "away_score": "0",
-      "home_record": "15-3-2",
-      "away_record": "9-7-1",
+      "home_score": "5",
+      "away_score": "1",
+      "home_record": "16-3-2",
+      "away_record": "9-8-1",
       "venue": "Veikkaus Arena",
       "broadcasts": [
         "NHL Net",
@@ -80,7 +80,7 @@
         "KONG",
         "Prime Video (Local)"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401891809"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891809/kraken-hurricanes"
     },
     {
       "sport": "nhl",
@@ -88,15 +88,15 @@
       "date_utc": "2026-11-14T20:30Z",
       "name": "Winnipeg Jets at Chicago Blackhawks",
       "short_name": "WPG @ CHI",
-      "status": "Scheduled",
-      "status_short": "11/14 - 3:30 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:34 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "13:34",
       "home_team": "Chicago Blackhawks",
       "away_team": "Winnipeg Jets",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "4",
+      "away_score": "3",
       "home_record": "5-13-1",
       "away_record": "9-8-3",
       "venue": "United Center",
@@ -104,7 +104,7 @@
         "ESPN+",
         "CHSN"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892708/jets-blackhawks"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892708"
     },
     {
       "sport": "nhl",
@@ -376,7 +376,8 @@
         "ESPN+",
         "MSGSN",
         "KCOP",
-        "Prime Video (Local)"
+        "Prime Video (Local)",
+        "Fox 11 Plus"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401892719/islanders-ducks"
     },
@@ -474,7 +475,8 @@
       "broadcasts": [
         "ESPN+",
         "KCOP",
-        "Prime Video (Local)"
+        "Prime Video (Local)",
+        "Fox 11 Plus"
       ],
       "link": "https://www.espn.com/nhl/game/_/gameId/401892723/flames-ducks"
     },
