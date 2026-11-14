@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-14T00:02:59.143751Z",
+  "refreshed_at_utc": "2026-11-14T06:48:27.947865Z",
   "dates_requested": [
     "20261113",
     "20261114",
@@ -14,17 +14,17 @@
       "date_utc": "2026-11-14T00:00Z",
       "name": "Florida State Seminoles at Pittsburgh Panthers",
       "short_name": "FSU @ PITT",
-      "status": "Scheduled",
-      "status_short": "11/13 - 7:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Pittsburgh Panthers",
       "away_team": "Florida State Seminoles",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "6-3",
-      "away_record": "4-5",
+      "home_score": "10",
+      "away_score": "16",
+      "home_record": "6-4",
+      "away_record": "5-5",
       "venue": "Acrisure Stadium",
       "broadcasts": [
         "ESPN"
@@ -37,17 +37,17 @@
       "date_utc": "2026-11-14T02:00Z",
       "name": "Illinois Fighting Illini at UCLA Bruins",
       "short_name": "ILL @ UCLA",
-      "status": "Scheduled",
-      "status_short": "11/13 - 9:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "UCLA Bruins",
       "away_team": "Illinois Fighting Illini",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "9-0",
-      "away_record": "6-3",
+      "home_score": "22",
+      "away_score": "14",
+      "home_record": "10-0",
+      "away_record": "6-4",
       "venue": "Rose Bowl",
       "broadcasts": [
         "Fox"
@@ -60,22 +60,22 @@
       "date_utc": "2026-11-14T03:15Z",
       "name": "Houston Cougars at Colorado Buffaloes",
       "short_name": "HOU @ COLO",
-      "status": "Scheduled",
-      "status_short": "11/13 - 10:15 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "1:05 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "1:05",
       "home_team": "Colorado Buffaloes",
       "away_team": "Houston Cougars",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "42",
+      "away_score": "32",
       "home_record": "3-6",
       "away_record": "7-2",
       "venue": "Folsom Field",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856860/houston-colorado"
+      "link": "https://www.espn.com/college-football/game?gameId=401856860"
     },
     {
       "sport": "cfb",
@@ -169,29 +169,6 @@
         "TNT"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401856859/cincinnati-iowa-state"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401856886",
-      "date_utc": "2026-11-14T17:00Z",
-      "name": "Auburn Tigers at Mississippi State Bulldogs",
-      "short_name": "AUB @ MSST",
-      "status": "Scheduled",
-      "status_short": "11/14 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
-      "home_team": "Mississippi State Bulldogs",
-      "away_team": "Auburn Tigers",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "4-5",
-      "away_record": "5-4",
-      "venue": "Davis Wade Stadium",
-      "broadcasts": [
-        "ESPN2"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856886/auburn-mississippi-st"
     },
     {
       "sport": "cfb",
@@ -425,29 +402,6 @@
     },
     {
       "sport": "cfb",
-      "event_id": "401862828",
-      "date_utc": "2026-11-14T19:00Z",
-      "name": "Tulane Green Wave at Rice Owls",
-      "short_name": "TULN @ RICE",
-      "status": "Scheduled",
-      "status_short": "11/14 - 2:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
-      "home_team": "Rice Owls",
-      "away_team": "Tulane Green Wave",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "1-8",
-      "away_record": "4-5",
-      "venue": "First Community Stadium",
-      "broadcasts": [
-        "ESPN+"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862828/tulane-rice"
-    },
-    {
-      "sport": "cfb",
       "event_id": "401870769",
       "date_utc": "2026-11-14T19:00Z",
       "name": "Kennesaw State Owls at Sam Houston Bearkats",
@@ -610,29 +564,6 @@
     },
     {
       "sport": "cfb",
-      "event_id": "401856858",
-      "date_utc": "2026-11-14T20:30Z",
-      "name": "Baylor Bears at BYU Cougars",
-      "short_name": "BAY @ BYU",
-      "status": "Scheduled",
-      "status_short": "11/14 - 3:30 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
-      "home_team": "BYU Cougars",
-      "away_team": "Baylor Bears",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "7-2",
-      "away_record": "6-3",
-      "venue": "LaVell Edwards Stadium",
-      "broadcasts": [
-        "Fox"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856858/baylor-byu"
-    },
-    {
-      "sport": "cfb",
       "event_id": "401858523",
       "date_utc": "2026-11-14T20:30Z",
       "name": "Michigan Wolverines at Oregon Ducks",
@@ -656,29 +587,6 @@
     },
     {
       "sport": "cfb",
-      "event_id": "401856857",
-      "date_utc": "2026-11-14T20:30Z",
-      "name": "Arizona State Sun Devils at UCF Knights",
-      "short_name": "ASU @ UCF",
-      "status": "Scheduled",
-      "status_short": "11/14 - 3:30 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
-      "home_team": "UCF Knights",
-      "away_team": "Arizona State Sun Devils",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "5-4",
-      "away_record": "5-4",
-      "venue": "Acrisure Bounce House",
-      "broadcasts": [
-        "ESPN2"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856857/arizona-st-ucf"
-    },
-    {
-      "sport": "cfb",
       "event_id": "401858295",
       "date_utc": "2026-11-14T20:30Z",
       "name": "California Golden Bears at Virginia Cavaliers",
@@ -699,29 +607,6 @@
         "ACC Network"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401858295/california-virginia"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401862826",
-      "date_utc": "2026-11-14T20:30Z",
-      "name": "Florida Atlantic Owls at Tulsa Golden Hurricane",
-      "short_name": "FAU @ TLSA",
-      "status": "Scheduled",
-      "status_short": "11/14 - 3:30 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
-      "home_team": "Tulsa Golden Hurricane",
-      "away_team": "Florida Atlantic Owls",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "5-4",
-      "away_record": "6-3",
-      "venue": "H. A. Chapman Stadium",
-      "broadcasts": [
-        "ESPN+"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862826/fau-tulsa"
     },
     {
       "sport": "cfb",
@@ -817,6 +702,27 @@
     },
     {
       "sport": "cfb",
+      "event_id": "401856861",
+      "date_utc": "2026-11-14T20:30Z",
+      "name": "Kansas Jayhawks at West Virginia Mountaineers",
+      "short_name": "KU @ WVU",
+      "status": "Scheduled",
+      "status_short": "11/14 - 3:30 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "West Virginia Mountaineers",
+      "away_team": "Kansas Jayhawks",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "5-4",
+      "away_record": "3-6",
+      "venue": "Milan Puskar Stadium",
+      "broadcasts": [],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856861/kansas-west-virginia"
+    },
+    {
+      "sport": "cfb",
       "event_id": "401860916",
       "date_utc": "2026-11-14T21:00Z",
       "name": "Fresno State Bulldogs at Texas State Bobcats",
@@ -840,49 +746,47 @@
     },
     {
       "sport": "cfb",
-      "event_id": "401856887",
+      "event_id": "401856886",
       "date_utc": "2026-11-14T21:15Z",
-      "name": "Ole Miss Rebels at Oklahoma Sooners",
-      "short_name": "MISS @ OU",
+      "name": "Auburn Tigers at Mississippi State Bulldogs",
+      "short_name": "AUB @ MSST",
       "status": "Scheduled",
       "status_short": "11/14 - 4:15 PM EST",
       "state": "pre",
       "period": 0,
       "clock": "0:00",
-      "home_team": "Oklahoma Sooners",
-      "away_team": "Ole Miss Rebels",
+      "home_team": "Mississippi State Bulldogs",
+      "away_team": "Auburn Tigers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "5-4",
-      "away_record": "6-3",
-      "venue": "Memorial Stadium (Norman, OK)",
-      "broadcasts": [
-        "SEC Network"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856887/ole-miss-oklahoma"
+      "home_record": "4-5",
+      "away_record": "5-4",
+      "venue": "Davis Wade Stadium",
+      "broadcasts": [],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856886/auburn-mississippi-st"
     },
     {
       "sport": "cfb",
-      "event_id": "401858521",
-      "date_utc": "2026-11-14T21:15Z",
-      "name": "Washington Huskies at Michigan State Spartans",
-      "short_name": "WASH @ MSU",
+      "event_id": "401862828",
+      "date_utc": "2026-11-14T21:30Z",
+      "name": "Tulane Green Wave at Rice Owls",
+      "short_name": "TULN @ RICE",
       "status": "Scheduled",
-      "status_short": "11/14 - 4:15 PM EST",
+      "status_short": "11/14 - 4:30 PM EST",
       "state": "pre",
       "period": 0,
       "clock": "0:00",
-      "home_team": "Michigan State Spartans",
-      "away_team": "Washington Huskies",
+      "home_team": "Rice Owls",
+      "away_team": "Tulane Green Wave",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "3-6",
-      "away_record": "5-4",
-      "venue": "Spartan Stadium",
+      "home_record": "1-8",
+      "away_record": "4-5",
+      "venue": "First Community Stadium",
       "broadcasts": [
-        "BTN"
+        "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858521/washington-michigan-st"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862828/tulane-rice"
     },
     {
       "sport": "cfb",
@@ -909,26 +813,47 @@
     },
     {
       "sport": "cfb",
-      "event_id": "401856861",
+      "event_id": "401856857",
       "date_utc": "2026-11-14T22:30Z",
-      "name": "Kansas Jayhawks at West Virginia Mountaineers",
-      "short_name": "KU @ WVU",
+      "name": "Arizona State Sun Devils at UCF Knights",
+      "short_name": "ASU @ UCF",
       "status": "Scheduled",
       "status_short": "11/14 - 5:30 PM EST",
       "state": "pre",
       "period": 0,
       "clock": "0:00",
-      "home_team": "West Virginia Mountaineers",
-      "away_team": "Kansas Jayhawks",
+      "home_team": "UCF Knights",
+      "away_team": "Arizona State Sun Devils",
       "home_score": "0",
       "away_score": "0",
       "home_record": "5-4",
-      "away_record": "3-6",
-      "venue": "Milan Puskar Stadium",
+      "away_record": "5-4",
+      "venue": "Acrisure Bounce House",
+      "broadcasts": [],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856857/arizona-st-ucf"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858521",
+      "date_utc": "2026-11-14T22:30Z",
+      "name": "Washington Huskies at Michigan State Spartans",
+      "short_name": "WASH @ MSU",
+      "status": "Scheduled",
+      "status_short": "11/14 - 5:30 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Michigan State Spartans",
+      "away_team": "Washington Huskies",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "3-6",
+      "away_record": "5-4",
+      "venue": "Spartan Stadium",
       "broadcasts": [
-        "ESPNU"
+        "BTN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856861/kansas-west-virginia"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858521/washington-michigan-st"
     },
     {
       "sport": "cfb",
@@ -998,6 +923,29 @@
         "ESPN"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401856858",
+      "date_utc": "2026-11-15T00:00Z",
+      "name": "Baylor Bears at BYU Cougars",
+      "short_name": "BAY @ BYU",
+      "status": "Scheduled",
+      "status_short": "11/14 - 7:00 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "BYU Cougars",
+      "away_team": "Baylor Bears",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "7-2",
+      "away_record": "6-3",
+      "venue": "LaVell Edwards Stadium",
+      "broadcasts": [
+        "Fox"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856858/baylor-byu"
     },
     {
       "sport": "cfb",
@@ -1093,26 +1041,26 @@
     },
     {
       "sport": "cfb",
-      "event_id": "401856864",
-      "date_utc": "2026-11-15T00:30Z",
-      "name": "Utah Utes at Arizona Wildcats",
-      "short_name": "UTAH @ ARIZ",
+      "event_id": "401862826",
+      "date_utc": "2026-11-15T00:15Z",
+      "name": "Florida Atlantic Owls at Tulsa Golden Hurricane",
+      "short_name": "FAU @ TLSA",
       "status": "Scheduled",
-      "status_short": "11/14 - 7:30 PM EST",
+      "status_short": "11/14 - 7:15 PM EST",
       "state": "pre",
       "period": 0,
       "clock": "0:00",
-      "home_team": "Arizona Wildcats",
-      "away_team": "Utah Utes",
+      "home_team": "Tulsa Golden Hurricane",
+      "away_team": "Florida Atlantic Owls",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "7-2",
-      "away_record": "9-0",
-      "venue": "Casino Del Sol Stadium",
+      "home_record": "5-4",
+      "away_record": "6-3",
+      "venue": "H. A. Chapman Stadium",
       "broadcasts": [
-        "Fox"
+        "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862826/fau-tulsa"
     },
     {
       "sport": "cfb",
@@ -1323,6 +1271,29 @@
     },
     {
       "sport": "cfb",
+      "event_id": "401856864",
+      "date_utc": "2026-11-15T03:30Z",
+      "name": "Utah Utes at Arizona Wildcats",
+      "short_name": "UTAH @ ARIZ",
+      "status": "Scheduled",
+      "status_short": "11/14 - 10:30 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Arizona Wildcats",
+      "away_team": "Utah Utes",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "7-2",
+      "away_record": "9-0",
+      "venue": "Casino Del Sol Stadium",
+      "broadcasts": [
+        "Fox"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona"
+    },
+    {
+      "sport": "cfb",
       "event_id": "401860917",
       "date_utc": "2026-11-15T03:30Z",
       "name": "Colorado State Rams at Washington State Cougars",
@@ -1366,6 +1337,27 @@
         "CW"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401864537/n-dakota-st-hawaii"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401856887",
+      "date_utc": "2026-11-15T18:00Z",
+      "name": "Ole Miss Rebels at Oklahoma Sooners",
+      "short_name": "MISS @ OU",
+      "status": "Scheduled",
+      "status_short": "11/15 - 1:00 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Oklahoma Sooners",
+      "away_team": "Ole Miss Rebels",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "5-4",
+      "away_record": "6-3",
+      "venue": "Memorial Stadium (Norman, OK)",
+      "broadcasts": [],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856887/ole-miss-oklahoma"
     }
   ],
   "errors": []
