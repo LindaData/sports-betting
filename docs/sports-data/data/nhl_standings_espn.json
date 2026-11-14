@@ -1,6 +1,6 @@
 {
   "league": "NHL",
-  "refreshed_at_utc": "2026-11-13T17:20:17.462249Z",
+  "refreshed_at_utc": "2026-11-14T16:01:38.337916Z",
   "sport": "nhl",
   "standings": [
     {
@@ -78,25 +78,25 @@
     {
       "form": "W2",
       "group": "Eastern Conference",
-      "losses": 7,
-      "percentage": 0.55,
-      "played": 20,
+      "losses": 8,
+      "percentage": 0.5714285714285714,
+      "played": 21,
       "position": 7,
       "sport": "nhl",
-      "team": "Florida Panthers",
-      "team_id": "26",
-      "wins": 11
+      "team": "New York Rangers",
+      "team_id": "13",
+      "wins": 12
     },
     {
-      "form": "W1",
+      "form": "W2",
       "group": "Eastern Conference",
-      "losses": 8,
+      "losses": 7,
       "percentage": 0.55,
       "played": 20,
       "position": 8,
       "sport": "nhl",
-      "team": "New York Rangers",
-      "team_id": "13",
+      "team": "Florida Panthers",
+      "team_id": "26",
       "wins": 11
     },
     {
@@ -220,11 +220,11 @@
       "wins": 14
     },
     {
-      "form": "W4",
+      "form": "L1",
       "group": "Western Conference",
       "losses": 5,
-      "percentage": 0.65,
-      "played": 20,
+      "percentage": 0.6190476190476191,
+      "played": 21,
       "position": 3,
       "sport": "nhl",
       "team": "Vegas Golden Knights",
@@ -232,16 +232,16 @@
       "wins": 13
     },
     {
-      "form": "W6",
+      "form": "W7",
       "group": "Western Conference",
       "losses": 4,
-      "percentage": 0.5263157894736842,
-      "played": 19,
+      "percentage": 0.55,
+      "played": 20,
       "position": 4,
       "sport": "nhl",
       "team": "Nashville Predators",
       "team_id": "27",
-      "wins": 10
+      "wins": 11
     },
     {
       "form": "L1",
@@ -376,11 +376,11 @@
       "wins": 5
     },
     {
-      "form": "L6",
+      "form": "L7",
       "group": "Western Conference",
-      "losses": 16,
-      "percentage": 0.15,
-      "played": 20,
+      "losses": 17,
+      "percentage": 0.14285714285714285,
+      "played": 21,
       "position": 16,
       "sport": "nhl",
       "team": "Vancouver Canucks",

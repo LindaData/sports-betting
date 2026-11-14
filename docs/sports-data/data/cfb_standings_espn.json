@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-11-13T17:20:17.462249Z",
+  "refreshed_at_utc": "2026-11-14T16:01:38.337916Z",
   "sport": "cfb",
   "standings": [
     {
@@ -244,27 +244,27 @@
       "wins": 6
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "Atlantic Coast Conference",
       "losses": null,
       "percentage": 0.5,
       "played": null,
       "position": 7,
       "sport": "cfb",
-      "team": "Pittsburgh Panthers",
-      "team_id": "221",
+      "team": "Virginia Tech Hokies",
+      "team_id": "259",
       "wins": 6
     },
     {
       "form": "L1",
       "group": "Atlantic Coast Conference",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.42857143,
       "played": null,
       "position": 8,
       "sport": "cfb",
-      "team": "Virginia Tech Hokies",
-      "team_id": "259",
+      "team": "Pittsburgh Panthers",
+      "team_id": "221",
       "wins": 6
     },
     {
@@ -280,16 +280,16 @@
       "wins": 5
     },
     {
-      "form": "W1",
+      "form": "W2",
       "group": "Atlantic Coast Conference",
       "losses": null,
-      "percentage": 0.33333334,
+      "percentage": 0.42857143,
       "played": null,
       "position": 10,
       "sport": "cfb",
       "team": "Florida State Seminoles",
       "team_id": "52",
-      "wins": 4
+      "wins": 5
     },
     {
       "form": "L1",
@@ -419,20 +419,20 @@
       "played": null,
       "position": 4,
       "sport": "cfb",
-      "team": "Houston Cougars",
-      "team_id": "248",
+      "team": "Arizona Wildcats",
+      "team_id": "12",
       "wins": 7
     },
     {
-      "form": "W1",
+      "form": "L1",
       "group": "Big 12 Conference",
       "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.5714286,
       "played": null,
       "position": 5,
       "sport": "cfb",
-      "team": "Arizona Wildcats",
-      "team_id": "12",
+      "team": "Houston Cougars",
+      "team_id": "248",
       "wins": 7
     },
     {
@@ -544,16 +544,16 @@
       "wins": 4
     },
     {
-      "form": "L1",
+      "form": "W1",
       "group": "Big 12 Conference",
       "losses": null,
-      "percentage": 0.16666667,
+      "percentage": 0.2857143,
       "played": null,
       "position": 15,
       "sport": "cfb",
       "team": "Colorado Buffaloes",
       "team_id": "38",
-      "wins": 3
+      "wins": 4
     },
     {
       "form": "L2",
@@ -568,7 +568,7 @@
       "wins": 3
     },
     {
-      "form": "W9",
+      "form": "W10",
       "group": "Big Ten Conference",
       "losses": null,
       "percentage": 1.0,
@@ -577,7 +577,7 @@
       "sport": "cfb",
       "team": "UCLA Bruins",
       "team_id": "26",
-      "wins": 9
+      "wins": 10
     },
     {
       "form": "W2",
@@ -652,27 +652,27 @@
       "wins": 6
     },
     {
-      "form": "W4",
-      "group": "Big Ten Conference",
-      "losses": null,
-      "percentage": 0.6666667,
-      "played": null,
-      "position": 8,
-      "sport": "cfb",
-      "team": "Illinois Fighting Illini",
-      "team_id": "356",
-      "wins": 6
-    },
-    {
       "form": "L2",
       "group": "Big Ten Conference",
       "losses": null,
       "percentage": 0.5,
       "played": null,
-      "position": 9,
+      "position": 8,
       "sport": "cfb",
       "team": "Northwestern Wildcats",
       "team_id": "77",
+      "wins": 6
+    },
+    {
+      "form": "L1",
+      "group": "Big Ten Conference",
+      "losses": null,
+      "percentage": 0.5714286,
+      "played": null,
+      "position": 9,
+      "sport": "cfb",
+      "team": "Illinois Fighting Illini",
+      "team_id": "356",
       "wins": 6
     },
     {
