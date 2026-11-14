@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-11-14T13:51:49.347259Z",
+  "refreshed_at_utc": "2026-11-14T18:53:49.252119Z",
   "dates_requested": [
     "20261113",
     "20261114",
@@ -62,14 +62,14 @@
       "date_utc": "2026-11-14T18:00Z",
       "name": "Seattle Kraken at Carolina Hurricanes",
       "short_name": "SEA @ CAR",
-      "status": "Scheduled",
-      "status_short": "11/14 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "End of Period",
+      "status_short": "End of 1st",
+      "state": "in",
+      "period": 1,
       "clock": "0:00",
       "home_team": "Carolina Hurricanes",
       "away_team": "Seattle Kraken",
-      "home_score": "0",
+      "home_score": "2",
       "away_score": "0",
       "home_record": "15-3-2",
       "away_record": "9-7-1",
@@ -80,7 +80,7 @@
         "KONG",
         "Prime Video (Local)"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401891809/kraken-hurricanes"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401891809"
     },
     {
       "sport": "nhl",
