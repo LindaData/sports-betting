@@ -1,59 +1,13 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-13T18:37:05.480963Z",
+  "refreshed_at_utc": "2026-11-14T00:02:59.143751Z",
   "dates_requested": [
-    "20261112",
     "20261113",
-    "20261114"
+    "20261114",
+    "20261115"
   ],
-  "event_count": 61,
+  "event_count": 59,
   "events": [
-    {
-      "sport": "cfb",
-      "event_id": "401862824",
-      "date_utc": "2026-11-13T01:00Z",
-      "name": "Memphis Tigers at South Florida Bulls",
-      "short_name": "MEM @ USF",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "South Florida Bulls",
-      "away_team": "Memphis Tigers",
-      "home_score": "41",
-      "away_score": "52",
-      "home_record": "6-4",
-      "away_record": "8-2",
-      "venue": "Raymond James Stadium",
-      "broadcasts": [
-        "ESPN"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862824/memphis-south-florida"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401869969",
-      "date_utc": "2026-11-13T02:00Z",
-      "name": "Louisiana Ragin' Cajuns at UL Monroe Warhawks",
-      "short_name": "UL @ ULM",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "UL Monroe Warhawks",
-      "away_team": "Louisiana Ragin' Cajuns",
-      "home_score": "21",
-      "away_score": "42",
-      "home_record": "2-8",
-      "away_record": "7-3",
-      "venue": "Malone Stadium",
-      "broadcasts": [
-        "ESPN2"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401869969/louisiana-ul-monroe"
-    },
     {
       "sport": "cfb",
       "event_id": "401858293",
