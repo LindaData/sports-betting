@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-11-15T16:42:12.731298Z",
+  "refreshed_at_utc": "2026-11-15T21:24:38.578368Z",
   "dates_requested": [
     "20261114",
     "20261115",
@@ -132,17 +132,17 @@
       "date_utc": "2026-11-15T18:00Z",
       "name": "Indiana Pacers at Philadelphia 76ers",
       "short_name": "IND @ PHI",
-      "status": "Scheduled",
-      "status_short": "11/15 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0.0",
       "home_team": "Philadelphia 76ers",
       "away_team": "Indiana Pacers",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "10-3",
-      "away_record": "5-8",
+      "home_score": "131",
+      "away_score": "124",
+      "home_record": "11-3",
+      "away_record": "5-9",
       "venue": "Xfinity Mobile Arena",
       "broadcasts": [
         "DAZN IND"
@@ -155,15 +155,15 @@
       "date_utc": "2026-11-15T21:00Z",
       "name": "Los Angeles Lakers at Phoenix Suns",
       "short_name": "LAL @ PHX",
-      "status": "Scheduled",
-      "status_short": "11/15 - 4:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0.0",
+      "status": "In Progress",
+      "status_short": "6:42 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "6:42",
       "home_team": "Phoenix Suns",
       "away_team": "Los Angeles Lakers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "5",
+      "away_score": "23",
       "home_record": "5-6",
       "away_record": "11-2",
       "venue": "Mortgage Matchup Center",
@@ -173,7 +173,7 @@
         "Arizona's Family 3TV",
         "Suns Live"
       ],
-      "link": "https://www.espn.com/nba/game/_/gameId/401909986/lakers-suns"
+      "link": "https://www.espn.com/nba/game?gameId=401909986"
     },
     {
       "sport": "nba",
@@ -424,7 +424,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "3-9",
-      "away_record": "10-3",
+      "away_record": "11-3",
       "venue": "Barclays Center",
       "broadcasts": [
         "DAZN (YES)"

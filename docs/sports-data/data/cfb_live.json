@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-15T16:42:12.731298Z",
+  "refreshed_at_utc": "2026-11-15T21:24:38.578368Z",
   "dates_requested": [
     "20261114",
     "20261115",
@@ -1281,17 +1281,17 @@
       "date_utc": "2026-11-15T18:00Z",
       "name": "Ole Miss Rebels at Oklahoma Sooners",
       "short_name": "MISS @ OU",
-      "status": "Scheduled",
-      "status_short": "11/15 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Oklahoma Sooners",
       "away_team": "Ole Miss Rebels",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "5-4",
-      "away_record": "6-3",
+      "home_score": "24",
+      "away_score": "17",
+      "home_record": "6-4",
+      "away_record": "6-4",
       "venue": "Memorial Stadium (Norman, OK)",
       "broadcasts": [
         "SEC Network"
