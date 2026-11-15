@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-15T09:39:57.312477Z",
+  "refreshed_at_utc": "2026-11-15T16:42:12.731298Z",
   "dates_requested": [
     "20261114",
     "20261115",
@@ -14,22 +14,22 @@
       "date_utc": "2026-11-15T14:30Z",
       "name": "New England Patriots at Detroit Lions",
       "short_name": "NE VS DET",
-      "status": "Scheduled",
-      "status_short": "11/15 - 9:30 AM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "7:35 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "7:35",
       "home_team": "Detroit Lions",
       "away_team": "New England Patriots",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "28",
+      "away_score": "3",
       "home_record": "6-2",
       "away_record": "5-4",
       "venue": "FC Bayern Munich Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873053/patriots-lions"
+      "link": "https://www.espn.com/nfl/game?gameId=401873053"
     },
     {
       "sport": "nfl",
