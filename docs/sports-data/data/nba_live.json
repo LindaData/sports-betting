@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "refreshed_at_utc": "2026-11-15T02:16:18.947135Z",
+  "refreshed_at_utc": "2026-11-15T09:39:57.312477Z",
   "dates_requested": [
     "20261114",
     "20261115",
@@ -14,23 +14,23 @@
       "date_utc": "2026-11-15T00:00Z",
       "name": "Denver Nuggets at New Orleans Pelicans",
       "short_name": "DEN @ NO",
-      "status": "In Progress",
-      "status_short": "5:01 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "5:01",
+      "clock": "0.0",
       "home_team": "New Orleans Pelicans",
       "away_team": "Denver Nuggets",
-      "home_score": "93",
-      "away_score": "104",
-      "home_record": "4-9",
-      "away_record": "6-4",
+      "home_score": "108",
+      "away_score": "116",
+      "home_record": "4-10",
+      "away_record": "7-4",
       "venue": "Smoothie King Center",
       "broadcasts": [
         "GCSEN",
         "Pelicans.com"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401909980"
+      "link": "https://www.espn.com/nba/game/_/gameId/401909980/nuggets-pelicans"
     },
     {
       "sport": "nba",
@@ -38,23 +38,23 @@
       "date_utc": "2026-11-15T00:30Z",
       "name": "Dallas Mavericks at Cleveland Cavaliers",
       "short_name": "DAL @ CLE",
-      "status": "In Progress",
-      "status_short": "3:03 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "3:03",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "12:00",
       "home_team": "Cleveland Cavaliers",
       "away_team": "Dallas Mavericks",
-      "home_score": "95",
-      "away_score": "80",
-      "home_record": "6-7",
-      "away_record": "7-5",
+      "home_score": "127",
+      "away_score": "117",
+      "home_record": "7-7",
+      "away_record": "7-6",
       "venue": "Rocket Arena",
       "broadcasts": [
         "KFAA-TV",
         "MavsTV"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401909981"
+      "link": "https://www.espn.com/nba/game/_/gameId/401909981/mavericks-cavaliers"
     },
     {
       "sport": "nba",
@@ -62,22 +62,22 @@
       "date_utc": "2026-11-15T01:00Z",
       "name": "Detroit Pistons at Miami Heat",
       "short_name": "DET @ MIA",
-      "status": "In Progress",
-      "status_short": "1:33 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "1:33",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0.0",
       "home_team": "Miami Heat",
       "away_team": "Detroit Pistons",
-      "home_score": "60",
-      "away_score": "56",
-      "home_record": "6-6",
-      "away_record": "8-3",
+      "home_score": "137",
+      "away_score": "117",
+      "home_record": "7-6",
+      "away_record": "8-4",
       "venue": "Kaseya Center",
       "broadcasts": [
         "NBA TV"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401909982"
+      "link": "https://www.espn.com/nba/game/_/gameId/401909982/pistons-heat"
     },
     {
       "sport": "nba",
@@ -85,23 +85,23 @@
       "date_utc": "2026-11-15T01:00Z",
       "name": "Brooklyn Nets at Memphis Grizzlies",
       "short_name": "BKN @ MEM",
-      "status": "Halftime",
-      "status_short": "Halftime",
-      "state": "in",
-      "period": 2,
-      "clock": "0.0",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "12:00",
       "home_team": "Memphis Grizzlies",
       "away_team": "Brooklyn Nets",
-      "home_score": "71",
-      "away_score": "54",
-      "home_record": "8-4",
-      "away_record": "3-8",
+      "home_score": "129",
+      "away_score": "110",
+      "home_record": "9-4",
+      "away_record": "3-9",
       "venue": "FedExForum",
       "broadcasts": [
         "DAZN (YES)",
         "DAZN MEM"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401909983"
+      "link": "https://www.espn.com/nba/game/_/gameId/401909983/nets-grizzlies"
     },
     {
       "sport": "nba",
@@ -109,22 +109,22 @@
       "date_utc": "2026-11-15T01:00Z",
       "name": "Chicago Bulls at Minnesota Timberwolves",
       "short_name": "CHI @ MIN",
-      "status": "Halftime",
-      "status_short": "Halftime",
-      "state": "in",
-      "period": 2,
-      "clock": "0.0",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "12:00",
       "home_team": "Minnesota Timberwolves",
       "away_team": "Chicago Bulls",
-      "home_score": "45",
-      "away_score": "58",
-      "home_record": "9-3",
-      "away_record": "2-9",
+      "home_score": "106",
+      "away_score": "117",
+      "home_record": "9-4",
+      "away_record": "3-9",
       "venue": "Target Center",
       "broadcasts": [
         "DAZN MIN"
       ],
-      "link": "https://www.espn.com/nba/game?gameId=401909984"
+      "link": "https://www.espn.com/nba/game/_/gameId/401909984/bulls-timberwolves"
     },
     {
       "sport": "nba",
@@ -239,7 +239,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "10-2",
-      "away_record": "7-5",
+      "away_record": "7-6",
       "venue": "TD Garden",
       "broadcasts": [
         "KFAA-TV",
@@ -377,8 +377,8 @@
       "away_team": "Chicago Bulls",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "6-7",
-      "away_record": "2-9",
+      "home_record": "7-7",
+      "away_record": "3-9",
       "venue": "Rocket Arena",
       "broadcasts": [
         "DAZN CLE"
@@ -401,7 +401,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "4-9",
-      "away_record": "8-4",
+      "away_record": "9-4",
       "venue": "Capital One Arena",
       "broadcasts": [
         "MNMT"
@@ -423,7 +423,7 @@
       "away_team": "Philadelphia 76ers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "3-8",
+      "home_record": "3-9",
       "away_record": "10-3",
       "venue": "Barclays Center",
       "broadcasts": [
@@ -446,7 +446,7 @@
       "away_team": "Houston Rockets",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "6-6",
+      "home_record": "7-6",
       "away_record": "10-3",
       "venue": "Kaseya Center",
       "broadcasts": [],
@@ -467,7 +467,7 @@
       "away_team": "Portland Trail Blazers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "9-3",
+      "home_record": "9-4",
       "away_record": "9-3",
       "venue": "Target Center",
       "broadcasts": [
@@ -492,7 +492,7 @@
       "away_team": "Golden State Warriors",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "4-9",
+      "home_record": "4-10",
       "away_record": "8-5",
       "venue": "Smoothie King Center",
       "broadcasts": [
@@ -516,7 +516,7 @@
       "away_team": "Phoenix Suns",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "6-4",
+      "home_record": "7-4",
       "away_record": "5-6",
       "venue": "Ball Arena",
       "broadcasts": [
