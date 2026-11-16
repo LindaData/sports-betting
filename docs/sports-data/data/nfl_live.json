@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-16T01:12:06.002570Z",
+  "refreshed_at_utc": "2026-11-16T08:10:11.134439Z",
   "dates_requested": [
     "20261115",
     "20261116",
@@ -267,17 +267,17 @@
       "date_utc": "2026-11-16T01:20Z",
       "name": "Pittsburgh Steelers at Cincinnati Bengals",
       "short_name": "PIT @ CIN",
-      "status": "Scheduled",
-      "status_short": "11/15 - 8:20 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Cincinnati Bengals",
       "away_team": "Pittsburgh Steelers",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "6-2",
-      "away_record": "6-2",
+      "home_score": "38",
+      "away_score": "18",
+      "home_record": "7-2",
+      "away_record": "6-3",
       "venue": "Paycor Stadium",
       "broadcasts": [
         "NBC"
