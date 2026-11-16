@@ -1,10 +1,10 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-15T21:24:38.578368Z",
+  "refreshed_at_utc": "2026-11-16T01:12:06.002570Z",
   "dates_requested": [
-    "20261114",
     "20261115",
-    "20261116"
+    "20261116",
+    "20261117"
   ],
   "event_count": 13,
   "events": [
@@ -30,29 +30,6 @@
         "Fox"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401873053/patriots-lions"
-    },
-    {
-      "sport": "nfl",
-      "event_id": "401873059",
-      "date_utc": "2026-11-15T18:00Z",
-      "name": "Miami Dolphins at Indianapolis Colts",
-      "short_name": "MIA @ IND",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Indianapolis Colts",
-      "away_team": "Miami Dolphins",
-      "home_score": "24",
-      "away_score": "22",
-      "home_record": "3-7",
-      "away_record": "1-8",
-      "venue": "Lucas Oil Stadium",
-      "broadcasts": [
-        "CBS"
-      ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873059/dolphins-colts"
     },
     {
       "sport": "nfl",
@@ -148,6 +125,29 @@
     },
     {
       "sport": "nfl",
+      "event_id": "401873059",
+      "date_utc": "2026-11-15T18:00Z",
+      "name": "Miami Dolphins at Indianapolis Colts",
+      "short_name": "MIA @ IND",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
+      "home_team": "Indianapolis Colts",
+      "away_team": "Miami Dolphins",
+      "home_score": "24",
+      "away_score": "22",
+      "home_record": "3-7",
+      "away_record": "1-8",
+      "venue": "Lucas Oil Stadium",
+      "broadcasts": [
+        "CBS"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873059/dolphins-colts"
+    },
+    {
+      "sport": "nfl",
       "event_id": "401873055",
       "date_utc": "2026-11-15T18:00Z",
       "name": "Carolina Panthers at New Orleans Saints",
@@ -198,22 +198,22 @@
       "date_utc": "2026-11-15T21:05Z",
       "name": "Seattle Seahawks at Las Vegas Raiders",
       "short_name": "SEA @ LV",
-      "status": "In Progress",
-      "status_short": "5:00 - 1st",
-      "state": "in",
-      "period": 1,
-      "clock": "5:00",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Las Vegas Raiders",
       "away_team": "Seattle Seahawks",
-      "home_score": "7",
-      "away_score": "0",
-      "home_record": "4-5",
-      "away_record": "5-4",
+      "home_score": "13",
+      "away_score": "21",
+      "home_record": "4-6",
+      "away_record": "6-4",
       "venue": "Allegiant Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873062"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873062/seahawks-raiders"
     },
     {
       "sport": "nfl",
@@ -221,22 +221,22 @@
       "date_utc": "2026-11-15T21:05Z",
       "name": "Los Angeles Rams at Arizona Cardinals",
       "short_name": "LAR @ ARI",
-      "status": "In Progress",
-      "status_short": "6:56 - 1st",
-      "state": "in",
-      "period": 1,
-      "clock": "6:56",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Arizona Cardinals",
       "away_team": "Los Angeles Rams",
-      "home_score": "3",
-      "away_score": "0",
-      "home_record": "3-6",
-      "away_record": "5-4",
+      "home_score": "6",
+      "away_score": "34",
+      "home_record": "3-7",
+      "away_record": "6-4",
       "venue": "State Farm Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873061"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873061/rams-cardinals"
     },
     {
       "sport": "nfl",
@@ -244,17 +244,17 @@
       "date_utc": "2026-11-15T21:25Z",
       "name": "San Francisco 49ers at Dallas Cowboys",
       "short_name": "SF @ DAL",
-      "status": "Scheduled",
-      "status_short": "11/15 - 4:25 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Dallas Cowboys",
       "away_team": "San Francisco 49ers",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "4-5",
-      "away_record": "7-1",
+      "home_score": "40",
+      "away_score": "46",
+      "home_record": "4-6",
+      "away_record": "8-1",
       "venue": "AT&T Stadium",
       "broadcasts": [
         "Fox"
