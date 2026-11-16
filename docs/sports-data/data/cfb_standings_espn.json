@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-11-15T16:31:45.567455Z",
+  "refreshed_at_utc": "2026-11-16T19:47:39.137281Z",
   "sport": "cfb",
   "standings": [
     {
@@ -1360,12 +1360,36 @@
       "wins": 7
     },
     {
-      "form": "L1",
+      "form": "W2",
       "group": "Southeastern Conference",
       "losses": null,
       "percentage": 0.5714286,
       "played": null,
       "position": 6,
+      "sport": "cfb",
+      "team": "Oklahoma Sooners",
+      "team_id": "201",
+      "wins": 6
+    },
+    {
+      "form": "W1",
+      "group": "Southeastern Conference",
+      "losses": null,
+      "percentage": 0.5,
+      "played": null,
+      "position": 7,
+      "sport": "cfb",
+      "team": "Florida Gators",
+      "team_id": "57",
+      "wins": 6
+    },
+    {
+      "form": "L2",
+      "group": "Southeastern Conference",
+      "losses": null,
+      "percentage": 0.5,
+      "played": null,
+      "position": 8,
       "sport": "cfb",
       "team": "Ole Miss Rebels",
       "team_id": "145",
@@ -1377,22 +1401,10 @@
       "losses": null,
       "percentage": 0.5,
       "played": null,
-      "position": 7,
+      "position": 9,
       "sport": "cfb",
       "team": "South Carolina Gamecocks",
       "team_id": "2579",
-      "wins": 6
-    },
-    {
-      "form": "W1",
-      "group": "Southeastern Conference",
-      "losses": null,
-      "percentage": 0.5,
-      "played": null,
-      "position": 8,
-      "sport": "cfb",
-      "team": "Florida Gators",
-      "team_id": "57",
       "wins": 6
     },
     {
@@ -1401,7 +1413,7 @@
       "losses": null,
       "percentage": 0.5,
       "played": null,
-      "position": 9,
+      "position": 10,
       "sport": "cfb",
       "team": "Auburn Tigers",
       "team_id": "2",
@@ -1413,7 +1425,7 @@
       "losses": null,
       "percentage": 0.42857143,
       "played": null,
-      "position": 10,
+      "position": 11,
       "sport": "cfb",
       "team": "LSU Tigers",
       "team_id": "99",
@@ -1425,23 +1437,11 @@
       "losses": null,
       "percentage": 0.42857143,
       "played": null,
-      "position": 11,
+      "position": 12,
       "sport": "cfb",
       "team": "Missouri Tigers",
       "team_id": "142",
       "wins": 6
-    },
-    {
-      "form": "W1",
-      "group": "Southeastern Conference",
-      "losses": null,
-      "percentage": 0.5,
-      "played": null,
-      "position": 12,
-      "sport": "cfb",
-      "team": "Oklahoma Sooners",
-      "team_id": "201",
-      "wins": 5
     },
     {
       "form": "W1",
