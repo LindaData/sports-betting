@@ -1,6 +1,6 @@
 {
   "league": "NHL",
-  "refreshed_at_utc": "2026-11-16T19:47:39.137281Z",
+  "refreshed_at_utc": "2026-11-17T18:43:14.322922Z",
   "sport": "nhl",
   "standings": [
     {
@@ -40,28 +40,28 @@
       "wins": 13
     },
     {
-      "form": "L1",
-      "group": "Eastern Conference",
-      "losses": 4,
-      "percentage": 0.6,
-      "played": 20,
-      "position": 4,
-      "sport": "nhl",
-      "team": "Montreal Canadiens",
-      "team_id": "10",
-      "wins": 12
-    },
-    {
       "form": "W2",
       "group": "Eastern Conference",
       "losses": 6,
       "percentage": 0.6190476190476191,
       "played": 21,
-      "position": 5,
+      "position": 4,
       "sport": "nhl",
       "team": "Ottawa Senators",
       "team_id": "14",
       "wins": 13
+    },
+    {
+      "form": "L2",
+      "group": "Eastern Conference",
+      "losses": 5,
+      "percentage": 0.5714285714285714,
+      "played": 21,
+      "position": 5,
+      "sport": "nhl",
+      "team": "Montreal Canadiens",
+      "team_id": "10",
+      "wins": 12
     },
     {
       "form": "L2",
@@ -76,27 +76,27 @@
       "wins": 13
     },
     {
+      "form": "W3",
+      "group": "Eastern Conference",
+      "losses": 8,
+      "percentage": 0.5909090909090909,
+      "played": 22,
+      "position": 7,
+      "sport": "nhl",
+      "team": "New York Rangers",
+      "team_id": "13",
+      "wins": 13
+    },
+    {
       "form": "L1",
       "group": "Eastern Conference",
       "losses": 7,
       "percentage": 0.5454545454545454,
       "played": 22,
-      "position": 7,
+      "position": 8,
       "sport": "nhl",
       "team": "Florida Panthers",
       "team_id": "26",
-      "wins": 12
-    },
-    {
-      "form": "W2",
-      "group": "Eastern Conference",
-      "losses": 8,
-      "percentage": 0.5714285714285714,
-      "played": 21,
-      "position": 8,
-      "sport": "nhl",
-      "team": "New York Rangers",
-      "team_id": "13",
       "wins": 12
     },
     {
@@ -280,27 +280,27 @@
       "wins": 11
     },
     {
-      "form": "L5",
+      "form": "W6",
       "group": "Western Conference",
       "losses": 8,
       "percentage": 0.47619047619047616,
       "played": 21,
       "position": 8,
       "sport": "nhl",
-      "team": "Utah Mammoth",
-      "team_id": "129764",
+      "team": "Winnipeg Jets",
+      "team_id": "28",
       "wins": 10
     },
     {
-      "form": "W6",
+      "form": "L6",
       "group": "Western Conference",
-      "losses": 8,
-      "percentage": 0.47619047619047616,
-      "played": 21,
+      "losses": 9,
+      "percentage": 0.45454545454545453,
+      "played": 22,
       "position": 9,
       "sport": "nhl",
-      "team": "Winnipeg Jets",
-      "team_id": "28",
+      "team": "Utah Mammoth",
+      "team_id": "129764",
       "wins": 10
     },
     {
@@ -376,16 +376,16 @@
       "wins": 5
     },
     {
-      "form": "W1",
+      "form": "W2",
       "group": "Western Conference",
       "losses": 17,
-      "percentage": 0.18181818181818182,
-      "played": 22,
+      "percentage": 0.21739130434782608,
+      "played": 23,
       "position": 16,
       "sport": "nhl",
       "team": "Vancouver Canucks",
       "team_id": "22",
-      "wins": 4
+      "wins": 5
     }
   ],
   "standings_rows": 32
