@@ -1,36 +1,13 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-16T18:43:31.267720Z",
+  "refreshed_at_utc": "2026-11-17T02:12:29.930258Z",
   "dates_requested": [
-    "20261115",
     "20261116",
-    "20261117"
+    "20261117",
+    "20261118"
   ],
-  "event_count": 4,
+  "event_count": 5,
   "events": [
-    {
-      "sport": "cfb",
-      "event_id": "401856887",
-      "date_utc": "2026-11-15T18:00Z",
-      "name": "Ole Miss Rebels at Oklahoma Sooners",
-      "short_name": "MISS @ OU",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Oklahoma Sooners",
-      "away_team": "Ole Miss Rebels",
-      "home_score": "24",
-      "away_score": "17",
-      "home_record": "6-4",
-      "away_record": "6-4",
-      "venue": "Memorial Stadium (Norman, OK)",
-      "broadcasts": [
-        "SEC Network"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856887/ole-miss-oklahoma"
-    },
     {
       "sport": "cfb",
       "event_id": "401866465",
@@ -99,6 +76,52 @@
         "ESPNU"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401866466/miami-oh-kent-state"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401866467",
+      "date_utc": "2026-11-19T00:00Z",
+      "name": "Akron Zips at Massachusetts Minutemen",
+      "short_name": "AKR @ MASS",
+      "status": "Scheduled",
+      "status_short": "11/18 - 7:00 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Massachusetts Minutemen",
+      "away_team": "Akron Zips",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "5-5",
+      "away_record": "1-9",
+      "venue": "Warren McGuirk Alumni Stadium",
+      "broadcasts": [
+        "CBSSN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866467/akron-umass"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401866469",
+      "date_utc": "2026-11-19T00:30Z",
+      "name": "Central Michigan Chippewas at Buffalo Bulls",
+      "short_name": "CMU @ BUFF",
+      "status": "Scheduled",
+      "status_short": "11/18 - 7:30 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Buffalo Bulls",
+      "away_team": "Central Michigan Chippewas",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "7-3",
+      "away_record": "5-5",
+      "venue": "Broadview Stadium",
+      "broadcasts": [
+        "ESPNU"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866469/c-michigan-buffalo"
     }
   ],
   "errors": []
