@@ -1,5 +1,5 @@
 {
-  "dates_requested": "20261110-20261201",
+  "dates_requested": "20261111-20261202",
   "errors": [],
   "event_count": 43,
   "events": [
@@ -599,24 +599,6 @@
     },
     {
       "away_score": null,
-      "away_team": "Las Vegas Raiders",
-      "away_team_id": "13",
-      "city": "Cleveland",
-      "date_utc": "2026-11-29T18:00Z",
-      "game_id": "401873086",
-      "home_score": null,
-      "home_team": "Cleveland Browns",
-      "home_team_id": "5",
-      "league": "National Football League",
-      "league_id": "nfl",
-      "season": "2026",
-      "sport": "nfl",
-      "status": "Scheduled",
-      "status_code": "pre",
-      "venue": "Huntington Bank Field"
-    },
-    {
-      "away_score": null,
       "away_team": "New York Giants",
       "away_team_id": "19",
       "city": "Indianapolis",
@@ -671,6 +653,24 @@
     },
     {
       "away_score": null,
+      "away_team": "Tennessee Titans",
+      "away_team_id": "10",
+      "city": "Jacksonville",
+      "date_utc": "2026-11-29T18:00Z",
+      "game_id": "401873090",
+      "home_score": null,
+      "home_team": "Jacksonville Jaguars",
+      "home_team_id": "30",
+      "league": "National Football League",
+      "league_id": "nfl",
+      "season": "2026",
+      "sport": "nfl",
+      "status": "Scheduled",
+      "status_code": "pre",
+      "venue": "EverBank Stadium"
+    },
+    {
+      "away_score": null,
       "away_team": "Baltimore Ravens",
       "away_team_id": "33",
       "city": "Houston",
@@ -689,21 +689,21 @@
     },
     {
       "away_score": null,
-      "away_team": "Tennessee Titans",
-      "away_team_id": "10",
-      "city": "Jacksonville",
+      "away_team": "New England Patriots",
+      "away_team_id": "17",
+      "city": "Inglewood",
       "date_utc": "2026-11-29T21:05Z",
-      "game_id": "401873090",
+      "game_id": "401873093",
       "home_score": null,
-      "home_team": "Jacksonville Jaguars",
-      "home_team_id": "30",
+      "home_team": "Los Angeles Chargers",
+      "home_team_id": "24",
       "league": "National Football League",
       "league_id": "nfl",
       "season": "2026",
       "sport": "nfl",
       "status": "Scheduled",
       "status_code": "pre",
-      "venue": "EverBank Stadium"
+      "venue": "SoFi Stadium"
     },
     {
       "away_score": null,
@@ -743,21 +743,21 @@
     },
     {
       "away_score": null,
-      "away_team": "New England Patriots",
-      "away_team_id": "17",
-      "city": "Inglewood",
+      "away_team": "Las Vegas Raiders",
+      "away_team_id": "13",
+      "city": "Cleveland",
       "date_utc": "2026-11-30T01:20Z",
-      "game_id": "401873093",
+      "game_id": "401873086",
       "home_score": null,
-      "home_team": "Los Angeles Chargers",
-      "home_team_id": "24",
+      "home_team": "Cleveland Browns",
+      "home_team_id": "5",
       "league": "National Football League",
       "league_id": "nfl",
       "season": "2026",
       "sport": "nfl",
       "status": "Scheduled",
       "status_code": "pre",
-      "venue": "SoFi Stadium"
+      "venue": "Huntington Bank Field"
     },
     {
       "away_score": null,
@@ -780,8 +780,8 @@
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261110-20261201&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261111-20261202&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-11-17T18:43:14.322922Z",
+  "refreshed_at_utc": "2026-11-18T18:19:50.379117Z",
   "sport": "nfl"
 }

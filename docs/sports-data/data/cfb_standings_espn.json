@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-11-17T18:43:14.322922Z",
+  "refreshed_at_utc": "2026-11-18T18:19:50.379117Z",
   "sport": "cfb",
   "standings": [
     {
@@ -940,16 +940,28 @@
       "wins": 8
     },
     {
-      "form": "W2",
+      "form": "W1",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.8333333,
+      "percentage": 0.85714287,
       "played": null,
       "position": 2,
       "sport": "cfb",
+      "team": "Ohio Bobcats",
+      "team_id": "195",
+      "wins": 8
+    },
+    {
+      "form": "W3",
+      "group": "Mid-American Conference",
+      "losses": null,
+      "percentage": 0.85714287,
+      "played": null,
+      "position": 3,
+      "sport": "cfb",
       "team": "Western Michigan Broncos",
       "team_id": "2711",
-      "wins": 7
+      "wins": 8
     },
     {
       "form": "W5",
@@ -957,35 +969,23 @@
       "losses": null,
       "percentage": 0.8333333,
       "played": null,
-      "position": 3,
+      "position": 4,
       "sport": "cfb",
       "team": "Buffalo Bulls",
       "team_id": "2084",
       "wins": 7
     },
     {
-      "form": "L1",
+      "form": "W2",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.8333333,
-      "played": null,
-      "position": 4,
-      "sport": "cfb",
-      "team": "Ohio Bobcats",
-      "team_id": "195",
-      "wins": 7
-    },
-    {
-      "form": "W1",
-      "group": "Mid-American Conference",
-      "losses": null,
-      "percentage": 0.6666667,
+      "percentage": 0.71428573,
       "played": null,
       "position": 5,
       "sport": "cfb",
       "team": "Miami (OH) RedHawks",
       "team_id": "193",
-      "wins": 6
+      "wins": 7
     },
     {
       "form": "W2",
@@ -1012,10 +1012,10 @@
       "wins": 5
     },
     {
-      "form": "L3",
+      "form": "L4",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.42857143,
       "played": null,
       "position": 8,
       "sport": "cfb",
@@ -1036,10 +1036,10 @@
       "wins": 3
     },
     {
-      "form": "L2",
+      "form": "L3",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.33333334,
+      "percentage": 0.2857143,
       "played": null,
       "position": 10,
       "sport": "cfb",
@@ -1048,10 +1048,10 @@
       "wins": 3
     },
     {
-      "form": "L2",
+      "form": "L3",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.33333334,
+      "percentage": 0.2857143,
       "played": null,
       "position": 11,
       "sport": "cfb",
