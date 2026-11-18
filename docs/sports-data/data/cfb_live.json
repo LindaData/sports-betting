@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-18T01:46:34.270571Z",
+  "refreshed_at_utc": "2026-11-18T09:28:41.504335Z",
   "dates_requested": [
     "20261117",
     "20261118",
@@ -14,22 +14,22 @@
       "date_utc": "2026-11-17T23:00Z",
       "name": "Eastern Michigan Eagles at Western Michigan Broncos",
       "short_name": "EMU @ WMU",
-      "status": "In Progress",
-      "status_short": "11:16 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "11:16",
+      "clock": "0:00",
       "home_team": "Western Michigan Broncos",
       "away_team": "Eastern Michigan Eagles",
       "home_score": "34",
-      "away_score": "20",
-      "home_record": "7-3",
-      "away_record": "4-6",
+      "away_score": "27",
+      "home_record": "8-3",
+      "away_record": "4-7",
       "venue": "Waldo Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401866465"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866465/e-michigan-w-michigan"
     },
     {
       "sport": "cfb",
@@ -37,22 +37,22 @@
       "date_utc": "2026-11-18T00:00Z",
       "name": "Ball State Cardinals at Ohio Bobcats",
       "short_name": "BALL @ OHIO",
-      "status": "Halftime",
-      "status_short": "Halftime",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Ohio Bobcats",
       "away_team": "Ball State Cardinals",
-      "home_score": "14",
-      "away_score": "20",
-      "home_record": "7-3",
-      "away_record": "3-7",
+      "home_score": "35",
+      "away_score": "28",
+      "home_record": "8-3",
+      "away_record": "3-8",
       "venue": "Peden Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401866464"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866464/ball-state-ohio"
     },
     {
       "sport": "cfb",
@@ -60,22 +60,22 @@
       "date_utc": "2026-11-18T00:00Z",
       "name": "Miami (OH) RedHawks at Kent State Golden Flashes",
       "short_name": "M-OH @ KENT",
-      "status": "In Progress",
-      "status_short": "13:21 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "13:21",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Kent State Golden Flashes",
       "away_team": "Miami (OH) RedHawks",
       "home_score": "3",
-      "away_score": "13",
-      "home_record": "3-7",
-      "away_record": "6-4",
+      "away_score": "20",
+      "home_record": "3-8",
+      "away_record": "7-4",
       "venue": "Zoeller Field at Dix Stadium",
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401866466"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866466/miami-oh-kent-state"
     },
     {
       "sport": "cfb",
