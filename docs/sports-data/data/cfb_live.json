@@ -1,12 +1,12 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-17T19:28:57.702716Z",
+  "refreshed_at_utc": "2026-11-18T01:46:34.270571Z",
   "dates_requested": [
-    "20261116",
     "20261117",
-    "20261118"
+    "20261118",
+    "20261119"
   ],
-  "event_count": 5,
+  "event_count": 6,
   "events": [
     {
       "sport": "cfb",
@@ -14,22 +14,22 @@
       "date_utc": "2026-11-17T23:00Z",
       "name": "Eastern Michigan Eagles at Western Michigan Broncos",
       "short_name": "EMU @ WMU",
-      "status": "Scheduled",
-      "status_short": "11/17 - 6:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "11:16 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "11:16",
       "home_team": "Western Michigan Broncos",
       "away_team": "Eastern Michigan Eagles",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "34",
+      "away_score": "20",
       "home_record": "7-3",
       "away_record": "4-6",
       "venue": "Waldo Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866465/e-michigan-w-michigan"
+      "link": "https://www.espn.com/college-football/game?gameId=401866465"
     },
     {
       "sport": "cfb",
@@ -37,22 +37,22 @@
       "date_utc": "2026-11-18T00:00Z",
       "name": "Ball State Cardinals at Ohio Bobcats",
       "short_name": "BALL @ OHIO",
-      "status": "Scheduled",
-      "status_short": "11/17 - 7:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Ohio Bobcats",
       "away_team": "Ball State Cardinals",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "14",
+      "away_score": "20",
       "home_record": "7-3",
       "away_record": "3-7",
       "venue": "Peden Stadium",
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866464/ball-state-ohio"
+      "link": "https://www.espn.com/college-football/game?gameId=401866464"
     },
     {
       "sport": "cfb",
@@ -60,22 +60,22 @@
       "date_utc": "2026-11-18T00:00Z",
       "name": "Miami (OH) RedHawks at Kent State Golden Flashes",
       "short_name": "M-OH @ KENT",
-      "status": "Scheduled",
-      "status_short": "11/17 - 7:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:21 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "13:21",
       "home_team": "Kent State Golden Flashes",
       "away_team": "Miami (OH) RedHawks",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "3",
+      "away_score": "13",
       "home_record": "3-7",
       "away_record": "6-4",
       "venue": "Zoeller Field at Dix Stadium",
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866466/miami-oh-kent-state"
+      "link": "https://www.espn.com/college-football/game?gameId=401866466"
     },
     {
       "sport": "cfb",
@@ -122,6 +122,29 @@
         "ESPNU"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401866469/c-michigan-buffalo"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401862830",
+      "date_utc": "2026-11-20T00:30Z",
+      "name": "Rice Owls at Temple Owls",
+      "short_name": "RICE @ TEM",
+      "status": "Scheduled",
+      "status_short": "11/19 - 7:30 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Temple Owls",
+      "away_team": "Rice Owls",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "2-8",
+      "away_record": "1-9",
+      "venue": "Lincoln Financial Field",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862830/rice-temple"
     }
   ],
   "errors": []
