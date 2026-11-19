@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-11-18T18:19:50.379117Z",
+  "refreshed_at_utc": "2026-11-19T18:36:06.703117Z",
   "sport": "cfb",
   "standings": [
     {
@@ -940,40 +940,40 @@
       "wins": 8
     },
     {
-      "form": "W1",
+      "form": "W3",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 0.85714287,
       "played": null,
       "position": 2,
       "sport": "cfb",
-      "team": "Ohio Bobcats",
-      "team_id": "195",
+      "team": "Western Michigan Broncos",
+      "team_id": "2711",
       "wins": 8
     },
     {
-      "form": "W3",
+      "form": "W6",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 0.85714287,
       "played": null,
       "position": 3,
       "sport": "cfb",
-      "team": "Western Michigan Broncos",
-      "team_id": "2711",
+      "team": "Buffalo Bulls",
+      "team_id": "2084",
       "wins": 8
     },
     {
-      "form": "W5",
+      "form": "W1",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.8333333,
+      "percentage": 0.85714287,
       "played": null,
       "position": 4,
       "sport": "cfb",
-      "team": "Buffalo Bulls",
-      "team_id": "2084",
-      "wins": 7
+      "team": "Ohio Bobcats",
+      "team_id": "195",
+      "wins": 8
     },
     {
       "form": "W2",
@@ -988,10 +988,10 @@
       "wins": 7
     },
     {
-      "form": "W2",
+      "form": "L1",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.5,
+      "percentage": 0.42857143,
       "played": null,
       "position": 6,
       "sport": "cfb",
@@ -1000,10 +1000,10 @@
       "wins": 5
     },
     {
-      "form": "L1",
+      "form": "L2",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.33333334,
+      "percentage": 0.2857143,
       "played": null,
       "position": 7,
       "sport": "cfb",
@@ -1060,28 +1060,28 @@
       "wins": 3
     },
     {
+      "form": "W1",
+      "group": "Mid-American Conference",
+      "losses": null,
+      "percentage": 0.14285715,
+      "played": null,
+      "position": 12,
+      "sport": "cfb",
+      "team": "Akron Zips",
+      "team_id": "2006",
+      "wins": 2
+    },
+    {
       "form": "L2",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 0.125,
       "played": null,
-      "position": 12,
+      "position": 13,
       "sport": "cfb",
       "team": "Sacramento State Hornets",
       "team_id": "16",
       "wins": 2
-    },
-    {
-      "form": "L8",
-      "group": "Mid-American Conference",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 13,
-      "sport": "cfb",
-      "team": "Akron Zips",
-      "team_id": "2006",
-      "wins": 1
     },
     {
       "form": "L1",
