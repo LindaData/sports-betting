@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-11-19T18:36:06.703117Z",
+  "refreshed_at_utc": "2026-11-20T17:57:53.314903Z",
   "sport": "cfb",
   "standings": [
     {
@@ -136,12 +136,24 @@
       "wins": 3
     },
     {
-      "form": "L5",
+      "form": "W1",
       "group": "American Conference",
       "losses": null,
-      "percentage": 0.16666667,
+      "percentage": 0.14285715,
       "played": null,
       "position": 12,
+      "sport": "cfb",
+      "team": "Rice Owls",
+      "team_id": "242",
+      "wins": 2
+    },
+    {
+      "form": "L6",
+      "group": "American Conference",
+      "losses": null,
+      "percentage": 0.14285715,
+      "played": null,
+      "position": 13,
       "sport": "cfb",
       "team": "Temple Owls",
       "team_id": "218",
@@ -153,22 +165,10 @@
       "losses": null,
       "percentage": 0.16666667,
       "played": null,
-      "position": 13,
+      "position": 14,
       "sport": "cfb",
       "team": "Charlotte 49ers",
       "team_id": "2429",
-      "wins": 1
-    },
-    {
-      "form": "L9",
-      "group": "American Conference",
-      "losses": null,
-      "percentage": 0.0,
-      "played": null,
-      "position": 14,
-      "sport": "cfb",
-      "team": "Rice Owls",
-      "team_id": "242",
       "wins": 1
     },
     {

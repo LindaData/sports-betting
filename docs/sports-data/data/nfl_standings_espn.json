@@ -1,6 +1,6 @@
 {
   "league": "NFL",
-  "refreshed_at_utc": "2026-11-19T18:36:06.703117Z",
+  "refreshed_at_utc": "2026-11-20T17:57:53.314903Z",
   "sport": "nfl",
   "standings": [
     {
@@ -100,12 +100,24 @@
       "wins": 5
     },
     {
-      "form": "L2",
+      "form": "W1",
       "group": "American Football Conference",
       "losses": 6,
       "percentage": 0.4,
       "played": 10,
       "position": 9,
+      "sport": "nfl",
+      "team": "Houston Texans",
+      "team_id": "34",
+      "wins": 4
+    },
+    {
+      "form": "L2",
+      "group": "American Football Conference",
+      "losses": 6,
+      "percentage": 0.4,
+      "played": 10,
+      "position": 10,
       "sport": "nfl",
       "team": "Las Vegas Raiders",
       "team_id": "13",
@@ -117,7 +129,7 @@
       "losses": 6,
       "percentage": 0.4,
       "played": 10,
-      "position": 10,
+      "position": 11,
       "sport": "nfl",
       "team": "Baltimore Ravens",
       "team_id": "33",
@@ -126,21 +138,9 @@
     {
       "form": "L1",
       "group": "American Football Conference",
-      "losses": 6,
-      "percentage": 0.33333334,
-      "played": 9,
-      "position": 11,
-      "sport": "nfl",
-      "team": "Houston Texans",
-      "team_id": "34",
-      "wins": 3
-    },
-    {
-      "form": "W1",
-      "group": "American Football Conference",
-      "losses": 7,
-      "percentage": 0.3,
-      "played": 10,
+      "losses": 8,
+      "percentage": 0.27272728,
+      "played": 11,
       "position": 12,
       "sport": "nfl",
       "team": "Indianapolis Colts",
