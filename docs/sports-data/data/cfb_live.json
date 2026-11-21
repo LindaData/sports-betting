@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-21T10:27:15.092631Z",
+  "refreshed_at_utc": "2026-11-21T17:42:21.261069Z",
   "dates_requested": [
     "20261120",
     "20261121",
@@ -152,14 +152,14 @@
       "date_utc": "2026-11-21T17:00Z",
       "name": "BYU Cougars at Kansas Jayhawks",
       "short_name": "BYU @ KU",
-      "status": "Scheduled",
-      "status_short": "11/21 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "15:00 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "15:00",
       "home_team": "Kansas Jayhawks",
       "away_team": "BYU Cougars",
-      "home_score": "0",
+      "home_score": "3",
       "away_score": "0",
       "home_record": "4-6",
       "away_record": "8-2",
@@ -167,7 +167,7 @@
       "broadcasts": [
         "ABC"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas"
+      "link": "https://www.espn.com/college-football/game?gameId=401856866"
     },
     {
       "sport": "cfb",
@@ -175,22 +175,22 @@
       "date_utc": "2026-11-21T17:00Z",
       "name": "Wake Forest Demon Deacons at Georgia Tech Yellow Jackets",
       "short_name": "WAKE @ GT",
-      "status": "Scheduled",
-      "status_short": "11/21 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "4:33 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "4:33",
       "home_team": "Georgia Tech Yellow Jackets",
       "away_team": "Wake Forest Demon Deacons",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "7",
       "home_record": "3-7",
       "away_record": "9-1",
       "venue": "Bobby Dodd Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858310/wake-forest-georgia-tech"
+      "link": "https://www.espn.com/college-football/game?gameId=401858310"
     },
     {
       "sport": "cfb",
@@ -198,22 +198,22 @@
       "date_utc": "2026-11-21T17:00Z",
       "name": "Ohio State Buckeyes at Nebraska Cornhuskers",
       "short_name": "OSU @ NEB",
-      "status": "Scheduled",
-      "status_short": "11/21 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "5:41 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "5:41",
       "home_team": "Nebraska Cornhuskers",
       "away_team": "Ohio State Buckeyes",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "7",
       "home_record": "6-4",
       "away_record": "7-3",
       "venue": "Memorial Stadium (Lincoln, NE)",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858531/ohio-state-nebraska"
+      "link": "https://www.espn.com/college-football/game?gameId=401858531"
     },
     {
       "sport": "cfb",
@@ -221,22 +221,22 @@
       "date_utc": "2026-11-21T17:00Z",
       "name": "Vanderbilt Commodores at Florida Gators",
       "short_name": "VAN @ FLA",
-      "status": "Scheduled",
-      "status_short": "11/21 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:38 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "13:38",
       "home_team": "Florida Gators",
       "away_team": "Vanderbilt Commodores",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "3",
+      "away_score": "6",
       "home_record": "6-4",
       "away_record": "4-6",
       "venue": "Ben Hill Griffin Stadium",
       "broadcasts": [
         "SEC Network"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856748/vanderbilt-florida"
+      "link": "https://www.espn.com/college-football/game?gameId=401856748"
     },
     {
       "sport": "cfb",
@@ -244,14 +244,14 @@
       "date_utc": "2026-11-21T17:00Z",
       "name": "Wofford Terriers at Ole Miss Rebels",
       "short_name": "WOF @ MISS",
-      "status": "Scheduled",
-      "status_short": "11/21 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:26 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "0:26",
       "home_team": "Ole Miss Rebels",
       "away_team": "Wofford Terriers",
-      "home_score": "0",
+      "home_score": "21",
       "away_score": "0",
       "home_record": "6-4",
       "away_record": "5-6",
@@ -259,7 +259,7 @@
       "broadcasts": [
         "SECN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856749/wofford-ole-miss"
+      "link": "https://www.espn.com/college-football/game?gameId=401856749"
     },
     {
       "sport": "cfb",
@@ -267,22 +267,22 @@
       "date_utc": "2026-11-21T17:00Z",
       "name": "Colorado Buffaloes at Cincinnati Bearcats",
       "short_name": "COLO @ CIN",
-      "status": "Scheduled",
-      "status_short": "11/21 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "15:00 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "15:00",
       "home_team": "Cincinnati Bearcats",
       "away_team": "Colorado Buffaloes",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "14",
+      "away_score": "7",
       "home_record": "5-5",
       "away_record": "4-6",
       "venue": "Nippert Stadium",
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856867/colorado-cincinnati"
+      "link": "https://www.espn.com/college-football/game?gameId=401856867"
     },
     {
       "sport": "cfb",
@@ -290,22 +290,22 @@
       "date_utc": "2026-11-21T17:00Z",
       "name": "Syracuse Orange at Boston College Eagles",
       "short_name": "SYR @ BC",
-      "status": "Scheduled",
-      "status_short": "11/21 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "1:26 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "1:26",
       "home_team": "Boston College Eagles",
       "away_team": "Syracuse Orange",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "3",
       "home_record": "4-6",
       "away_record": "5-5",
       "venue": "Alumni Stadium (Chestnut Hill, MA)",
       "broadcasts": [
         "ACC Network"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858309/syracuse-boston-college"
+      "link": "https://www.espn.com/college-football/game?gameId=401858309"
     },
     {
       "sport": "cfb",
@@ -313,11 +313,11 @@
       "date_utc": "2026-11-21T17:00Z",
       "name": "Northwestern Wildcats at Minnesota Golden Gophers",
       "short_name": "NU @ MINN",
-      "status": "Scheduled",
-      "status_short": "11/21 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:07 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "14:07",
       "home_team": "Minnesota Golden Gophers",
       "away_team": "Northwestern Wildcats",
       "home_score": "0",
@@ -328,7 +328,7 @@
       "broadcasts": [
         "FS1"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858530/northwestern-minnesota"
+      "link": "https://www.espn.com/college-football/game?gameId=401858530"
     },
     {
       "sport": "cfb",
@@ -336,22 +336,22 @@
       "date_utc": "2026-11-21T17:00Z",
       "name": "Wisconsin Badgers at Purdue Boilermakers",
       "short_name": "WIS @ PUR",
-      "status": "Scheduled",
-      "status_short": "11/21 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "In Progress",
+      "status_short": "End of 1st",
+      "state": "in",
+      "period": 1,
       "clock": "0:00",
       "home_team": "Purdue Boilermakers",
       "away_team": "Wisconsin Badgers",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "14",
       "home_record": "3-7",
       "away_record": "6-4",
       "venue": "Ross-Ade Stadium",
       "broadcasts": [
         "NBC"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858533/wisconsin-purdue"
+      "link": "https://www.espn.com/college-football/game?gameId=401858533"
     },
     {
       "sport": "cfb",
@@ -359,11 +359,11 @@
       "date_utc": "2026-11-21T17:00Z",
       "name": "East Carolina Pirates at Army Black Knights",
       "short_name": "ECU @ ARMY",
-      "status": "Scheduled",
-      "status_short": "11/21 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
+      "clock": "15:00",
       "home_team": "Army Black Knights",
       "away_team": "East Carolina Pirates",
       "home_score": "0",
@@ -374,7 +374,7 @@
       "broadcasts": [
         "CBSSN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862831/east-carolina-army"
+      "link": "https://www.espn.com/college-football/game?gameId=401862831"
     },
     {
       "sport": "cfb",
@@ -382,22 +382,22 @@
       "date_utc": "2026-11-21T17:00Z",
       "name": "Memphis Tigers at Navy Midshipmen",
       "short_name": "MEM @ NAVY",
-      "status": "Scheduled",
-      "status_short": "11/21 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:46 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "0:46",
       "home_team": "Navy Midshipmen",
       "away_team": "Memphis Tigers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "6",
       "home_record": "3-6",
       "away_record": "8-2",
       "venue": "Navy-Marine Corps Memorial Stadium",
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862834/memphis-navy"
+      "link": "https://www.espn.com/college-football/game?gameId=401862834"
     },
     {
       "sport": "cfb",
@@ -405,22 +405,22 @@
       "date_utc": "2026-11-21T17:00Z",
       "name": "North Texas Mean Green at Tulane Green Wave",
       "short_name": "UNT @ TULN",
-      "status": "Scheduled",
-      "status_short": "11/21 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "0:12 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "0:12",
       "home_team": "Tulane Green Wave",
       "away_team": "North Texas Mean Green",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "14",
       "home_record": "5-5",
       "away_record": "7-3",
       "venue": "Yulman Stadium",
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862835/north-texas-tulane"
+      "link": "https://www.espn.com/college-football/game?gameId=401862835"
     },
     {
       "sport": "cfb",
@@ -428,11 +428,11 @@
       "date_utc": "2026-11-21T17:30Z",
       "name": "North Carolina Tar Heels at Virginia Cavaliers",
       "short_name": "UNC @ UVA",
-      "status": "Scheduled",
-      "status_short": "11/21 - 12:30 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:59 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "14:59",
       "home_team": "Virginia Cavaliers",
       "away_team": "North Carolina Tar Heels",
       "home_score": "0",
@@ -443,7 +443,7 @@
       "broadcasts": [
         "CW"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858305/north-carolina-virginia"
+      "link": "https://www.espn.com/college-football/game?gameId=401858305"
     },
     {
       "sport": "cfb",
