@@ -1,53 +1,30 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-20T21:37:23.571686Z",
+  "refreshed_at_utc": "2026-11-21T02:54:52.710150Z",
   "dates_requested": [
-    "20261119",
     "20261120",
-    "20261121"
+    "20261121",
+    "20261122"
   ],
-  "event_count": 65,
+  "event_count": 64,
   "events": [
-    {
-      "sport": "cfb",
-      "event_id": "401862830",
-      "date_utc": "2026-11-20T00:30Z",
-      "name": "Rice Owls at Temple Owls",
-      "short_name": "RICE @ TEM",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Temple Owls",
-      "away_team": "Rice Owls",
-      "home_score": "27",
-      "away_score": "31",
-      "home_record": "2-9",
-      "away_record": "2-9",
-      "venue": "Lincoln Financial Field",
-      "broadcasts": [
-        "ESPN"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862830/rice-temple"
-    },
     {
       "sport": "cfb",
       "event_id": "401856869",
       "date_utc": "2026-11-20T23:00Z",
       "name": "Iowa State Cyclones at UCF Knights",
       "short_name": "ISU @ UCF",
-      "status": "Scheduled",
-      "status_short": "11/20 - 6:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "UCF Knights",
       "away_team": "Iowa State Cyclones",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "5-5",
-      "away_record": "5-5",
+      "home_score": "48",
+      "away_score": "17",
+      "home_record": "6-5",
+      "away_record": "5-6",
       "venue": "Acrisure Bounce House",
       "broadcasts": [
         "FS1"
@@ -60,22 +37,22 @@
       "date_utc": "2026-11-21T00:30Z",
       "name": "Clemson Tigers at Duke Blue Devils",
       "short_name": "CLEM @ DUKE",
-      "status": "Scheduled",
-      "status_short": "11/20 - 7:30 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "6:04 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "6:04",
       "home_team": "Duke Blue Devils",
       "away_team": "Clemson Tigers",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "10",
       "home_record": "7-3",
       "away_record": "6-4",
       "venue": "Wallace Wade Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858303/clemson-duke"
+      "link": "https://www.espn.com/college-football/game?gameId=401858303"
     },
     {
       "sport": "cfb",
@@ -83,14 +60,14 @@
       "date_utc": "2026-11-21T00:30Z",
       "name": "Bowling Green Falcons at Toledo Rockets",
       "short_name": "BGSU @ TOL",
-      "status": "Scheduled",
-      "status_short": "11/20 - 7:30 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "4:38 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "4:38",
       "home_team": "Toledo Rockets",
       "away_team": "Bowling Green Falcons",
-      "home_score": "0",
+      "home_score": "16",
       "away_score": "0",
       "home_record": "8-2",
       "away_record": "3-7",
@@ -98,7 +75,7 @@
       "broadcasts": [
         "ESPN2"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866468/bowling-green-toledo"
+      "link": "https://www.espn.com/college-football/game?gameId=401866468"
     },
     {
       "sport": "cfb",
@@ -106,22 +83,22 @@
       "date_utc": "2026-11-21T01:00Z",
       "name": "Oregon Ducks at Michigan State Spartans",
       "short_name": "ORE @ MSU",
-      "status": "Scheduled",
-      "status_short": "11/20 - 8:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Halftime",
+      "status_short": "Halftime",
+      "state": "in",
+      "period": 2,
       "clock": "0:00",
       "home_team": "Michigan State Spartans",
       "away_team": "Oregon Ducks",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "17",
       "home_record": "3-7",
       "away_record": "7-3",
       "venue": "Spartan Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858529/oregon-michigan-st"
+      "link": "https://www.espn.com/college-football/game?gameId=401858529"
     },
     {
       "sport": "cfb",
@@ -129,22 +106,22 @@
       "date_utc": "2026-11-21T01:00Z",
       "name": "UTEP Miners at Air Force Falcons",
       "short_name": "UTEP @ AFA",
-      "status": "Scheduled",
-      "status_short": "11/20 - 8:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "14:56 - 3rd",
+      "state": "in",
+      "period": 3,
+      "clock": "14:56",
       "home_team": "Air Force Falcons",
       "away_team": "UTEP Miners",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "28",
+      "away_score": "3",
       "home_record": "8-2",
       "away_record": "1-9",
       "venue": "Falcon Stadium",
       "broadcasts": [
         "CW"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401864545/utep-air-force"
+      "link": "https://www.espn.com/college-football/game?gameId=401864545"
     },
     {
       "sport": "cfb",
@@ -152,22 +129,22 @@
       "date_utc": "2026-11-21T02:00Z",
       "name": "New Mexico Lobos at Wyoming Cowboys",
       "short_name": "UNM @ WYO",
-      "status": "Scheduled",
-      "status_short": "11/20 - 9:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "15:00 - 2nd",
+      "state": "in",
+      "period": 2,
+      "clock": "15:00",
       "home_team": "Wyoming Cowboys",
       "away_team": "New Mexico Lobos",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "10",
       "home_record": "7-3",
       "away_record": "8-2",
       "venue": "War Memorial Stadium",
       "broadcasts": [
         "FS1"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401864542/new-mexico-wyoming"
+      "link": "https://www.espn.com/college-football/game?gameId=401864542"
     },
     {
       "sport": "cfb",
