@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-22T10:30:14.888840Z",
+  "refreshed_at_utc": "2026-11-22T18:08:11.170518Z",
   "dates_requested": [
     "20261121",
     "20261122",
@@ -14,11 +14,11 @@
       "date_utc": "2026-11-22T18:00Z",
       "name": "Miami Dolphins at Buffalo Bills",
       "short_name": "MIA @ BUF",
-      "status": "Scheduled",
-      "status_short": "11/22 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "12:24 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "12:24",
       "home_team": "Buffalo Bills",
       "away_team": "Miami Dolphins",
       "home_score": "0",
@@ -29,7 +29,7 @@
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873070/dolphins-bills"
+      "link": "https://www.espn.com/nfl/game?gameId=401873070"
     },
     {
       "sport": "nfl",
@@ -37,11 +37,11 @@
       "date_utc": "2026-11-22T18:00Z",
       "name": "New Orleans Saints at Chicago Bears",
       "short_name": "NO @ CHI",
-      "status": "Scheduled",
-      "status_short": "11/22 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "10:51 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "10:51",
       "home_team": "Chicago Bears",
       "away_team": "New Orleans Saints",
       "home_score": "0",
@@ -52,7 +52,7 @@
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873071/saints-bears"
+      "link": "https://www.espn.com/nfl/game?gameId=401873071"
     },
     {
       "sport": "nfl",
@@ -60,11 +60,11 @@
       "date_utc": "2026-11-22T18:00Z",
       "name": "Tennessee Titans at Dallas Cowboys",
       "short_name": "TEN @ DAL",
-      "status": "Scheduled",
-      "status_short": "11/22 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "12:00 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "12:00",
       "home_team": "Dallas Cowboys",
       "away_team": "Tennessee Titans",
       "home_score": "0",
@@ -75,7 +75,7 @@
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873073/titans-cowboys"
+      "link": "https://www.espn.com/nfl/game?gameId=401873073"
     },
     {
       "sport": "nfl",
@@ -83,11 +83,11 @@
       "date_utc": "2026-11-22T18:00Z",
       "name": "Tampa Bay Buccaneers at Detroit Lions",
       "short_name": "TB @ DET",
-      "status": "Scheduled",
-      "status_short": "11/22 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "12:46 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "12:46",
       "home_team": "Detroit Lions",
       "away_team": "Tampa Bay Buccaneers",
       "home_score": "0",
@@ -98,7 +98,7 @@
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873072/buccaneers-lions"
+      "link": "https://www.espn.com/nfl/game?gameId=401873072"
     },
     {
       "sport": "nfl",
@@ -106,11 +106,11 @@
       "date_utc": "2026-11-22T18:00Z",
       "name": "Arizona Cardinals at Kansas City Chiefs",
       "short_name": "ARI @ KC",
-      "status": "Scheduled",
-      "status_short": "11/22 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "12:20 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "12:20",
       "home_team": "Kansas City Chiefs",
       "away_team": "Arizona Cardinals",
       "home_score": "0",
@@ -121,7 +121,7 @@
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873067/cardinals-chiefs"
+      "link": "https://www.espn.com/nfl/game?gameId=401873067"
     },
     {
       "sport": "nfl",
@@ -129,11 +129,11 @@
       "date_utc": "2026-11-22T18:00Z",
       "name": "Pittsburgh Steelers at Philadelphia Eagles",
       "short_name": "PIT @ PHI",
-      "status": "Scheduled",
-      "status_short": "11/22 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "12:06 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "12:06",
       "home_team": "Philadelphia Eagles",
       "away_team": "Pittsburgh Steelers",
       "home_score": "0",
@@ -144,7 +144,7 @@
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873076/steelers-eagles"
+      "link": "https://www.espn.com/nfl/game?gameId=401873076"
     },
     {
       "sport": "nfl",
@@ -152,11 +152,11 @@
       "date_utc": "2026-11-22T18:00Z",
       "name": "Baltimore Ravens at Carolina Panthers",
       "short_name": "BAL @ CAR",
-      "status": "Scheduled",
-      "status_short": "11/22 - 1:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:09 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "13:09",
       "home_team": "Carolina Panthers",
       "away_team": "Baltimore Ravens",
       "home_score": "0",
@@ -167,7 +167,7 @@
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873068/ravens-panthers"
+      "link": "https://www.espn.com/nfl/game?gameId=401873068"
     },
     {
       "sport": "nfl",

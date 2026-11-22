@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-11-22T10:30:14.888840Z",
+  "refreshed_at_utc": "2026-11-22T18:08:11.170518Z",
   "dates_requested": [
     "20261121",
     "20261122",
@@ -361,15 +361,15 @@
       "date_utc": "2026-11-22T17:30Z",
       "name": "Carolina Hurricanes at New York Rangers",
       "short_name": "CAR @ NYR",
-      "status": "Scheduled",
-      "status_short": "11/22 - 12:30 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "5:48 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "5:48",
       "home_team": "New York Rangers",
       "away_team": "Carolina Hurricanes",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_record": "13-8-1",
       "away_record": "17-3-3",
       "venue": "Madison Square Garden",
@@ -378,7 +378,7 @@
         "MSG",
         "CARNHL"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892768/hurricanes-rangers"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892768"
     },
     {
       "sport": "nhl",
