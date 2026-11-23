@@ -1,10 +1,10 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-22T23:41:15.288460Z",
+  "refreshed_at_utc": "2026-11-23T04:47:18.562121Z",
   "dates_requested": [
-    "20261121",
     "20261122",
-    "20261123"
+    "20261123",
+    "20261124"
   ],
   "event_count": 12,
   "events": [
@@ -175,22 +175,22 @@
       "date_utc": "2026-11-22T21:05Z",
       "name": "New York Jets at Los Angeles Chargers",
       "short_name": "NYJ @ LAC",
-      "status": "In Progress",
-      "status_short": "1:49 - 4th",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 4,
-      "clock": "1:49",
+      "clock": "0:00",
       "home_team": "Los Angeles Chargers",
       "away_team": "New York Jets",
       "home_score": "24",
       "away_score": "27",
-      "home_record": "1-8",
-      "away_record": "2-8",
+      "home_record": "1-9",
+      "away_record": "3-8",
       "venue": "SoFi Stadium",
       "broadcasts": [
         "Fox"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873074"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873074/jets-chargers"
     },
     {
       "sport": "nfl",
@@ -198,22 +198,22 @@
       "date_utc": "2026-11-22T21:25Z",
       "name": "Las Vegas Raiders at Denver Broncos",
       "short_name": "LV @ DEN",
-      "status": "In Progress",
-      "status_short": "4:24 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "4:24",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Denver Broncos",
       "away_team": "Las Vegas Raiders",
-      "home_score": "17",
-      "away_score": "17",
-      "home_record": "7-2",
-      "away_record": "4-6",
+      "home_score": "38",
+      "away_score": "24",
+      "home_record": "8-2",
+      "away_record": "4-7",
       "venue": "Empower Field at Mile High",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873075"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873075/raiders-broncos"
     },
     {
       "sport": "nfl",
@@ -221,22 +221,22 @@
       "date_utc": "2026-11-22T21:25Z",
       "name": "Jacksonville Jaguars at New York Giants",
       "short_name": "JAX @ NYG",
-      "status": "In Progress",
-      "status_short": "1:51 - 3rd",
-      "state": "in",
-      "period": 3,
-      "clock": "1:51",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "New York Giants",
       "away_team": "Jacksonville Jaguars",
-      "home_score": "20",
-      "away_score": "6",
-      "home_record": "5-3-1",
-      "away_record": "7-2",
+      "home_score": "23",
+      "away_score": "18",
+      "home_record": "6-3-1",
+      "away_record": "7-3",
       "venue": "MetLife Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/nfl/game?gameId=401873069"
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873069/jaguars-giants"
     },
     {
       "sport": "nfl",
@@ -244,17 +244,17 @@
       "date_utc": "2026-11-23T01:20Z",
       "name": "Minnesota Vikings at San Francisco 49ers",
       "short_name": "MIN VS SF",
-      "status": "Scheduled",
-      "status_short": "11/22 - 8:20 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "San Francisco 49ers",
       "away_team": "Minnesota Vikings",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "8-1",
-      "away_record": "7-2",
+      "home_score": "35",
+      "away_score": "10",
+      "home_record": "9-1",
+      "away_record": "7-3",
       "venue": "Estadio Banorte",
       "broadcasts": [
         "NBC"
