@@ -1,26 +1,8 @@
 {
-  "dates_requested": "20261115-20261206",
+  "dates_requested": "20261116-20261207",
   "errors": [],
-  "event_count": 150,
+  "event_count": 149,
   "events": [
-    {
-      "away_score": 17,
-      "away_team": "Ole Miss Rebels",
-      "away_team_id": "145",
-      "city": "Norman",
-      "date_utc": "2026-11-15T18:00Z",
-      "game_id": "401856887",
-      "home_score": 24,
-      "home_team": "Oklahoma Sooners",
-      "home_team_id": "201",
-      "league": "NCAA - Football",
-      "league_id": "college-football",
-      "season": "2026",
-      "sport": "cfb",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Memorial Stadium (Norman, OK)"
-    },
     {
       "away_score": 27,
       "away_team": "Eastern Michigan Eagles",
@@ -2706,8 +2688,8 @@
   ],
   "league": "College Football",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261115-20261206&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261116-20261207&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-11-22T17:20:16.772457Z",
+  "refreshed_at_utc": "2026-11-23T21:38:06.415220Z",
   "sport": "cfb"
 }
