@@ -1,6 +1,6 @@
 {
   "league": "NFL",
-  "refreshed_at_utc": "2026-11-23T21:38:06.415220Z",
+  "refreshed_at_utc": "2026-11-24T20:18:19.282167Z",
   "sport": "nfl",
   "standings": [
     {
@@ -40,15 +40,15 @@
       "wins": 8
     },
     {
-      "form": "W5",
+      "form": "L1",
       "group": "American Football Conference",
-      "losses": 2,
-      "percentage": 0.7777778,
-      "played": 9,
+      "losses": 3,
+      "percentage": 0.7,
+      "played": 10,
       "position": 4,
       "sport": "nfl",
-      "team": "Cincinnati Bengals",
-      "team_id": "4",
+      "team": "Jacksonville Jaguars",
+      "team_id": "30",
       "wins": 7
     },
     {
@@ -59,8 +59,8 @@
       "played": 10,
       "position": 5,
       "sport": "nfl",
-      "team": "Jacksonville Jaguars",
-      "team_id": "30",
+      "team": "Cincinnati Bengals",
+      "team_id": "4",
       "wins": 7
     },
     {
@@ -316,16 +316,16 @@
       "wins": 5
     },
     {
-      "form": "W1",
+      "form": "W2",
       "group": "National Football Conference",
       "losses": 5,
-      "percentage": 0.3888889,
-      "played": 9,
+      "percentage": 0.45,
+      "played": 10,
       "position": 11,
       "sport": "nfl",
       "team": "Washington Commanders",
       "team_id": "28",
-      "wins": 3
+      "wins": 4
     },
     {
       "form": "L2",

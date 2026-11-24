@@ -1,26 +1,8 @@
 {
-  "dates_requested": "20261116-20261207",
+  "dates_requested": "20261117-20261208",
   "errors": [],
-  "event_count": 44,
+  "event_count": 43,
   "events": [
-    {
-      "away_score": 23,
-      "away_team": "Los Angeles Chargers",
-      "away_team_id": "24",
-      "city": "Baltimore",
-      "date_utc": "2026-11-17T01:15Z",
-      "game_id": "401873065",
-      "home_score": 20,
-      "home_team": "Baltimore Ravens",
-      "home_team_id": "33",
-      "league": "National Football League",
-      "league_id": "nfl",
-      "season": "2026",
-      "sport": "nfl",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "M&T Bank Stadium"
-    },
     {
       "away_score": 3,
       "away_team": "Indianapolis Colts",
@@ -238,21 +220,21 @@
       "venue": "Estadio Banorte"
     },
     {
-      "away_score": null,
+      "away_score": 20,
       "away_team": "Cincinnati Bengals",
       "away_team_id": "4",
       "city": "Landover",
       "date_utc": "2026-11-24T01:15Z",
       "game_id": "401873078",
-      "home_score": null,
+      "home_score": 22,
       "home_team": "Washington Commanders",
       "home_team_id": "28",
       "league": "National Football League",
       "league_id": "nfl",
       "season": "2026",
       "sport": "nfl",
-      "status": "Scheduled",
-      "status_code": "pre",
+      "status": "Final",
+      "status_code": "FT",
       "venue": "Northwest Stadium"
     },
     {
@@ -798,8 +780,8 @@
   ],
   "league": "NFL",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261116-20261207&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261117-20261208&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-11-23T21:38:06.415220Z",
+  "refreshed_at_utc": "2026-11-24T20:18:19.282167Z",
   "sport": "nfl"
 }
