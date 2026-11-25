@@ -1,36 +1,13 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-24T23:08:34.214436Z",
+  "refreshed_at_utc": "2026-11-25T05:31:57.839406Z",
   "dates_requested": [
-    "20261123",
     "20261124",
-    "20261125"
+    "20261125",
+    "20261126"
   ],
-  "event_count": 2,
+  "event_count": 4,
   "events": [
-    {
-      "sport": "nfl",
-      "event_id": "401873078",
-      "date_utc": "2026-11-24T01:15Z",
-      "name": "Cincinnati Bengals at Washington Commanders",
-      "short_name": "CIN @ WSH",
-      "status": "Final",
-      "status_short": "Final",
-      "state": "post",
-      "period": 4,
-      "clock": "0:00",
-      "home_team": "Washington Commanders",
-      "away_team": "Cincinnati Bengals",
-      "home_score": "22",
-      "away_score": "20",
-      "home_record": "4-5-1",
-      "away_record": "7-3",
-      "venue": "Northwest Stadium",
-      "broadcasts": [
-        "ESPN"
-      ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873078/bengals-commanders"
-    },
     {
       "sport": "nfl",
       "event_id": "401873079",
@@ -53,6 +30,75 @@
         "Netflix"
       ],
       "link": "https://www.espn.com/nfl/game/_/gameId/401873079/packers-rams"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873081",
+      "date_utc": "2026-11-26T18:00Z",
+      "name": "Chicago Bears at Detroit Lions",
+      "short_name": "CHI @ DET",
+      "status": "Scheduled",
+      "status_short": "11/26 - 1:00 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Detroit Lions",
+      "away_team": "Chicago Bears",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "8-2",
+      "away_record": "8-2",
+      "venue": "Ford Field",
+      "broadcasts": [
+        "CBS"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873081/bears-lions"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873080",
+      "date_utc": "2026-11-26T21:30Z",
+      "name": "Philadelphia Eagles at Dallas Cowboys",
+      "short_name": "PHI @ DAL",
+      "status": "Scheduled",
+      "status_short": "11/26 - 4:30 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Dallas Cowboys",
+      "away_team": "Philadelphia Eagles",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "5-6",
+      "away_record": "3-7",
+      "venue": "AT&T Stadium",
+      "broadcasts": [
+        "Fox"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873080/eagles-cowboys"
+    },
+    {
+      "sport": "nfl",
+      "event_id": "401873082",
+      "date_utc": "2026-11-27T01:20Z",
+      "name": "Kansas City Chiefs at Buffalo Bills",
+      "short_name": "KC @ BUF",
+      "status": "Scheduled",
+      "status_short": "11/26 - 8:20 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Buffalo Bills",
+      "away_team": "Kansas City Chiefs",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "9-1",
+      "away_record": "8-2",
+      "venue": "Highmark Stadium",
+      "broadcasts": [
+        "NBC"
+      ],
+      "link": "https://www.espn.com/nfl/game/_/gameId/401873082/chiefs-bills"
     }
   ],
   "errors": []

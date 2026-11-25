@@ -1,12 +1,12 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-24T23:08:34.214436Z",
+  "refreshed_at_utc": "2026-11-25T05:31:57.839406Z",
   "dates_requested": [
-    "20261123",
     "20261124",
-    "20261125"
+    "20261125",
+    "20261126"
   ],
-  "event_count": 2,
+  "event_count": 3,
   "events": [
     {
       "sport": "cfb",
@@ -14,17 +14,17 @@
       "date_utc": "2026-11-25T00:00Z",
       "name": "Kent State Golden Flashes at Eastern Michigan Eagles",
       "short_name": "KENT @ EMU",
-      "status": "Scheduled",
-      "status_short": "11/24 - 7:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Eastern Michigan Eagles",
       "away_team": "Kent State Golden Flashes",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "4-7",
-      "away_record": "3-8",
+      "home_score": "17",
+      "away_score": "12",
+      "home_record": "5-7",
+      "away_record": "3-9",
       "venue": "Rynearson Stadium",
       "broadcasts": [
         "ESPN+"
@@ -37,22 +37,45 @@
       "date_utc": "2026-11-25T00:00Z",
       "name": "Miami (OH) RedHawks at Western Michigan Broncos",
       "short_name": "M-OH @ WMU",
-      "status": "Scheduled",
-      "status_short": "11/24 - 7:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Western Michigan Broncos",
       "away_team": "Miami (OH) RedHawks",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "8-3",
-      "away_record": "7-4",
+      "home_score": "24",
+      "away_score": "28",
+      "home_record": "8-4",
+      "away_record": "8-4",
       "venue": "Waldo Stadium",
       "broadcasts": [
         "ESPN2"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401866471/miami-oh-w-michigan"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401856879",
+      "date_utc": "2026-11-27T01:00Z",
+      "name": "TCU Horned Frogs at Texas Tech Red Raiders",
+      "short_name": "TCU @ TTU",
+      "status": "Scheduled",
+      "status_short": "11/26 - 8:00 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Texas Tech Red Raiders",
+      "away_team": "TCU Horned Frogs",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "10-1",
+      "away_record": "5-6",
+      "venue": "Galaxy Stadium",
+      "broadcasts": [
+        "ESPN"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856879/tcu-texas-tech"
     }
   ],
   "errors": []
