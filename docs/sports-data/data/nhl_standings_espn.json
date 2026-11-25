@@ -1,6 +1,6 @@
 {
   "league": "NHL",
-  "refreshed_at_utc": "2026-11-24T20:18:19.282167Z",
+  "refreshed_at_utc": "2026-11-25T19:32:07.966188Z",
   "sport": "nhl",
   "standings": [
     {
@@ -208,11 +208,11 @@
       "wins": 18
     },
     {
-      "form": "L3",
+      "form": "L4",
       "group": "Western Conference",
-      "losses": 5,
-      "percentage": 0.6538461538461539,
-      "played": 26,
+      "losses": 6,
+      "percentage": 0.6296296296296297,
+      "played": 27,
       "position": 2,
       "sport": "nhl",
       "team": "Edmonton Oilers",
@@ -220,16 +220,16 @@
       "wins": 17
     },
     {
-      "form": "W1",
+      "form": "W2",
       "group": "Western Conference",
       "losses": 6,
-      "percentage": 0.56,
-      "played": 25,
+      "percentage": 0.5769230769230769,
+      "played": 26,
       "position": 3,
       "sport": "nhl",
       "team": "Vegas Golden Knights",
       "team_id": "37",
-      "wins": 14
+      "wins": 15
     },
     {
       "form": "W5",

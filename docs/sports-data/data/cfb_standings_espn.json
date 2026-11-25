@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-11-24T20:18:19.282167Z",
+  "refreshed_at_utc": "2026-11-25T19:32:07.966188Z",
   "sport": "cfb",
   "standings": [
     {
@@ -940,24 +940,12 @@
       "wins": 9
     },
     {
-      "form": "W3",
-      "group": "Mid-American Conference",
-      "losses": null,
-      "percentage": 0.85714287,
-      "played": null,
-      "position": 2,
-      "sport": "cfb",
-      "team": "Western Michigan Broncos",
-      "team_id": "2711",
-      "wins": 8
-    },
-    {
       "form": "W6",
       "group": "Mid-American Conference",
       "losses": null,
       "percentage": 0.85714287,
       "played": null,
-      "position": 3,
+      "position": 2,
       "sport": "cfb",
       "team": "Buffalo Bulls",
       "team_id": "2084",
@@ -969,23 +957,35 @@
       "losses": null,
       "percentage": 0.85714287,
       "played": null,
-      "position": 4,
+      "position": 3,
       "sport": "cfb",
       "team": "Ohio Bobcats",
       "team_id": "195",
       "wins": 8
     },
     {
-      "form": "W2",
+      "form": "W3",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.71428573,
+      "percentage": 0.75,
       "played": null,
-      "position": 5,
+      "position": 4,
       "sport": "cfb",
       "team": "Miami (OH) RedHawks",
       "team_id": "193",
-      "wins": 7
+      "wins": 8
+    },
+    {
+      "form": "L1",
+      "group": "Mid-American Conference",
+      "losses": null,
+      "percentage": 0.75,
+      "played": null,
+      "position": 5,
+      "sport": "cfb",
+      "team": "Western Michigan Broncos",
+      "team_id": "2711",
+      "wins": 8
     },
     {
       "form": "L1",
@@ -1012,16 +1012,16 @@
       "wins": 5
     },
     {
-      "form": "L4",
+      "form": "W1",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.42857143,
+      "percentage": 0.5,
       "played": null,
       "position": 8,
       "sport": "cfb",
       "team": "Eastern Michigan Eagles",
       "team_id": "2199",
-      "wins": 4
+      "wins": 5
     },
     {
       "form": "L1",
@@ -1043,20 +1043,20 @@
       "played": null,
       "position": 10,
       "sport": "cfb",
-      "team": "Kent State Golden Flashes",
-      "team_id": "2309",
+      "team": "Ball State Cardinals",
+      "team_id": "2050",
       "wins": 3
     },
     {
-      "form": "L3",
+      "form": "L4",
       "group": "Mid-American Conference",
       "losses": null,
-      "percentage": 0.2857143,
+      "percentage": 0.25,
       "played": null,
       "position": 11,
       "sport": "cfb",
-      "team": "Ball State Cardinals",
-      "team_id": "2050",
+      "team": "Kent State Golden Flashes",
+      "team_id": "2309",
       "wins": 3
     },
     {
