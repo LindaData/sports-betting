@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-26T00:34:10.800092Z",
+  "refreshed_at_utc": "2026-11-26T09:01:00.322847Z",
   "dates_requested": [
     "20261125",
     "20261126",
@@ -14,17 +14,17 @@
       "date_utc": "2026-11-26T01:00Z",
       "name": "Green Bay Packers at Los Angeles Rams",
       "short_name": "GB @ LAR",
-      "status": "Scheduled",
-      "status_short": "11/25 - 8:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Los Angeles Rams",
       "away_team": "Green Bay Packers",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "6-4",
-      "away_record": "6-4",
+      "home_score": "26",
+      "away_score": "13",
+      "home_record": "7-4",
+      "away_record": "6-5",
       "venue": "SoFi Stadium",
       "broadcasts": [
         "Netflix"
