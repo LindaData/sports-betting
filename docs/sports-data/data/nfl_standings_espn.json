@@ -1,6 +1,6 @@
 {
   "league": "NFL",
-  "refreshed_at_utc": "2026-11-25T19:32:07.966188Z",
+  "refreshed_at_utc": "2026-11-26T19:14:46.938716Z",
   "sport": "nfl",
   "standings": [
     {
@@ -244,27 +244,27 @@
       "wins": 7
     },
     {
+      "form": "W5",
+      "group": "National Football Conference",
+      "losses": 4,
+      "percentage": 0.6363636,
+      "played": 11,
+      "position": 5,
+      "sport": "nfl",
+      "team": "Los Angeles Rams",
+      "team_id": "14",
+      "wins": 7
+    },
+    {
       "form": "W1",
       "group": "National Football Conference",
       "losses": 3,
       "percentage": 0.65,
       "played": 10,
-      "position": 5,
+      "position": 6,
       "sport": "nfl",
       "team": "New York Giants",
       "team_id": "19",
-      "wins": 6
-    },
-    {
-      "form": "L1",
-      "group": "National Football Conference",
-      "losses": 4,
-      "percentage": 0.6,
-      "played": 10,
-      "position": 6,
-      "sport": "nfl",
-      "team": "Green Bay Packers",
-      "team_id": "9",
       "wins": 6
     },
     {
@@ -280,15 +280,15 @@
       "wins": 6
     },
     {
-      "form": "W4",
+      "form": "L2",
       "group": "National Football Conference",
-      "losses": 4,
-      "percentage": 0.6,
-      "played": 10,
+      "losses": 5,
+      "percentage": 0.54545456,
+      "played": 11,
       "position": 8,
       "sport": "nfl",
-      "team": "Los Angeles Rams",
-      "team_id": "14",
+      "team": "Green Bay Packers",
+      "team_id": "9",
       "wins": 6
     },
     {

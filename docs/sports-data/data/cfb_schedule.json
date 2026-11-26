@@ -1,44 +1,8 @@
 {
-  "dates_requested": "20261118-20261209",
+  "dates_requested": "20261119-20261210",
   "errors": [],
-  "event_count": 146,
+  "event_count": 144,
   "events": [
-    {
-      "away_score": 34,
-      "away_team": "Akron Zips",
-      "away_team_id": "2006",
-      "city": "Amherst",
-      "date_utc": "2026-11-19T00:00Z",
-      "game_id": "401866467",
-      "home_score": 33,
-      "home_team": "Massachusetts Minutemen",
-      "home_team_id": "113",
-      "league": "NCAA - Football",
-      "league_id": "college-football",
-      "season": "2026",
-      "sport": "cfb",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Warren McGuirk Alumni Stadium"
-    },
-    {
-      "away_score": 21,
-      "away_team": "Central Michigan Chippewas",
-      "away_team_id": "2117",
-      "city": "Buffalo",
-      "date_utc": "2026-11-19T00:30Z",
-      "game_id": "401866469",
-      "home_score": 40,
-      "home_team": "Buffalo Bulls",
-      "home_team_id": "2084",
-      "league": "NCAA - Football",
-      "league_id": "college-football",
-      "season": "2026",
-      "sport": "cfb",
-      "status": "Final",
-      "status_code": "FT",
-      "venue": "Broadview Stadium"
-    },
     {
       "away_score": 31,
       "away_team": "Rice Owls",
@@ -2634,8 +2598,8 @@
   ],
   "league": "College Football",
   "notes": [
-    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261118-20261209&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
+    "scoreboard: range request failed (Could not fetch https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261119-20261210&limit=400: HTTP Error 400: Bad Request); fell back to 22 per-day requests"
   ],
-  "refreshed_at_utc": "2026-11-25T19:32:07.966188Z",
+  "refreshed_at_utc": "2026-11-26T19:14:46.938716Z",
   "sport": "cfb"
 }
