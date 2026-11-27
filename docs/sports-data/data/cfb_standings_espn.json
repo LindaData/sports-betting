@@ -1,6 +1,6 @@
 {
   "league": "College Football",
-  "refreshed_at_utc": "2026-11-26T19:14:46.938716Z",
+  "refreshed_at_utc": "2026-11-27T19:08:34.312203Z",
   "sport": "cfb",
   "standings": [
     {
@@ -388,16 +388,16 @@
       "wins": 11
     },
     {
-      "form": "W4",
+      "form": "W5",
       "group": "Big 12 Conference",
       "losses": null,
-      "percentage": 0.875,
+      "percentage": 0.8888889,
       "played": null,
       "position": 2,
       "sport": "cfb",
       "team": "Texas Tech Red Raiders",
       "team_id": "2641",
-      "wins": 10
+      "wins": 11
     },
     {
       "form": "W2",
@@ -508,27 +508,27 @@
       "wins": 5
     },
     {
-      "form": "L1",
-      "group": "Big 12 Conference",
-      "losses": null,
-      "percentage": 0.375,
-      "played": null,
-      "position": 12,
-      "sport": "cfb",
-      "team": "TCU Horned Frogs",
-      "team_id": "2628",
-      "wins": 5
-    },
-    {
       "form": "L3",
       "group": "Big 12 Conference",
       "losses": null,
       "percentage": 0.25,
       "played": null,
-      "position": 13,
+      "position": 12,
       "sport": "cfb",
       "team": "West Virginia Mountaineers",
       "team_id": "277",
+      "wins": 5
+    },
+    {
+      "form": "L2",
+      "group": "Big 12 Conference",
+      "losses": null,
+      "percentage": 0.33333334,
+      "played": null,
+      "position": 13,
+      "sport": "cfb",
+      "team": "TCU Horned Frogs",
+      "team_id": "2628",
       "wins": 5
     },
     {
