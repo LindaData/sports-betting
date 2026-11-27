@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "refreshed_at_utc": "2026-11-27T11:04:17.081578Z",
+  "refreshed_at_utc": "2026-11-27T20:04:57.187933Z",
   "dates_requested": [
     "20261126",
     "20261127",
@@ -83,11 +83,11 @@
       "date_utc": "2026-11-27T20:00Z",
       "name": "Denver Broncos at Pittsburgh Steelers",
       "short_name": "DEN @ PIT",
-      "status": "Scheduled",
-      "status_short": "11/27 - 3:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:54 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "13:54",
       "home_team": "Pittsburgh Steelers",
       "away_team": "Denver Broncos",
       "home_score": "0",
@@ -98,7 +98,7 @@
       "broadcasts": [
         "Prime Video"
       ],
-      "link": "https://www.espn.com/nfl/game/_/gameId/401873083/broncos-steelers"
+      "link": "https://www.espn.com/nfl/game?gameId=401873083"
     }
   ],
   "errors": []

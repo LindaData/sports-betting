@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-27T11:04:17.081578Z",
+  "refreshed_at_utc": "2026-11-27T20:04:57.187933Z",
   "dates_requested": [
     "20261126",
     "20261127",
@@ -37,22 +37,22 @@
       "date_utc": "2026-11-27T17:00Z",
       "name": "Mississippi State Bulldogs at Ole Miss Rebels",
       "short_name": "MSST @ MISS",
-      "status": "Scheduled",
-      "status_short": "11/27 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "6:16 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "6:16",
       "home_team": "Ole Miss Rebels",
       "away_team": "Mississippi State Bulldogs",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "34",
+      "away_score": "17",
       "home_record": "7-4",
       "away_record": "5-6",
       "venue": "Vaught-Hemingway Stadium",
       "broadcasts": [
         "ABC"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401856762/mississippi-st-ole-miss"
+      "link": "https://www.espn.com/college-football/game?gameId=401856762"
     },
     {
       "sport": "cfb",
@@ -60,22 +60,22 @@
       "date_utc": "2026-11-27T17:00Z",
       "name": "Tulsa Golden Hurricane at UTSA Roadrunners",
       "short_name": "TLSA @ UTSA",
-      "status": "Scheduled",
-      "status_short": "11/27 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "6:32 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "6:32",
       "home_team": "UTSA Roadrunners",
       "away_team": "Tulsa Golden Hurricane",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "25",
+      "away_score": "15",
       "home_record": "9-2",
       "away_record": "7-4",
       "venue": "Alamodome",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401862840/tulsa-utsa"
+      "link": "https://www.espn.com/college-football/game?gameId=401862840"
     },
     {
       "sport": "cfb",
@@ -83,17 +83,17 @@
       "date_utc": "2026-11-27T17:00Z",
       "name": "Buffalo Bulls at Akron Zips",
       "short_name": "BUFF @ AKR",
-      "status": "Scheduled",
-      "status_short": "11/27 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
       "clock": "0:00",
       "home_team": "Akron Zips",
       "away_team": "Buffalo Bulls",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "2-9",
-      "away_record": "8-3",
+      "home_score": "9",
+      "away_score": "17",
+      "home_record": "2-10",
+      "away_record": "9-3",
       "venue": "InfoCision Stadium",
       "broadcasts": [
         "CBSSN"
@@ -106,22 +106,22 @@
       "date_utc": "2026-11-27T17:00Z",
       "name": "Toledo Rockets at Ohio Bobcats",
       "short_name": "TOL @ OHIO",
-      "status": "Scheduled",
-      "status_short": "11/27 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "8:08 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "8:08",
       "home_team": "Ohio Bobcats",
       "away_team": "Toledo Rockets",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "24",
+      "away_score": "24",
       "home_record": "8-3",
       "away_record": "9-2",
       "venue": "Peden Stadium",
       "broadcasts": [
         "ESPNU"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866473/toledo-ohio"
+      "link": "https://www.espn.com/college-football/game?gameId=401866473"
     },
     {
       "sport": "cfb",
@@ -129,22 +129,22 @@
       "date_utc": "2026-11-27T17:08Z",
       "name": "Nebraska Cornhuskers at Iowa Hawkeyes",
       "short_name": "NEB @ IOWA",
-      "status": "Scheduled",
-      "status_short": "11/27 - 12:08 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "4:02 - 4th",
+      "state": "in",
+      "period": 4,
+      "clock": "4:02",
       "home_team": "Iowa Hawkeyes",
       "away_team": "Nebraska Cornhuskers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "31",
+      "away_score": "7",
       "home_record": "9-2",
       "away_record": "7-4",
       "venue": "Kinnick Stadium",
       "broadcasts": [
         "CBS"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858536/nebraska-iowa"
+      "link": "https://www.espn.com/college-football/game?gameId=401858536"
     },
     {
       "sport": "cfb",
@@ -152,11 +152,11 @@
       "date_utc": "2026-11-27T20:00Z",
       "name": "App State Mountaineers at South Alabama Jaguars",
       "short_name": "APP @ USA",
-      "status": "Scheduled",
-      "status_short": "11/27 - 3:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
+      "status": "In Progress",
+      "status_short": "13:43 - 1st",
+      "state": "in",
+      "period": 1,
+      "clock": "13:43",
       "home_team": "South Alabama Jaguars",
       "away_team": "App State Mountaineers",
       "home_score": "0",
@@ -167,7 +167,7 @@
       "broadcasts": [
         "ESPN+"
       ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401869930/app-state-south-alabama"
+      "link": "https://www.espn.com/college-football/game?gameId=401869930"
     },
     {
       "sport": "cfb",
