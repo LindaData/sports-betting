@@ -1,6 +1,6 @@
 {
   "sport": "cfb",
-  "refreshed_at_utc": "2026-11-27T02:18:09.339278Z",
+  "refreshed_at_utc": "2026-11-27T11:04:17.081578Z",
   "dates_requested": [
     "20261126",
     "20261127",
@@ -14,45 +14,22 @@
       "date_utc": "2026-11-27T01:00Z",
       "name": "TCU Horned Frogs at Texas Tech Red Raiders",
       "short_name": "TCU @ TTU",
-      "status": "In Progress",
-      "status_short": "5:21 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "5:21",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 4,
+      "clock": "0:00",
       "home_team": "Texas Tech Red Raiders",
       "away_team": "TCU Horned Frogs",
-      "home_score": "6",
-      "away_score": "10",
-      "home_record": "10-1",
-      "away_record": "5-6",
+      "home_score": "48",
+      "away_score": "27",
+      "home_record": "11-1",
+      "away_record": "5-7",
       "venue": "Galaxy Stadium",
       "broadcasts": [
         "ESPN"
       ],
-      "link": "https://www.espn.com/college-football/game?gameId=401856879"
-    },
-    {
-      "sport": "cfb",
-      "event_id": "401858536",
-      "date_utc": "2026-11-27T17:00Z",
-      "name": "Nebraska Cornhuskers at Iowa Hawkeyes",
-      "short_name": "NEB @ IOWA",
-      "status": "Scheduled",
-      "status_short": "11/27 - 12:00 PM EST",
-      "state": "pre",
-      "period": 0,
-      "clock": "0:00",
-      "home_team": "Iowa Hawkeyes",
-      "away_team": "Nebraska Cornhuskers",
-      "home_score": "0",
-      "away_score": "0",
-      "home_record": "9-2",
-      "away_record": "7-4",
-      "venue": "Kinnick Stadium",
-      "broadcasts": [
-        "CBS"
-      ],
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858536/nebraska-iowa"
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856879/tcu-texas-tech"
     },
     {
       "sport": "cfb",
@@ -145,6 +122,29 @@
         "ESPNU"
       ],
       "link": "https://www.espn.com/college-football/game/_/gameId/401866473/toledo-ohio"
+    },
+    {
+      "sport": "cfb",
+      "event_id": "401858536",
+      "date_utc": "2026-11-27T17:08Z",
+      "name": "Nebraska Cornhuskers at Iowa Hawkeyes",
+      "short_name": "NEB @ IOWA",
+      "status": "Scheduled",
+      "status_short": "11/27 - 12:08 PM EST",
+      "state": "pre",
+      "period": 0,
+      "clock": "0:00",
+      "home_team": "Iowa Hawkeyes",
+      "away_team": "Nebraska Cornhuskers",
+      "home_score": "0",
+      "away_score": "0",
+      "home_record": "9-2",
+      "away_record": "7-4",
+      "venue": "Kinnick Stadium",
+      "broadcasts": [
+        "CBS"
+      ],
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858536/nebraska-iowa"
     },
     {
       "sport": "cfb",
