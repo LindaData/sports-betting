@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "refreshed_at_utc": "2026-11-28T02:50:17.142272Z",
+  "refreshed_at_utc": "2026-11-28T11:07:44.851360Z",
   "dates_requested": [
     "20261127",
     "20261128",
@@ -313,23 +313,23 @@
       "date_utc": "2026-11-28T00:30Z",
       "name": "Winnipeg Jets at New York Islanders",
       "short_name": "WPG @ NYI",
-      "status": "In Progress",
-      "status_short": "8:27 - 3rd",
-      "state": "in",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
       "period": 3,
-      "clock": "8:27",
+      "clock": "0:00",
       "home_team": "New York Islanders",
       "away_team": "Winnipeg Jets",
       "home_score": "1",
       "away_score": "3",
-      "home_record": "12-7-5",
-      "away_record": "13-9-4",
+      "home_record": "12-8-5",
+      "away_record": "14-9-4",
       "venue": "UBS Arena",
       "broadcasts": [
         "ESPN+",
         "MSGSN"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892807"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892807/jets-islanders"
     },
     {
       "sport": "nhl",
@@ -337,23 +337,23 @@
       "date_utc": "2026-11-28T01:00Z",
       "name": "Pittsburgh Penguins at Buffalo Sabres",
       "short_name": "PIT @ BUF",
-      "status": "In Progress",
-      "status_short": "1:30 - 2nd",
-      "state": "in",
-      "period": 2,
-      "clock": "1:30",
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 3,
+      "clock": "0:00",
       "home_team": "Buffalo Sabres",
       "away_team": "Pittsburgh Penguins",
       "home_score": "3",
-      "away_score": "4",
-      "home_record": "11-10-4",
-      "away_record": "7-15-2",
+      "away_score": "6",
+      "home_record": "11-11-4",
+      "away_record": "8-15-2",
       "venue": "KeyBank Center",
       "broadcasts": [
         "TNT",
         "truTV"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892808"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892808/penguins-sabres"
     },
     {
       "sport": "nhl",
@@ -361,24 +361,24 @@
       "date_utc": "2026-11-28T01:00Z",
       "name": "Seattle Kraken at Edmonton Oilers",
       "short_name": "SEA @ EDM",
-      "status": "End of Period",
-      "status_short": "End of 2nd",
-      "state": "in",
-      "period": 2,
+      "status": "Final",
+      "status_short": "Final",
+      "state": "post",
+      "period": 3,
       "clock": "0:00",
       "home_team": "Edmonton Oilers",
       "away_team": "Seattle Kraken",
       "home_score": "2",
-      "away_score": "1",
-      "home_record": "17-6-4",
-      "away_record": "11-10-1",
+      "away_score": "4",
+      "home_record": "17-7-4",
+      "away_record": "12-10-1",
       "venue": "Rogers Place",
       "broadcasts": [
         "ESPN+",
         "KONG",
         "Prime Video (Local)"
       ],
-      "link": "https://www.espn.com/nhl/game/_/gameId/401892809"
+      "link": "https://www.espn.com/nhl/game/_/gameId/401892809/kraken-oilers"
     },
     {
       "sport": "nhl",
@@ -470,7 +470,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "18-8-0",
-      "away_record": "13-9-4",
+      "away_record": "14-9-4",
       "venue": "Prudential Center",
       "broadcasts": [
         "ESPN+",
@@ -517,7 +517,7 @@
       "away_team": "Toronto Maple Leafs",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "7-15-2",
+      "home_record": "8-15-2",
       "away_record": "10-14-3",
       "venue": "PPG Paints Arena",
       "broadcasts": [
@@ -592,7 +592,7 @@
       "home_score": "0",
       "away_score": "0",
       "home_record": "10-12-6",
-      "away_record": "12-7-5",
+      "away_record": "12-8-5",
       "venue": "Xfinity Mobile Arena",
       "broadcasts": [
         "ESPN+",
@@ -694,8 +694,8 @@
       "away_team": "Edmonton Oilers",
       "home_score": "0",
       "away_score": "0",
-      "home_record": "11-10-1",
-      "away_record": "17-6-4",
+      "home_record": "12-10-1",
+      "away_record": "17-7-4",
       "venue": "Climate Pledge Arena",
       "broadcasts": [
         "ESPN+",
